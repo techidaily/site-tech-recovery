@@ -1,7 +1,7 @@
 ---
 title: "Battle of the Smartwatch Giants: Assessing the Pros and Cons of Samsung's Ultra Vs. Apple's Ultra – Making an Informed Purchase Decision with ZDNET"
-date: 2024-12-24T21:33:33.646Z
-updated: 2024-12-26T08:10:52.039Z
+date: 2025-01-02T17:37:09.890Z
+updated: 2025-01-04T17:01:27.549Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -33,7 +33,7 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -97,7 +97,7 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,18 +148,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-5-facebook-videos-that-hook-us-all/"><u>[New] 2024 Approved Top 5 Facebook Videos That Hook Us All</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-expertise-in-editing-how-to-add-descriptive-texts-to-videos/"><u>2024 Approved Expertise in Editing How to Add Descriptive Texts to Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-contrast-what-sets-roku-express-apart-from-the-classic-roku-stick/"><u>Decoding the Contrast: What Sets Roku Express Apart From the Classic Roku Stick?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-7-excellent-free-educational-tools-perfect-for-student-use/"><u>Discover 7 Excellent Free Educational Tools Perfect for Student Use</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-setup-microsoft-surface-pro-4-drives-on-windows/"><u>Download and Setup Microsoft Surface Pro 4 Drives on Windows</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/download-zumba-workout-moves-access-free-mp4-videos/"><u>Download Zumba Workout Moves: Access Free MP4 Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-the-iphone-16-sets-a-higher-standard-for-easy-fixes-compared-to-earlier-models-exploring/"><u>How the iPhone 16 Sets a Higher Standard for Easy Fixes Compared to Earlier Models | Exploring</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/july-2024s-full-collection-of-linksys-original-network-passwords/"><u>July 2024'S Full Collection of Linksys Original Network Passwords</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-gen-pixel-fold-2-uncovering-the-costs-release-details-and-speculated-features/"><u>The Next-Gen Pixel Fold 2? Uncovering the Costs, Release Details, and Speculated Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-enhancing-communication-at-work-through-slack/"><u>The Ultimate How-To: Enhancing Communication at Work Through Slack</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-9-essential-technology-gadgets-for-students-academic-success/"><u>Top 9 Essential Technology Gadgets for Students' Academic Success</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-redmi-note-13-proplus-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi Redmi Note 13 Pro+ 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-framing-for-instagram-techniques-for-vertical-footage-in-fcpx/"><u>[Updated] Framing for Instagram Techniques for Vertical Footage in FCPX</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-12-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 12 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-oppo-a78-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Oppo A78 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/building-relationships-one-post-at-a-time-on-fb-for-2024/"><u>Building Relationships One Post at a Time on FB for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-platforms-for-movie-streaming-and-download/"><u>Discover the Best Free Platforms for Movie Streaming and Download</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-update-detailed-breakdown-of-googles-newest-pixel-tab-release-and-advanced-specifications/"><u>Exclusive Update: Detailed Breakdown of Google's Newest Pixel Tab Release & Advanced Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/firestick-fun-with-apple-a-detailed-walkthrough-of-downloading-and-using-apple-tv-app-on-firestick/"><u>Firestick Fun with Apple: A Detailed Walkthrough of Downloading and Using Apple TV App on Firestick</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/for-windows-novices-accessing-tools-simplified/"><u>For Windows Novices: Accessing Tools Simplified</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-mastering-the-art-of-spoofing-your-mobile-devices-gps-coordinates/"><u>Guide: Mastering the Art of Spoofing Your Mobile Device's GPS Coordinates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208125764-immediate-remedies-to-restore-sound-in-your-favorite-steam-games-hassle-free/"><u>Immediate Remedies to Restore Sound in Your Favorite Steam Games | HASSLE-FREE!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/julys-ultimate-list-of-gratis-disk-defraggers-ranking-the-top-12/"><u>July's Ultimate List of Gratis Disk Defraggers: Ranking the Top 12</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-get-started-with-filmora-13-free-video-editor-download/"><u>New 2024 Approved Get Started with Filmora 13 Free Video Editor Download</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-dpkgresourcelifecycleerror-how-to-correctly-resolve-dgbotdll-file-absent-issues/"><u>Solving the Dpkg_resource_lifecycle_error: How to Correctly Resolve dgBot.dll File Absent Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-top-3-free-tools-similar-to-ffmpeg-you-should-consider-downloading/"><u>The Ultimate List of Top 3 Free Tools Similar to FFmpeg You Should Consider Downloading</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-essential-factors-to-evaluate-when-purchasing-your-new-desktop-computer/"><u>Top 8 Essential Factors to Evaluate When Purchasing Your New Desktop Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-pairing-your-samsung-earbuds-with-a-pc/"><u>Ultimate Guide: Pairing Your Samsung Earbuds with a PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/when-to-start-the-podcast-journey/"><u>When to Start the Podcast Journey</u></a></li>
 </ul></div>
 

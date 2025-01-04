@@ -1,7 +1,7 @@
 ---
 title: Top 11 Must-Have Windows & Mac Programs According to ZDNet
-date: 2024-12-23T20:30:34.946Z
-updated: 2024-12-26T03:41:53.522Z
+date: 2025-01-01T17:19:37.546Z
+updated: 2025-01-04T18:54:54.816Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -42,6 +38,10 @@ Show less
 
 ## Microsoft 365 apps for Business
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It's not just a bundle anymore
 
 The four desktop apps that make up the core of what used to be Microsoft Office are an absolutely essential part of my working day, and not much has changed despite the rebranding to Microsoft 365\. Outlook is the first app I open in the morning, and I cannot remember the last day where I didn't use Excel and Word. (I typically only use PowerPoint a few times a year.) These apps are available for Windows and MacOS as part of my Microsoft 365 Business Standard (formerly Office 365) subscription, for which I pay $150 annually. The package also includes support for my custom email domain and a terabyte of cloud storage. (For more on what's included, see: [Microsoft 365 vs Google Workspace (formerly G Suite): Which productivity suite is best for your business?](https://www.zdnet.com/article/office-365-vs-g-suite-which-productivity-suite-is-best-for-your-business/))
@@ -54,11 +54,11 @@ Show less
 
 [View now at Tweeten](https://tweetenapp.com/)
 
-## Tweeten
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Tweeten
 
 ### It's TweetDeck on steroids
 
@@ -73,7 +73,7 @@ Show less
 [View now at OneNote](https://www.onenote.com/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OneNote
@@ -106,7 +106,15 @@ Show less
 
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Quicken Home and Business
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### I hate it, but I use it
 
@@ -122,15 +130,7 @@ Show less
 
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Edge (Chromium)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
 
@@ -144,11 +144,11 @@ Show less
 
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1Password
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Everyone needs a password manager
 
@@ -162,6 +162,10 @@ Show less
 
 [View now at Workona](https://workona.com/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Workona
 
 ### The cleanest way to organize browser tabs
@@ -172,21 +176,17 @@ Because Workona is currently in preview, it's free. After it's officially releas
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Media
 
 Show less 
 
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Spotify Music
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### No music app is perfect, but Spotify is best all around
 
@@ -200,10 +200,6 @@ Show less
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VLC Media Player
 
 ### Free, open source, handles every format imaginable
@@ -215,6 +211,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MediaMonkey
 
@@ -256,14 +256,22 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-shared-links-in-openais-chatgpt/"><u>A Deep Dive Into Shared Links in OpenAI's ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bots-and-personal-data-spotting-the-top-3-privacy-dangers/"><u>Bots and Personal Data: Spotting the Top 3 Privacy Dangers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-walkthrough-restarting-windows-directly-into-safe-mode/"><u>Comprehensive Walkthrough: Restarting Windows Directly Into Safe Mode</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-future-of-smartphones-with-samsungs-upcoming-galaxy-z-flip-eb-and-speculations-on-release-timing/"><u>Discover the Future of Smartphones with Samsung's Upcoming Galaxy Z Flip Eb and Speculations on Release Timing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-why-the-moto-gs-stylus-version-excels-performance-and-durable-battery-highlighted-in-our-review/"><u>Discover Why the Moto G's Stylus Version Excels: Performance and Durable Battery Highlighted in Our Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-ping-protocols-a-comprehensive-guide-to-website-response-times/"><u>Mastering Ping Protocols: A Comprehensive Guide to Website Response Times</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-crafting-the-ultimate-single-audio-track-from-varied-sources-for-video-use/"><u>New 2024 Approved Crafting the Ultimate Single Audio Track From Varied Sources for Video Use</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-pdhdll-not-found-issues/"><u>Step-by-Step Solutions for 'pdh.dll Not Found' Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-best-four-app-tools-every-house-painter-should-use/"><u>The Best Four App Tools Every House Painter Should Use</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-all-about-metaverse-marketing-example-strategies-and-more/"><u>[New] All About Metaverse Marketing Example, Strategies, and More</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dance-of-words-crafting-bouncing-text-effects/"><u>[Updated] 2024 Approved Dance of Words Crafting Bouncing Text Effects</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-zoom-the-ultimate-guide-to-audio-recording-for-podcasts/"><u>[Updated] Mastering Zoom The Ultimate Guide to Audio Recording for Podcasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/control-your-computers-visibility-turn-on-or-off-discovery-feature-in-windows-10/"><u>Control Your Computer's Visibility: Turn On or Off Discovery Feature in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-free-disk-defragmenters/"><u>Discover the Ultimate List of Free Disk Defragmenters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-ways-to-add-email-addresses-to-gmail-safe-list-a-comprehensive-guide/"><u>Easy Ways to Add Email Addresses to Gmail Safe List: A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guida-dettagliata-per-lutilizzo-di-winxdvd-un-approccio-completo/"><u>Guida Dettagliata per L'utilizzo Di WinXDVD: Un Approccio Completo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-dual-display-configuration-a-step-by-step-guide/"><u>Mac Dual Display Configuration: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-d-link-security-your-complete-password-reference-updated-jul-24/"><u>Navigating D-Link Security: Your Complete Password Reference (Updated Jul '24)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-activatingdeactivating-screen-keyboards-in-win10/"><u>Step-by-Step Instructions for Activating/Deactivating Screen Keyboards in Win10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/syncing-samsung-audio-buds-with-laptop-easy-troubleshooting-steps/"><u>Syncing Samsung Audio Buds With Laptop: Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-motorola-edge-40-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Motorola Edge 40 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-7-must-know-aspects-before-buying-your-next-smart-tv/"><u>The Ultimate Checklist: 7 Must-Know Aspects Before Buying Your Next Smart TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-poor-zoom-experiences-issues-with-software-or-internet-speed/"><u>Troubleshooting Poor Zoom Experiences - Issues with Software or Internet Speed?</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-global-scripts-a-windows-font-guide/"><u>Unleashing Global Scripts: A Windows Font Guide</u></a></li>
+<li><a href="https://win-community.techidaily.com/0x8004231f3/"><u>エラーコード0x8004231Fを解消するための3つの有効な方法</u></a></li>
 </ul></div>
 

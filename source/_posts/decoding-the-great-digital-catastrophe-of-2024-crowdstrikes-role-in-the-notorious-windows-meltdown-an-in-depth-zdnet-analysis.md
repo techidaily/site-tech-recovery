@@ -1,7 +1,7 @@
 ---
 title: "Decoding The Great Digital Catastrophe of 2024: CrowdStrike's Role in the Notorious Windows Meltdown | An In-Depth ZDNet Analysis"
-date: 2024-12-24T20:32:16.122Z
-updated: 2024-12-25T22:23:18.910Z
+date: 2025-01-01T18:25:50.357Z
+updated: 2025-01-04T18:24:01.322Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,24 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-beyond-basics-smarter-application-of-sticker-questions-on-instagram/"><u>[Updated] 2024 Approved Beyond Basics Smarter Application of Sticker Questions on Instagram</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-jest-in-imagery-create-with-kapwing/"><u>[Updated] In 2024, Jest in Imagery Create with Kapwing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-artistic-revolution-identifying-top-6-nft-visionaries/"><u>[Updated] The Artistic Revolution Identifying Top 6 NFT Visionaries</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-exceptional-live-streamers/"><u>[Updated] The Ultimate Guide to Exceptional Live Streamers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ais-comedy-lab-testing-if-machines-can-make-us-laugh/"><u>AI's Comedy Lab: Testing if Machines Can Make Us Laugh</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/arranging-your-dragon-ball-marathon-a-complete-order-guide/"><u>Arranging Your Dragon Ball Marathon: A Complete Order Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/aural-enhancement-for-your-inshot-clips/"><u>Aural Enhancement for Your Inshot Clips</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/crafting-your-youtube-legacy-a-deep-dive-into-creator-studio-mastery-for-2024/"><u>Crafting Your YouTube Legacy A Deep Dive Into Creator Studio Mastery for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-ps5-refresh-how-to-replace-the-hard-drive-with-an-ssd-for-faster-gaming/"><u>DIY PS5 Refresh: How to Replace the Hard Drive With an SSD for Faster Gaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-latest-release-amd-radeon-v2410-graphics-drivers-for-optimal-performance/"><u>Download Latest Release: AMD Radeon v24.10 Graphics Drivers for Optimal Performance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-techniques-for-using-the-measure-app-on-android-smartphones/"><u>Effective Techniques for Using the Measure App on Android Smartphones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-these-excellent-choices-for-free-email-accounts-top-10-list/"><u>Explore These Excellent Choices for Free Email Accounts (Top 10 List)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-common-problems-when-samsung-tv-applications-fail-to-load/"><u>Fixing Common Problems When Samsung TV Applications Fail to Load</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-14-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone 14 Pro without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-ev-home-charging-essential-tips-and-techniques-everyone-should-know/"><u>Mastering EV Home-Charging: Essential Tips and Techniques Everyone Should Know</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/movavi3gpwmv/"><u>Movaviで簡単にフリーオンライン3GPをWMVに切り替える方法</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-take-when-you-dont-see-new-emails-coming-into-your-yahoo-account/"><u>Steps to Take When You Don't See New Emails Coming Into Your Yahoo Account</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-to-update-device-drivers-on-windows-10-with-revo-uninstaller/"><u>The Ultimate Walkthrough to Update Device Drivers on Windows 10 with Revo Uninstaller</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-guide-to-the-best-lgbtqplus-tv-shows-on-netflix-july-2eticket/"><u>Your Guide to the Best LGBTQ+ TV Shows on Netflix - July 2E_ticket</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-ensuring-data-privacy-while-transforming-youtube-video-audio-to-mp3/"><u>[Updated] 2024 Approved Ensuring Data Privacy While Transforming YouTube Video Audio to MP3</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-content-crusaders-route-to-rapid-instagram-fame-for-2024/"><u>[Updated] Content Crusader’s Route to Rapid Instagram Fame for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-repair-handling-the-phase0exception-blue-screen-of-death-stopcode-0x0000007/"><u>DIY Repair: Handling the PHASE0_EXCEPTION Blue Screen of Death, Stopcode 0X0000007#</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-automatic-amd-graphics-drivers/"><u>Easy Installation: Automatic AMD Graphics Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-maximizing-your-experience-with-google-gemini/"><u>Expert Strategies for Maximizing Your Experience with Google Gemini</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-vegas-pro-21-a-comprehenive-examination-for-gamblers-and-techies-alike/"><u>In 2024, Vegas Pro '21 A Comprehenive Examination for Gamblers and Techies Alike</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/maximize-your-zoom-experience-with-top-three-strategies/"><u>Maximize Your Zoom Experience with Top Three Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997231521-minecraft-dungeon-pc-performance-issues-heres-how-to-stop-the-unwanted-interruptions/"><u>Minecraft Dungeon PC Performance Issues? Here's How to Stop the Unwanted Interruptions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-12-complimentary-keyboarding-courses-ideal-for-every-age-group/"><u>Top 12 Complimentary Keyboarding Courses Ideal for Every Age Group</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-tracks-for-a-professional-unboxing-presentation/"><u>Top Tracks for a Professional Unboxing Presentation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-new-audiences-with-accessible-insta-stories-adding-captions-made-easy/"><u>Unlocking New Audiences with Accessible Insta-Stories - Adding Captions Made Easy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unravel-the-mystery-of-star-wars-episode-order-with-disney-plus-streaming/"><u>Unravel the Mystery of Star Wars Episode Order with Disney Plus Streaming</u></a></li>
 </ul></div>
 

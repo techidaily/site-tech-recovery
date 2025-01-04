@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows 11: How to Restore Your Search Functionality"
-date: 2024-08-20T11:39:15.709Z
-updated: 2024-08-21T11:39:15.709Z
+date: 2024-12-30T18:41:04.078Z
+updated: 2025-01-04T16:40:08.388Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Windows 11: How to Restore Your Search Functionality"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/6dd8f57eda55f51f780fa0fbffb1950bf2ad08124
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-a-deep-dive-into-samsungs-picture-perfection-app/"><u>[New] 2024 Approved A Deep Dive Into Samsung's Picture Perfection App</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-enhance-your-video-meetings-with-snap-shots-on-zoom/"><u>[New] 2024 Approved Enhance Your Video Meetings with Snap Shots on Zoom</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-premier-9-high-quality-online-mic-capture-solutions-23/"><u>[Updated] In 2024, Premier 9 High-Quality Online Mic Capture Solutions ('23)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-income-distribution-among-successful-podcasters/"><u>[Updated] Income Distribution Among Successful Podcasters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-fast-fb-videos-innovative-techniques-and-software-roundup/"><u>2024 Approved Mastering Fast FB Videos Innovative Techniques and Software Roundup</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1728477163740-ssd/"><u>成功しないSSDクローニングプロセスにおけるコモディティ</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-troubleshooting-for-phase0exception-a-beginners-guide-to-solving-stop-code-0x00000078/"><u>DIY Troubleshooting for PHASE0_EXCEPTION: A Beginner's Guide to Solving Stop Code 0X00000078</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-ways-to-reset-or-change-your-login-pin-in-windows-10/"><u>Easy Ways to Reset or Change Your Login Pin in Windows 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-final-cut-pro-x-creating-stunning-titles-for-your-videos-for-2024/"><u>New Final Cut Pro X Creating Stunning Titles for Your Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/photos-that-speak-volumes-starting-with-lunapics-tutorial-for-2024/"><u>Photos That Speak Volumes Starting with LunaPic's Tutorial for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionize-your-chats-with-tangos-voice-and-video-free-calling-feature/"><u>Revolutionize Your Chats with Tango's Voice & Video Free Calling Feature!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-activate-and-configure-discord-parent-lock-features/"><u>Steps to Activate and Configure Discord Parent Lock Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stream-for-free-top-alternatives-to-netflix-unveiled/"><u>Stream for Free: Top Alternatives to Netflix Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-iphone-cam-how-to-get-back-the-sharp-focus-you-need/"><u>Troubleshooting iPhone Cam: How to Get Back the Sharp Focus You Need!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->

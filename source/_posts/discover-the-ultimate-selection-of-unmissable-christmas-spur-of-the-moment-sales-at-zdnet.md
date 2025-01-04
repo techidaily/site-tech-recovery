@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Selection of Unmissable Christmas Spur-of-the-Moment Sales at ZDNet
-date: 2024-12-22T21:01:40.426Z
-updated: 2024-12-26T00:41:33.669Z
+date: 2024-12-29T18:22:23.419Z
+updated: 2025-01-04T18:25:23.118Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,21 +123,21 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-richest-ringtone-repositories-online/"><u>[New] 2024 Approved Richest Ringtone Repositories Online</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unlock-movie-magic-with-cg-centrals-look-up-tables-luts/"><u>[New] In 2024, Unlock Movie Magic with CG Central's Look-Up Tables (Luts)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlock-your-potential-best-free-mac-screen-recorder-software-reviewed-for-2024/"><u>[New] Unlock Your Potential Best Free Mac Screen Recorder Software Reviewed for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-chorus-chronicles-a-guide-to-audio-selection-for-ig/"><u>[Updated] In 2024, Chorus Chronicles A Guide to Audio Selection for IG</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-game-on-excavating-elite-escape-chamber-quests/"><u>[Updated] In 2024, Game On Excavating Elite Escape Chamber Quests</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlocking-potential-switch-pro-controller-on-steam/"><u>[Updated] In 2024, Unlocking Potential Switch Pro Controller on Steam</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-and-chat-the-ultimate-list-of-5-apps-for-building-bonds-online/"><u>Connect & Chat: The Ultimate List of 5 Apps for Building Bonds Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-screen-capturing-in-windows-11-unlock-these-4-proven-tricks/"><u>Effortless Screen Capturing in Windows 11? Unlock These 4 Proven Tricks!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-techniques-for-merging-data-between-columns-in-microsoft-excel/"><u>Expert Techniques for Merging Data Between Columns in Microsoft Excel</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exposing-concealed-data-the-ultimate-tutorial-for-displaying-hidden-files-in-macos-via-command-line/"><u>Exposing Concealed Data: The Ultimate Tutorial for Displaying Hidden Files in macOS via Command Line</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/googles-next-big-thing-rumors-speculations-and-price-estimates-for-the-new-pixel-watch/"><u>Google's Next Big Thing? Rumors, Speculations and Price Estimates for the New Pixel Watch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/introduction-to-instagram-what-you-need-to-know/"><u>Introduction to Instagram - What You Need to Know</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/preview-and-polish-how-to-review-web-designs-before-going-live/"><u>Preview and Polish: How to Review Web Designs Before Going Live</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-12-no-cost-defragmentation-programs-july-2024-edition/"><u>Top 12 No-Cost Defragmentation Programs: July 2024 Edition</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/transfer-videocontent-na-ipad-pro-air-and-mini-schnelle-und-einfache-anleitung/"><u>Transfer Videocontent Na Ipad Pro, Air & Mini - Schnelle Und Einfache Anleitung</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-discover-the-best-public-domain-images-top-10-sites/"><u>Updated 2024 Approved Discover the Best Public Domain Images Top 10 Sites</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/trategies-for-deleting-watch-later-items-on-youtube/"><u>[New] Strategies for Deleting Watch Later Items on YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-navigating-the-needle-speed-of-videos-in-snapchat/"><u>[Updated] Navigating the Needle-Speed of Videos in Snapchat</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-video-potential-the-best-vlogging-cameras-ranked/"><u>[Updated] Unlocking Video Potential The Best Vlogging Cameras Ranked</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unveiling-the-typical-podcasters-income/"><u>[Updated] Unveiling the Typical Podcaster's Income</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tips-for-fixing-the-critical-system-error-0x0000007b-blue-screen/"><u>Comprehensive Tips for Fixing the Critical System Error 0X0000007B Blue Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cracking-the-code-methods-for-seeing-whom-liked-and-saved-your-instagram-photosvideos/"><u>Cracking the Code: Methods for Seeing Whom Liked and Saved Your Instagram Photos/Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-new-apple-watch-series-8-expected-arrival-features-cost-and-latest-updates/"><u>Discover the New Apple Watch Series 8 - Expected Arrival, Features, Cost, and Latest Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-address-boot-up-errors-fixing-issues-with-the-post-process/"><u>Effective Strategies to Address Boot Up Errors: Fixing Issues with the Post Process</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-infinix-note-30-vip-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Infinix Note 30 VIP 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-full-examination-hero4-black-designs/"><u>In 2024, Full Examination Hero4 Black Designs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-selective-unfollows-a-guide-to-cutting-ties-with-previous-twitter-users/"><u>Mastering The Art of Selective Unfollows: A Guide To Cutting Ties With Previous Twitter Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/oneplus-10-unboxed-a-deep-dive-into-upcoming-tech-rumors-preliminary-price-guess-and-projected-release-date-with-key-specs/"><u>OnePlus 10 Unboxed - A Deep Dive Into Upcoming Tech Rumors, Preliminary Price Guess & Projected Release Date with Key Specs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/skype-texting-troubles-heres-how-to-restore-your-sending-functionality/"><u>Skype Texting Troubles? Here's How to Restore Your Sending Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/triple-tier-phones-the-best-choice-for-high-quality-videos-for-2024/"><u>Triple-Tier Phones The Best Choice for High-Quality Videos for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-siris-feature-effortless-text-to-speech-for-apple-devices/"><u>Unlock Siri's Feature: Effortless Text-to-Speech for Apple Devices</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/zdnet-explores-the-newly-unveiled-enterprise-level-chatgpt-by-openai/"><u>ZDNet Explores the Newly Unveiled Enterprise-Level ChatGPT by OpenAI</u></a></li>
 </ul></div>
 

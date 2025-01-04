@@ -1,7 +1,7 @@
 ---
 title: Why I've Fallen in Love with the Apple Watch Ultra 2 - Special Labor Day Offer Saves You $100
-date: 2024-12-23T16:47:15.634Z
-updated: 2024-12-26T06:03:13.782Z
+date: 2024-12-31T16:04:00.300Z
+updated: 2025-01-04T18:18:52.688Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -33,7 +33,7 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -97,7 +97,7 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,14 +148,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-art-of-canvas-with-these-top-10-secrets/"><u>2024 Approved Master the Art of Canvas with These Top 10 Secrets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-tech-support-restoring-paramount-plus-streaming-functionality-on-digital-media-adapters/"><u>DIY Tech Support: Restoring Paramount Plus Streaming Functionality on Digital Media Adapters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-persistent-lag-issues-in-dying-light/"><u>How to Resolve the Persistent Lag Issues in Dying Light</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/sers-launch-your-own-sports-videography-hub/"><u>Mac Users Launch Your Own Sports Videography Hub</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-mapi32dll-file-absence-effective-solutions-and-troubleshooting-steps/"><u>Resolving 'Mapi32.dll' File Absence: Effective Solutions and Troubleshooting Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-updating-your-discord-avatar/"><u>Step-by-Step Guide: Updating Your Discord Avatar</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-complete-guide-to-crafting-perfect-instagram-stories/"><u>The Complete Guide to Crafting Perfect Instagram Stories</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-getting-the-most-out-of-your-oculus-quest-microphone/"><u>The Ultimate Guide to Getting the Most Out of Your Oculus Quest Microphone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stepwise-strategies-for-high-quality-time-lapse-videos-in-gopro-studio/"><u>[Updated] Stepwise Strategies for High Quality Time Lapse Videos in GoPro Studio</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unveiling-secrets-enhancing-facebook-lives-impact/"><u>[Updated] Unveiling Secrets Enhancing Facebook Lives' Impact</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ace-your-savings-with-our-pick-of-ultimate-october-2pert-deals-on-laptops-zdnet-insider-tips/"><u>Ace Your Savings with Our Pick of Ultimate October 2Pert Deals on Laptops | ZDNET Insider Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-the-error-in-google-chrome-easily-fix-errnamenotresolved/"><u>Bypass the ERROR in Google Chrome – Easily Fix 'ERR_NAME_NOT_RESOLVED'</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/complete-tutorial-on-converting-and-watching-mtsm2ts-hd-videos-on-an-ipad-device/"><u>Complete Tutorial on Converting and Watching MTS/M2TS HD Videos on an iPad Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-digital-to-analog-converters-dacs-do-you-really-need-one/"><u>Demystifying Digital to Analog Converters (DACs): Do You Really Need One?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/getting-to-know-the-samsung-galaxy-z-fold-6-a-comprehensive-look-at-price-points-and-release-schedule/"><u>Getting to Know the Samsung Galaxy Z Fold 6 – A Comprehensive Look at Price Points and Release Schedule</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-discern-false-companions-in-your-social-circle-and-on-the-web/"><u>How to Discern False Companions in Your Social Circle and on the Web</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-efficiently-unite-various-soundtracks-into-one-on-spotify/"><u>How to Efficiently Unite Various Soundtracks Into One on Spotify</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-seamlessly-edit-mkv-videos-while-preserving-original-encoding/"><u>How to Seamlessly Edit MKV Videos While Preserving Original Encoding</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-playstation-setup-syncing-the-dualshock-device/"><u>Mastering PlayStation Setup: Syncing the DualShock Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-ai-tips-and-tricks-for-maximizing-bings-intelligent-features-on-android/"><u>Mastering the Art of AI: Tips & Tricks for Maximizing Bing's Intelligent Features on Android</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722885347675-secure-the-cream-of-the-crop-exclusive-ipad-deals-await-you/"><u>Secure the Cream of the Crop: Exclusive iPad Deals Await You!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-razr-40-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Motorola Razr 40 Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-8-powerful-search-engines-for-uncovering-persons-details/"><u>The Ultimate List: 8 Powerful Search Engines for Uncovering Person's Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-the-best-current-series-on-discoveryplus-july-2024-edition/"><u>Top Picks: The Best Current Series on Discovery+ - July 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-mapi32dll-solutions-for-windows-users/"><u>Troubleshooting Missing 'Mapi32.dll': Solutions for Windows Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unbeatable-value-why-the-acer-aspire-e-15-is-a-must-have-for-budget-tech-seekers/"><u>Unbeatable Value: Why the Acer Aspire E 15 Is a Must-Have for Budget Tech Seekers</u></a></li>
 </ul></div>
 

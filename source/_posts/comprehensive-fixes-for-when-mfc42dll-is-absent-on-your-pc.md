@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Fixes for When mfc42.dll Is Absent on Your PC
-date: 2024-08-20T11:37:43.268Z
-updated: 2024-08-21T11:37:43.268Z
+date: 2025-01-02T17:02:29.078Z
+updated: 2025-01-04T18:14:19.098Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Fixes for When mfc42.dll Is Absent on Your PC
@@ -24,12 +24,27 @@ thumbnail: https://www.lifewire.com/thmb/83iu3-3Thh8CYmuoI875_3-nYrU=/540x405/fi
 [How to Tell if You Have Windows 64-Bit or 32-Bit](https://www.lifewire.com/am-i-running-a-32-bit-or-64-bit-version-of-windows-2624475)  
 ![Download and install the Microsoft Visual C++ 2008 Service Pack 1 Redistributable Package MFC Security Update.](https://www.lifewire.com/thmb/y0cJF8YcT7jUhoYHa6I2MLkUK34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-d6779f27587a4e7e82f12da8733de903.jpg)  
  If you're unable to access Windows normally due to the error, try[starting Windows in Safe Mode](https://www.lifewire.com/how-do-i-start-windows-in-safe-mode-2624480) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. [Restore msvcr80.dll from the Recycle Bin](https://www.lifewire.com/how-to-restore-deleted-files-from-the-recycle-bin-2624515) if you accidentally deleted it. If you've already emptied the Recycle Bin, you might have luck using a[free file recovery program](https://www.lifewire.com/free-data-recovery-software-tools-2622893) to undelete it.  
 ![Recycle bin on the Windows 10 desktop](https://www.lifewire.com/thmb/4ut5BIE7nDWKwmd_W4aHzm-d8s8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-2bce627cec6b462da3ff837017f14eb4.jpg)
 3. [Run a virus/malware scan](https://www.lifewire.com/properly-scan-your-computer-for-viruses-and-other-malware-2624526) if you think the msvcr80.dll error could be caused by a hostile program masquerading as the DLL file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. [Use System Restore to undo recent system changes](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) . If you suspect that the msvcr80.dll error was caused by recent changes made to an important file or configuration,[System Restore](https://www.lifewire.com/what-is-system-restore-2626022) might be able to restore it.  
 ![System Restore in the Windows System Properties menu](https://www.lifewire.com/thmb/_-1sJ8p4CJYlFzHdYO59LHYJa6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-fix-msvcr90-dll-not-found-or-missing-errors-2623807-eba3b628271e4185b41ac1cdbd6c661f.jpg)
 5. [Reinstall the program that uses the msvcr80.dll file](https://www.lifewire.com/what-is-the-proper-way-to-reinstall-a-software-program-2624478) if you encounter these errors when using a particular program. Doing so should replace the missing DLL file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Uninstall apps in the Windows settings](https://www.lifewire.com/thmb/aR4ZlFW-s9gwHqMKvW-W07CQYKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-1c4381251a3f4f778657b0bc91aef6cb.jpg)
 6. [Install any available Windows updates](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Some[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) and [patches](https://www.lifewire.com/what-is-a-patch-2625960) installed through Windows Update include important updates that could be related to this DLL file.
 7. [Repair your installation of Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . This should restore all Windows DLL files to their working versions, which might include the msvcr80.dll file.
@@ -38,7 +53,16 @@ thumbnail: https://www.lifewire.com/thmb/83iu3-3Thh8CYmuoI875_3-nYrU=/540x405/fi
 9. [Perform a clean installation of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . As a last resort, this step will erase everything from the hard drive and install a fresh copy of the operating system.  
 ![Windows installation screen](https://www.lifewire.com/thmb/UHym4EqxQc8zrcXcggydWXdpQWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009_how-to-fix-msvcr80-dll-not-found-or-missing-errors-2623805-00d097c0975044eb84b2d6b6908e5a15.jpg)  
  All the information on your hard drive will be erased during a clean installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Use a [free memory testing tool](https://www.lifewire.com/free-memory-test-programs-2626178) or a [hard drive testing program](https://www.lifewire.com/free-hard-drive-testing-programs-2626183) to check for [hardware-related DLL errors](https://www.lifewire.com/fix-a-dll-issue-caused-by-a-hardware-problem-2624493) . If the hardware fails any of your tests, [replace the memory](https://www.lifewire.com/how-to-replace-the-memory-ram-in-a-computer-2626201) or [replace the hard drive](https://www.lifewire.com/how-to-replace-a-hard-drive-2626200) as soon as possible, or take your PC to a professional [computer repair service](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Causes of Msvcr80.dll Errors
 
@@ -73,8 +97,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -82,8 +104,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/end-the-light-homegrown-animated-innovations/"><u>[New] Bend the Light Homegrown Animated Innovations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-1-choice-transcribe-youtube-videos-in-a-flash/"><u>[Updated] 1 Choice Transcribe YouTube Videos in a Flash</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unbelievable-judgment-and-backup-recommendations/"><u>[Updated] Unbelievable Judgment & Backup Recommendations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-insider-knowledge-instagrams-music-copyright-landscape-decoded/"><u>2024 Approved Insider Knowledge Instagram's Music Copyright Landscape Decoded</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-tagging-strategy-the-list-of-powerful-insta-hashtags/"><u>2024 Approved Tagging Strategy The List of Powerful Insta Hashtags</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-v30-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme V30 Device SIM</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enjoying-roku-shows-and-movies-without-an-actual-roku-player/"><u>Enjoying Roku Shows and Movies without an Actual Roku Player</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-installing-the-fandango-app-seamlessly-on-your-amazon-fire-tv/"><u>Guide: Installing the Fandango App Seamlessly on Your Amazon Fire TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/innovative-and-elite-tech-devices-for-the-savvy-shopper/"><u>Innovative and Elite Tech Devices for the Savvy Shopper</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/james-bond-film-series-viewing-guide-the-ultimate-watching-sequence/"><u>James Bond Film Series Viewing Guide: The Ultimate Watching Sequence</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mac-iphoneipadipod/"><u>Macに移行! IPhone/iPad/iPodから効率的なメディアファイルの転送、バックアップ、同期ガイド</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/secure-your-files-advanced-backup-solutions-via-linea-de-comandos-and-batch-scripts-using-aomei-software/"><u>Secure Your Files: Advanced Backup Solutions via Línea De Comandos & Batch Scripts Using AOMEI Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-your-home-makeover-using-our-selection-of-the-best-4-painting-apps-for-diyers/"><u>Streamline Your Home Makeover Using Our Selection of the Best 4 Painting Apps for DIYers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-essential-factors-to-evaluate-when-shopping-for-your-first-fitness-band/"><u>Top 5 Essential Factors To Evaluate When Shopping For Your First Fitness Band</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-our-selection-10-outstanding-free-email-accounts-to-consider/"><u>Unveiling Our Selection: 10 Outstanding Free Email Accounts to Consider</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-you-need-to-understand-about-samsungs-newest-mobile-device-introduction/"><u>What You Need to Understand About Samsung's Newest Mobile Device Introduction</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

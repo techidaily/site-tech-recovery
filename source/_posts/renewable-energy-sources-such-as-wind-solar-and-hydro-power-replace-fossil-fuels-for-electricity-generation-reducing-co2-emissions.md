@@ -1,7 +1,7 @@
 ---
 title: Renewable Energy Sources Such as Wind, Solar, and Hydro Power Replace Fossil Fuels for Electricity Generation, Reducing CO2 Emissions.
-date: 2024-12-24T06:54:03.470Z
-updated: 2024-12-26T10:38:19.700Z
+date: 2024-12-30T19:35:05.827Z
+updated: 2025-01-04T16:50:25.663Z
 tags:
   - apple
 categories:
@@ -24,19 +24,11 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### SPECIAL FEATURE
 
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -64,6 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -83,6 +79,10 @@ Personally, the iPhone 3G was my first iPhone (there was no iPhone 2 or 3). I bo
 Over in the Android world, its first phone was the HTC Dream, also marketed as the [T-Mobile G1](https://www.cnet.com/reviews/t-mobile-g1-review/). It was released in October 2008 and was noteworthy for its slide-out display that opened to show a BlackBerry-style keyboard. This device came with a rear-facing 3.15MP camera.
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
 
@@ -114,10 +114,6 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AI and machine learning in today's smartphones
 
 If you think about the stages of photography, we had light and shadow, then we had fixed images stored using chemicals (the film stage), then we had magnetic media (still analog), and then the rise of digital cameras and smartphones. In each of those stages, the one common factor was that the camera was meant as a capture device. It didn't do any of the art.
@@ -134,6 +130,10 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -147,6 +147,10 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -167,10 +171,6 @@ Some early facial recognition applications demonstrated bias. They were using ve
 This technique pits a "generator" algorithm against a "discriminator" algorithm process, where the discriminator provides feedback to the generator to drive improvement. The resulting learned effects, or style transfer processes, mimic the styles of various artists and techniques. This allows users to apply complex artistic styles to their photos, and for the resulting images to appear stylistically relevant. It also has [resulted in lawsuits](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/).
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
 
@@ -195,7 +195,7 @@ One thing that's important to note: [Generative AI](https://www.zdnet.com/articl
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking to the future
@@ -254,16 +254,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-vanguard-of-radio-theatre-composition/"><u>[New] The Vanguard of Radio-Theatre Composition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-system-specs-to-elevate-your-big-sur-experience/"><u>[Updated] System Specs to Elevate Your Big Sur Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-troubleshooting-returning-your-samsung-tv-to-original-settings/"><u>Easy Troubleshooting: Returning Your Samsung TV to Original Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-current-chartbusters-on-disney-plus-streaming-service/"><u>Explore the Current Chartbusters on Disney Plus Streaming Service</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-aquatic-capabilities-of-apples-latest-smartphone-iphone-15-pro-max/"><u>Exploring the Aquatic Capabilities of Apple's Latest Smartphone, iPhone 15 Pro Max</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-project-your-video-conference-onto-a-tv-setup-with-zoom/"><u>How To Project Your Video Conference Onto a TV Setup With Zoom</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-defy-2-bootloader-easily-by-drfone-android/"><u>How to Unlock Motorola Defy 2 Bootloader Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/modernizing-the-papacy-understanding-pope-franciss-approach-to-using-email/"><u>Modernizing the Papacy? Understanding Pope Francis's Approach to Using Email</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/smart-setup-for-your-windows-11-journey-for-2024/"><u>Smart Setup for Your Windows 11 Journey for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-tutorial-restoring-accidentally-deleted-notes-on-ios-devices/"><u>Step-by-Step Tutorial: Restoring Accidentally Deleted Notes on iOS Devices</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-macos-x-video-editor-fast-and-easy-video-editing/"><u>Updated MacOS X Video Editor Fast and Easy Video Editing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-step-by-step-guide-to-seeing-whos-watching/"><u>[New] In 2024, A Step-by-Step Guide to Seeing Who's Watching</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/expert-analysis-highest-quality-video-snappers-for-2024/"><u>Expert Analysis Highest Quality Video Snappers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-significant-challenges-within-openais-chatgpt-interface/"><u>Exploring the Significant Challenges Within OpenAI's ChatGPT Interface</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/handling-and-repairing-d3dx939dll-not-found-issues-successfully/"><u>Handling and Repairing D3Dx9_39.dll Not Found Issues Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-stop-and-fix-windows-operating-pause-issues/"><u>How to Stop and Fix Windows Operating Pause Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-tidy-up-your-videos-by-hiding-the-sidebar-on-youtube/"><u>How to Tidy Up Your Videos by Hiding the Sidebar on YouTube</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-7-plus-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 7 Plus</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/nix-youtube-snippet-playback-on-all-devices/"><u>Nix YouTube Snippet Playback on All Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/premium-guide-capturing-and-storing-tweets-jokes-on-pc-for-2024/"><u>Premium Guide Capturing and Storing Tweets Jokes on PC for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-stopping-unknown-numbers-from-contacting-your-iphone/"><u>Step-by-Step Guide: Stopping Unknown Numbers From Contacting Your iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-troubleshooting-for-dbghelpdll-errors-not-found/"><u>Step-by-Step Troubleshooting for 'dbghelp.dll' Errors Not Found</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-transformers-cinematic-journey-a-viewers-guide-for-perfect-ordered-watching/"><u>The Complete Transformers Cinematic Journey: A Viewer's Guide for Perfect Ordered Watching</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-hashtags-on-instagram-boost-your-visibility/"><u>Top Hashtags on Instagram: Boost Your Visibility</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-for-the-missing-coredll-files-on-your-pc/"><u>Troubleshooting Techniques for the Missing core.dll Files on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/xiaomis-anticipated-nothing-phone-3-unlocking-the-secrets-of-price-launch-date-and-cutting-edge-features/"><u>Xiaomi's Anticipated Nothing Phone 3 - Unlocking the Secrets of Price, Launch Date, and Cutting-Edge Features!</u></a></li>
 </ul></div>
 

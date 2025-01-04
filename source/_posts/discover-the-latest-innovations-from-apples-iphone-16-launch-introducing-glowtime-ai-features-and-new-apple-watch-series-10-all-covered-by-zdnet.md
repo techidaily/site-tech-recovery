@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered by ZDNet"
-date: 2024-12-19T08:39:38.433Z
-updated: 2024-12-26T04:58:56.331Z
+date: 2025-01-01T16:29:18.915Z
+updated: 2025-01-04T17:10:48.192Z
 tags:
   - apple
 categories:
@@ -69,7 +69,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -90,10 +90,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,6 +104,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -119,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -134,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -155,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -210,19 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-m1-pro-vs-m1-max-a-side-by-side-comparison-of-apple-chip-tech-for-2024/"><u>[New] M1 Pro Vs. M1 Max - A Side-by-Side Comparison of Apple Chip Tech for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-pushing-limits-with-vr-which-console-and-controller-fits-best-for-2024/"><u>[New] Pushing Limits with VR Which Console and Controller Fits Best for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-dissecting-insta-video-selfie-validation-necessary-or-not-for-2024/"><u>[Updated] Dissecting Insta Video Selfie Validation – Necessary or Not for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-immerse-in-youtubes-best-vr-visual-feasts/"><u>[Updated] In 2024, Immerse in YouTube's Best VR Visual Feasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-xbox-connectivity-issues-server-malfunction-vs-individual-network-troubles/"><u>Decoding Xbox Connectivity Issues - Server Malfunction vs Individual Network Troubles.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-resolve-rpcrt4dll-error-detailed-instructions-inside/"><u>Effective Methods to Resolve rpcrt4.dll Error: Detailed Instructions Inside</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/evolution-of-apples-ios-a-journey-from-version-10-through-to-180/"><u>Evolution of Apple's iOS: A Journey From Version 1.0 Through to 18.0</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/garder-une-qualite-optimale-guide-complet-a-lecran-pour-transferer-votre-contenu-dvd/"><u>Garder Une Qualité Optimale : Guide Complet À L'Écran Pour Transférer Votre Contenu DVD.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-iphone-photography-expert-advice-on-fixing-lens-focus-difficulties/"><u>Mastering iPhone Photography: Expert Advice on Fixing Lens Focus Difficulties</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-a18-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo A18 Black and White | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/securely-setting-up-your-presence-on-the-psn-community-with-this-easy-guide/"><u>Securely Setting Up Your Presence on the PSN Community with This Easy Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/supreme-performance-mods-ranking-the-best-srt-converters/"><u>Supreme Performance Mods Ranking the Best SRT Converters</u></a></li>
-<li><a href="https://win-tips.techidaily.com/troubleshooting-guide-completed-successfully-overcoming-windows-update-error-code-0x800f0806-in-win10-version-22h2/"><u>Troubleshooting Guide Completed: Successfully Overcoming Windows Update Error Code 0X800F0806 in Win10 Version 22H2</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-fixing-a-lost-rockaldlldll-error-message/"><u>Troubleshooting Tips for Fixing a Lost Rockaldll.dll Error Message</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-pasos-faciles-para-mover-archivos-de-windows-a-macos-sin-usar-migration-assistant/"><u>1. 'Pasos Fáciles Para Mover Archivos De Windows a macOS Sin Usar Migration Assistant'</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/8-free-instagram-to-mp4-converters-you-can-try-onlinewindowsmac/"><u>8 Free Instagram to MP4 Converters You Can Try [Online/Windows/Mac]</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/beyond-the-limits-how-starlink-satellites-can-transform-your-life/"><u>Beyond The Limits: How Starlink Satellites Can Transform Your Life</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disneyplus-must-watches-handpicked-selection-of-fantastic-movies-right-now/"><u>Disney+ Must-Watches: Handpicked Selection of Fantastic Movies Right Now</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-realme-c51-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Realme C51.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-proplus-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 Pro+ 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-solution-to-your-401-access-denied-problem-with-easy-to-follow-techniques/"><u>Master the Solution to Your 401 Access Denied Problem with Easy-to-Follow Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-productivity-easy-tutorial-on-linking-three-screens-to-one-computer/"><u>Maximize Productivity: Easy Tutorial on Linking Three Screens to One Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mfc71-dll-file-not-found-heres-how-you-can-rectify-it-easily/"><u>MFC71 DLL File Not Found? Here's How You Can Rectify It Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-linking-your-facebook-page-with-a-pinterest-tab-for-enhanced-engagement/"><u>Steps to Linking Your Facebook Page with a Pinterest Tab for Enhanced Engagement</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-why-your-facebook-profile-may-not-appear-on-marketplace/"><u>The Ultimate Guide: Why Your Facebook Profile May Not Appear on Marketplace</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/voicemod-fixes-and-tweaks-how-to-successfully-launch-and-use-the-app-updated-techniques/"><u>Voicemod Fixes and Tweaks: How to Successfully Launch & Use the App (Updated Techniques )</u></a></li>
 </ul></div>
 

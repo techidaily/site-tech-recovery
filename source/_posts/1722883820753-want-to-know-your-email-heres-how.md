@@ -1,7 +1,7 @@
 ---
 title: Want to Know Your Email? Here's How!
-date: 2024-08-20T11:35:43.606Z
-updated: 2024-08-21T11:35:43.606Z
+date: 2024-12-28T17:46:39.425Z
+updated: 2025-01-04T18:17:49.055Z
 categories:
   - BestProducts
 description: This Article Describes Want to Know Your Email? Here's How!
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 ![From field in Thunderbird on macOS](https://www.lifewire.com/thmb/U286s-oO_Fk2Ih1u8Rl4JwZ94nQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_what-is-my-email-address-5ac0b8ce371249c3a9b9c65b9aa9a778.jpg)
 3. If you have more than one email address configured for sending, they usually show up as menu choices in the**From** line when you compose an email. All the email addresses listed are yours. You can use any of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Need to find your old email address? Some[people finder tools](https://www.lifewire.com/search-engines-that-top-the-web-3482269) can dig up that information.
 
 ## Use an Echo Service to See Your Email Address
@@ -36,11 +40,12 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  `(envelope-from <youremail@example.com>)`  
 ![The envelope-from line of an email from an echo service](https://www.lifewire.com/thmb/gCh4kvgz6_QI92rzFbzHe4sLj5o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gmail-echo-service-214a8fb2631d4aed8f480e8d6135d44f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Other methods can be used to find your email but they vary depending on the service you use.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is My AOL Email Address?
 
  Follow these steps to find your email address on the AOL Mail website:
@@ -48,15 +53,14 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 1. Start a new message by selecting**Compose** .  
 ![A screenshot of AOL Mail with the Compose button highlighted](https://www.lifewire.com/thmb/2Dt1Y1rVWnLSWILtG_5dJ_HYzB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-what-is-my-email-address-4143261-8291829a4ba14dbf89f25d65c99ec4f0.jpg)
 2. See the default sending email address after your name above the **To** line.
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. If when you select your primary email, you see more than one address, pick the one you prefer to use.  
 ![Two AOL email addresses on the From line of a new message window](https://www.lifewire.com/thmb/r7wwvCxbM1k_MsyaYfiqtoaQMyc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/aol-email-address-044f3d620b614520a8c9a07358cb673d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## What Is My Email Address in Mail for Windows?
 
  Some versions of Windows include an app called Mail. Here's how to see the email address tied to that program:
@@ -79,14 +83,19 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 ![A screenshot of Gmail with the From line highlighted](https://www.lifewire.com/thmb/rT2_PnEn_lguUqydJ0gGFNjrvSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-what-is-my-email-address-4143261-fcadf50c977e4a85a262b36caaae4f48.jpg)
 3. Click the default address next to**From** to see other addresses set up for sending in Gmail.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another way to find Gmail email address from the desktop website or the official Gmail app is to select your profile image at the top right. If you're on a computer, this shows the email account you're using right now and any other Google accounts you're logged in to in the current browser session.
 
 ![The Gmail menu showing two email addresses](https://www.lifewire.com/thmb/izwcUjTpB9MkgBzQ77yzE1QRU9c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-account-email-address-12a88398bff846e6bd03783bfa657bb2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 [Gmail](https://www.lifewire.com/best-gmail-tips-tricks-and-tutorials-1172146)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is My iCloud Mail Email Address?
 
@@ -95,13 +104,18 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  This address is also visible when you[log in to your Apple account](https://www.icloud.com/mail) with your Apple ID.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is My Outlook.com, Hotmail or Live Mail Email Address?
 
  Viewing your Outlook Mail email address, which you received if you signed up for Hotmail, Live Mail, or Outlook.com, is as easy as selecting your profile image or name at the top of the website. Since you can sign in to multiple accounts at once, this shows all your Microsoft email accounts in the same place.
 
 ![A list of logged-in Outlook.com email accounts](https://www.lifewire.com/thmb/nOqtAp1lIbWIffLewxx2r-ReuH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/outlook-online-email-address-2b7d5e22f8324b7a99ce1cb6610da14e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is My Yahoo Mail Email Address?
 
@@ -109,12 +123,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 ![A screenshot of Yahoo Mail with the account icon highlighted](https://www.lifewire.com/thmb/XW2FCYFluYXELCiiPvhIuKpDKpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-what-is-my-email-address-4143261-2a0f23229875468c8c74ce3ccc6c8fd0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is My Email Address in iOS Mail (iPhone or iPad)?
 
  You can use any email address in the Mail app for iOS and iPadOS. Here's how to see which email address is set up there:
@@ -125,9 +133,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 4. Tap an account, such as**iCloud** or**Gmail** , to view the email address.  
 ![Email accounts listed in the Mail section of the Settings app on an iPad](https://www.lifewire.com/thmb/EJboMSBLqeBsXbvUH6U4t5fiat0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-mail-accounts-07c0b45d2960467981a3ce47936395e6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## What Is My Email Address in Outlook
 
  Follow these steps to see which email address you're using in Outlook for Windows:
@@ -152,34 +157,34 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 1. Start a new message by selecting**Compose** or pressing **C** .  
 ![The Compose button in Yandex Mail](https://www.lifewire.com/thmb/lZHiExMYQWNWEAeROqU_E2fveug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yandex-mail-compose-f13afa6af5e64b61bc30b31a98fb8a1f.png)
 2. Select**From** on the right.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Cc, From line in the Compose box for Yandex Mail](https://www.lifewire.com/thmb/E4HtF-k3Q67Ykvcc2h0c6BOoY0s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yandex-mail-from-menu-452e6937c63d4d159640955e05f096ea.png)
 3. Your Yandex Mail address is now visible under the Cc and Bcc lines.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 4. Select your image or username in the top right corner to identify your primary email address on Yandex Mail.  
 ![A Yandex Mail email address displayed in the menu on their website](https://www.lifewire.com/thmb/sD64SSyyLJx-L21CKX5hZXDhcNE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yandex-mail-menu-ac394640dd154f818dd676659fdce850.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is My Zoho Mail Email Address?  
 
  Follow these directions to see which email address is used by default when you send a new message in Zoho Mail:
 5. Start a new email by clicking**New Mail.**  
 ![A screenshot of Zoho Mail with the New Mail button highlighted](https://www.lifewire.com/thmb/HTcGAJzlxS_3fYLLA_9Xhgw-Ygg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/014-what-is-my-email-address-4143261-9cce8fad051a42c08d3233491d62d448.jpg)
 6. Find the default sending address next to**From** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A screenshot of Zoho Mail with the From field highlighted](https://www.lifewire.com/thmb/hirQCSy_bq_S6t_k6mhHnst3aBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/015-what-is-my-email-address-4143261-60c804104a7a493d90bcc6def5fbbcaf.jpg)
 7. To determine your original email address for your Zoho Mail account, click the image or outline in Zoho Mail's top right corner. See the primary Zoho Mail email address listed beneath your name on the window that appears.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A screenshot of Zoho Mail with the account icon highlighted](https://www.lifewire.com/thmb/LkknxtlnNw9j8jOiqniUwIBtM3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/016-what-is-my-email-address-4143261-90198b585cf24b278a739635b145e167.jpg)
 
 ## What Is My Proton Mail Email Address?
@@ -226,8 +231,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +238,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boost-engagement-discover-the-top-5-youtube-promotion-tactics/"><u>[Updated] 2024 Approved Boost Engagement Discover the Top 5 YouTube Promotion Tactics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-adding-time-bound-elements-to-your-obs-productions-for-2024/"><u>[Updated] Adding Time-Bound Elements to Your OBS Productions for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-tricks-for-swift-vimeo-watch/"><u>[Updated] In 2024, Tricks for Swift Vimeo Watch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-inshot-adding-your-favorite-tunes/"><u>[Updated] Mastering InShot Adding Your Favorite Tunes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-7-most-effective-notetakers-for-your-ipad-or-ipad-pro/"><u>Discover the 7 Most Effective Notetakers for Your iPad or iPad Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/do-it-yourself-rescue-plan-what-to-do-when-your-iphone-or-ipod-gets-soaked/"><u>Do-It-Yourself Rescue Plan: What To Do When Your iPhone or iPod Gets Soaked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-when-your-skype-wont-work-correctly-or-stay-connected/"><u>Effective Solutions for When Your Skype Won't Work Correctly or Stay Connected</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ideal-family-movie-selection-on-netflix-for-young-audiences/"><u>Ideal Family Movie Selection on Netflix for Young Audiences</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Simulate GPS Movement in AR games On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-critical-kernal-protection-error-on-windows-10-operating-system/"><u>Resolved: Critical Kernal Protection Error on Windows 10 Operating System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-problem-of-unsuccessful-start-up-in-mozilla-thunderbird-a-comprehensive-guide/"><u>Solving the Problem of Unsuccessful Start-Up in Mozilla Thunderbird: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-accessing-fubotv-content-via-fire-stick/"><u>Step-by-Step Tutorial: Accessing FuboTV Content via Fire Stick</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategy-cradle-nurturing-market-gains/"><u>Strategy Cradle Nurturing Market Gains</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-podcasters-roadmap-to-seo-excellence/"><u>The Podcaster’s Roadmap to SEO Excellence</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-the-issue-of-a-non-functional-steelseries-arctis-7-microphone/"><u>Troubleshooting Tips: Solving the Issue of a Non-Functional SteelSeries Arctis 7 Microphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wake-up-to-excellence-our-selection-of/"><u>Wake Up to Excellence: Our Selection Of</u></a></li>
+</ul></div>
 

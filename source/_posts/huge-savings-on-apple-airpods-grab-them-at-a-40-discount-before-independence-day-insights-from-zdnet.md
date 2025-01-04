@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights From ZDNet"
-date: 2024-12-23T07:37:37.386Z
-updated: 2024-12-26T09:19:51.201Z
+date: 2025-01-01T17:01:49.993Z
+updated: 2025-01-04T17:24:47.829Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8fc6b51a-545c-47ed-9fa6-87cbc8d2712f%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,21 +62,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-craft-the-perfect-gif-message-in-snapchat-easy-steps/"><u>[New] 2024 Approved Craft the Perfect Gif Message in Snapchat [Easy Steps]</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-5-best-gba-emulators-you-can-find-on-pc/"><u>2024 Approved 5 Best GBA Emulators You Can Find on PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-ai-assisted-the-ultimate-list-of-podcast-title-makers/"><u>2024 Approved AI-Assisted The Ultimate List of Podcast Title Makers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leap-forward-in-editing-embrace-xp-movie-maker/"><u>2024 Approved Leap Forward in Editing Embrace XP Movie Maker</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-about-samsung-z-fold-4-anticipated-release-dates-pricing-strategy-and-comprehensive-specifications/"><u>All About Samsung Z Fold 4 - Anticipated Release Dates, Pricing Strategy & Comprehensive Specifications</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/big-sur-basics-for-system-and-hardware-enthusiasts/"><u>Big Sur Basics for System & Hardware Enthusiasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-possible-outages-is-microsoft-teams-experiencing-downtime-or-connectivity-issues/"><u>Exploring Possible Outages: Is Microsoft Teams Experiencing Downtime or Connectivity Issues?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-fingerprint-driver-downloader-and-updater-tool-for-windows-pcs/"><u>Free Fingerprint Driver Downloader and Updater Tool for Windows PCs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovating-job-quests-6-chatgpt-techniques-explored/"><u>Innovating Job Quests: 6 ChatGPT Techniques Explored</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-the-micromobility-sphere-upcoming-events-latest-stories-and-insider-information/"><u>Inside the Micromobility Sphere: Upcoming Events, Latest Stories & Insider Information</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-artificial-intelligence-explore-our-curated-selection-of-15-affordable-online-courses/"><u>Master Artificial Intelligence: Explore Our Curated Selection of 15 Affordable Online Courses</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/personalize-your-emails-with-unique-sounds-in-gmail-step-by-step-guide/"><u>Personalize Your Emails with Unique Sounds in Gmail – Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-developer-cant-be-verified-on-your-mac-a-step-by-step-guide/"><u>Solving 'Developer Can't Be Verified' On Your Mac: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tcl-expands-its-q-and-s-class-smart-tv-lineups-with-19-new-models/"><u>TCL Expands Its Q and S Class Smart TV Lineups With 19 New Models</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-strategies-for-achieving-high-performance-on-apple-tv/"><u>Top Strategies for Achieving High Performance on Apple TV</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-mix-fold-3-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Mix Fold 3 Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/access-insta-content-anonymously-a-guide-to-non-account-browsing/"><u>Access Insta-Content Anonymously: A Guide to Non-Account Browsing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-alarm-app-selection-a-list-of-the-7-highest-rated-options/"><u>Best Alarm App Selection: A List of the 7 Highest-Rated Options</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/daily-life-in-korea-understanding-each-day/"><u>Daily Life in Korea: Understanding Each Day</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dynamic-presentations-made-easy-integrating-youtube-videos-into-powerpoint-slides/"><u>Dynamic Presentations Made Easy: Integrating YouTube Videos Into PowerPoint Slides</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-streaming-espnplus-on-your-lg-smart-television/"><u>Guide to Streaming ESPN+ on Your LG Smart Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-handle-and-fix-the-critical-process-died-error-on-windows-pcs/"><u>How to Correctly Handle and Fix the Critical Process Died Error on Windows PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-link-your-ps-vr-headset-to-a-laptop-or-desktop-computer-successfully/"><u>How To Link Your PS VR Headset to a Laptop or Desktop Computer Successfully</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-11-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 3 Ways To Unlock</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-x50iplus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor X50i+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-combat-against-lynels-in-the-legend-of-zelda-breath-of-the-wild/"><u>Mastering Combat Against Lynels in The Legend of Zelda: Breath of the Wild</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-distribution-and-catroot2-reset-on-ws11/"><u>Mastering Distribution and Catroot2 Reset on WS11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-places-for-accessible-photography-loot-for-2024/"><u>Top 10 Places for Accessible Photography Loot for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/windows-and-mac-friendly-techniques-for-fb-video-download-for-2024/"><u>Windows & Mac-Friendly Techniques for FB Video Download for 2024</u></a></li>
 </ul></div>
 

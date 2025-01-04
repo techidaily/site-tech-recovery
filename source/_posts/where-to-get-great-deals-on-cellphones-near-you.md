@@ -1,7 +1,7 @@
 ---
 title: Where to Get Great Deals on Cellphones Near You
-date: 2024-08-20T11:37:25.620Z
-updated: 2024-08-21T11:37:25.620Z
+date: 2024-12-28T17:33:51.222Z
+updated: 2025-01-04T16:52:55.588Z
 categories:
   - BestProducts
 description: This Article Describes Where to Get Great Deals on Cellphones Near You
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/uyBKD3hGZjouG-q0-_95FJ_ppLc=/300x200/fi
  There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix an iPhone That Won't Ring
 
@@ -33,9 +37,19 @@ thumbnail: https://www.lifewire.com/thmb/uyBKD3hGZjouG-q0-_95FJ_ppLc=/300x200/fi
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -45,6 +59,10 @@ thumbnail: https://www.lifewire.com/thmb/uyBKD3hGZjouG-q0-_95FJ_ppLc=/300x200/fi
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## If None of These Tips Fixed the Problem
 
  If you tried all these tips and still don't hear your incoming calls, it's time to consult the experts.[Make an Apple Genius Bar appointment](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at your local Apple Store or[contact an Apple-authorized service provider](https://support.apple.com/repair) , and bring in your iPhone for inspection and repair.
@@ -52,8 +70,9 @@ thumbnail: https://www.lifewire.com/thmb/uyBKD3hGZjouG-q0-_95FJ_ppLc=/300x200/fi
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -93,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +119,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-what-lies-beneath-instagram-story-perceptions/"><u>[Updated] 2024 Approved What Lies Beneath Instagram Story Perceptions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unmatched-storytelling-education-1-8-spotlight/"><u>[Updated] Unmatched Storytelling Education #1-#8 Spotlight</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-window-wisdom-taking-precise-screen-captures/"><u>[Updated] Window Wisdom Taking Precise Screen Captures</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/3-powerhouse-educational-apps-boost-your-multilingualism/"><u>3 Powerhouse Educational Apps Boost Your Multilingualism</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparison/"><u>Comparison</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquer-virtual-hiring-expert-advice-for-successful-skype-interviews-top-tips/"><u>Conquer Virtual Hiring: Expert Advice for Successful Skype Interviews - Top Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-7-most-effective-alarm-clock-apps-for-a-refreshing-morning-routine/"><u>Discover the 7 Most Effective Alarm Clock Apps for a Refreshing Morning Routine</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-panasonic-hx-a1-wearable-camera-explored/"><u>In 2024, Panasonic HX-A1 Wearable Camera Explored</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-streamline-accessibility-a-compreenas-top-free-tts-apps-list-for-mac-users/"><u>In 2024, Streamline Accessibility A Compreenas Top Free TTS Apps List for Mac Users</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mastering-file-selection-in-xcopy-avoid-unwanted-copies-tips-and-tricks/"><u>Mastering File Selection in Xcopy: Avoid Unwanted Copies – Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-the-d3dx934dll-file-cannot-be-located-error/"><u>Solutions for the 'd3dx9_34.dll File Cannot Be Located' Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-activating-roku-subtitlescaptions/"><u>Step-by-Step Solution for Activating Roku Subtitles/Captions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-windows-10s-battery-status-tool-a-comprehensive-guide/"><u>Understanding Windows 10'S Battery Status Tool: A Comprehensive Guide</u></a></li>
+</ul></div>
 

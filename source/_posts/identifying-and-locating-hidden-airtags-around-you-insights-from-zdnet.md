@@ -1,7 +1,7 @@
 ---
 title: Identifying and Locating Hidden AirTags Around You - Insights From ZDNet
-date: 2024-12-23T21:58:47.093Z
-updated: 2024-12-26T08:02:38.449Z
+date: 2025-01-02T17:54:43.588Z
+updated: 2025-01-04T18:07:58.678Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple
@@ -37,16 +37,12 @@ The only things you'll need to make this work are a running instance of MacOS (w
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -58,7 +54,7 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -71,10 +67,6 @@ Image: Jack Wallen
 
 ## Enable the Collaboration feature
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open an Apple Pages document
 
 The first thing you must do is open the Pages document that will be shared with your collaborators. Once you have the document open, you should see the Collaborate button at the top of the window (**Figure 3**).
@@ -82,6 +74,10 @@ The first thing you must do is open the Pages document that will be shared with 
 **Figure 3**: Apple Pages open and the Collaborate button is ready to use.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
 
@@ -108,6 +104,10 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,17 +149,22 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-easy-steps-for-ios-and-android-capture-google-meet/"><u>[New] Easy Steps for iOS and Android Capture Google Meet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-infinite-views-looping-videos-on-your-iphone-for-2024/"><u>[Updated] Infinite Views Looping Videos on Your iPhone for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/chatgpt-citations-made-easy-tips-for-proper-attribution/"><u>ChatGPT Citations Made Easy: Tips for Proper Attribution</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/enhancing-speech-clarity-on-skype/"><u>Enhancing Speech Clarity on Skype</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-effectively-send-hardcopies-directly-to-your-computer-screen-a-guide/"><u>How to Effectively Send Hardcopies Directly to Your Computer Screen: A Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-ethernet-options-how-does-cat5-cable-stack-up-against-cat6/"><u>Navigating Ethernet Options: How Does Cat5 Cable Stack Up Against Cat6?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-your-gaming-experience-keeping-sword-and-fairy-7-running-smoothly-on-windows/"><u>Optimizing Your Gaming Experience: Keeping Sword & Fairy 7 Running Smoothly on Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-cutting-edge-ipad-lineup-exploring-apples-latest-innovation/"><u>The Cutting-Edge iPad Lineup: Exploring Apple’s Latest Innovation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus Nord CE 3 Lite 5G</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-the-issue-of-non-functional-iphone-torch/"><u>Ultimate Guide: Solving the Issue of Non-Functional iPhone Torch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/uncover-the-causes-and-solutions-to-avcodecdll-errors-that-keep-you-from-using-software-seamlessly/"><u>Uncover the Causes and Solutions to avcodec.dll Errors That Keep You From Using Software Seamlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-mastering-the-removal-of-error-3-from-nvidia-opengl/"><u>Win10/11: Mastering the Removal of Error 3 From Nvidia OpenGL</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-fun-flicks-online-must-see-comedy-streaming-stations/"><u>[Updated] 2024 Approved Fun Flicks Online Must-See Comedy Streaming Stations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-make-fortnite-thumbnail-for-free-and-easy-for-2024/"><u>[Updated] How to Make Fortnite Thumbnail for Free and Easy for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-aspect-alteration-for-web-design/"><u>[Updated] Quick Aspect Alteration for Web Design</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smooth-video-in-every-shot-prime-mobile-cameras-with-ois/"><u>[Updated] Smooth Video in Every Shot Prime Mobile Cameras With OIS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-make-moments-last-longer-using-phantoms-slow-mo-magic/"><u>2024 Approved How to Make Moments Last Longer Using Phantom's Slow Mo Magic</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-professionals-playbook-to-profitable-youtube-ventures-for-2024/"><u>A Professional's Playbook to Profitable YouTube Ventures for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-what-to-do-when-you-cant-find-physxloaderdll/"><u>Comprehensive Guide: What To Do When You Can't Find physxloader.dll</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-expand-your-xbox-ones-memory-with-an-outside-usb-drive-a-complete-guide/"><u>How to Expand Your Xbox One's Memory with an Outside USB Drive - A Complete Guide</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/improve-your-youtube-videos-clarity-solutions-for-post-upload-enhancement/"><u>Improve Your YouTube Video's Clarity: Solutions for Post-Upload Enhancement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-learning-snapseeds-power-tools/"><u>In 2024, Unleash Creativity Learning Snapseed's Power Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-tech-jungle-laptop-secrets-smartphone-wonders-and-book-discoveries-revealed/"><u>Navigating the Tech Jungle: Laptop Secrets, Smartphone Wonders, and Book Discoveries Revealed!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revealing-the-top-notch-free-srt-translators-for-your-needs/"><u>Revealing the Top-Notch FREE SRT Translators for Your Needs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/score-amazing-deals-exclusive-apple-watch-discounts-for-march/"><u>Score Amazing Deals: Exclusive Apple Watch Discounts for March</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-fm2ebdll-not-found-issues-effectively/"><u>Step-by-Step Guide: Correcting 'fm2eb.dll Not Found' Issues Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-refresh-any-ipad-expert-guide-to-hard-resets/"><u>Troubleshoot and Refresh Any iPad: Expert Guide to Hard Resets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-a-superior-data-restoration-program-exhaustive-insights-into-the-power-of-recuva/"><u>Unveiling a Superior Data Restoration Program: Exhaustive Insights Into the Power of Recuva</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/want-to-know-your-email-heres-how/"><u>Want to Know Your Email? Here's How</u></a></li>
 </ul></div>
 

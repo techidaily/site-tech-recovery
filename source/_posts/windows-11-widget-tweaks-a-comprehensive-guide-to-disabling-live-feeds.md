@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Widget Tweaks: A Comprehensive Guide to Disabling Live Feeds"
-date: 2024-08-20T11:40:24.649Z
-updated: 2024-08-21T11:40:24.649Z
+date: 2024-12-30T18:51:20.020Z
+updated: 2025-01-04T18:23:12.737Z
 categories:
   - BestProducts
 description: "This Article Describes Windows 11 Widget Tweaks: A Comprehensive Guide to Disabling Live Feeds"
@@ -21,13 +21,14 @@ Close
 
  This article explains how to remove the widget button from the taskbar in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Remove the Widget From the Windows 11 Taskbar 
 
  Disabling this button will clean up your taskbar and prevent you from accidentally opening it or getting distracted by weather icons and stock prices. There are two methods you can follow:  
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Use Settings 
 
  The Windows 11 Settings is one way to edit what's visible on the taskbar.
@@ -39,9 +40,6 @@ Close
 4. Select the toggle next to**Widgets** to disable widget access from the taskbar.  
 ![Widgets and Widgets toggle highlighted in Windows 11 Settings](https://www.lifewire.com/thmb/7sb_PT1-67WvSJa-NH3dvnlXux8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-disable-the-news-and-interests-taskbar-widget-in-windows-11-5190865-7c491b5467d24c21bafb7ad4ae33cd98.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Use the Registry 
 
  You'll need to perform a basic[ Windows Registry](https://www.lifewire.com/windows-registry-2625992) tweak if Windows 11 isn't activated. That's because some personalization settings, including the one for removing the widget, aren't available unless Windows is activated. This is very easy to do even if you've never been in the registry.
@@ -52,20 +50,16 @@ Close
 3. Locate the**TaskbarDa** value from the right panel. If it's there, skip down to Step 5, otherwise, right-click**Advanced** from the left panel and go to**New** \>**DWORD (32-bit) Value** .  
 ![New DWORD 32-bit value menu in Windows Registry](https://www.lifewire.com/thmb/6wOCJAyPlV_1bRELfe7IHD8fdzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_disable-news-and-interests-taskbar-in-windows-11-5190865-0c30424c4a614a7d91326e1b6ecaf07e.jpg)
 4. When you're asked to name the value, type this, followed by the Enter key:  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  `TaskbarDa`
 5. Double-click**TaskbarDa** and assign it**0** to hide the widgets button, or**1** to make it visible.  
 ![taskbarda registry value](https://www.lifewire.com/thmb/EaiKCZum4ZBO1_yRyO67Z2x4y6Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_disable-news-and-interests-taskbar-in-windows-11-5190865-99d131ce5e004f5eb10d0f745eb3d569.jpg)
 6. Select**OK** to apply the change instantly.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ##  How to Disable the News Feed in the Taskbar Widget 
 
  Don't want to remove the whole widget? Disable just the news feed instead.
@@ -74,17 +68,26 @@ Close
 2. Select**Show or hide feeds** .  
 ![The Settings screen for the widgets board in Windows 11](https://www.lifewire.com/thmb/_5x4Bth0iWPubYTtvA9bixiKVrM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/widget-settings-windows-11-c61528b90266454f8e681901c3c1b348.png)
 3. Select the toggle next to**My Feed** and then choose**Turn off** to confirm the change.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Turn Off button for the news feed in Windows 11 Widgets](https://www.lifewire.com/thmb/KDqLuIIX5SxYrbwo-YqkvjjYuDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-widgets-board-feed-a39429220c5c4e91a84d4996cb3631f3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Open the Widgets Board Without the Taskbar Shortcut 
 
  It's common for something to be accessible multiple ways in Windows, and the widgets board is no different. The button on the taskbar is really just a shortcut to this feature, so it's no surprise you can still open it without using that button.
 
  Disabling the widgets button simply makes it inaccessible from the taskbar. The widget can still be accessed by swiping inward from the left edge of the screen, or via a keyboard shortcut:
-
 
  `Win+W`
 
@@ -119,8 +122,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +129,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-close-up-confidence-navigating-google-meets-zoom-feature/"><u>[New] Close-Up Confidence Navigating Google Meet's Zoom Feature</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capturing-on-win10-the-leading-apps-to-check-out/"><u>[Updated] In 2024, Capturing on Win10 The Leading Apps to Check Out</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-in-depth-guide-obs-for-gamers/"><u>[Updated] In 2024, In-Depth Guide OBS for Gamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/awaken-to-excellence-with-these-7-superior-alarm-clock-applications/"><u>Awaken to Excellence with These 7 Superior Alarm Clock Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-back-the-peace-5-corrections-for-family-safety-woes/"><u>Bring Back the Peace: 5 Corrections for Family Safety Woes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-ai-is-revolutionizing-our-lives-and-shaping-a-new-future/"><u>How AI Is Revolutionizing Our Lives and Shaping a New Future</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correct-screen-staining-and-longevity-techniques-for-multiple-devices/"><u>How To Correct Screen Staining and Longevity Techniques for Multiple Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-revive-your-apple-watchs-touch-screen-when-it-wont-respond-anymore/"><u>How to Revive Your Apple Watch's Touch Screen When It Won't Respond Anymore</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-securely-store-and-protect-your-digital-assets-in-5-ways/"><u>How to Securely Store and Protect Your Digital Assets in 5 Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-agni-2-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Agni 2 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/intense-action-iphone-tips-for-artistic-motion-blur-photos/"><u>Intense Action IPhone Tips for Artistic Motion-Blur Photos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-access-denied-error-troubleshooting-failed-temp-folder-execution-and-setup-interruption/"><u>Resolve 'Access Denied' Error: Troubleshooting Failed Temp Folder Execution and Setup Interruption</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-into-the-future-with-samsungs-2025-lineup-events-schedule-and-rumored-tech-news/"><u>Sneak Peek Into the Future with Samsung's 2025 Lineup – Events Schedule and Rumored Tech News</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-of-smartphones-inside-info-on-apples-foldable-iphone-model-cost-predictions-and-specs-preview/"><u>The Future of Smartphones: Inside Info on Apple's Foldable iPhone Model – Cost Predictions & Specs Preview</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oneplus-12-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset OnePlus 12 | Dr.fone</u></a></li>
+</ul></div>
 

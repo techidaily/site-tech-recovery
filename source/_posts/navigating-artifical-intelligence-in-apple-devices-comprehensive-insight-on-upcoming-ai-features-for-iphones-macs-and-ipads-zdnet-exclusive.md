@@ -1,7 +1,7 @@
 ---
 title: "Navigating Artifical Intelligence in Apple Devices: Comprehensive Insight on Upcoming AI Features for iPhones, Macs & iPads | ZDNET Exclusive"
-date: 2024-12-21T02:12:48.519Z
-updated: 2024-12-25T21:45:24.659Z
+date: 2024-12-29T18:55:18.754Z
+updated: 2025-01-04T18:28:34.522Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
 
@@ -60,7 +56,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -78,6 +74,10 @@ With context on what is on your iPhone, iPad, or Mac and screen awareness, Siri 
 The voice assistant will also be able to perform hundreds of new actions across Apple and third-party apps, like opening articles from a Reading List or looking up a specific photo in your library. 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
 
@@ -103,6 +103,10 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Image Playground?
 
 Apple
@@ -116,7 +120,7 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
@@ -132,7 +136,7 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -165,10 +169,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,20 +210,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unveiling-10-cost-effective-virtual-communication-tools/"><u>2024 Approved Unveiling 10 Cost-Effective Virtual Communication Tools</u></a></li>
-<li><a href="https://win-great.techidaily.com/einfach-und-effektiv-verschieben-sie-ihr-betriebssystem-auf-eine-kompaktere-ssd/"><u>Einfach Und Effektiv: Verschieben Sie Ihr Betriebssystem Auf Eine Kompaktere SSD!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/elevating-likes-strategies-for-shaping-square-footage-on-fb/"><u>Elevating Likes Strategies for Shaping Square Footage on FB</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-eliminating-distracting-horizontal-lines-from-monitor-screens/"><u>Guide: Eliminating Distracting Horizontal Lines From Monitor Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-the-noise-adjustment-glitch-in-windows/"><u>How to Overcome the Noise Adjustment Glitch in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-mobile-gaming-winning-or-losing-the-game/"><u>Is Mobile Gaming Winning or Losing the Game?</u></a></li>
-<li><a href="https://games-able.techidaily.com/journey-into-nvidia-g-sync-the-ultimate-smoother-gaming-tool/"><u>Journey Into Nvidia G-Sync: The Ultimate Smoother Gaming Tool</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/next-gen-intelligent-doc-analysis-with-newly-released-abbyy-vantage-v21/"><u>Next-Gen Intelligent Doc Analysis with Newly Released ABBYY Vantage V2.1</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revolutionize-your-communication-join-us-for-the-samsung-phone-reveal-ceremony/"><u>Revolutionize Your Communication – Join Us for the Samsung Phone Reveal Ceremony</u></a></li>
-<li><a href="https://facebook.techidaily.com/securing-your-social-memories-fb-imagevideo-save-techniques/"><u>Securing Your Social Memories: FB Image/Video Save Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-to-snapping-photos-while-playing-xbox-one/"><u>The Ultimate Walkthrough to Snapping Photos While Playing Xbox One</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-solve-not-registered-on-network-errors-on-your-samsung-smartphone/"><u>Troubleshoot & Solve 'Not Registered on Network' Errors on Your Samsung Smartphone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-protocol-resetting-your-samsung-audio-bar-system/"><u>Troubleshooting Protocol: Resetting Your Samsung Audio Bar System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-66-travel-influencers-on-twitter-with-exclusive-offers/"><u>Ultimate List of 66 Travel Influencers on Twitter with Exclusive Offers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-duckduckgo-how-secure-and-private-is-this-alternative-search-platform/"><u>Understanding DuckDuckGo: How Secure and Private Is This Alternative Search Platform?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-picture-crafting-top-10-resources-for-elegant-photo-framing/"><u>[New] In 2024, Picture Crafting Top 10 Resources for Elegant Photo Framing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/best-free-methods-to-download-any-website-as-a-pdf-top-10-strategies/"><u>Best Free Methods to Download Any Website as a PDF: Top 10 Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-list-the-13-ultimate-true-crime-podcast-experiences/"><u>Best List: The 13 Ultimate True Crime Podcast Experiences</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-pick-7-alarm-clock-apps-youll-love/"><u>Best Pick: 7 Alarm Clock Apps You'll Love</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/check-your-hardwares-window-compatibility-insights-from-yl-software-experts/"><u>Check Your Hardware's Window-Compatibility: Insights From YL Software Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-troubleshooting-for-common-device-manager-codes-on-pc/"><u>Comprehensive Troubleshooting for Common Device Manager Codes on PC</u></a></li>
+<li><a href="https://fox-search.techidaily.com/download-music-from-tunein-directly-easy-mp3-and-wav-extraction-with-tunein-downloader/"><u>Download Music From TuneIn Directly - Easy MP3 and WAV Extraction with TuneIn Downloader</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminating-missing-ksuserdll-errors-with-easy-troubleshooting-tips/"><u>Eliminating Missing ksuser.dll Errors with Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/enhancing-minecraft-through-optimal-ram-assignment-for-2024/"><u>Enhancing Minecraft Through Optimal RAM Assignment for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-advice-on-acquiring-royalty-free-high-quality-graphics/"><u>Expert Advice on Acquiring Royalty-Free, High-Quality Graphics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/federal-preemption-occurs-when-there-is-a-direct-conflict-between-state-and-federal-law-where-federal-law-overrides-state-law/"><u>Federal Preemption Occurs when There Is a Direct Conflict Between State and Federal Law, Where Federal Law Overrides State Law.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/find-your-dream-ipad-at-discounted-prices-right-now/"><u>Find Your Dream iPad at Discounted Prices Right Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-cloud-services-with-infinite-capacity/"><u>In 2024, Ideal Cloud Services with Infinite Capacity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/limited-offer-snag-your-macbook-pro-w-latest-m3-pro-chip-at-a-steep-discount-this-presidents-day-save-200-now/"><u>Limited Offer: Snag Your MacBook Pro W/ Latest M3 Pro Chip at a Steep Discount This Presidents' Day - Save $200 Now !</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-the-art-of-splitting-your-screen-on-macos/"><u>Step-by-Step Guide: Mastering the Art of Splitting Your Screen on macOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tips-for-boosting-indoor-digital-broadcast-quality-with-an-antenna/"><u>The Ultimate Tips for Boosting Indoor Digital Broadcast Quality with an Antenna</u></a></li>
 </ul></div>
 

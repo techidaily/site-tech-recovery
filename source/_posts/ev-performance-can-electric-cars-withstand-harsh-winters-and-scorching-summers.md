@@ -1,7 +1,7 @@
 ---
 title: "EV Performance: Can Electric Cars Withstand Harsh Winters and Scorching Summers?"
-date: 2024-08-20T11:40:50.952Z
-updated: 2024-08-21T11:40:50.952Z
+date: 2025-01-01T19:08:56.316Z
+updated: 2025-01-04T17:49:22.539Z
 categories:
   - BestProducts
 description: "This Article Describes EV Performance: Can Electric Cars Withstand Harsh Winters and Scorching Summers?"
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
  Electric vehicles can work in any temperature although they do work best in a sort of Goldilocks temperature range where the outside environment isn’t too cold to have an adverse effect on the battery capacity and isn’t hot enough to require air conditioning. 
 
  Electric vehicle range in extreme cold and heat may not be as dire as you expect though and, for the record, gas-powered vehicles aren’t immune from temperature extremes either. Still, it's advantageous to understand how heat and cold impact EVs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Temperature Generally Affects Electric Car Batteries 
 
@@ -45,6 +49,10 @@ Westend61/Getty
  Although battery capacity typically increases as the temperature of the battery increases, extremely high external temperatures can actually cause deterioration and even lower the operational life of a battery. That degradation can cause an EV battery to perform less effectively. 
 
 [  How Long to Expect Your EV Battery to Last (and How to Extend Its Life) ](https://www.lifewire.com/how-long-will-ev-battery-last-5201587) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Temperature Specifically Affects EV Range 
 
@@ -74,8 +82,9 @@ Bailey Mariner
  According to the U.S. Department of Energy,[ a gas-powered car can have its range decreased by over 25 percent](https://www.fueleconomy.gov/feg/hotweather.shtml) when running the A/C in extremely hot weather. In comparison, the average EV can be expected to reach about 80 percent of its rated range in conditions where the ambient temperature is 104 degrees. In that particular situation, an EV is likely to beat a gas-powered vehicle in terms of retaining more of its range.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Heat Pumps vs. Resistive Heaters in EVs 
 
  Both resistive heaters and heat pumps can be used in EVs. The benefit of using a heat pump in an EV instead of a resistive heater is that heat pumps are simply more energy efficient. 
@@ -89,8 +98,9 @@ Bailey Mariner
  Heat pumps are typically capable of operating in EVs in temperatures down to about 25 to 30 degrees Fahrenheit, although efficiency does drop off the colder it gets. In even colder temperatures, it becomes more efficient to switch over to a resistive heater.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  9 Ways to Manage Range in Extreme Weather Conditions 
 
  While it’s true that EV range can be reduced by both extremely hot and cold weather, there are a number of things you can do to improve the range of an EV in extreme weather conditions: 
@@ -98,22 +108,9 @@ Bailey Mariner
 ![A thermometer showing Celsius and Fahrenheit temps against a blue sky with light clouds.](https://www.lifewire.com/thmb/tDbSwvUy-6HtJbQj-IVHx1Jsd1U=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Thermometor_celsiusandF_Kameleon007_Getty-765dddd365544edfbcfd93b31bcf4342.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Kameleon007/Getty
 
 1. **Reduce the use of air conditioning in hot weather.** Set the A/C at the highest temperature you’re comfortable with, and consider cooling off with other methods like a portable battery-powered fan and an ice chest full of cool drinks when going on long road trips.
@@ -134,8 +131,6 @@ Kameleon007/Getty
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +138,22 @@ Kameleon007/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-online-seminar-title-crafter/"><u>[New] Ultimate Online Seminar Title Crafter</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-media-best-twittersave-converters-for-2024/"><u>[Updated] Mastering Media Best Twittersave Converters for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-discovering-the-top-screen-grabber-software-win11/"><u>2024 Approved Discovering the Top Screen Grabber Software Win11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-understanding-t-series-youtube-business-model/"><u>2024 Approved Understanding T-Series YouTube Business Model</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>Dive Into Design Get a Complimentary Set of 50 Banner Pieces</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-solution-to-rekey-a-detached-letter-from-laptops-keypad/"><u>DIY Solution to Rekey a Detached Letter From Laptop's Keypad</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-gaming-experience-to-120fps-with-this-essential-ps5-optimization-guide/"><u>Elevate Your Gaming Experience to 120Fps with This Essential PS5 Optimization Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-your-computer-errors-understanding-and-resolving-d3dx933dll-issues/"><u>Fix Your Computer Errors: Understanding and Resolving d3dx9_33.dll Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-concept-to-delivery-using-luts-with-adobe-ae/"><u>From Concept to Delivery Using LUTs with Adobe AE</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/hitachi-4k-uhd-televisions-brilliant-picture-clarity-meets-seamless-roku-integration-for-an-unmatched-viewing-experience/"><u>Hitachi 4K UHD Televisions: Brilliant Picture Clarity Meets Seamless Roku Integration for an Unmatched Viewing Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-12-pro-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi Note 12 Pro 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-review-of-the-acurite-pro-model-01036m-uncomplicated-installation-sturdy-construction/"><u>In-Depth Review of the AcuRite Pro Model 01036M: Uncomplicated Installation, Sturdy Construction</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quietening-mechanical-disturbance-a-guide-to-repairing-a-noisy-desktop-fan/"><u>Quietening Mechanical Disturbance: A Guide to Repairing a Noisy Desktop Fan</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-neroadvrctndll-not-found-mistakes-a-step-by-step-guide/"><u>Resolving nero.advrctn.dll Not Found Mistakes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-lose-audio-after-updating-to-windows-10-heres-the-quick-fix/"><u>Solved: Lose Audio After Updating to Windows 10? Here's the Quick Fix</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: How To Locate Others On macOS Safely and Why It's Essential | Digital Strategies Blog"
-date: 2024-12-22T09:05:59.231Z
-updated: 2024-12-26T07:22:54.565Z
+date: 2025-01-01T17:23:24.817Z
+updated: 2025-01-04T16:01:31.874Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,22 +129,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-charting-the-course-to-earnings-with-youtube-videos/"><u>[New] 2024 Approved Charting the Course to Earnings with YouTube Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-universal-iptv-access-model/"><u>[New] 2024 Approved Universal IPTV Access Model</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-visual-vibrancy-motion-blur-magic-in-adobe-illustrators/"><u>[Updated] Visual Vibrancy Motion Blur Magic in Adobe Illustrators</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-pinnacle-of-zooid-creations-guide/"><u>2024 Approved The Pinnacle of Zooid Creations Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-showdown-how-does-the-apple-watch-ultra-stack-up-against-the-series-8-find-out-with-expert-analysis/"><u>Apple Showdown: How Does the Apple Watch Ultra Stack Up Against the Series 8? Find Out with Expert Analysis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/choosing-your-ideal-flagbearer-ipad-pro-edition-comparison-for-smart-shoppers-tech-insights-by-zdnet/"><u>Choosing Your Ideal Flagbearer: IPad Pro Edition Comparison for Smart Shoppers | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-improved-iphone-16-repair-ease-as-detailed-by-apple-in-comparison-with-past-devices-analysis-on-zdnet/"><u>Discover Improved iPhone 16 Repair Ease, as Detailed by Apple in Comparison with Past Devices | Analysis on ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-new-ipados-18-updates-showcased-at-wwdc-2024-compatibility-and-features-breakdown-by-zdnet/"><u>Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/future-proof-laptops-and-desktops-showdown-apple-vs-dell-vs-others-in-the-2024-best-computers-rankings-expert-analysis/"><u>Future-Proof Laptops and Desktops Showdown: Apple vs Dell vs Others in the 2024 Best Computers Rankings - Expert Analysis</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-top-rated-pc-and-mobile-mkv-reader/"><u>In 2024, Top-Rated PC & Mobile MKV Reader</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-look-at-the-apple-vision-pro-cost-analysis-features-breakdown-and-personal-trials-insights-from-zdnet/"><u>Inside Look at the Apple Vision Pro: Cost Analysis, Features Breakdown & Personal Trials | Insights From ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphones-dominate-as-they-secure-top-7-positions-worldwide-in-latest-smartphone-sales-report/"><u>IPhones Dominate as They Secure Top 7 Positions Worldwide in Latest Smartphone Sales Report</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/ongelukken-en-primaire-partiet-herstelling-tegemoet-in-windows-10-verslagen/"><u>Ongelukken en Primaire Partiet Herstelling Tegemoet in Windows 10 Verslagen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streamlined-content-creation-with-ios-18-on-iphone-14-revealed-by-zdnet-experts/"><u>Streamlined Content Creation with iOS 18 on iPhone 14, Revealed by ZDNet Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-windows-11-for-a-more-intuitive-search/"><u>Tailoring Windows 11 for a More Intuitive Search</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-5-tactics-reactivating-windows-defender-protection-mechanism/"><u>Top 5 Tactics: Reactivating Windows Defender Protection Mechanism</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-business-success-with-claude-the-smart-ai-choice/"><u>Unlocking Business Success with Claude: The Smart AI Choice</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximize-social-status-top-8-apps-for-gaining-more-fb-fans/"><u>[New] 2024 Approved Maximize Social Status Top 8 Apps for Gaining More FB Fans</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-improve-gopro-battery-life-for-2024/"><u>[New] How to Improve GoPro Battery Life for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-stealthy-sharing-on-snapchat-the-perfect-tutorial-for-2024/"><u>[Updated] Stealthy Sharing on Snapchat The Perfect Tutorial for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-problematic-error-0x80300024-in-winxp/"><u>Disabling Problematic Error: 0X80300024 in WinXP</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-your-own-singing-spectacular-a-guide-to-creating-memorable-karaoke-nights-at-home/"><u>DIY Your Own Singing Spectacular: A Guide to Creating Memorable Karaoke Nights at Home</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficiently-uninstall-microsoft-copilot-from-your-windows-11-device-an-easy-guide/"><u>Efficiently Uninstall Microsoft Copilot From Your Windows 11 Device: An Easy Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-repairing-typing-problems-in-your-keyboard/"><u>Expert Tips on Repairing Typing Problems in Your Keyboard</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-t2x-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo T2x 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-cross-platform-seamless-connection-techniques-between-psvr-and-pc/"><u>Mastering Cross-Platform: Seamless Connection Techniques Between PSVR and PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-account-protection-change-your-credentials-with-ease-on-x-previously-known-as-twitter/"><u>Navigating Account Protection: Change Your Credentials with Ease on X (Previously Known as Twitter)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-ejector-tool-heres-how-to-access-your-iphones-sim-card/"><u>No Ejector Tool? Here's How to Access Your iPhone’s SIM Card</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/schlusselstrategie-zum-einfachen-sicherungsvorgang-von-windows-server-auf-amazon-drive/"><u>Schlüsselstrategie Zum Einfachen Sicherungsvorgang Von Windows-Server Auf Amazon Drive</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-missing-mfc42ddll-errors-on-your-pc/"><u>Step-by-Step Guide: Correcting Missing Mfc42d.dll Errors on Your PC</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/steps-to-restore-desynchronized-microsoft-onedrive-documents/"><u>Steps to Restore Desynchronized Microsoft OneDrive Documents</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578445356-virtual-lingo-mondlys-breakthrough-ar-language-app/"><u>Virtual Lingo: Mondly's Breakthrough AR Language App</u></a></li>
 </ul></div>
 

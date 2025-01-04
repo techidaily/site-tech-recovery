@@ -1,7 +1,7 @@
 ---
 title: A Look at the Greatest Advances in Technology Since 1844
-date: 2024-08-20T11:35:22.873Z
-updated: 2024-08-21T11:35:22.873Z
+date: 2024-12-28T16:27:45.235Z
+updated: 2025-01-04T18:04:14.943Z
 categories:
   - BestProducts
 description: This Article Describes A Look at the Greatest Advances in Technology Since 1844
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/fi
 
  Over the past 175 years, we’ve seen an array of emerging technologies. Here are ten of the most significant technological advances since 1844.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Telephone — 1876
 
 ![Old Time Message](https://www.lifewire.com/thmb/Dz6nAtEdPKXnbcMDJJbrgmbTvdU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/old-time-message-157418221-64cf2457c36241799e1a69c6cbc27f66.jpg)
@@ -26,9 +30,17 @@ thumbnail: https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/fi
 
  Eventually, Bell’s invention paved the way for making phone calls to people worldwide, not just in the next room. And now, of course, most of us carry a smartphone or cellphone every day.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Light Bulb — 1880
 
 ![Farmer's Market nakid light bulb and blurred crowd of people](https://www.lifewire.com/thmb/dRnmrB6C-Glo5fY5DZyfp1nXZys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/farmer-s-market-nakid-light-bulb-and-blurred-crowd-of-people-973596466-d897fc63f042430bb949766ff4b76cc5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Eriko Tsukamoto / Getty Images
 
@@ -36,9 +48,6 @@ thumbnail: https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/fi
 
  We can avoid ever being in the dark with[smart light bulbs](https://www.lifewire.com/smart-light-bulbs-4149561) that you can turn on and off with a virtual assistant like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) or[Google Assistant](https://www.lifewire.com/what-is-google-assistant-4120911) .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## The Television — 1927
 
 ![Old television on stand, in front of curtain](https://www.lifewire.com/thmb/sT1Lb9obt08EDKCn3w7CXCy6tE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/old-television-on-stand--in-front-of-curtain-200453943-001-293b961ae282457791c4eed589eff3cb.jpg)
@@ -51,9 +60,6 @@ thumbnail: https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/fi
 
  Many people watch movies and TV shows on their smartphones, tablets, or laptops, though flat-screen TVs are still popular.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Personal Computers — 1970s
 
 ![alter IBM Compter von 1981](https://www.lifewire.com/thmb/4cl0LjPSEzswX-i1Q48NuRe8jNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alter-ibm-compter-von-1981-513809422-7189b1cbfe1b47339bdda64dc60627e0.jpg)
@@ -71,8 +77,9 @@ EdnaM / Getty Images
 ![Satellite in foreground, Earth and rising Sun in background](https://www.lifewire.com/thmb/4j6-zIts28nfLPj-zcJ1Pt9zw3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1032649842-5c2d15de46e0fb0001ea64df.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Launched in 1973, the Global Positioning System (GPS) became fully operational in 1995\. Originally called Navstar GPS, the U.S. government owns it, and the U.S. Air Force operates it.
 
  The system can triangulate data and pinpoint your location, and it powers the GPS devices and apps that people use now to get around.
@@ -89,16 +96,14 @@ ARPANET /Public domain
 
  It’s common for people to conflate the two terms. The internet is a global computer network running standardized communication protocols, while the WWW consists of public sites connected to the internet.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## GPS Navigation — 1990s
 
 ![San Francisco, California scenics](https://www.lifewire.com/thmb/JBcxbVh9X27hnW5roLmvGZOywbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/san-francisco--california-scenics-1048327060-238a789e54b94cf799aee655c2f19c1b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Robert Alexander / Getty Images
 
  Thanks to GPS (see above), getting lost is becoming a more and more rare occurrence.
@@ -114,9 +119,9 @@ ARPANET /Public domain
 ![3rd Annual Kodak Awards, February 15, 2019](https://www.lifewire.com/thmb/cayBRtQKgfVN8wWhxkH2-SxSTwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3rd-annual-kodak-awards--february-15--2019-1125163754-9bc15e8e2dbe4be18b8ad4369c4a929d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Getty Images for Kodak Motion Picture & Entertainment / Getty Images
 
  Technically, the first digital camera was invented by Kodak in the 1970s. It took a while before the technology made its way into the ancestors of the products we use today.
@@ -136,22 +141,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  Compatible with Windows, Mosaic was accessible to the masses, not just tech types, though Netscape Navigator eventually dethroned it. But we can thank Mosaic for giving us modern browsers like Chrome and Firefox.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Social Media — 2004
 
 ![Facebook's Sign Up Page](https://www.lifewire.com/thmb/49daxvoCJfOTzoBPeb_SlLG6Eho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FacebookSignIn-a4c1c336e92a436c952e1dc7e3813c40.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Love it or hate it (or both), but Facebook (initially The Facebook), which launched out of Mark Zuckerberg’s dorm room, was the first social media platform to gain worldwide popularity.
 
  From connecting with the people you went to high school to planning protests against the government, Facebook brings people together. Of course, it also causes all sorts of strife, including hate speech and “fake news,” which the platform struggles to contain.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Modern Smartphone — 2007
 
 ![Steve Jobs Unveils Apple iPhone At MacWorld Expo](https://www.lifewire.com/thmb/sdGuvRRk_ow4aOyoLK4f3ibKOwo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/steve-jobs-unveils-apple-iphone-at-macworld-expo-72959794-9b26521ca5f743119fc6b509d51ec8cc.jpg)
@@ -186,8 +190,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +197,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-dynamic-oratory-study-insights-part-8-for-2024/"><u>[Updated] Dynamic Oratory Study Insights, Part 8 for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-games-with-updated-nvidia-graphics-card-drivers-download-now/"><u>Enhance Your Games with Updated Nvidia Graphics Card Drivers: Download Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/home-entertainers-handbook-tips-for-planning-and-executing-an-epic-singalong-party-at-home/"><u>Home Entertainer's Handbook: Tips for Planning and Executing an Epic Singalong Party at Home</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-set-up-drivers-for-your-logitech-g430-audio-experience/"><u>How to Download and Set Up Drivers for Your Logitech G430 Audio Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-seamlessly-connect-an-apple-homepod-speaker-to-your-tv-unit/"><u>How To Seamlessly Connect An Apple HomePod Speaker to Your TV Unit</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-honor-play-40c-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Honor Play 40C Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastering-video-capture-with-obs-studios-features/"><u>In 2024, Mastering Video Capture with OBS Studio's Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-time-to-switch-to-an-rtx-gpu-a-comprehensive-guide/"><u>Is It Time to Switch to an RTX GPU: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-your-photo-game-smart-strategies-to-find-and-choose-a-superior-selfie-stick/"><u>Master Your Photo Game: Smart Strategies to Find and Choose a Superior Selfie Stick</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-disappointing-experience-with-online-car-shopping-at-carvana-vs-traditional-dealers/"><u>My Disappointing Experience with Online Car Shopping at Carvana Vs. Traditional Dealers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722894242410-the-complete-tutorial-on-snapping-pics-with-a-logitech-keyboard-no-hassle/"><u>The Complete Tutorial on Snapping Pics with a Logitech Keyboard - No Hassle</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-oppo-a18-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Oppo A18 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-best-free-music-streaming-applications-for-apple-devices-and-smartphones/"><u>Top 7 Best Free Music Streaming Applications for Apple Devices & Smartphones</u></a></li>
+</ul></div>
 

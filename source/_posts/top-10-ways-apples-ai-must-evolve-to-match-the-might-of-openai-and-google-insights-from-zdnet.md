@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Ways Apple's AI Must Evolve to Match the Might of OpenAI & Google: Insights From ZDNet"
-date: 2024-12-19T10:38:50.044Z
-updated: 2024-12-25T21:48:12.949Z
+date: 2025-01-03T17:58:36.616Z
+updated: 2025-01-04T18:33:55.511Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ Whether you're a [developer](https://www.zdnet.com/article/the-data-confirms-gen
 
 ## Productivity & Workflow Enhancements
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Regenerative AI (RAG) APIs & AI Writing Tools
 
 While Apple Intelligence's writing tools provide basic functionality like text rewrites and proofreading, future enhancements could leverage [Regenerative AI/Retrieval Augmented Generation (RAG)](https://www.zdnet.com/article/understanding-rag-how-to-integrate-generative-ai-llms-with-your-business-knowledge/) APIs to introduce more sophisticated features. This would include real-time grammar corrections, tone adjustments, and specialized models trained on industry-specific languages, such as legal or medical terminology. 
@@ -51,6 +47,10 @@ By integrating specialized dictionaries and corporate knowledge into apps like M
 * **Priority**: High -- This enhancement is crucial for professional sectors where precise terminology and real-time data incorporation are essential, especially in legal, healthcare, and business applications.
 
 **Use Case**: A legal professional drafting a contract could use AI to generate text based on legal standards and pull relevant case law or references from secure corporate databases. Similarly, a medical researcher could enhance their papers with precise terminology and industry knowledge, all sourced and verified by a specialized AI model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Voice-based AI Workflow Automation & Proactive Notifications
 
@@ -65,10 +65,14 @@ By integrating specialized dictionaries and corporate knowledge into apps like M
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Security & Privacy Enhancements
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enhanced AI Privacy and Security Controls
 
@@ -81,10 +85,6 @@ As AI becomes more integrated into daily use, Apple can enhance its privacy and 
 **Use Case:** A user can adjust permissions so that Siri only accesses their calendar data for scheduling tasks but does not access messages or locations, ensuring maximum privacy control without compromising functionality.
 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Financial Management and Security
 
@@ -99,7 +99,7 @@ AI could combine financial management tools with [real-time fraud detection](htt
 **Also: [Every iPhone model that will be updated to Apple's iOS 18 (and which ones won't)](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Health & Wellness Innovations
@@ -119,7 +119,7 @@ AI could provide real-time diagnostics and predictive health insights by leverag
 ## Creative & Media Tools
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. AI-Enhanced Media Production Tools
@@ -135,6 +135,10 @@ For creative professionals, AI could streamline tasks in Apple's creativity tool
 **Also: [Want Apple's new AI features without buying a new iPhone? Try this app](https://www.zdnet.com/article/want-apples-new-ai-features-without-buying-a-new-iphone-try-this-app/)**
 
 ## Sustainability & Accessibility
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Sustainability and Environmental Tracking
 
@@ -173,10 +177,6 @@ Apple could launch a dedicated Gen AI Store for AI-powered apps, enabling users 
 **Use Case:** A user could download a home automation AI from the Gen AI Store, which coordinates energy usage and home activities based on daily routines, and learning patterns to optimize efficiency.
 
 **Also: [Buying an Apple Watch Series 10? Consider these 3 features before upgrading](https://www.zdnet.com/article/buying-an-apple-watch-series-10-consider-these-3-features-before-upgrading/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 10\. AI Learning and Personalization
 
@@ -228,24 +228,19 @@ While Apple's focus on privacy and on-device processing sets it apart, the compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-fast-forwards-and-flashbacks-in-creative-tiktoks/"><u>[Updated] In 2024, Fast Forwards and Flashbacks in Creative TikToks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-samsung-galaxy-s8-4k-smartphone-review/"><u>[Updated] Samsung Galaxy S8 4K Smartphone Review</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-streamline-media-management-with-top-10plus-free-instagram-to-mp4-converters-for-2024/"><u>[Updated] Streamline Media Management with Top 10+ Free Instagram-to-MP4 Converters for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-alternatives-round-up-top-3-contenders/"><u>[Updated] YouTube Alternatives Round-Up Top 3 Contenders</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-avoid-these-top-4-apple-devices-at-the-moment-insider-tips/"><u>1. Avoid These Top 4 Apple Devices at the Moment - Insider Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-audiovisual-harmony-perfecting-voiceover-in-videos/"><u>2024 Approved Audiovisual Harmony Perfecting Voiceover in Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ving-profitability-at-half-a-million-viewers-for-2024/"><u>Achieving Profitability at Half a Million Viewers for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apples-2nd-gen-watch-se-maintains-80-price-cut-post-prime-day-exclusive-analysis-wearabletechtrends/"><u>Apple's 2Nd-Gen Watch SE Maintains $80 Price Cut Post-Prime Day - Exclusive Analysis | WearableTechTrends</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/convert-and-download-your-favorite-chilloutzone-videos-in-multiple-formats/"><u>Convert and Download Your Favorite ChilloutZone Videos in Multiple Formats</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-zte-axon-40-lite-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of ZTE Axon 40 Lite Without PUK Codes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/macbook-air-showdown-choosing-between-the-powerful-m3-and-efficient-m2-models-from-apple/"><u>MacBook Air Showdown: Choosing Between the Powerful M3 and Efficient M2 Models From Apple</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/macbook-air-with-m1-chip-at-unprecedented-649-exclusive-deal/"><u>MacBook Air with M1 Chip at Unprecedented $649 – Exclusive Deal !</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/raft-logo-designs-for-youtube-channels/"><u>Minecraft Logo Designs for YouTube Channels</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-and-simple-strategies-for-seamless-macbook-data-migration-expert-insights-from-zdnet/"><u>Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/secure-and-updated-how-macos-1441-restores-safety-for-upgrading-your-mac/"><u>Secure & Updated: How macOS 14.4.1 Restores Safety for Upgrading Your Mac</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-iphone-bargains-unbeatable-offers-in-july-2024-spotted/"><u>Top iPhone Bargains: Unbeatable Offers in July 2024 - Spotted</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-stylus-tablets-comprehensive-reviews-by-industry-experts-zdnet/"><u>Top-Rated Stylus Tablets : Comprehensive Reviews by Industry Experts - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-text-files-with-ais-chatgpt-pairings/"><u>Transform Your Text Files with AI's ChatGPT Pairings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unleash-your-gadgets-the-surprisingly-powerful-and-portable-8-in-1-adapter-a-steal-for-tech-enthusiasts/"><u>Unleash Your Gadgets: The Surprisingly Powerful & Portable 8-in-1 Adapter - A Steal for Tech Enthusiasts!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-maximize-engagement-learn-from-tubebuddy-experts/"><u>[Updated] Maximize Engagement - Learn From TubeBuddy Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dynamic-photo-collage-hints-infuse-joy-into-life/"><u>Dynamic Photo Collage Hints Infuse Joy Into Life</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-fixing-a-disconnected-vizio-tv-and-wi-fi-problems/"><u>Expert Tips for Fixing a Disconnected Vizio TV and Wi-Fi Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-browser-blues-a-comprehensive-guide-to-solving-google-chromes-dark-screen-error/"><u>Fix Your Browser Blues: A Comprehensive Guide to Solving Google Chrome's Dark Screen Error</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-14-plus-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From Apple iPhone 14 Plus Online</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/profi-anleitung-benutzerhandbuch-fur-macxdvd-dvd-rippen-videos-konvertieren-iphone-and-mac-daten-ubertragen-made-simple/"><u>Profi-Anleitung: Benutzerhandbuch Für MacXDVD - DVD Rippen, Videos Konvertieren, iPhone & Mac Daten Übertragen Made Simple</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secrets-of-the-savvy-the-ultimate-guide-to-the-best-12-free-image-banks-for-2024/"><u>Secrets of the Savvy - The Ultimate Guide to the Best 12 Free Image Banks for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199709553-solve-your-hypervisor-blue-screen-of-death-issues-on-windows-11-today/"><u>Solve Your Hypervisor Blue Screen of Death Issues on Windows 11 Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-genesis-of-chatgpt-redefining-creative-possibilities/"><u>The Genesis of ChatGPT: Redefining Creative Possibilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-to-missing-avcodecdll-errors-in-windows-1087/"><u>The Ultimate Solution to Missing Avcodec.dll Errors in Windows 10/8/7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-12-complimentary-keyboard-skill-courses-ideal-for-every-age-group/"><u>Top 12 Complimentary Keyboard Skill Courses: Ideal for Every Age Group</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-apple-watch-discounts-and-offers-save-big-in-month/"><u>Top Apple Watch Discounts & Offers - Save Big in [Month]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-stops-you-from-using-facebook-marketplace-a-comprehensive-exploration-of-restrictions/"><u>What Stops You From Using Facebook Marketplace? A Comprehensive Exploration of Restrictions</u></a></li>
 </ul></div>
 

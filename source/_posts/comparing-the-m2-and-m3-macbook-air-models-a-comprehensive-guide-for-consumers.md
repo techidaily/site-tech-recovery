@@ -1,7 +1,7 @@
 ---
 title: "Comparing the M2 and M3 MacBook Air Models: A Comprehensive Guide for Consumers"
-date: 2024-12-22T17:31:31.652Z
-updated: 2024-12-26T03:30:04.252Z
+date: 2024-12-29T16:52:03.171Z
+updated: 2025-01-04T16:08:00.361Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | **MacBook Air M3** | **MacBook Air M2**                           |                                              |
@@ -52,16 +56,12 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You want the fastest Wi-Fi support available
 
 If you find yourself doing a lot of downloading for work, or you're a gamer, the MacBook Air with M3 features the new [Wi-Fi 6e standard](https://www.zdnet.com/home-and-office/networking/wi-fi-6e-the-future-of-wireless-connectivity-today-with-some-caveats/) that provides faster download speeds and lower latency -- provided you're using a Wi-Fi 6e router, of course. While you might not notice much of a difference for everyday tasks, if you do Wi-Fi-intensive tasks where latency is critical, you'll quickly appreciate the upgrade. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You use more than one monitor
@@ -71,10 +71,6 @@ One of the biggest advantages of the M3, aside from the purely technical upgrade
 **Also: [This sneaky Best Buy deal lets you snag a free MacBook Air M3 - here's how](https://www.zdnet.com/article/this-sneaky-best-buy-deal-lets-you-snag-a-near-free-macbook-air-m3-heres-how/)**
 
 The M3 MacBook Air has [full connectivity](https://www.zdnet.com/article/you-can-use-your-m3-macbook-pro-with-dual-monitors-now-just-like-the-m3-macbook-air/) for two [external monitors](https://www.zdnet.com/home-and-office/smart-office/apple-studio-display-monitor-review/), so if you frequently work with more than one monitor, it's certainly worth upgrading. There is a small catch in that you can only use two external monitors while the laptop lid is closed. So you don't get your laptop's display _and_ two monitors; you just get the monitors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want the absolute best performance
 
@@ -94,6 +90,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the M2 MacBook Air if...
 
 Cliff Joseph/ZDNET
@@ -103,7 +103,7 @@ Cliff Joseph/ZDNET
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
@@ -119,7 +119,7 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -156,16 +156,19 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-path-to-virtual-visualization-excellence-a-zoom-video-filters-tutorial/"><u>[New] The Path to Virtual Visualization Excellence A Zoom Video Filters Tutorial</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-comparing-digital-universes-meta-to-omni-for-2024/"><u>[Updated] Comparing Digital Universes Meta to Omni for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-chart-topping-ideas-to-invigorate-your-youtube-channel/"><u>2024 Approved Chart-Topping Ideas to Invigorate Your YouTube Channel</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/asf-swf-movavi/"><u>ASF 到 SWF 自由瀏覽式過渡 - 使用 Movavi 轉換器</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/clearing-up-lines-on-your-tv-a-comprehensive-repair-guide/"><u>Clearing Up Lines on Your TV: A Comprehensive Repair Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-6-offline-language-converters-for-effortless-communication/"><u>Discover the Ultimate 6 Offline Language Converters for Effortless Communication</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-hashtags-and-more-is-there-a-distinction-between-retweet-and-re-tweet/"><u>Exploring Hashtags & More: Is There a Distinction Between 'Retweet' And 'Re-Tweet'?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Unlock Verizon Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-strategies-for-activating-google-duets-within-your-gmail-account/"><u>Step-by-Step Strategies for Activating Google Duets Within Your Gmail Account</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-for-taking-screengrabs-on-windows-and-mac/"><u>The Ultimate Tutorial for Taking Screengrabs on Windows and Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-amplify-your-video-reach-with-these-key-seo-insights-1-11-for-2024/"><u>[Updated] Amplify Your Video Reach with These Key SEO Insights (1-11) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/customizing-gmail-notification-tones-how-to-add-new-mail-sounds-easily/"><u>Customizing Gmail Notification Tones - How to Add New Mail Sounds Easily</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-6-pluswindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 6 Plus/Windows/Mac</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30i-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30i without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-honor-80-pro-straight-screen-edition-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor 80 Pro Straight Screen Edition Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-8t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 8T Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-landscape-of-nvidias-creativity-service/"><u>Navigating the Landscape of NVIDIA’s Creativity Service</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/operating-freegpt-with-no-restrictions/"><u>Operating FreeGPT with No Restrictions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-viewing-the-entire-dragon-ball-series-sequentially/"><u>Step-by-Step Guide: Viewing the Entire Dragon Ball Series Sequentially</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-resolve-unexpected-issues-with-in-car-entertainment-systems/"><u>Steps to Resolve Unexpected Issues with In-Car Entertainment Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-ranking-future-luminaries-in-self-driving-car-production-2024-edition/"><u>The Ultimate Ranking: Future Luminaries in Self-Driving Car Production, 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-quirks-fixing-stutters-and-distortions-in-windows-operating-systems-windows-11-and-7/"><u>Troubleshooting Sound Quirks: Fixing Stutters and Distortions in Windows Operating Systems (Windows 11 & 7)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-for-hooking-up-fire-stick-to-projector-system/"><u>Ultimate Troubleshooting for Hooking Up Fire Stick to Projector System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722881682881-uncover-the-most-effective-skype-substitutes-free-options/"><u>Uncover the Most Effective Skype Substitutes - Free Options</u></a></li>
 </ul></div>
 

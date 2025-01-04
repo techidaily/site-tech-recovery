@@ -1,7 +1,7 @@
 ---
 title: Navigate Like a Pro with Google Maps Live View - Tips and Tricks Inside!
-date: 2024-08-20T11:40:38.305Z
-updated: 2024-08-21T11:40:38.305Z
+date: 2024-12-30T17:45:58.750Z
+updated: 2025-01-04T18:28:29.668Z
 categories:
   - BestProducts
 description: This Article Describes Navigate Like a Pro with Google Maps Live View - Tips and Tricks Inside!
@@ -21,6 +21,10 @@ Close
 
  This article explains how to use Live View in Google Maps when your mode of travel is walking. Using your device camera, you’ll see on-screen instructions directing you right to the spot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Live View in Google Maps 
 
  Live View becomes available when you choose walking directions in the Google Maps app.
@@ -31,23 +35,20 @@ Close
 4. At the bottom, choose **Live View** .  
 ![Live View on Google Maps showing Walking icon and Live View button ](https://www.lifewire.com/thmb/LJsAWdlkxrLIRP7167v0utcL02U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1--Use-Live-View-on-Google-Maps1-87ffad6bd1fb4afcac55b24f09bbf4c0.jpg)
 5. The first time you use Live View, you’ll see prompts explaining the feature, asking you to be safe, and requesting access to your camera. Review and tap to move through the prompts and provide camera access.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Point your camera toward buildings, street signs, or other landmarks that help Google Maps guide you.
 7. Follow the onscreen directions as you walk to your destination.  
 ![Walking directions in Google Maps](https://www.lifewire.com/thmb/bEQTg438oL27uh5IUQZ_l1nRJ4g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-Use-Live-View-on-Google-Maps-0bb79c7877b64ba9bf56ea9567039856.jpg)  
  When you arrive at your destination, your phone will vibrate.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Exit Live View in Google Maps 
 
  If you want to turn off Live View before you arrive at your destination, you can do so and, instead, see the written directions.
@@ -63,11 +64,9 @@ Close
 ![Live View with directions in Google Maps](https://www.lifewire.com/thmb/1YLs4JwGMQgkJNu0XocZYSoF1a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-Use-Live-View-on-Google-Maps-15820dc3196c4e118c305edd3919b8d9.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Switch Between Live and Map View Automatically 
 
  You can use a combination of Live View and the 2D map view if you like. This method allows you to see Live View when you hold your phone upward and 2D map view when you tilt your phone downward.
@@ -76,9 +75,6 @@ Close
 
 ![Google Maps showing Navigation chosen in Settngs and Live View toggle ](https://www.lifewire.com/thmb/bWHD2Hj5liPzMW7cDlHMq7_0ZA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-Use-Live-View-on-Google-Maps-d7dfa94d9d8c4ab4831a1c56b79b4d5e.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
  To turn on this setting while navigating, exit **Live View** , swipe up in 2D map view, and select **Settings** . Then, turn on the toggle for **Live View** below Walking Options.
 
  Alternatively, if available, swipe up from the 2D directions view and toggle on**Tilt up to change view** .
@@ -86,8 +82,9 @@ Close
 ![Settings in the navigation actions and the toggle next to Live View](https://www.lifewire.com/thmb/hN98kxFTj5gxDtG4aThU3yM5Se8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C2-Use-Live-View-on-Google-Maps-2b4e3d59d7ca494f83a2fb4554771676.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [  5 Tips for Using Google Maps Street View ](https://www.lifewire.com/using-google-maps-street-view-3486679) 
 
  FAQ
@@ -117,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +121,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-complete-guide-to-dynamic-range-and-curves/"><u>[New] A Complete Guide to Dynamic Range and Curves</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-pro-photo-and-video-with-gopro-hero5-black-mastery-essentials/"><u>2024 Approved Pro Photo & Video with GoPro Hero5 Black Mastery Essentials</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-premier-selection-of-free-hard-drive-defrag-software-find-the-best-today/"><u>2024’S Premier Selection of Free Hard Drive Defrag Software - Find the Best Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-perfect-game-console-5-important-points-you-should-know/"><u>Choosing the Perfect Game Console: 5 Important Points You Should Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-yahoo-mail-problems-what-to-do-when-your-inbox-is-empty/"><u>Fixing Yahoo Mail Problems: What to Do When Your Inbox Is Empty</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boosting-efficiency-creating-speed-driven-google-collages/"><u>In 2024, Boosting Efficiency Creating Speed-Driven Google Collages</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-capture-every-day-in-the-life-of-your-sims-with-pro-tips-for-gameplay-recordings/"><u>In 2024, Capture Every Day in the Life of Your Sims with Pro Tips for Gameplay Recordings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-cant-deliver-texts-discover-10-effective-remedies-and-expert-advice/"><u>IPhone Can't Deliver Texts? Discover 10 Effective Remedies & Expert Advice</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-no-signal-dilemma-on-your-xbox-one-console/"><u>Solving the 'No Signal' Dilemma on Your Xbox One Console</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-a1x-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo A1x 5G Device</u></a></li>
+</ul></div>
 

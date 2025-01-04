@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Keys: Discovering the Top Features of an Exceptional iPhone Case"
-date: 2024-12-24T04:32:26.594Z
-updated: 2024-12-26T04:57:23.078Z
+date: 2024-12-31T16:05:51.233Z
+updated: 2025-01-04T17:20:18.246Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -50,7 +50,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -68,15 +68,15 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -133,7 +133,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -162,13 +162,13 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,15 +204,20 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-boost-engagement-with-essential-marketing-terms/"><u>[New] In 2024, Boost Engagement with Essential Marketing Terms</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-unleash-creativity-with-top-9-free-tools-to-craft-your-brand/"><u>[New] In 2024, Unleash Creativity with Top 9 Free Tools to Craft Your Brand</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-explore-free-youtube-channel-imagery-tools/"><u>[Updated] Explore Free YouTube Channel Imagery Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-springs-screen-recorder-unveiled-a-users-perspective/"><u>2024 Approved Spring's Screen Recorder Unveiled A User's Perspective</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-pixels-to-papers-discover-the-best-in-electronics-and-literary-treasures/"><u>From Pixels to Papers: Discover the Best in Electronics & Literary Treasures!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/meta-quest-3-lite-sneak-peek-forecasting-price-tags-arrival-dates-and-rumored-specifications/"><u>Meta Quest 3 Lite Sneak Peek: Forecasting Price Tags, Arrival Dates & Rumored Specifications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-downloading-and-enjoying-apple-tv-on-firestick/"><u>Step-by-Step Instructions: Downloading and Enjoying Apple TV on Firestick</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-10-best-free-email-services-you-should-try-today/"><u>Top 10 Best Free Email Services You Should Try Today</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y78-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y78 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-bard-google-strikes-back-in-artificial-intelligence-war/"><u>Unveiling 'Bard': Google Strikes Back in Artificial Intelligence War</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-pathway-to-discover-your-youtube-supporters-for-2024/"><u>[New] The Pathway to Discover Your YouTube Supporters for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-youtube-video-trailers-with-filmoras-guide/"><u>[Updated] 2024 Approved Crafting YouTube Video Trailers with Filmora's Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-lgbtq-cinema-to-watch-this-month-your-ultimate-netflix-guide-for-july-2024/"><u>Best LGBTQ Cinema to Watch This Month: Your Ultimate Netflix Guide for July 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-your-spreadsheets-mastering-excel-with-chatgpt/"><u>Conquer Your Spreadsheets: Mastering Excel with ChatGPT</u></a></li>
+<li><a href="https://win-best.techidaily.com/cumulus/"><u>Cumulus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-our-choice-of-five-premium-worldwide-calls-applications-free/"><u>Discover Our Choice of Five Premium Worldwide Calls Applications (Free)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-history-handling-top-4-extensions-for-gpt-3/"><u>Effortless History Handling - Top 4 Extensions for GPT-3</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/find-your-favorite-songs-for-free-with-these-best-7-apps-for-iphone-and-android-devices/"><u>Find Your Favorite Songs for Free with These ^Best^ 7 Apps for iPhone & Android Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-correct-the-missing-dbghelpdll-error-on-your-pc/"><u>Guide to Correct the Missing 'Dbghelp.dll' Error on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-restart-geforce-experience-after-an-error-pop-up/"><u>How to Successfully Restart GeForce Experience After an Error Pop-Up</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-breaking-barriers-7-top-tools-for-artists-transforming-into-nfts/"><u>In 2024, Breaking Barriers 7 Top Tools for Artists Transforming Into NFTs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reviving-romance-gpts-contribution-to-love/"><u>Reviving Romance: GPT's Contribution to Love</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/setting-up-email-sync-from-gmail-on-your-apple-watch-a-detailed-walkthrough/"><u>Setting up Email Sync From Gmail on Your Apple Watch - A Detailed Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-repairing-a-broken-samsung-soundbar/"><u>Step-by-Step Guide to Repairing a Broken Samsung Soundbar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-to-fix-missing-or-corrupted-launchdll-files/"><u>Troubleshooting Tips to Fix Missing or Corrupted Launch.dll Files</u></a></li>
 </ul></div>
 

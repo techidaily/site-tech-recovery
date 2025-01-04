@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots and Recording Video on iPhone - Tips From ZDNet"
-date: 2024-12-22T22:00:32.734Z
-updated: 2024-12-26T07:23:36.037Z
+date: 2025-01-03T17:45:47.053Z
+updated: 2025-01-04T17:55:32.083Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Whether you're trying to demonstrate a bug to a tech support rep or you're demon
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to screen record on any iPhone
@@ -33,6 +33,10 @@ You'll find the necessary setting in the Control Center section of your Settings
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Open your Settings app and find "Control Center"
 
 Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https://www.zdnet.com/article/apple-launches-ios-14-aims-for-siri-overhaul-better-app-organization/), but you'll need to enable it before you can use it. To do this, open your Settings app and find Control Center (as seen above in the red rectangle).
@@ -40,6 +44,10 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -51,10 +59,6 @@ This is the screen recording button we'll use to start the recording.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open your Control Center
 
 Next, you'll want to open Control Center. This can be done from your home screen, or from within the vast majority of iPhone apps. For iPhones without a physical Home Button, you can access it by swiping down from the top-right corner of the display. 
@@ -64,10 +68,6 @@ For iPhones with a physical Home Button, you can access it by swiping up from th
 While recording, your Screen Recording button will look like this (minus the red circle we added)
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Begin screen recording
 
@@ -88,7 +88,7 @@ This is the confirmation box that will appear when you stop your recording.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. End your recording
@@ -101,13 +101,13 @@ In both cases, the recording you just produced will immediately be saved to your
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
 
@@ -153,14 +153,19 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-harnessing-microsoft-teams-power-with-simple-snap-camera-use/"><u>[Updated] 2024 Approved Harnessing Microsoft Teams' Power with Simple Snap Camera Use</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-safest-email-platforms-the-ultimate-top-5-list/"><u>Discover the Safest Email Platforms: The Ultimate Top 5 List</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723006684779-smooth-gaming-experience-troubleshooting-hollow-knight-stutters-problem-solved/"><u>Smooth Gaming Experience: Troubleshooting 'Hollow Knight' Stutters - Problem Solved</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-linking-your-samsung-soundbar-with-the-television/"><u>Step-by-Step Guide: Linking Your Samsung Soundbar with the Television</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-benefits-opting-for-microsoft-copilot-over-chatgpt/"><u>Top 4 Benefits: Opting for Microsoft Copilot Over ChatGPT</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transforming-flat-text-into-sculptable-3d-characters/"><u>Transforming Flat Text Into Sculptable 3D Characters</u></a></li>
-<li><a href="https://fox-search.techidaily.com/understanding-the-instance-attributes-panel-a-guide/"><u>Understanding the Instance Attributes Panel: A Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watching-hulu-effortlessly-tips-for-lg-smart-tv-owners/"><u>Watching Hulu Effortlessly: Tips for LG Smart TV Owners</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-2024-guide-to-choosing-a-tv-streaming-service-a-ranked-overview/"><u>Your 2024 Guide to Choosing a TV Streaming Service - A Ranked Overview</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-estimating-total-seconds-a-20mb-sized-video/"><u>[New] 2024 Approved Estimating Total Seconds A 20MB-Sized Video</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-download-and-keep-your-favorite-fb-stories/"><u>[Updated] 2024 Approved How to Download and Keep Your Favorite FB Stories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-fast-windows-content-survey-blueprint/"><u>[Updated] Fast Windows Content Survey Blueprint</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-the-basics-of-bass-control-in-audio-setups/"><u>Demystifying the Basics of Bass Control in Audio Setups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-dvr-technology-for-home-entertainment/"><u>Exploring the World of DVR Technology for Home Entertainment</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratis-converting-mxf-in-een-mkv-format-onlinerepositorium-movavi/"><u>Gratis Converting MXF in Een MKV Format - Onlinerepositorium Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-14-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 14 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ideal-temperature-range-for-concrete-curing-is-between-5c-and-30c/"><u>Ideal Temperature Range for Concrete Curing Is Between 5°C and 30°C.</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-your-house-painting-process-using-these-innovative-applications/"><u>Streamline Your House Painting Process Using These Innovative Applications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-modern-hardware-solutions-by-toms-experts/"><u>The Ultimate Resource for Modern Hardware Solutions by Tom's Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tactics-for-low-volume-calls-on-ios-devices/"><u>Troubleshooting Tactics for Low-Volume Calls on iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-how-to-correctly-address-a-401-unauthorized-error/"><u>Unlocking the Secrets: How to Correctly Address a 401 Unauthorized Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-are-memes-and-how-do-they-shape-online-humor/"><u>What Are Memes and How Do They Shape Online Humor?</u></a></li>
 </ul></div>
 

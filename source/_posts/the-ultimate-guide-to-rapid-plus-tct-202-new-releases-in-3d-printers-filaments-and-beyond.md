@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Rapid + TCT 202ˈ: New Releases in 3D Printers, Filaments, and Beyond"
-date: 2024-08-20T11:37:31.549Z
-updated: 2024-08-21T11:37:31.549Z
+date: 2025-01-01T16:41:13.993Z
+updated: 2025-01-04T17:24:26.761Z
 tags:
   - printer
 categories:
@@ -15,9 +15,17 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  As with other 3D printing problems, you need to understand the root cause to know how to address it. Different types of holes and gaps can appear on the print based on the location, size, and structure, and we will look at the main ones and how to solve them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Holes and Gaps on the Top Section of the Print
 
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/hizhp3jQoN2EAWHJsY3NPA-320-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Eliteprint3d)
 
@@ -34,6 +42,10 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
  (Image credit: Tom's Hardware)
 
  When the uppermost layers of the print do not have sufficient support or material to form a solid surface, the deposited filament may retract or shrink, leaving behind voids that manifest as holes or depressions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Tiny Holes in the Walls of the 3D Print
 
@@ -57,7 +69,15 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/taDeWfHqvLvgkKsyhC4tD8-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Large Gaps that Result in Layer Separation
 
@@ -71,9 +91,6 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
  You can 3D print a[flow calibration cube](https://www.thingiverse.com/thing:4838076) and use it to find the optimal value. You must also lower the layer height (the distance between each layer deposited). The default value is usually 0.2mm. Slowing down the 3D printing speed can also help fix the issue, as it allows for better deposition and improved bonding between the layers. In addition to adjusting those settings, you also need to ensure that the filament you are using is dry as moisture in the filament can cause pressure build-up in the nozzle. When extruded, it might not come out as intended, and this brings problems. You need also to ensure that it has a consistent diameter all through.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Gaps in the First Few Layers of the 3D Print
 
  Gaps in the initial layers of your print can be as a result of an improperly leveled print bed. If the distance between the nozzle and the bed is uneven, it can contribute to the gaps. If it is too close to the bed, for example, it may compress the filament affecting the smooth flow and leading to gaps as the material struggles to extrude.
@@ -84,39 +101,24 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/TtXhijJg3aMuMsYBQqUwB9-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 5\. Holes and Gaps in the Corners of the Print
 
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/yNYqczmqhVnKMJbe2eFSLF-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  3D printers usually face challenges when printing corners, especially those that are sharp because the extruder needs to change direction and accelerate within a short time when it comes across those areas. There can be a build up of pressure on the extruder as the printer navigates through the corners which can lead to variations in extrusion, more so when printing at high speeds. To fix this, you need to start by adjusting the acceleration and jerk settings to ensure that the extruder can smoothly transition between different directions without introducing excessive vibrations.
 
 ![How to Prevent Holes and Gaps in 3D Prints](https://cdn.mos.cms.futurecdn.net/vXV42Vo2jQBbjNLJ56uaP8-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  In addition to jerk and acceleration settings, you also need to slow down the printing speed for the printer to manage the abrupt changes in the direction better when it approaches the sharp corners. Fine-tuning the retraction settings can also minimize the issues like blobs and[stringing in 3D prints](https://www.tomshardware.com/3d-printing/how-to-fix-stringing-in-3d-prints) that can result in gaps in the corners in severe cases.
 
  The above strategies can help address issues related to holes and gaps in your 3D prints. If you have a print that has suffered from these problems, you can salvage it through post-processing activities. One approach is to apply filler material like[Bondo](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fs%3Fk%3Dbondo%26crid%3D18ZZ4URMWWITX%26sprefix%3Db%252Caps%252C1739%26ref%3Dnb%5Fsb%5Fnoss%5F2%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3135570975057401036-20) or[Milliput](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB002CNEWAM%3Fth%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7059939473745178478-20) to the areas with gaps or holes to refine the appearance and structural integrity. Other strategies like applying acetone vapor smoothing and painting can also help achieve a smoother surface, even though it might not work on all prints.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Related 3D PrintingTutorials
 
 **More:** [5 Ways Fix Z Banding in 3D Printing](https://www.tomshardware.com/how-to/fix-z-banding-in-3d-printing)
@@ -127,14 +129,11 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
 
 **More:** [How to Use PrusaSlicer: A Beginners Guide](https://www.tomshardware.com/how-to/use-prusaslicer)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,4 +142,26 @@ One of the issues 3D printer hobbyists face is holes and gaps in 3D prints. Thes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-master-the-art-of-virtual-reality-from-videography-to-youtube-upload/"><u>[New] In 2024, Master the Art of Virtual Reality From Videography to YouTube Upload</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fresh-set-of-interview-points-for-captivated-ears/"><u>[Updated] Fresh Set of Interview Points for Captivated Ears</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-filmless-to-film-rich-digitizing-yesteryears-images/"><u>[Updated] From Filmless to Film-Rich Digitizing Yesteryears' Images</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unseen-sonic-scribes-best-kept-mobile-voice-loggers-list/"><u>[Updated] In 2024, Unseen Sonic Scribes Best-Kept Mobile Voice Loggers List</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-video-boundaries-explained/"><u>[Updated] Instagram Video Boundaries Explained</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-6-multilingual-video-decoders/"><u>2024 Approved Best 6 Multilingual Video Decoders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unrivaled-experience-with-these-top-12-pc-clicker-games/"><u>2024 Approved Unrivaled Experience with These Top 12 PC Clicker Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-no-cost-voice-over-ip-applications-to-try-in-202/"><u>Best No-Cost Voice Over IP Applications to Try in 202#.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-collaboration-with-githubs-copilot-on-microsoft-teams/"><u>Boost Collaboration with GitHub's Copilot on Microsoft Teams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatgpt-plus-is-it-a-smart-investment-top-5-benefits-of-registering-now/"><u>ChatGPT Plus: Is It a Smart Investment? Top 5 Benefits of Registering Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-most-effective-free-cross-border-communication-apps-our-favorites/"><u>Discover the Most Effective Free Cross-Border Communication Apps (Our Favorites)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-beyond-boxes-crafting-memorable-receiving-moments/"><u>In 2024, Beyond Boxes Crafting Memorable Receiving Moments</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-12-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From Apple iPhone 12 Pro Max If Youve Tried Everything</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/need-to-retract-an-email-sent-through-microsoft-outlook-follow-these-easy-steps/"><u>Need to Retract an Email Sent Through Microsoft Outlook? Follow These Easy Steps!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-90-lite-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor 90 Lite Black and White | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-13-solutions-for-when-your-spotify-stops-playing-in-android-auto-mode/"><u>Top 13 Solutions for When Your Spotify Stops Playing in Android Auto Mode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722886510150-top-ipad-offers-and-discounts-shop-smart-today/"><u>Top iPad Offers and Discounts: Shop Smart Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-frozen-macbook-air-tips-and-solutions-for-smooth-operation/"><u>Troubleshooting Frozen MacBook Air - Tips & Solutions for Smooth Operation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-how-to-watch-spider-man-no-way-home-online/"><u>Ultimate Guide: How to Watch 'Spider-Man: No Way Home' Online</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring Why Governments Must Seek Diversification Away From Big Tech, Highlighted By Microsoft's Service Interruptions
-date: 2024-08-20T11:39:33.637Z
-updated: 2024-08-21T11:39:33.637Z
+date: 2025-01-01T17:05:27.045Z
+updated: 2025-01-04T18:32:16.716Z
 categories:
   - BestProducts
 description: This Article Describes Exploring Why Governments Must Seek Diversification Away From Big Tech, Highlighted By Microsoft's Service Interruptions
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,8 +278,9 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -283,8 +292,9 @@ thumbnail: https://www.lifewire.com/thmb/1-A3XIGBICbV1vHaZl_TuBbTuaY=/400x300/fi
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -313,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +330,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-edge-it-right-a-list-of-top-borders-in-social-media-photography/"><u>[New] Edge It Right A List of Top Borders in Social Media Photography</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-elevate-your-content-game-with-these-powerful-youtube-shortcuts/"><u>[Updated] 2024 Approved Elevate Your Content Game with These Powerful YouTube Shortcuts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-taking-screenshot-on-windows-1187/"><u>[Updated] In 2024, Taking Screenshot on Windows 11/8/7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/diy-guide-building-a-4k-video-editing-powerhouse/"><u>DIY Guide Building a 4K Video Editing Powerhouse</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-methods-to-get-the-web-in-your-living-room-theater-system/"><u>DIY Methods to Get the Web in Your Living Room Theater System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-sound-capture-on-your-meta-quest-gaming-headset-essential-tips/"><u>Enhancing Sound Capture on Your Meta Quest Gaming Headset: Essential Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/freedom-from-wires-and-phone-lines-innovative-methods-for-getting-online-anywhere/"><u>Freedom From Wires and Phone Lines: Innovative Methods for Getting Online Anywhere</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unlocking-the-power-of-photo-editing-in-ps-novice-style/"><u>In 2024, Unlocking the Power of Photo Editing in PS, Novice Style</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-gaming-space-on-xbox-one-by-adding-a-portable-storage-solution/"><u>Maximize Gaming Space on Xbox One by Adding a Portable Storage Solution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computer-innovations-a-deep-dive-with-toms-hardware/"><u>Navigating the World of Computer Innovations: A Deep Dive with Tom's Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-smart-televisions-a-guide-to-7-critical-considerations-before-you-buy/"><u>Navigating the World of Smart Televisions: A Guide to 7 Critical Considerations Before You Buy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-a-drowned-device-masterful-methods-for-restoring-moisture-affected-iphones-and-ipods/"><u>Reviving a Drowned Device: Masterful Methods for Restoring Moisture-Affected iPhones and iPods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-your-iphone-15-tips-for-a-successful-reboot/"><u>Reviving Your iPhone 15: Tips for a Successful Reboot</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/shield-against-random-youtube-video-plays-for-2024/"><u>Shield Against Random YouTube Video Plays for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-dnssddll-error-on-your-computer/"><u>Troubleshooting the Missing dnssd.dll Error on Your Computer</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/umfassende-tipps-fur-das-klonen-von-ihrem-alten-iphone-auf-die-neueste-modellreihe-iphone-14/"><u>Umfassende Tipps Für Das Klonen Von Ihrem Alten iPhone Auf Die Neueste Modellreihe iPhone 14</u></a></li>
+</ul></div>
 

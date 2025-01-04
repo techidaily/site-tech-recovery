@@ -1,7 +1,7 @@
 ---
 title: Discord Not Working? Here's How to Check if It’s an Outage or Your Network Problem
-date: 2024-08-20T11:41:16.827Z
-updated: 2024-08-21T11:41:16.827Z
+date: 2025-01-01T17:56:55.248Z
+updated: 2025-01-04T18:40:01.971Z
 categories:
   - BestProducts
 description: This Article Describes Discord Not Working? Here's How to Check if It’s an Outage or Your Network Problem
@@ -17,6 +17,10 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 * WhatsApp: Go to**Settings** \>**Privacy** and toggle**Read receipts** on. Group chats use read receipts by default.
 
  Here's how to tell if someone read your text on Android and iOS smartphones. This article also covers WhatsApp, Facebook Messenger, and Instagram.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Read Receipts on iPhone
 
@@ -35,8 +39,9 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
  If you don't want people to know that when you read their messages,[turn off read receipts on your iPhone or Android](https://www.lifewire.com/turn-read-receipts-on-or-off-on-iphone-and-android-5074420) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Read Receipts on Android Smartphones
 
  The process is similar on Android. The[Google Messages app](https://www.lifewire.com/use-android-messages-app-4177697) supports read receipts, but the carrier must also support this feature. Your recipient must have read receipts activated for you to see if they read your message.
@@ -51,12 +56,13 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 ![The Google Messages menu, Settings screen, and RCS chats options](https://www.lifewire.com/thmb/B7JVQg4q7aeE8dmAE_ap6ttFnuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-read-receipts-rcs-chats-19d035e50fc3487ba50f8d7d782765fa.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## WhatsApp Read Receipts
 
  WhatsApp uses built-in read receipts. The status of sent messages[is tracked through check marks next to messages](https://www.lifewire.com/how-to-track-messages-with-whatsapp-check-marks-4781495) . One grey check mark means the message was sent; two grey check marks mean the message was delivered, and two blue check marks mean the message was read.
@@ -75,8 +81,9 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 ![Message details in WhatsApp](https://www.lifewire.com/thmb/kKfFfjrRV6uuvyv_nzBN_LBJWxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-read-my-text-message-4148206-69a5bd8788d44fe2ad7afbdcda9ae3e4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Messenger Read Receipts
 
  Like most texting apps,[Facebook Messenger](https://www.lifewire.com/facebook-messenger-4103719) includes a handy toggle called**Show read receipts** . When it's turned on, you'll be able to see when people read your messages and they'll see when you've read theirs.
@@ -91,16 +98,10 @@ thumbnail: https://www.lifewire.com/thmb/ZIdCy0xvxRUF3ckzK0HzCZS6D10=/400x300/fi
 5. Tap the toggle next to**Show read receipts** so it turns on.  
 ![The Privacy and security screen and read receipts toggle in the Facebook Messenger app](https://www.lifewire.com/thmb/bbHvAPlOyTbtWcVcsFhlUuuQUy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/read-receipts-facebook-messenger-c45c63e4858e4a67b967003f10089270.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The Facebook Messenger app provides detailed indicators about the delivery and read status each time you send a message. When your message is actively sending, you'll briefly see a blue circle. When it's sent, you'll see a blue circle with a checkmark. When it's delivered, you'll see a filled-in blue circle. Finally, when it's read, you'll see a small version of your recipient's profile image below the message.
 
 ![Read indicators in Facebook Messenger](https://www.lifewire.com/thmb/KfSmMETDPxk2OzNUveEZTEEAf6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-read-my-text-message-4148206-6116e0f818784404a8debc67972541c2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Instagram Read Receipts
 
 [Instagram lets you manage read receipts](https://www.lifewire.com/turn-off-read-receipts-on-instagram-5085244) , so to see when someone has read your Instagram message, you need to make sure the toggle is switched_on_ . The Instagram app lets you control read receipts for individual chats and all chats.
@@ -138,8 +139,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +146,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-essential-guide-best-free-video-effect-websites-reviewed-and-rated-by-experts-for-2024/"><u>[New] Essential Guide Best Free Video Effect Websites Reviewed & Rated by Experts for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ideal-selection-of-top-9-mobile-video-collaboration-tools-ios-android/"><u>[New] In 2024, Ideal Selection of Top 9 Mobile Video Collaboration Tools (iOS, Android)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlock-potential-in-digital-creation-the-best-android-drawing-tools-list/"><u>[New] In 2024, Unlock Potential in Digital Creation The Best Android Drawing Tools List</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-channel-boosting-strategies-effortless-sponsorship-securing-tips/"><u>[Updated] In 2024, Channel Boosting Strategies Effortless Sponsorship Securing Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-guide-crafting-your-own-home-theater-projector-screen/"><u>DIY Guide: Crafting Your Own Home Theater Projector Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-setup-tips-for-combining-samsung-soundbar-and-external-subwoofer/"><u>Easy Setup Tips for Combining Samsung Soundbar and External Subwoofer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-errors-what-not-to-do-with-generative-ai-technology/"><u>Essential Errors: What NOT to Do with Generative AI Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/huge-savings-alert-get-the-ideal-ultrawide-monitor-at-a-stunning-600-off-in-samsungs-exclusive-sale-event/"><u>Huge Savings Alert: Get the Ideal Ultrawide Monitor at a Stunning $600 Off in Samsung's Exclusive Sale Event</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-or-android-the-ultimate-guide-to-making-the-right-choice-for-your-needs/"><u>IPhone or Android? The Ultimate Guide to Making the Right Choice for Your Needs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-tricks-revealed-how-to-put-an-end-to-irritating-message-bombardments/"><u>IPhone Tricks Revealed: How to Put an End to Irritating Message Bombardments</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-guide-to-using-instagram-filters-and-icons/"><u>Step-by-Step Guide to Using Instagram Filters and Icons</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-of-getting-your-money-back-from-a-steam-purchase/"><u>Step-by-Step Process of Getting Your Money Back From a Steam Purchase</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-fixing-missing-rockalldlldll-errors/"><u>Troubleshooting Steps for Fixing Missing Rockalldll.dll Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-troubleshooting-eliminating-discord-echo-issues-in-your-pc/"><u>Ultimate Troubleshooting: Eliminating Discord Echo Issues in Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-new-convenience-adjusting-settings-on-roku-tv-via-touchscreen-options/"><u>Unlocking New Convenience: Adjusting Settings on Roku TV via Touchscreen Options</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209748329-9781742288703-walking-in-light/"><u>Walking in Light | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-screen-shot-techniques-learn-the-four-key-strategies/"><u>Windows 11 Screen Shot Techniques - Learn the Four Key Strategies</u></a></li>
+</ul></div>
 

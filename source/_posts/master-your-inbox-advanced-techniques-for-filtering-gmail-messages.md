@@ -1,7 +1,7 @@
 ---
 title: "Master Your Inbox: Advanced Techniques for Filtering Gmail Messages"
-date: 2024-08-20T11:39:28.046Z
-updated: 2024-08-21T11:39:28.046Z
+date: 2025-01-02T18:18:03.932Z
+updated: 2025-01-04T16:36:57.755Z
 categories:
   - BestProducts
 description: "This Article Describes Master Your Inbox: Advanced Techniques for Filtering Gmail Messages"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 ---
 
 ## Gmail and You: Master the Art of Selecting Personalized Email Tones – Here's How
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * With Notifier for Gmail installed, select**Extensions** next to the Chrome navigation bar.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 * Change the sound in the drop-down menu and exit.
 
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
 
@@ -29,26 +38,32 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
  You can[turn on notification sounds for Outlook](https://www.lifewire.com/change-new-mail-notification-sound-outlook-1173674) email messages in the **FILE** \>**Options** \>**Mail**  menu, with the **Play a sound** option from the Message arrival section. To change the sound,[open Control Panel](https://www.lifewire.com/how-to-open-control-panel-2625782) and search for "sound". Open the Sound [Control Panel applet](https://www.lifewire.com/control-panel-applet-2625831) and modify the **New Mail Notification** option from the Sounds tab.
@@ -86,8 +101,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +108,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-expert-advice-on-rl-gameplay-screen-sharing/"><u>[Updated] 2024 Approved Expert Advice on RL Gameplay Screen Sharing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-comprehensive-guide-to-instagrams-music-copyright-rules/"><u>[Updated] In 2024, A Comprehensive Guide to Instagram's Music Copyright Rules</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-guide-to-optimizing-video-quality-in-mobile-broadcasts/"><u>[Updated] In 2024, Ultimate Guide to Optimizing Video Quality in Mobile Broadcasts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-mixer-streams-on-macos-a-step-by-step-guide-for-2024/"><u>[Updated] Mastering Mixer Streams on macOS A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-the-art-of-caption-placement-in-multimedia-projects-for-youtube/"><u>[Updated] Mastering the Art of Caption Placement in Multimedia Projects for YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-screenshoting-made-easy-leveraging-ezvid-video-maker/"><u>2024 Approved Screenshoting Made Easy Leveraging Ezvid Video Maker</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-free-worldwide-calling-services-our-top-picks/"><u>Best Free Worldwide Calling Services: Our Top Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chagpt-side-income-exploration-profitable-possibilities/"><u>ChaGPT Side Income Exploration: Profitable Possibilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-closed-captions-a-step-by-step-guide-for-amazon-prime-streamers/"><u>Disabling Closed Captions: A Step-by-Step Guide for Amazon Prime Streamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-choose-a-secure-email-service-exploring-top-5-options-for-peace-of-mind/"><u>How to Choose a Secure Email Service? Exploring Top 5 Options for Peace of Mind</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-power-cycling-your-macbook-pro/"><u>Mastering the Art of Power Cycling Your MacBook Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-professional-animation-software-8-best-creator-for-mac-and-windows/"><u>New In 2024, Professional Animation Software 8 Best Creator for Mac and Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-your-kids-chat-experience-with-discord-parent-lock-features/"><u>Securing Your Kids' Chat Experience with Discord Parent Lock Features</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/solved-obs-full-screen-anomaly-for-2024/"><u>Solved OBS Full Screen Anomaly for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-windows-11-how-to-fix-non-functioning-search-feature/"><u>Troubleshoot Windows 11: How to Fix Non-Functioning Search Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-charging-phones-with-alternative-methods/"><u>Ultimate Guide: Charging Phones with Alternative Methods</u></a></li>
+</ul></div>
 

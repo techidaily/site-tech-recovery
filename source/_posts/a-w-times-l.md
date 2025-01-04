@@ -1,7 +1,7 @@
 ---
 title: \\[A = W \\Times L \\
-date: 2024-12-25T07:15:13.826Z
-updated: 2024-12-26T03:40:40.761Z
+date: 2024-12-31T17:48:20.015Z
+updated: 2025-01-04T17:57:46.494Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | **Google Pixel 6 Pro** | **iPhone 13 Pro**                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                             |
@@ -41,18 +45,18 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Colors                 | Cloudy White, Sorta Sunny, Stormy Black                                                                                                                                      | Alpine Green, Silver, Gold, Graphite, Sierra Blue                                                                                                                                                                                                                                                                                                           |
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the Google Pixel 6 Pro if…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You want fun and experimental camera features
@@ -63,10 +67,6 @@ One standout camera feature on the Pixel 6 Pro is **Motion Mode,** whichallows u
 
 Another new and useful feature is **Magic Eraser.** Like Photoshop's Content Aware Fill, the software trick allows you to magically erase unwanted objects from a photo. Using the feature is as simple as circling what you'd like to erase from your image, whether that's strangers in the background, stain marks, or signage, and the Pixel 6 Pro does the rest. When done correctly, the image will look like it was perfectly captured in the first place. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a bigger battery
 
 While Apple's iPhones have made significant improvements to battery life since the early days, the Google Pixel 6 Pro wins the endurance battle. With 5,003 mAh (versus the iPhone's suggested 3,095 mAh), the Pixel 6 Pro can withstand a day's use with more ease than Apple's Pro phone. Google says the Pixel 6 Pro can support up to 9 hours of YouTube playback with just a single charge, which is close to our in-house experiences. It also helps that the Pixel supports USB-C fast charging, a more standardized method of charging than Apple's proprietary Lightning port. 
@@ -74,10 +74,6 @@ While Apple's iPhones have made significant improvements to battery life since t
 **Also: [One year later, Google Pixel 6 Pro is still Google's best smartphone](https://www.zdnet.com/article/google-pixel-6-pro-review/)**
 
 CNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want a sleek, innovative design
 
@@ -88,6 +84,10 @@ With a Gorilla Glass Victus rear and a curved aluminum-edged frame, the Pixel 6 
 Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 on the horizon. With improved theme capabilities, new adaptive widgets, and a slew of Android perks, the Pixel software is both pleasing to the eye and practical. 
 
 [Buy the Google Pixel 6 Pro $418.88 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HYR2NC8%2Fref%3Dasc%5Fdf%5FB09HYR2NC81727521200000%3Fcreative%3D395261%26creativeASIN%3DB09HYR2NC8%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5b1293-c7f0-4074-bebc-aa1278013569%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You should buy the iPhone 13 Pro if...
 
@@ -112,7 +112,7 @@ While not an actual product, the Apple ecosystem is still very much part of the 
 Image: Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
@@ -153,19 +153,19 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-dissection-of-fb-video-dimensions/"><u>[New] 2024 Approved Dissection of FB Video Dimensions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-deep-dive-into-theta-s-a-full-camera-examination/"><u>[Updated] In 2024, Deep Dive Into Theta S A Full Camera Examination</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-youtubes-new-look-shorts-now-on-screen-for-2024/"><u>[Updated] YouTube's New Look - Shorts Now on Screen for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/cam-protection-the-ultimate-10-guide/"><u>Cam Protection The Ultimate 10 Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-pixma-driver-update-a-hassle-free-tutorial-for-fast-results/"><u>Canon PIXMA Driver Update - A Hassle-Free Tutorial for Fast Results</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-hp-officejet-3830-printer-driver-on-windows-pc-free-and-easy/"><u>Download the HP Officejet 3830 Printer Driver on Windows PC - Free and Easy</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-well-does-the-latest-iphone-14-stack-up-insights-from-zdnets-in-depth-analysis/"><u>How Well Does the Latest iPhone 14 Stack Up? Insights From ZDNet's In-Depth Analysis.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-maintenance-revolution-apple-authorizes-reuse-of-components-in-device-fixes-techinsights/"><u>IPhone Maintenance Revolution: Apple Authorizes Reuse of Components in Device Fixes | TechInsights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximize-your-apple-watchs-battery-top-8-essential-setting-adjustments-revealed/"><u>Maximize Your Apple Watch's Battery: Top 8 Essential Setting Adjustments Revealed</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/219222-9780385515214-my-descent-into-death/"><u>My Descent Into Death | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reforestation-and-afforestation-expand-carbon-sinks-by-increasing-the-number-of-trees-that-absorb-co2-from-the-atmosphere/"><u>Reforestation and Afforestation Expand Carbon Sinks by Increasing the Number of Trees that Absorb CO2 From the Atmosphere.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/switching-from-apple-vision-pro-and-meta-quest-3-affordable-alternative-xr-headsets-reviewed-zdnet/"><u>Switching From Apple Vision Pro & Meta Quest 3: Affordable Alternative XR Headsets Reviewed | ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-studio-excellence-the-revolutionary-audio-capabilities-of-apples-latest-iphone-model-as-reviewed-by-zdnet/"><u>Unlocking Studio Excellence: The Revolutionary Audio Capabilities of Apple's Latest iPhone Model, as Reviewed by ZDNET</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/9plusxplusyplusz-(-30/"><u> [9+X+y+z < 30 </u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-create-fantastic-youtube-description-with-templates-to-get-more-viewers/"><u>[New] In 2024, Create Fantastic YouTube Description With Templates To Get More Viewers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimum-locations-magnifying-youtube-videos/"><u>[New] Optimum Locations Magnifying YouTube Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-bite-sized-content-on-youtube-for-2024/"><u>[Updated] Bite-Sized Content on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beauty-behind-the-screen-color-correction-insights/"><u>[Updated] In 2024, Beauty Behind the Screen Color Correction Insights</u></a></li>
+<li><a href="https://win-bits.techidaily.com/copybootsecurely-an-reliable-alternative-to-xml-drive-duplication/"><u>CopyBootSecurely: An Reliable Alternative to XML Drive Duplication</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722903841553-disabling-closed-captions-on-amazon-prime-video-a-step-by-step-guide/"><u>Disabling Closed Captions on Amazon Prime Video: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-block-unwanted-messages-on-your-iphone/"><u>Effective Ways to Block Unwanted Messages on Your iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-crafting-a-trusted-contacts-list-in-googles-mail-service/"><u>Expert Strategies for Crafting a Trusted Contacts List in Google's Mail Service</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-and-remedies-when-your-xbox-series-x-or-s-headset-fails/"><u>Quick Fixes and Remedies When Your Xbox Series X or S Headset Fails</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stay-under-the-radar-effective-steps-for-incognito-mode-across-all-major-browsers/"><u>Stay Under the Radar: Effective Steps for Incognito Mode Across All Major Browsers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-modify-location-on-an-iphone-effectively/"><u>The Ultimate Guide to Modify Location on an iPhone Effectively</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-gopro-comparison-max-360-vs-hero-11-performance/"><u>Ultimate GoPro Comparison Max 360 vs Hero 11 Performance</u></a></li>
 </ul></div>
 

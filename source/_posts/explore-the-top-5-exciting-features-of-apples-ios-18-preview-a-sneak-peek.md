@@ -1,7 +1,7 @@
 ---
 title: "Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek"
-date: 2024-12-24T18:24:14.768Z
-updated: 2024-12-26T03:14:51.635Z
+date: 2025-01-02T17:50:48.730Z
+updated: 2025-01-04T16:28:58.125Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,20 +120,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-best-5-remote-recorders-online/"><u>[Updated] In 2024, Best 5 Remote Recorders Online</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-total-domination-a-ranking-of-the-7-best-war-based-titans/"><u>[Updated] Total Domination A Ranking of the 7 Best War-Based Titans</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2021s-most-anticipated-wearable-dissecting-potential-costs-launch-dates-and-specs-for-the-new-apple-watch-series-x/"><u>2021'S Most-Anticipated Wearable: Dissecting Potential Costs, Launch Dates, and Specs for the New Apple Watch Series X</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-new-apple-watch-ultra-series-2-unveiling-price-estimates-specs-and-release-plans-top-rumors-analyzed/"><u>All-New Apple Watch Ultra Series 2: Unveiling Price Estimates, Specs & Release Plans – Top Rumors Analyzed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/authenticating-successfully-the-pathway-to-an-instagram-blue-checkmark/"><u>Authenticating Successfully: The Pathway to an Instagram Blue Checkmark</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-steps-to-resolve-lagging-and-connections-in-new-world-update/"><u>Easy Steps to Resolve Lagging & Connections in 'New World' Update</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/latest-exclusive-discounts-on-verizon-phone-plans/"><u>Latest Exclusive Discounts on Verizon Phone Plans</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/mastering-the-art-of-telecommuting-key-strategies-revealed-by-zdnet/"><u>Mastering the Art of Telecommuting: Key Strategies Revealed by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-soundbar-woes-heres-how-to-bring-it-back-from-the-dead/"><u>Samsung Soundbar Woes? Here's How to Bring It Back From the Dead</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/secure-your-childn-online-experience-with-easy-discord-controls-setup/"><u>Secure Your Child'n Online Experience with Easy Discord Controls Setup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/time-travel-through-your-iphones-history-with-our-guide-to-viewing-past-notifications/"><u>Time Travel Through Your iPhone's History with Our Guide to Viewing Past Notifications</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-4-solutions-de-restauration-de-donnees-comparables-a-recuersar-par-wondershare/"><u>Top 4 Solutions De Restauration De Données Comparables À Recuérsar Par Wondershare</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-xiaomi-redmi-note-13-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Xiaomi Redmi Note 13 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-the-pattern-4-signs-that-point-to-lesser-usage-on-fb/"><u>Understanding the Pattern: 4 Signs That Point to Lesser Usage on FB</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb-headset-not-working-on-windows-10-solved/"><u>USB Headset Not Working on Windows 10 [Solved]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-master-the-art-of-video-annotation-using-markers-with-ease/"><u>[Updated] Master the Art of Video Annotation Using Markers with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-pc-speed-with-improved-win11-startups/"><u>Boost PC Speed with Improved Win11 Startups</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-14-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on 14.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dual-storage-mastery-how-to-delete-icloud-images-and-keep-them-intact-on-iphone/"><u>Dual-Storage Mastery: How to Delete iCloud Images and Keep Them Intact on iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-best-lgbtq-content-available-on-netflix-this-july-2024/"><u>Explore the Best LGBTQ Content Available on Netflix This July 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-there-a-psn-service-interruption-or-are-you-facing-connectivity-problems/"><u>Is There A PSN Service Interruption, Or Are You Facing Connectivity Problems?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/must-watch-max-documentaries-in-july-2024-our-list/"><u>Must-Watch Max Documentaries in July 2024 - Our List</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-the-maze-of-car-audio-encryption-learn-how-to-find-your-radio-security-code-easily/"><u>Navigate the Maze of Car Audio Encryption – Learn How to Find Your Radio Security Code Easily!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protecting-your-mail-app-on-macos-a-step-by-step-guide-to-creating-safe-senders-lists/"><u>Protecting Your Mail App on macOS: A Step-by-Step Guide to Creating Safe Senders Lists</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-aspect-ratio-adaptation-in-dev-workflows-for-2024/"><u>Seamless Aspect Ratio Adaptation in Dev Workflows for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-tech-hacks-how-to-perform-screen-reflection-on-an-lg-display/"><u>Seamless Tech Hacks: How to Perform Screen Reflection on an LG Display</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/solution-found-overcoming-the-siths-blackout-glitch-in-star-wars-battlefront-2/"><u>Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-gt-5-240w-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme GT 5 (240W) Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-hottest-video-editing-apps-for-iphone-enthusiasts/"><u>Updated S Hottest Video Editing Apps for iPhone Enthusiasts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet
-date: 2024-12-21T09:24:36.471Z
-updated: 2024-12-26T04:43:59.580Z
+date: 2025-01-01T19:33:38.713Z
+updated: 2025-01-04T17:45:08.312Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -49,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -67,6 +67,10 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -77,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,20 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-4k-monitor-buying-guide-how-to-choose-the-right-monitor/"><u>[New] 4K Monitor Buying Guide How to Choose the Right Monitor</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-insights-on-optimal-fpv-drone-blades/"><u>[New] Expert Insights on Optimal FPV Drone Blades</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-and-share-a-beginners-guide-to-viewing-netflix-with-others-online/"><u>Connect & Share: A Beginner's Guide to Viewing Netflix with Others Online</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/great-image-quality-overshadowed-by-confusing-a10-interface/"><u>Great Image Quality Overshadowed by Confusing A10 Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/inhibit-tracking-of-windows-application-startups/"><u>Inhibit Tracking of Windows Application Startups</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/key-decisions-a-9-point-guide-for-prospective-electric-car-buyers/"><u>Key Decisions: A 9-Point Guide for Prospective Electric Car Buyers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-to-command-line-start-powershell-or-command-prompt-directly-from-a-specific-folder/"><u>Navigate to Command Line: Start PowerShell or Command Prompt Directly From a Specific Folder</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-error-0x80070570-diagnosis-and-fixing-techniques/"><u>Navigating Through Error 0X80070570: Diagnosis and Fixing Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/siri-speaks-up-how-to-activate-automatic-text-reading-on-your-ios-and-macos-systems/"><u>Siri Speaks Up: How to Activate Automatic Text Reading on Your iOS and macOS Systems</u></a></li>
-<li><a href="https://win-popular.techidaily.com/solving-system-issues-with-bad-drivers-expert-advice-from-yl-software/"><u>Solving System Issues with Bad Drivers: Expert Advice From YL Software</u></a></li>
-<li><a href="https://article-files.techidaily.com/starting-strategies-for-an-engaging-fb-giveaway/"><u>Starting Strategies for an Engaging FB Giveaway</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-sharing-your-printer-with-multiple-computers-and-gadgets/"><u>Step-by-Step Guide: Sharing Your Printer with Multiple Computers and Gadgets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamlining-submission-a-podcasters-guide/"><u>Streamlining Submission A Podcaster's Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-in-tech-rumored-details-on-the-iphone-17s-pricing-and-launch-date/"><u>The Next Big Thing in Tech: Rumored Details on the iPhone 17'S Pricing and Launch Date</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-adding-expressions-with-iphone-emojis/"><u>The Ultimate Tutorial: Adding Expressions with iPhone Emojis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-examining-the-effectiveness-of-selfie-validation-on-instagram/"><u>[New] In 2024, Examining the Effectiveness of Selfie Validation on Instagram</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716069145478-updated-in-2024-silent-blades-and-righteous-honor-your-next-game-adventure-awaits/"><u>[Updated] In 2024, Silent Blades & Righteous Honor Your Next Game Adventure Awaits!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leap-into-fitness-a-curated-selection-of-vr-treadmill-pros/"><u>[Updated] Leap Into Fitness A Curated Selection of VR Treadmill Pros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-guide-engage-with-audio-content-seamlessly/"><u>2024 Approved IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-online-exposure-on-youtube-by-keeping-up-creative-commons-usage/"><u>2024 Approved Maximizing Online Exposure on YouTube by Keeping Up Creative Commons Usage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/5-crucial-factors-you-shouldnt-ignore-when-building-or-buying-a-new-gaming-pc/"><u>5 Crucial Factors You Shouldn't Ignore When Building or Buying a New Gaming PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/9-pinnacle-in-live-game-broadcasting-for-2024/"><u>9 Pinnacle in Live Game Broadcasting for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cracking-the-code-of-snapchat-expressions-a-detailed-emoji-dictionary/"><u>Cracking the Code of Snapchat Expressions: A Detailed Emoji Dictionary</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/d-link-powerline-2000-reviewed-effortless-configuration-and-high-speed-connectivity-unveiled/"><u>D-Link Powerline 2000 Reviewed: Effortless Configuration & High-Speed Connectivity Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/defeating-lynels-in-zeldas-breath-of-the-wild-tips-and-tricks-for-success/"><u>Defeating Lynels in Zelda's Breath of the Wild - Tips and Tricks for Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-guide-building-your-own-wireless-cinema-experience-in-the-college-dorm/"><u>DIY Guide: Building Your Own Wireless Cinema Experience in the College Dorm</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/do-you-actually-receive-true-dolby-atmos-surround-sound-in-your-home-theater/"><u>Do You Actually Receive True Dolby Atmos Surround Sound in Your Home Theater?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-tutorial-on-reducing-file-size-by-changing-your-24-bit-wavs-to-efficient-16-bit-audio/"><u>Easy Tutorial on Reducing File Size by Changing Your 24-Bit WAVs to Efficient 16-Bit Audio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-in-other-languages/"><u>How to Use ChatGPT in Other Languages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/our-10-favorite-news-aggregators-of-2024/"><u>Our 10 Favorite News Aggregators of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-z-fold-7-unveiled-exploring-costs-launch-timeline-features-and-updates/"><u>Samsung Galaxy Z Fold 7 Unveiled: Exploring Costs, Launch Timeline, Features & Updates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/scripting-success-the-art-of-good-documentaries-for-2024/"><u>Scripting Success The Art of Good Documentaries for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-7-amazing-apps-for-seamless-notetaking-on-ipads-and-ipad-pro/"><u>The Ultimate Guide to 7 Amazing Apps for Seamless Notetaking on iPads & iPad Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-aol-mail-understanding-downtime-or-user-issues/"><u>Troubleshooting AOL Mail: Understanding Downtime or User Issues?</u></a></li>
 </ul></div>
 

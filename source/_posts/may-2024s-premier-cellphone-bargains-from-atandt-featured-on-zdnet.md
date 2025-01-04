@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2024-12-21T04:32:21.443Z
-updated: 2024-12-25T21:56:11.910Z
+date: 2024-12-28T17:58:23.442Z
+updated: 2025-01-04T18:56:10.311Z
 tags:
   - apple
 categories:
@@ -116,6 +116,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -131,7 +135,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Accessory and service deals
@@ -155,7 +159,7 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does AT&T offer deals for existing customers?
@@ -167,7 +171,7 @@ It's true that carriers are the most aggressive with their offers when it's year
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -175,17 +179,13 @@ In general, there is no difference in how much money you save whether you shop o
 ZDNET experts split out the latest and greatest deals for you below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,16 +236,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-glamour-unleashed-comprehensive-youtube-guide-to-elegance/"><u>[New] 2024 Approved Glamour Unleashed Comprehensive YouTube Guide to Elegance</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-convert-for-free-from-twitter-videos-to-animated-gifs/"><u>[New] In 2024, Convert for Free From Twitter Videos to Animated Gifs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-bass-controls-a-deep-dive-into-the-mechanics-of-bass-management/"><u>Demystifying Bass Controls: A Deep Dive Into the Mechanics of Bass Management</u></a></li>
-<li><a href="https://win-web.techidaily.com/elevate-your-screen-with-squid-game-inspired-imagery-from-yl-software-a-gateway-to-cinematic-wallpapers/"><u>Elevate Your Screen with 'Squid Game'-Inspired Imagery From YL Software – A Gateway to Cinematic Wallpapers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-our-picked-selection-of-top-free-virus-detectors-of-this-year/"><u>Explore Our Picked Selection of Top Free Virus Detectors of This Year</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unleashing-the-power-of-preparedness-in-your-streams/"><u>In 2024, Unleashing the Power of Preparedness in Your Streams</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-email-management-linking-gmail-account-with-apple-watch/"><u>Mastering Email Management: Linking Gmail Account with Apple Watch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-editing-tips-for-perfectly-resizing-pictures-for-instagram/"><u>Mastering the Art of Image Editing: Tips for Perfectly Resizing Pictures for Instagram</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snapchat-enhancements-the-most-acclaimed-video-editing-tools-for-2024/"><u>Snapchat Enhancements The Most Acclaimed Video Editing Tools for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-guide-to-automated-mac-lecture-recording/"><u>The Ultimate Guide to Automated Mac Lecture Recording</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-confusing-aspects-of-twitch-chat-explained-for-new-streamers/"><u>Top Confusing Aspects of Twitch Chat Explained for New Streamers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-must-play-openworld-experiences/"><u>[New] Must-Play Openworld Experiences</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-tips-for-iphone-users-converting-standard-speed-to-slow-scenes/"><u>[Updated] 2024 Approved Tips for iPhone Users Converting Standard Speed to Slow Scenes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-real-time-broadcasting-softwares-edge-over-gear/"><u>2024 Approved Real-Time Broadcasting Software's Edge Over Gear?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-breakdown-of-augmented-reality-vs-virtual-reality-vs-mixed-reality-vs-extended-reality/"><u>A Comprehensive Breakdown of Augmented Reality vs Virtual Reality vs Mixed Reality vs Extended Reality</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-realme-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Realme Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://win-hot.techidaily.com/comment-resoudre-le-dilemme-dun-cle-usb-incompatible-avec-windows-10/"><u>Comment Résoudre Le Dilemme D'un Clé USB Incompatible Avec Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/facebook-security-hack-getting-back-in-without-emailphone/"><u>Facebook Security Hack: Getting Back In Without Email/Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-replace-default-browser-with-a-new-one-on-your-samsung-television-online-access/"><u>How to Replace Default Browser with a New One on Your Samsung Television Online Access</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-question-are-airpods-and-nintendo-switch-compatible-lets-explore-your-options/"><u>The Ultimate Question: Are AirPods and Nintendo Switch Compatible? Let's Explore Your Options</u></a></li>
 </ul></div>
 

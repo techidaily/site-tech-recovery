@@ -1,7 +1,7 @@
 ---
 title: "Find Out When You Can Get Your Hands on a New PlayStation Console: Prices, Specs & More"
-date: 2024-08-20T11:35:04.383Z
-updated: 2024-08-21T11:35:04.383Z
+date: 2024-12-30T19:33:05.406Z
+updated: 2025-01-04T18:47:51.577Z
 categories:
   - BestProducts
 description: "This Article Describes Find Out When You Can Get Your Hands on a New PlayStation Console: Prices, Specs & More"
@@ -21,24 +21,34 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
  Sony's PlayStation Portal (formerly Project Q), a handheld device that lets you stream games from your PS5, is out now. Here are all of the details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  PlayStation Portal Release Date 
 
  The Playstation Portal launched November 15, 2023\. Sony first revealed the handheld device at its showcase in May 2023.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PlayStation Portal Price 
 
  The PlayStation Portal costs $199.99.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where to Buy 
 
  You can[ order PlayStation Portal directly from Sony](https://direct.playstation.com/en-us/buy-accessories/playstation-portal-remote-player) . You can also pick it up from other electronics retailers like Target, Amazon, and Best Buy.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  PlayStation Portal Specs and Features 
 
  PlayStation Portal has all the main features of the DualSense, including adaptive triggers, vibration, and a speaker. Sony has opted for an LCD screen rather than OLED, likely to help keep the production costs down.
@@ -57,8 +67,9 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 [  Sony Pulse Elite Headset: News, Price, Release Date, and Specs ](https://www.lifewire.com/sony-pulse-elite-headset-8419539) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest News About the PlayStation Portal 
 
  You can get[ more gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) . Meanwhile, here are some stories about Sony and its other gaming products:
@@ -77,8 +88,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +95,18 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-exploring-tech-worlds-dissecting-ar-mr-and-vr/"><u>[New] 2024 Approved Exploring Tech Worlds Dissecting AR, MR, & VR</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-humor-harmony-optimal-websites-for-fun-ringtones/"><u>[New] 2024 Approved Humor Harmony Optimal Websites for Fun Ringtones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-perfect-your-channel-info-a-template-approach/"><u>2024 Approved Perfect Your Channel Info A Template Approach</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-leading-list-for-best-vector-resources/"><u>2024 Approved The Leading List for Best Vector Resources</u></a></li>
+<li><a href="https://discover-data.techidaily.com/guide-effortlessly-moving-your-iphone-tunes-to-an-outer-hard-disk/"><u>Guide: Effortlessly Moving Your iPhone Tunes to an Outer Hard Disk</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/libcurldll-unavailable-fix-the-missing-dynamic-link-library-now/"><u>libcurl.dll Unavailable? Fix the Missing Dynamic Link Library Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamlessly-stream-disneyplus-content-with-chromecast-what-you-need-to-know/"><u>Seamlessly Stream Disney+ Content with Chromecast - What You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-your-connection-overcoming-the-not-secured-message-online/"><u>Securing Your Connection: Overcoming the 'Not Secured' Message Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/strategic-marketing-websites-for-youtube-videos-for-2024/"><u>Strategic Marketing Websites for YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-pc-fixing-d3dx924dll-missing-error-effectively/"><u>Troubleshooting Your PC: Fixing 'd3dx9_24.dll Missing' Error Effectively</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-secrets-of-advanced-camera-settings-for-2024/"><u>Unveiling the Secrets of Advanced Camera Settings for 2024</u></a></li>
+</ul></div>
 

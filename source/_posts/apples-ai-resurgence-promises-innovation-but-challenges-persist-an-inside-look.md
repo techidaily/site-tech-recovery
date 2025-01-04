@@ -1,7 +1,7 @@
 ---
 title: Apple's AI Resurgence Promises Innovation, but Challenges Persist – An Inside Look
-date: 2024-12-25T02:21:12.060Z
-updated: 2024-12-25T23:41:07.982Z
+date: 2024-12-30T16:26:45.879Z
+updated: 2025-01-04T18:33:30.025Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## What Apple Intelligence will bring to the company's operating system platforms
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## What Apple Intelligence will bring to the company's operating system platforms
 
 ### AI on the device and in the cloud
 
@@ -57,7 +57,7 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Embracing third-party AI providers
@@ -68,10 +68,6 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Smart notifications and writing tools
 
 Smart notifications in Apple's operating systems will leverage on-device LLMs to sift through the noise and ensure that only the most important alerts make it through. This is part of the new Reduce Interruptions Focus, which shows users key details for each notification. System-wide writing tools can write, proofread, and summarize text for users, from short messages to long blog posts, with the Rewrite feature providing multiple versions of text based on the intended audience.
@@ -81,7 +77,7 @@ Smart notifications in Apple's operating systems will leverage on-device LLMs to
 **Room for improvement:** Building on the Reduce Interruptions Focus, further development in proactive assistance features that anticipate user needs based on past behavior and context would be beneficial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI image generation and Genmoji
@@ -104,10 +100,6 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### AI capabilities across Apple products
 
 Lastly, enhancing AI capabilities across all Apple products, including Siri, Apple Music, Apple News, Health, Fitness+, TV, and HomeKit, was a major recommendation. While Apple's AI features are integrated across devices, the specific enhancements for services like Apple Music and HomeKit were limited, at least as addressed in the WWDC keynote.
@@ -115,6 +107,10 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Also: [What is Apple Intelligence? How the iPhone's on-device and cloud-based AI works](https://www.zdnet.com/article/what-is-apple-intelligence-how-the-iphones-on-device-and-cloud-based-ai-will-work/)**
 
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The developer story
 
@@ -139,6 +135,10 @@ Finally, the new Translation API will be unveiled. It will help developers build
 **Also: [Apple unveils an on-device AI image generator for iPhone, iPad, and Mac](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/)**
 
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
 
@@ -180,20 +180,19 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-comedic-craftsmanship-the-best-short-video-ideas-to-entertain-viewers/"><u>[Updated] Comedic Craftsmanship The Best Short Video Ideas to Entertain Viewers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-record-overwatch/"><u>[Updated] How to Record Overwatch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/direct-line-to-assistance-how-to-contact-snapchat-customer-service-efficiently/"><u>Direct Line to Assistance: How to Contact Snapchat Customer Service Efficiently</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/e-meet-go-live-your-youtube-broadcast-companion-for-2024/"><u>Google Meet Go Live - Your YouTube Broadcast Companion for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-boost-and-optimize-a-lagging-internet-connection/"><u>How To Boost And Optimize A Lagging Internet Connection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-oneplus-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your OnePlus ?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphones-silent-mode-solved-restore-sms-and-call-functionality-with-these-eight-tips/"><u>IPhone's Silent Mode Solved: Restore SMS & Call Functionality with These Eight Tips</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-elevate-your-editing-skills-top-10-final-cut-pro-x-plugins-for-professionals-and-beginners/"><u>New 2024 Approved Elevate Your Editing Skills Top 10 Final Cut Pro X Plugins for Professionals and Beginners</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-regain-zoom-audio-on-windows-or-mac-computers/"><u>Quick Fixes to Regain Zoom Audio on Windows or Mac Computers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-preventing-spam-texts-on-ios-devices/"><u>Step-by-Step Guide: Preventing Spam Texts on iOS Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-premier-maximilian-documentary-selection-for-july-2024-our-expert-picks/"><u>The Premier Maximilian Documentary Selection for July 2024 - Our Expert Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transforming-virtual-meetings-the-ultimate-guide-to-using-google-duo-within-gmail/"><u>Transforming Virtual Meetings: The Ultimate Guide to Using Google Duo Within Gmail</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-correctly-resetting-your-samsung-ledlcd-tv/"><u>Troubleshooting Tips: Correctly Resetting Your Samsung LED/LCD TV</u></a></li>
-<li><a href="https://win-trending.techidaily.com/44gp44gg44gz44km44gw5lplusu5q2j5rii44g44kk44oh44o844k444ov44kh44kk44or44ks5q2j5bi444gr44oe44km44oz44oi44gn44gn44kl44gl77yf/"><u>どうすれば修正済みイメージファイルを正常にマウントできるか？</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-snapchat-spotlight-explained-how-it-works/"><u>[New] In 2024, Snapchat Spotlight Explained How It Works</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-navigating-twitters-reaction-videos-explained-for-2024/"><u>[New] Navigating Twitter's Reaction Videos Explained for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-now-and-next-how-todays-drones-shape-tomorrows-world/"><u>[Updated] In 2024, Now & Next How Today's Drones Shape Tomorrow's World</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-perfecting-pitched-lines-writing-natural-conversations/"><u>[Updated] In 2024, Perfecting Pitched Lines Writing Natural Conversations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/before-you-invest-in-a-smart-tv-here-are-7-crucial-things-to-know-first/"><u>Before You Invest in a Smart TV? Here Are 7 Crucial Things to Know First!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-on-how-to-update-your-chromecast-device/"><u>Comprehensive Tutorial on How to Update Your Chromecast Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminating-code-nt000-nt004-nt005-errors-in-windows-device-manager-with-ease/"><u>Eliminating Code nT!000, NT!004, NT!005 Errors in Windows Device Manager with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-resolve-adobe-photoshops-scratch-space-shortage/"><u>Expert Tips to Resolve Adobe Photoshop’s Scratch Space Shortage</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/fix-in-ios-16-duplicate-images-not-displayed-correctly/"><u>Fix: In iOS 16, Duplicate Images Not Displayed Correctly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/goofy-bliss-classic-film-revisited-for-2024/"><u>Goofy Bliss Classic Film Revisited for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/ownership-deciphering-in-instasongs-for-2024/"><u>Ownership Deciphering in InstaSongs for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quickly-move-and-edit-your-android-images-on-windows-11-a-simple-guide/"><u>Quickly Move & Edit Your Android Images on Windows 11: A Simple Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-a-guide-to-correcting-dll-file-is-missing-issues/"><u>Solving the Mystery: A Guide to Correcting 'DLL File Is Missing' Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-m4-mac-mini-anticipated-launch-details-and-pricing-insights/"><u>Upcoming M4 Mac Mini: Anticipated Launch Details & Pricing Insights</u></a></li>
 </ul></div>
 

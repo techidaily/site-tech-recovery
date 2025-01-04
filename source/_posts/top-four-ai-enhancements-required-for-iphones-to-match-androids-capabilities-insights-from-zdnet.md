@@ -1,7 +1,7 @@
 ---
 title: Top Four AI Enhancements Required for iPhones to Match Android's Capabilities - Insights From ZDNet
-date: 2024-12-23T01:51:24.666Z
-updated: 2024-12-25T23:19:06.012Z
+date: 2024-12-29T18:19:09.378Z
+updated: 2025-01-04T16:40:53.765Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,21 +126,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-premium-image-quality-through-youtubes-av1-settings/"><u>[Updated] Unlock Premium Image Quality Through YouTube's AV1 Settings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-reviewing-changes-in-the-sony-s6500-blu-ray-system/"><u>2024 Approved Reviewing Changes in the Sony S6500 Blu-Ray System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/android-blackout-heres-how-to-restore-your-devices-visibility/"><u>Android Blackout? Here's How to Restore Your Device's Visibility</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/effortless-downloading-transform-your-videos-from-m4v-into-m4a-at-no-cost-with-our-easy-to-use-tool/"><u>Effortless Downloading: Transform Your Videos From M4V Into M4A at No Cost with Our Easy-to-Use Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-video-conferencing-game-how-to-utilize-the-background-blur-function-in-google-meet-effortlessly/"><u>Elevate Your Video Conferencing Game: How to Utilize the Background Blur Function in Google Meet Effortlessly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-fix-invisible-youtube-comments-understanding-and-correcting-common-issues/"><u>Guide to Fix Invisible YouTube Comments: Understanding & Correcting Common Issues</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-14-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi 14 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-repair-a-malfunctioning-amazon-firestick-controller/"><u>How to Repair a Malfunctioning Amazon Firestick Controller?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-tecno-pova-6-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Tecno Pova 6 Pro 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-integration-free-text-animations-both-ways/"><u>In 2024, Seamless Integration Free Text Animations Both Ways</u></a></li>
-<li><a href="https://common-error.techidaily.com/league-of-legends-download-speed-problem-solutions-and-tips/"><u>League of Legends Download Speed Problem: Solutions and Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-missing-oleaut32dll-a-step-by-step-guide/"><u>Resolving 'Missing oleAut32.dll': A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/snicker-snapshots-jokeframe/"><u>Snicker Snapshots JokeFrame</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-changing-your-iphones-locale-settings/"><u>Step-by-Step Guide: Changing Your iPhone's Locale Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-tips-how-to-restart-your-ipad-after-forgetting-its-security-code/"><u>Unlocking Tips: How to Restart Your iPad After Forgetting Its Security Code</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-expert-tips-to-correct-video-transmission-problem-on-mobile-messengers/"><u>[Updated] 2024 Approved Expert Tips to Correct Video Transmission Problem on Mobile Messengers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-scriptwriting-secrets-for-docu-films/"><u>[Updated] Scriptwriting Secrets for Docu-Films</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-shorts-creating-flawless-5-second-videos/"><u>[Updated] YouTube Shorts Creating Flawless 5-Second Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-navigating-next-gen-storage-the-ultimate-five/"><u>2024 Approved Navigating Next-Gen Storage The Ultimate Five</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-writing-empowering-word-with-gpt/"><u>Cutting Edge Writing: Empowering Word with GPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-streaming-issues-can-you-tell-if-twitch-server-down-or-only-yours-facing-connectivity-problems/"><u>Decoding Streaming Issues: Can You Tell If Twitch Server Down or Only Yours Facing Connectivity Problems?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/evaluating-the-longevity-of-electric-car-batteries-vs-gas-engine-life-spans/"><u>Evaluating the Longevity of Electric Car Batteries Vs. Gas Engine Life Spans</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-detect-missing-graphics-chips/"><u>Guide to Detect Missing Graphics Chips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-se-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone SE? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-discover-the-power-of-luts-in-digital-photography/"><u>In 2024, Discover the Power of LUTs in Digital Photography</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/running-script-files-on-windows-a-step-by-step-guide/"><u>Running Script Files on Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/snapchat-cleanup-made-easy-how-to-delete-multiple-friends-quickly-and-effectively/"><u>Snapchat Cleanup Made Easy: How to Delete Multiple Friends Quickly and Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-to-access-and-decompress-rar-files-on-macos/"><u>Step-by-Step Instructions to Access and Decompress RAR Files on macOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/summer-survival-kit-discover-the-7-key-elements-for-your-daily-travel-pack/"><u>Summer Survival Kit: Discover the 7 Key Elements for Your Daily Travel Pack</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-process-of-tiktok-account-deletion-explained/"><u>The Comprehensive Process of TikTok Account Deletion Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-3-emerging-technologies-you-cant-ignore/"><u>Top 3 Emerging Technologies You Can't Ignore</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transitioning-between-generations-how-to-play-your-ps4-collection-on-the-new-ps5/"><u>Transitioning Between Generations: How to Play Your PS4 Collection on the New PS5?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/travel-friendly-powershot-g9x2-elegant-and-featureful/"><u>Travel-Friendly PowerShot G9X2: Elegant & Featureful</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-basics-of-ray-tracing-technology/"><u>Understanding the Basics of Ray Tracing Technology</u></a></li>
 </ul></div>
 

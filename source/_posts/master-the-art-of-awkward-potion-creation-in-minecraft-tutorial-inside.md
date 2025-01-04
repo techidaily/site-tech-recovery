@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Awkward Potion Creation in Minecraft - Tutorial Inside!
-date: 2024-08-20T11:36:07.338Z
-updated: 2024-08-21T11:36:07.338Z
+date: 2025-01-02T17:55:54.942Z
+updated: 2025-01-04T16:18:56.892Z
 categories:
   - BestProducts
 description: This Article Describes Master the Art of Awkward Potion Creation in Minecraft - Tutorial Inside!
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/ll2czKB3hmzMFeh13Z4jehTj908=/540x405/fi
 
  This article explains how to show the Mac Finder Path Bar. Information in this article applies to macOS Catalina (10.15) through OS X (10.5) Leopard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the Finder Path Bar
 
  The Finder Path Bar is disabled by default, but it only takes a few seconds to enable it.
@@ -30,8 +34,9 @@ thumbnail: https://www.lifewire.com/thmb/ll2czKB3hmzMFeh13Z4jehTj908=/540x405/fi
 ![Path Bar at bottom of Finder window](https://www.lifewire.com/thmb/gbXg4tnHLHCs1fJYTDgWyaog8vQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-use-macs-hidden-finder-path-bar-2260868-bfdde3c3e82b4222972d05afbe604e6c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What is the Finder Path Bar?
 
  The Finder Path Bar is a small pane located at the bottom of a[Finder window](https://www.lifewire.com/use-mac-finder-2260739) , just below where files and folders are listed. The Path Bar shows you the path from the folder you're currently viewing to the top of the file system. To put it another way, it shows you the path you created when you clicked through the Finder to get to the current folder.
@@ -46,9 +51,6 @@ thumbnail: https://www.lifewire.com/thmb/ll2czKB3hmzMFeh13Z4jehTj908=/540x405/fi
 
  The Path Bar disappears.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Other Uses of the Finder Path Bar
 
  In addition to its obvious use as a road map showing where you've been and how you got from there to here, the Path Bar also serves other handy functions.
@@ -60,34 +62,25 @@ thumbnail: https://www.lifewire.com/thmb/ll2czKB3hmzMFeh13Z4jehTj908=/540x405/fi
 * The Path Bar also works when you're performing a[Finder search](https://www.lifewire.com/use-spotlight-keyword-searches-to-find-files-2260809) . When the results of a search are displayed in the Finder, you can discover where an item is stored by selecting the item in the search results and then glancing at the Path Bar.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Additional Ways to Show the Path
 
  The Path Bar is handy, but there are other ways to display the path to an item. One method is to[add the Path icon to the Finder's toolbar](https://www.lifewire.com/customize-finder-toolbar-2260859) by selecting**View** in the Finder menu bar and choosing**Customize Toolbar** .
 
 ![Customize Toolbar chosen from Finder View menu](https://www.lifewire.com/thmb/85T2ZFHx5DifChRTc-RY-crMIzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-use-macs-hidden-finder-path-bar-2260868-5029e6be5ffb4a7e8d878b81376c7b6b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Drag the**Path** icon to the top of the Finder window.
 
 ![The Path icon applied to the top of the Finder](https://www.lifewire.com/thmb/sXjTsuUVrBaufWskUszQkAeKP-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-use-macs-hidden-finder-path-bar-2260868-dcd2a4bce60941beb1735c254c59d8fd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Path icon displays the path to the currently selected item much as the Path Bar does. The difference is that the Path Bar shows the path in a horizontal format, while the Path icon uses a vertical format. The other difference is that the Path button only displays the path when the button is clicked.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Display the Full Pathname
 
  The final method for showing the path to an item within a Finder window makes use of the Finder's title bar[and its proxy icon](https://www.lifewire.com/finders-icon-view-options-2260725) . The Finder's proxy icon can already display a path. All you need to do is right-click the icon. This path uses a series of icons to show the path to the current Finder window. However, with[a bit of Terminal magic](https://www.lifewire.com/mac-terminal-commands-4774997) , you can change the Finder's title bar and its proxy icon to display the true pathname, not a bunch of icons. For example, if you have a Finder window open on your Downloads folder, the standard proxy icon is a folder icon with the name "Downloads." After using this Terminal trick, the Finder instead displays a small folder icon followed by /Users/YourUserName/Downloads.
@@ -104,6 +97,10 @@ thumbnail: https://www.lifewire.com/thmb/ll2czKB3hmzMFeh13Z4jehTj908=/540x405/fi
 5. Press**Enter** or**Return** .
 
  The Finder restarts, after which any Finder window displays the long pathname to the current location of a folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn Off the Display of the Full Pathname
 
@@ -145,8 +142,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +149,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-collaborate-for-success-video-strategies/"><u>[Updated] In 2024, Collaborate for Success Video Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unveiling-the-best-ways-to-capture-your-minecraft-quests-on-a-mac/"><u>2024 Approved Unveiling the Best Ways to Capture Your Minecraft Quests on a Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-for-mapping-shared-drives-in-the-macos-environment/"><u>Comprehensive Tutorial for Mapping Shared Drives in the macOS Environment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722865882392-discover-the-hottest-max-series-offering-right-this-second/"><u>Discover the Hottest MAX Series Offering Right This Second!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-eliminating-unwanted-bass-noise-in-your-speakers/"><u>Effective Solutions for Eliminating Unwanted Bass Noise in Your Speakers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-techniques-to-correct-code-39-error-messages-in-windows-system/"><u>Effective Techniques to Correct Code 39 Error Messages in Windows System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-battery-life-on-windows-10-with-built-in-reporting-features/"><u>Maximizing Battery Life on Windows 10 with Built-In Reporting Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-network-pathways-expert-insights-on-implementing-tracert-commands-within-the-windows-os/"><u>Navigating Network Pathways: Expert Insights on Implementing Tracert Commands Within the Windows OS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-final-cut-pro-slideshow-creation-guide-for-beginners/"><u>New 2024 Approved The Ultimate Final Cut Pro Slideshow Creation Guide for Beginners</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-galaxy-f34-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Galaxy F34 5G on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-wow-troubles-check-these-driver-updates-to-restore-game-functionality/"><u>Resolving WoW Troubles - Check These Driver Updates to Restore Game Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/simple-steps-to-adapt-videos-for-optimal-playback-on-apple-tv-devices/"><u>Simple Steps to Adapt Videos for Optimal Playback on Apple TV Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-13-free-and-open-source-screen-capture-tools-exploring-options-beyond-movavi/"><u>Top 13 Free & Open-Source Screen Capture Tools: Exploring Options Beyond Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-new-levels-of-performance-the-impact-of-photochromic-glasses-on-my-biking-adventure/"><u>Unlocking New Levels of Performance: The Impact of Photochromic Glasses on My Biking Adventure</u></a></li>
+</ul></div>
 

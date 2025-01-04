@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Overview of Wi-Fi Protocols: From 802.11B/G/N to the Latest 802.11Ax"
-date: 2024-08-20T11:36:23.348Z
-updated: 2024-08-21T11:36:23.348Z
+date: 2024-12-31T18:17:07.052Z
+updated: 2025-01-04T19:31:43.775Z
 categories:
   - BestProducts
 description: "This Article Describes Comprehensive Overview of Wi-Fi Protocols: From 802.11B/G/N to the Latest 802.11Ax"
@@ -26,7 +26,15 @@ thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39
 
 ![A comparison chart of the Pros and Cons of the wireless standards 802.11ac, 802.11n, and 802.11g.](https://www.lifewire.com/thmb/nKbWckJ_1AKQ-SoggPXVECQ_pK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wireless-standards-802-11a-802-11b-g-n-and-802-11ac-816553-36294250342e404eabe7dc94bc7a40f9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 802.11be (Wi-Fi 7)
 
@@ -34,20 +42,22 @@ Lifewire
 
  While final ratification of this standard isn't expected until the end of 2024, Wi-Fi 7 devices are already available.  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 802.11ax (Wi-Fi 6)
 
  Branded as Wi-Fi 6, the 802.11ax standard went live in 2019 to replace 802.11ac. Wi-Fi 6 maxes out at about 10 Gbps, uses less power, is more reliable in congested environments, and supports better security. Wi-Fi 6E is an extension of this standard that adds the[6 GHz band](https://www.lifewire.com/6ghz-6e-wi-fi-4845541) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 802.11aj
 
  Known as the China Millimeter Wave, this standard applies in China and is a rebranding of 802.11ad for use in certain areas of the world. The goal is to maintain backward compatibility with 802.11ad.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 802.11ah
 
  Approved in May 2017, this standard targets lower energy consumption and creates extended-range Wi-Fi networks that can go beyond the reach of a typical 2.4 GHz or 5 GHz network. It competes with Bluetooth, given its lower power needs.
@@ -55,8 +65,9 @@ Lifewire
 [Is 5 GHz Wi-Fi Better Than 2.4 GHz?](https://www.lifewire.com/is-5-ghz-wifi-better-than-2-4-ghz-818293)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 802.11ad
 
  This standard was approved in December 2012 and is freakishly fast (several Gbits/second). However, the client device must be within 30 feet of the access point.
@@ -71,9 +82,6 @@ Lifewire
 
  802.11ac is also referred to as Wi-Fi 5.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 802.11n (Wi-Fi 4)
 
  802.11n (also sometimes known as[Wireless N](https://www.lifewire.com/what-is-wireless-n-818280) ) was designed to improve on 802.11g in the bandwidth it supports by using several wireless signals and antennas (called_MIMO_ technology) instead of one. Industry standards groups ratified 802.11n in 2009 with specifications providing up to 600 Mbps of network bandwidth. 802.11n also offers a somewhat better range over earlier Wi-Fi standards due to its increased signal intensity, and it is backward-compatible with 802.11a/b/g gear.
@@ -88,9 +96,6 @@ Lifewire
 
  802.11g is also unofficially referred to as_Wi-Fi 3_ .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 802.11a (Wi-Fi 2)
 
  While 802.11b was in development, IEEE created a second extension to the original 802.11 standard called_802.11a_ . Because 802.11b gained popularity much faster than 802.11a, some folks believe that 802.11a was created after 802.11b. In fact, 802.11a was created at the same time. Due to its higher cost, 802.11a is usually found on business networks, whereas 802.11b better serves the home market.
@@ -109,9 +114,6 @@ Lifewire
 
  802.11b is also unofficially referred to as_Wi-Fi 1_ .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## What About Bluetooth and the Rest?
 
  Aside from these five general-purpose Wi-Fi standards, several other related wireless network technologies offer slightly different value propositions.
@@ -182,8 +184,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +191,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-ultimate-tiktok-twitter-syncing-method/"><u>[New] 2024 Approved The Ultimate TikTok-Twitter Syncing Method</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-guide-to-find-youtube-templates-vids/"><u>[New] Ultimate Guide to Find Youtube Templates Vids</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nraveling-the-secrets-of-captivating-education-videos-the-ultimate-youtube-strategy-for-2024/"><u>[New] Unraveling the Secrets of Captivating Education Videos The Ultimate YouTube Strategy for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722881003369-ace-those-classes-with-youtube-premiums-exclusive-student-deals/"><u>Ace Those Classes with YouTube Premium's Exclusive Student Deals!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-communication-with-unique-signatures-mastering-the-art-of-personalization-in-godaddy-mail/"><u>Enhancing Communication with Unique Signatures: Mastering the Art of Personalization in Godaddy Mail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/home-theater-and-high-speed-internet-how-to-connect-them-seamlessly/"><u>Home Theater and High Speed Internet: How to Connect Them Seamlessly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-long-do-electric-cars-last-compared-to-their-gasoline-powered-counterparts/"><u>How Long Do Electric Cars Last Compared to Their Gasoline-Powered Counterparts?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-search-issues-and-enhance-usability-in-your-windows-11-system/"><u>How to Fix Search Issues and Enhance Usability in Your Windows 11 System</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-leap-into-live-video-creating-a-dynamic-online-experience/"><u>In 2024, Leap Into Live Video Creating a Dynamic Online Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-magic-vs-2-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor Magic Vs 2 Phone Pattern Lock</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/large-studiofx-softbox-review-robust-brightness/"><u>Large StudioFX Softbox Review: Robust Brightness</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-your-malfunctioning-equipment-tactics-for-dealing-with-startup-errors-specifically-code-10-complications/"><u>Troubleshoot Your Malfunctioning Equipment: Tactics for Dealing with Startup Errors, Specifically Code 10 Complications</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-solving-the-hp-laserjet-p2035-driver-woes-in-windows-systems/"><u>Troubleshooting and Solving the HP LaserJet P2035 Driver Woes in Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unleash-inspiration-the-507-most-captivating-instagram-captions/"><u>Unleash Inspiration: The 507 Most Captivating Instagram Captions</u></a></li>
+</ul></div>
 

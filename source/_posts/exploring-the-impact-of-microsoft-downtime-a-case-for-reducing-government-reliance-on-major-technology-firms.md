@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Impact of Microsoft Downtime: A Case for Reducing Government Reliance on Major Technology Firms"
-date: 2024-08-20T11:40:20.996Z
-updated: 2024-08-21T11:40:20.996Z
+date: 2024-12-31T17:29:46.181Z
+updated: 2025-01-04T18:05:08.620Z
 categories:
   - BestProducts
 description: "This Article Describes Exploring the Impact of Microsoft Downtime: A Case for Reducing Government Reliance on Major Technology Firms"
@@ -26,6 +26,10 @@ Shekai / Unsplash
 
  "It is significantly easier to manage, monitor, and operate an organization that uses a standardized set of tools," cybersecurity expert and white-hat hacker[Andrew Plato](https://zenaciti.com/founders-user-manual/) told Lifewire via email. "Standardization is a key component in not only efficiency but also in security. Uniform, consistent environments are easier to secure since it becomes easier to identify things that are out of place."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Monoculture
 
  Security is boring, and not just for you and me. A large company is no more inclined to spend time and money on security than anyone else, which is why we keep hearing about[massive privacy breaches at companies](https://www.nytimes.com/2024/05/31/business/ticketmaster-hack-data-breach.html) whose business is to look after user data. Security is often just a checkbox on some compliance form, and so we end up with these companies buying the most obvious off-the-shelf solution so that they can check this box.
@@ -33,6 +37,10 @@ Shekai / Unsplash
  The result of these two factors—consolidation and compliance—is that many businesses run on Microsoft, and many of those use security products like Crowdstrike. Standardization makes things easier.  
 
 ![Frown face from blue screen of death](https://www.lifewire.com/thmb/Lqv4aGyuYC6HNd5WDK1DTTPYgvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/joshua-hoehne-3n2uI0quNsA-unsplash-0e8d510435ae4397821e1d01bac2c441.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is how I feel every time I have to use Windows.
 
@@ -48,11 +56,19 @@ Shekai / Unsplash
 
  Now, imagine a similar outage, only it shuts down the water plant, puts hospitals offline, or some other nightmare scenario.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open Source
 
  For these exact reasons, governments should not rely on proprietary software that is outside of their control. Instead, they should look to another model: open-source, aka "free" software. Open source means that the source code, the part that humans write before a computer crunches it into executable software, is open for anyone to read, use, and modify.
 
 ![Neon sign that reads 'Open.'](https://www.lifewire.com/thmb/XbRPJ1gFGnBq6454pNxdBi-InMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/viktor-forgacs-LNwIJHUtED4-unsplash-32bb3afaa57e4665ba788b48e805e2a8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Open.
 
@@ -90,8 +106,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,8 +113,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-exclusive-roundup-best-windows-11-video-recording-options-for-2024/"><u>[New] Exclusive Roundup Best Windows 11 Video Recording Options for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unleash-creativity-on-screen-discover-the-best-reactions/"><u>[New] Unleash Creativity on Screen Discover the Best Reactions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-teaching-through-media-pro-video-editing-hacks/"><u>[Updated] Teaching Through Media Pro Video Editing Hacks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-elite-collection-best-kung-fu-arcade-games/"><u>2024 Approved The Elite Collection Best Kung Fu Arcade Games</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-xs-max-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone XS Max to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/an-in-depth-look-at-the-operating-principles-of-electric-cycles/"><u>An In-Depth Look at the Operating Principles of Electric Cycles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-icloud-email-security-with-dual-stage-verification/"><u>Enhancing iCloud Email Security with Dual-Stage Verification</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-every-aspect-of-netflixs-online-viewing-experience/"><u>Exploring Every Aspect of Netflix's Online Viewing Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gamers-favorite-iphones-of-2023-top-picks-for-enthusiastic-players/"><u>Gamers' Favorite iPhones of 2023 – Top Picks for Enthusiastic Players</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-a-free-glimpse-into-the-realm-of-ocm-football/"><u>Get a FREE Glimpse Into the Realm of OCM Football</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-nokia-g22-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Nokia G22 Without PUK Codes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/master-hashtag-dynamics-on-igtv-for-follower-surge-for-2024/"><u>Master Hashtag Dynamics on IGTV for Follower Surge for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-facebooks-photo-database-with-ease-and-effectiveness/"><u>Navigating Facebook's Photo Database with Ease and Effectiveness</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-mac-issues-navigating-macos-startup-recovery-options/"><u>Quick Fixes for Mac Issues: Navigating macOS Startup Recovery Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essential-guide-to-choosing-among-our-favorite-gratis-uninstallers-top-15/"><u>The Essential Guide to Choosing Among Our Favorite Gratis Uninstallers (Top 15)</u></a></li>
+<li><a href="https://fox-where.techidaily.com/upgrade-auf-ein-neues-iphone-ersatz-ihres-alten-gerats-mitohne-fruheres-backup-nutzen/"><u>Upgrade Auf Ein Neues iPhone – Ersatz Ihres Alten Geräts Mit/Ohne Früheres Backup Nutzen</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

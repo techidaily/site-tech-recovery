@@ -1,7 +1,7 @@
 ---
 title: Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet
-date: 2024-12-19T05:17:51.619Z
-updated: 2024-12-26T00:47:20.238Z
+date: 2025-01-02T16:34:32.685Z
+updated: 2025-01-04T18:39:23.207Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,19 +120,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-maximize-attendee-visibility-with-google-meet-grids/"><u>[New] 2024 Approved Maximize Attendee Visibility with Google Meet Grids</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-dance-dictates-selecting-perfect-audio-visuals-for-2024/"><u>[New] Dance Dictates Selecting Perfect Audio-Visuals for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-epic-stories-academy-the-premier-8-list/"><u>[New] Epic Stories Academy – The Premier 8 List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits/"><u>[New] In 2024, From Script to Screen The Compreeved Guide to YouTube Video Edits</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-watch-showdown-discovering-your-perfect-match-with-the-ultra-vs-series-8/"><u>Apple Watch Showdown: Discovering Your Perfect Match with the Ultra Vs. Series 8</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apples-subtly-powerful-ai-innovation-set-to-unveil-at-wwdc-the-hidden-gem-you-dont-want-to-miss/"><u>Apple's Subtly Powerful AI Innovation Set to Unveil at WWDC: The Hidden Gem You Don't Want to Miss</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-latest-innovations-from-apples-iphone-16-launch-introducing-glowtime-ai-features-and-new-apple-watch-series-10-all-covered-by-zdnet/"><u>Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-methods-to-enhance-complexity-on-your-apple-watch-insights/"><u>Effortless Methods to Enhance Complexity on Your Apple Watch: Insights</u></a></li>
-<li><a href="https://fox-access.techidaily.com/essential-tips-for-harnessing-movie-maker-in-windows-8-systems/"><u>Essential Tips for Harnessing Movie Maker in Windows 8 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-evolution-of-siri-at-apple-embracing-the-future-with-ai-strategies-similar-to-bing/"><u>The Evolution of Siri at Apple - Embracing the Future with AI Strategies Similar to Bing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-xs-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone XS Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/updated-epson-wf-3620-printing-software-compatible-with-windows-os-1087/"><u>Updated Epson WF-3620 Printing Software Compatible With Windows OS (10/8/7)</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/upgrading-your-virtual-machines-transitioning-from-hyper-vs-generation-1-to-generation-2/"><u>Upgrading Your Virtual Machines: Transitioning From Hyper-V's Generation 1 to Generation 2</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/why-everyone-should-choose-apple-pages-a-breakdown-by-experts-at-zdnet-top-5-reasons-unveiled/"><u>Why Everyone Should Choose Apple Pages: A Breakdown by Experts at ZDNet, Top 5 Reasons Unveiled</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-proven-strategies-for-professional-lut-making-for-2024/"><u>[New] Proven Strategies for Professional LUT Making for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonious-hits-where-to-find-rare-ringtone-files/"><u>2024 Approved Harmonious Hits Where to Find Rare Ringtone Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-stabilize-for-success-3-secrets-of-iphone-video-making/"><u>2024 Approved Stabilize for Success 3 Secrets of iPhone Video Making</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converting-from-android-how-the-new-iphone-16-could-change-my-mind-techinsider/"><u>Converting From Android: How the New iPhone 16 Could Change My Mind | TechInsider</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-closed-captions-in-amazon-prime-streaming/"><u>Disabling Closed Captions in Amazon Prime Streaming</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/humor-hacks-techniques-for-parody-filmmaking-for-2024/"><u>Humor Hacks Techniques for Parody Filmmaking for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-zte-nubia-flip-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your ZTE Nubia Flip 5G Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-mobile-photography-advanced-iphoneipad-lens-and-settings-adjustments/"><u>Mastering Mobile Photography: Advanced iPhone/iPad Lens and Settings Adjustments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/most-captivating-disneyplus-movie-selections-currently-streaming/"><u>Most Captivating Disney+ Movie Selections Currently Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/safeguarding-your-circle-methods-for-discerning-genuine-from-counterfeit-social-invites/"><u>Safeguarding Your Circle: Methods for Discerning Genuine From Counterfeit Social Invites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-at-the-samsung-galaxy-ring-pricing-strategies-expected-arrival-and-technical-specifications/"><u>Sneak Peek at the Samsung Galaxy Ring: Pricing Strategies, Expected Arrival & Technical Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/viewing-tips-access-and-enjoy-roku-channels-on-alternative-devices/"><u>Viewing Tips: Access and Enjoy Roku Channels on Alternative Devices</u></a></li>
 </ul></div>
 
