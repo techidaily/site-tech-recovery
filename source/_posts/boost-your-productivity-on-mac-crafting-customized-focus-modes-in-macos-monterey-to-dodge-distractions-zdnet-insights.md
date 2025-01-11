@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity on Mac: Crafting Customized Focus Modes in macOS Monterey to Dodge Distractions | ZDNET Insights"
-date: 2024-12-10T16:23:15.134Z
-updated: 2024-12-17T16:50:56.583Z
+date: 2025-01-06T10:05:09.904Z
+updated: 2025-01-11T10:23:08.755Z
 tags:
   - apple
 categories:
@@ -27,21 +27,17 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -53,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -65,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -97,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,22 +140,16 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-narrative-enhancements-the-process-of-infusing-text-into-your-video-content/"><u>[New] 2024 Approved Narrative Enhancements The Process of Infusing Text Into Your Video Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-youtube-community-terms-and-policies/"><u>[New] In 2024, Decoding YouTube Community Terms and Policies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-playtime-pathways-video-games-resembling-gta-v/"><u>[New] In 2024, Playtime Pathways Video Games Resembling GTA V</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-pathway-autoplay-youtube-videos-within-fb-networks-for-2024/"><u>[New] The Ultimate Pathway Autoplay YouTube Videos Within FB Networks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fundamentals-of-writing-captivating-videography-scripts/"><u>[Updated] Fundamentals of Writing Captivating Videography Scripts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-definitive-path-from-twitter-video-to-creatively-crafted-gifs/"><u>[Updated] The Definitive Path From Twitter Video to Creatively Crafted GIFs</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/abbyy-workforce-insights-unearthing-the-unique-passions-that-fuel-our-dynamic-skill-set/"><u>ABBYY Workforce Insights: Unearthing the Unique Passions that Fuel Our Dynamic Skill Set</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-gratuita-de-mp4-a-avi-online-manteniendo-alta-calidad-pasos-sencillos-para-usuarios-avanzados/"><u>Conversión Gratuita De MP4 a AVI Online Manteniendo Alta Calidad - Pasos Sencillos Para Usuarios Avanzados</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/editor-de-fotografia-gratuito-para-computador-guia-completo-em-ingles/"><u>Editor De Fotografia Gratuito Para Computador - Guia Completo Em Inglês</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-converter-change-your-files-from-opusmp3-format-with-movavi/"><u>Free Online Converter: Change Your Files From Opus/MP3 Format with Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-converter-mp4-to-wmv-easy-and-fast-transformations-with-movavi/"><u>Free Online Converter: MP4 to WMV - Easy & Fast Transformations with Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-converter-transform-flv-files-into-high-quality-mp3s-with-ease/"><u>Free Online Converter: Transform FLV Files Into High-Quality MP3s with Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/getting-started-with-vocal-recording-a-starters-selection-of-microphones-and-software/"><u>Getting Started with Vocal Recording: A Starter’s Selection of Microphones & Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guia-facil-para-transformar-seu-dvd-de-filme-em-mp4-usando-aplicativos-sem-custo/"><u>Guia Fácil Para Transformar Seu DVD De Filme Em MP4 Usando Aplicativos Sem Custo</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-7-ideas-to-improve-the-unboxing-experience/"><u>In 2024, 7 Ideas to Improve the Unboxing Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailored-strategies-for-enhancing-virtual-memory-on-windows-11-systems/"><u>Tailored Strategies for Enhancing Virtual Memory on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-12-ultimate-4k-video-capture-tools-compatible-with-all-gadgets-discover-the-ideal-choice/"><u>Top 12 Ultimate 4K Video Capture Tools Compatible with All Gadgets - Discover the Ideal Choice!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-tricks-for-non-engagement-with-edgenuity-video-content/"><u>[New] Tricks for Non-Engagement with Edgenuity Video Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-prestigious-directory-free-visuals-hubs-galore-online-for-2024/"><u>[Updated] Prestigious Directory FREE Visuals Hubs Galore Online for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bridging-gaming-generations-playing-ps4-games-on-a-sony-ps5/"><u>Bridging Gaming Generations: Playing PS4 Games on a Sony PS5</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722894280241-discover-7-kid-friendly-online-gaming-options-today/"><u>Discover 7 Kid-Friendly Online Gaming Options Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-aspects-to-think-about-for-the-perfect-fitness-device-choice/"><u>Essential Aspects to Think About for the Perfect Fitness Device Choice</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-zte-nubia-flip-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your ZTE Nubia Flip 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/instructions-on-disabling-and-deleting-windows-reserved-partition/"><u>Instructions on Disabling and Deleting Windows Reserved Partition</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-legal-to-screen-record-youtube-videos/"><u>Is It Legal to Screen Record YouTube Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-13-best-free-pdf-editor-tools-august-2024-a-comprehensive-guide/"><u>Top 13 Best Free PDF Editor Tools (August 2024): A Comprehensive Guide</u></a></li>
 </ul></div>
 

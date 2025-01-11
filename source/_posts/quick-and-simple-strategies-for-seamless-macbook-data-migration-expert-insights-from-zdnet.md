@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet
-date: 2025-01-01T19:33:38.713Z
-updated: 2025-01-04T17:45:08.312Z
+date: 2025-01-07T08:23:44.275Z
+updated: 2025-01-10T17:25:21.019Z
 tags:
   - apple
 categories:
@@ -28,17 +28,21 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -49,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -59,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,7 +73,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -79,10 +83,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -126,24 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-examining-the-effectiveness-of-selfie-validation-on-instagram/"><u>[New] In 2024, Examining the Effectiveness of Selfie Validation on Instagram</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1716069145478-updated-in-2024-silent-blades-and-righteous-honor-your-next-game-adventure-awaits/"><u>[Updated] In 2024, Silent Blades & Righteous Honor Your Next Game Adventure Awaits!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leap-into-fitness-a-curated-selection-of-vr-treadmill-pros/"><u>[Updated] Leap Into Fitness A Curated Selection of VR Treadmill Pros</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-guide-engage-with-audio-content-seamlessly/"><u>2024 Approved IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-online-exposure-on-youtube-by-keeping-up-creative-commons-usage/"><u>2024 Approved Maximizing Online Exposure on YouTube by Keeping Up Creative Commons Usage</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/5-crucial-factors-you-shouldnt-ignore-when-building-or-buying-a-new-gaming-pc/"><u>5 Crucial Factors You Shouldn't Ignore When Building or Buying a New Gaming PC</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/9-pinnacle-in-live-game-broadcasting-for-2024/"><u>9 Pinnacle in Live Game Broadcasting for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cracking-the-code-of-snapchat-expressions-a-detailed-emoji-dictionary/"><u>Cracking the Code of Snapchat Expressions: A Detailed Emoji Dictionary</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/d-link-powerline-2000-reviewed-effortless-configuration-and-high-speed-connectivity-unveiled/"><u>D-Link Powerline 2000 Reviewed: Effortless Configuration & High-Speed Connectivity Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/defeating-lynels-in-zeldas-breath-of-the-wild-tips-and-tricks-for-success/"><u>Defeating Lynels in Zelda's Breath of the Wild - Tips and Tricks for Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-guide-building-your-own-wireless-cinema-experience-in-the-college-dorm/"><u>DIY Guide: Building Your Own Wireless Cinema Experience in the College Dorm</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/do-you-actually-receive-true-dolby-atmos-surround-sound-in-your-home-theater/"><u>Do You Actually Receive True Dolby Atmos Surround Sound in Your Home Theater?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-tutorial-on-reducing-file-size-by-changing-your-24-bit-wavs-to-efficient-16-bit-audio/"><u>Easy Tutorial on Reducing File Size by Changing Your 24-Bit WAVs to Efficient 16-Bit Audio</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-in-other-languages/"><u>How to Use ChatGPT in Other Languages</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/our-10-favorite-news-aggregators-of-2024/"><u>Our 10 Favorite News Aggregators of 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-z-fold-7-unveiled-exploring-costs-launch-timeline-features-and-updates/"><u>Samsung Galaxy Z Fold 7 Unveiled: Exploring Costs, Launch Timeline, Features & Updates</u></a></li>
-<li><a href="https://extra-support.techidaily.com/scripting-success-the-art-of-good-documentaries-for-2024/"><u>Scripting Success The Art of Good Documentaries for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-7-amazing-apps-for-seamless-notetaking-on-ipads-and-ipad-pro/"><u>The Ultimate Guide to 7 Amazing Apps for Seamless Notetaking on iPads & iPad Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-aol-mail-understanding-downtime-or-user-issues/"><u>Troubleshooting AOL Mail: Understanding Downtime or User Issues?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-ordinary-to-outstanding-mastering-instagram-editing-skills-for-2024/"><u>[New] From Ordinary to Outstanding Mastering Instagram Editing Skills for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/destiny-2-disconnect-woes-heres-how-to-re-establish-your-server-link-successfully/"><u>Destiny ^2 Disconnect Woes? Here's How to Re-Establish Your Server Link Successfully!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficiency-achieved-tackling-and-solving-cyberpunk-cuper-2077s-high-cpu-drain/"><u>Efficiency Achieved: Tackling and Solving Cyberpunk Cuper 2077'S High CPU Drain</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/excel-mastery-effective-techniques-for-combining-columns/"><u>Excel Mastery: Effective Techniques for Combining Columns</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-navigating-and-controlling-roku-without-a-traditional-remote/"><u>Guide to Navigating and Controlling Roku without a Traditional Remote</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-a2plus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi A2+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-dynamic-typographic-options/"><u>In 2024, Advanced Dynamic Typographic Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-blend-soundscape-into-ppt-narratives/"><u>In 2024, Blend Soundscape Into PPT Narratives</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-download-harmony-free-music-from-fb/"><u>In 2024, Download Harmony Free Music From FB</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inexpensive-essentials-for-creating-your-dream-home-theater/"><u>Inexpensive Essentials for Creating Your Dream Home Theater</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-iphone-email-apps-reviewed-our-selections/"><u>Leading iPhone Email Apps Reviewed: Our Selections</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/selecting-excellent-steadicams-to-elevate-your-dslr-cinematic-outputs-for-2024/"><u>Selecting Excellent Steadicams to Elevate Your DSLR Cinematic Outputs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components-and-hardware/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components and Hardware</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-13-complimentary-pdf-editing-tools-you-can-start-using-in-july-2024/"><u>Top 13 Complimentary PDF Editing Tools You Can Start Using in July 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-how-to-recover-lost-helperdll-components/"><u>Troubleshooting Guide: How to Recover Lost Helper.dll Components</u></a></li>
 </ul></div>
 

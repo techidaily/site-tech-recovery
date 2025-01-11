@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights From ZDNet"
-date: 2025-01-01T17:01:49.993Z
-updated: 2025-01-04T17:24:47.829Z
+date: 2025-01-06T07:32:38.478Z
+updated: 2025-01-10T16:23:33.629Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8fc6b51a-545c-47ed-9fa6-87cbc8d2712f%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,18 +62,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/access-insta-content-anonymously-a-guide-to-non-account-browsing/"><u>Access Insta-Content Anonymously: A Guide to Non-Account Browsing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-alarm-app-selection-a-list-of-the-7-highest-rated-options/"><u>Best Alarm App Selection: A List of the 7 Highest-Rated Options</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/daily-life-in-korea-understanding-each-day/"><u>Daily Life in Korea: Understanding Each Day</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/dynamic-presentations-made-easy-integrating-youtube-videos-into-powerpoint-slides/"><u>Dynamic Presentations Made Easy: Integrating YouTube Videos Into PowerPoint Slides</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-streaming-espnplus-on-your-lg-smart-television/"><u>Guide to Streaming ESPN+ on Your LG Smart Television</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-handle-and-fix-the-critical-process-died-error-on-windows-pcs/"><u>How to Correctly Handle and Fix the Critical Process Died Error on Windows PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-link-your-ps-vr-headset-to-a-laptop-or-desktop-computer-successfully/"><u>How To Link Your PS VR Headset to a Laptop or Desktop Computer Successfully</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-11-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 3 Ways To Unlock</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-x50iplus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor X50i+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-combat-against-lynels-in-the-legend-of-zelda-breath-of-the-wild/"><u>Mastering Combat Against Lynels in The Legend of Zelda: Breath of the Wild</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-distribution-and-catroot2-reset-on-ws11/"><u>Mastering Distribution and Catroot2 Reset on WS11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-10-places-for-accessible-photography-loot-for-2024/"><u>Top 10 Places for Accessible Photography Loot for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/windows-and-mac-friendly-techniques-for-fb-video-download-for-2024/"><u>Windows & Mac-Friendly Techniques for FB Video Download for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-high-speed-window-pictorial-interface/"><u>[New] In 2024, High-Speed Window Pictorial Interface</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smirk-sculptor-image-maker/"><u>[Updated] Smirk Sculptor Image Maker</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-best-practices-to-reduce-network-delays-and-boost-gaming-performance/"><u>2024'S Best Practices to Reduce Network Delays and Boost Gaming Performance</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/best-free-backup-solutions-reviewed-aomei-backupper-tops-the-list-for-easy-to-use-data-protection/"><u>Best Free Backup Solutions Reviewed - AOMEI Backupper Tops the List for Easy-to-Use Data Protection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808129084-how-to-resolve-windows-update-issues-unstick-and-revive/"><u>How to Resolve Windows Update Issues: Unstick and Revive</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-set-up-smooth-transitions-youtube-content-playback-on-facebook/"><u>In 2024, How to Set Up Smooth Transitions YouTube Content Playback on Facebook</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/losungsansatze-fur-das-problem-onedrive-synchronisation-ist-ausstehend-entdecken-sie-drei-effektive-strategien/"><u>Lösungsansätze Für Das Problem: OneDrive-Synchronisation Ist Ausstehend - Entdecken Sie Drei Effektive Strategien</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808318828-top-game-torrents-at-a-glance-navigating-the-best-free-downloading-portals/"><u>Top Game Torrents at a Glance: Navigating the Best Free Downloading Portals.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-vmware-advanced-keyboard-drivers-installation-guide-and-overview/"><u>Understanding the VMware Advanced Keyboard Drivers: Installation Guide & Overview</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-advanced-startup-in-windows-11-easy-methods-revealed/"><u>Unlock the Power of Advanced Startup in Windows 11: Easy Methods Revealed!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-revision-strategy-behind-samsungs-new-galaxy-s21-model/"><u>Unpacking the Revision Strategy Behind Samsung's New Galaxy S21 Model</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unseen-no-more-enable-access-to-seagate-external-drives-on-windows-10-systems/"><u>Unseen No More: Enable Access to Seagate External Drives on Windows 10 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808245571-use-alarms-in-windows-10-quite-easy/"><u>Use Alarms in Windows 10. Quite Easy</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-for-educators-maximizing-its-classroom-potential/"><u>YouTube for Educators Maximizing Its Classroom Potential</u></a></li>
 </ul></div>
 

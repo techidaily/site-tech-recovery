@@ -1,7 +1,7 @@
 ---
 title: Timeline of Groundbreaking Technological Developments Since 1844
-date: 2024-08-20T11:26:25.052Z
-updated: 2024-08-21T11:26:25.052Z
+date: 2025-01-06T00:54:52.364Z
+updated: 2025-01-10T18:46:47.600Z
 categories:
   - BestProducts
 description: This Article Describes Timeline of Groundbreaking Technological Developments Since 1844
@@ -20,6 +20,10 @@ thumbnail: https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/fi
 
 ![Old Time Message](https://www.lifewire.com/thmb/Dz6nAtEdPKXnbcMDJJbrgmbTvdU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/old-time-message-157418221-64cf2457c36241799e1a69c6cbc27f66.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  doug4537 / Getty Images
 
  Just over 30 years after Morse sent the first telegraph, Alexander Graham Bell made the first phone call. His first words were: “Mr. Watson, come here—I want to see you.” (Mr. Watson was his assistant.)
@@ -30,11 +34,19 @@ thumbnail: https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/fi
 
 ![Farmer's Market nakid light bulb and blurred crowd of people](https://www.lifewire.com/thmb/dRnmrB6C-Glo5fY5DZyfp1nXZys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/farmer-s-market-nakid-light-bulb-and-blurred-crowd-of-people-973596466-d897fc63f042430bb949766ff4b76cc5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Eriko Tsukamoto / Getty Images
 
  A few years later, Edison let there be light with the incandescent bulb. It’s difficult to appreciate what an incredible invention this was, until you’re dealing with a power outage and your only light source at night is candlelight.
 
  We can avoid ever being in the dark with[smart light bulbs](https://www.lifewire.com/smart-light-bulbs-4149561) that you can turn on and off with a virtual assistant like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) or[Google Assistant](https://www.lifewire.com/what-is-google-assistant-4120911) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Television — 1927
 
@@ -48,9 +60,6 @@ thumbnail: https://www.lifewire.com/thmb/hkuesFqmisaUTbxJPWT7TQYrPnA=/400x300/fi
 
  Many people watch movies and TV shows on their smartphones, tablets, or laptops, though flat-screen TVs are still popular.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Personal Computers — 1970s
 
 ![alter IBM Compter von 1981](https://www.lifewire.com/thmb/4cl0LjPSEzswX-i1Q48NuRe8jNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alter-ibm-compter-von-1981-513809422-7189b1cbfe1b47339bdda64dc60627e0.jpg)
@@ -64,8 +73,9 @@ EdnaM / Getty Images
  The personal computer we all know today exploded once IBM introduced the IBM PC in 1981\. Once businesses adopted it, the entire industry expanded to produce all the products we know and use today.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Global Positioning System — 1970s
 
 ![Satellite in foreground, Earth and rising Sun in background](https://www.lifewire.com/thmb/4j6-zIts28nfLPj-zcJ1Pt9zw3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1032649842-5c2d15de46e0fb0001ea64df.jpg)
@@ -86,16 +96,14 @@ ARPANET /Public domain
 
  It’s common for people to conflate the two terms. The internet is a global computer network running standardized communication protocols, while the WWW consists of public sites connected to the internet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## GPS Navigation — 1990s
 
 ![San Francisco, California scenics](https://www.lifewire.com/thmb/JBcxbVh9X27hnW5roLmvGZOywbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/san-francisco--california-scenics-1048327060-238a789e54b94cf799aee655c2f19c1b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Robert Alexander / Getty Images
 
  Thanks to GPS (see above), getting lost is becoming a more and more rare occurrence.
@@ -111,8 +119,9 @@ ARPANET /Public domain
 ![3rd Annual Kodak Awards, February 15, 2019](https://www.lifewire.com/thmb/cayBRtQKgfVN8wWhxkH2-SxSTwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3rd-annual-kodak-awards--february-15--2019-1125163754-9bc15e8e2dbe4be18b8ad4369c4a929d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Getty Images for Kodak Motion Picture & Entertainment / Getty Images
 
  Technically, the first digital camera was invented by Kodak in the 1970s. It took a while before the technology made its way into the ancestors of the products we use today.
@@ -121,32 +130,28 @@ ARPANET /Public domain
 
  Digital cameras are everywhere now, from security cameras to smartphones and laptop and desktop computers. Even the least expensive product with a camera embedded in it is far better than those cameras from the early days.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Web Browser — 1994
 
 ![Mosaic web browser](https://www.lifewire.com/thmb/ZHIWa9h-A3m6SDVXmfSIkj-wQP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NCSA_Mosaic_Browser_Screenshot-2f1f4b065a284b37bb79f433cc515659.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Programm: National Center for Supercomputing Applications/CC0
 
  Surfing the web was made more comfortable with the arrival of Mosaic, a web browser that was significantly more intuitive than its predecessors.
 
  Compatible with Windows, Mosaic was accessible to the masses, not just tech types, though Netscape Navigator eventually dethroned it. But we can thank Mosaic for giving us modern browsers like Chrome and Firefox.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Social Media — 2004
 
 ![Facebook's Sign Up Page](https://www.lifewire.com/thmb/49daxvoCJfOTzoBPeb_SlLG6Eho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FacebookSignIn-a4c1c336e92a436c952e1dc7e3813c40.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Love it or hate it (or both), but Facebook (initially The Facebook), which launched out of Mark Zuckerberg’s dorm room, was the first social media platform to gain worldwide popularity.
 
  From connecting with the people you went to high school to planning protests against the government, Facebook brings people together. Of course, it also causes all sorts of strife, including hate speech and “fake news,” which the platform struggles to contain.
@@ -185,8 +190,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +197,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-comprehensive-studio-study-xvideo-studio-insights-for-2024/"><u>[Updated] Comprehensive Studio Study XVideo Studio Insights for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-essential-gear-to-enhance-yi-4k-cinematography-for-2024/"><u>[Updated] Essential Gear to Enhance YI 4K Cinematography for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-mobilize-your-storytelling-crafting-content-with-a-phone/"><u>[Updated] In 2024, Mobilize Your Storytelling Crafting Content with a Phone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-recording-on-googles-platform-for-2024/"><u>[Updated] Mastering Recording on Google's Platform for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/accelerated-adjustment-overcome-loot-mishaps/"><u>Accelerated Adjustment: Overcome Loot Mishaps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-user-manual-navigating-through-different-ipados-releases/"><u>Complete User Manual: Navigating Through Different iPadOS Releases</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-our-expertly-chosen-selection-of-lgbtq-content-streaming-now-on-netflix/"><u>Discover Our Expertly Chosen Selection of LGBTQ Content Streaming Now on Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-sharing-your-gaming-adventures-with-friends-using-the-ps5/"><u>Guide: Sharing Your Gaming Adventures with Friends Using the PS5</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-delete-a-windows-recovery-partition/"><u>How to Delete a Windows Recovery Partition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-gionee-f3-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Gionee F3 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-prime-pc-idle-gaming-selections/"><u>In 2024, Prime PC Idle Gaming Selections</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-free-top-10-best-4k-video-converters-for-2024/"><u>New FREE Top 10 Best 4K Video Converters for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/opening-stuck-microsoft-word-files-a-step-by-step-guide-for-quick-solutions/"><u>Opening Stuck Microsoft Word Files: A Step-by-Step Guide for Quick Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/revive-your-computers-communication-abilities-with-a-fresh-serial-controller-drivers-install/"><u>Revive Your Computer's Communication Abilities with a Fresh Serial Controller Drivers Install</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/shine-bright-in-photos-a-comprehensive-guide-to-selfie-light-mastery/"><u>Shine Bright in Photos: A Comprehensive Guide to Selfie Light Mastery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-role-and-utility-of-a-smartwatch-in-todays-tech-landscape/"><u>The Role & Utility of a Smartwatch in Today's Tech Landscape</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-google-pixel-buds-pro-2-anticipated-features-and-pricing-strategies/"><u>Upcoming Google Pixel Buds Pro 2: Anticipated Features & Pricing Strategies</u></a></li>
+</ul></div>
 

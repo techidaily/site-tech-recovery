@@ -1,7 +1,7 @@
 ---
 title: "Resetting Your FB Password: No Email/Phone Needed"
-date: 2024-08-20T11:26:19.129Z
-updated: 2024-08-21T11:26:19.129Z
+date: 2025-01-03T23:26:42.570Z
+updated: 2025-01-10T20:28:30.668Z
 categories:
   - BestProducts
 description: "This Article Describes Resetting Your FB Password: No Email/Phone Needed"
@@ -28,20 +28,40 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 2. Click settings cog at the bottom left next to the current image.  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/CtVsFOH3NrM_Osbk4QgSVA-zC_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage1-be91f7e650f246a5b059b8808831e078.jpg)
 3. Select the three-dotted menu to the right of where the image goes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Change Avatar** .  
  To delete your avatar, select**Delete Avatar** .  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/_ubg4ot8XIxsdRiJKl8yi2czZzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage3-ff81b24cf09447b1a89298c27ef9af4a.jpg)
 5. Choose an image.  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/7p7WSfd6m8IiCjx-Vn3CrNBi5wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage4-a6205545762a49769b025839f0882ec9.jpg)
 6. You can resize or center the image as you see fit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Apply** .  
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zPQvP51LFBMX5W5ivjpzObfupIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage5-aedff4a1f42145f3b849fc6608730e95.jpg)
 8. Click**Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Changing a Discord profile picture on a desktop.](https://www.lifewire.com/thmb/zSsiau7LE9NhHuZBkN1EWnu9i48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImage7-b6dbbf06f586439d9dcb7d360501836b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Update Your Discord Image on Mobile
 
  The process for changing your avatar via the Discord mobile app is similar. The screenshots below are from Android, but the process is the same on an iPhone, just with a different look. Again, you can remove your avatar altogether if you don't want one.
@@ -52,21 +72,12 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 4. Select the image or image placeholder. Tap**Remove Icon** to delete your profile image.  
 ![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/LRJUnTntO_h20_BNbgEV-ueDPQs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile1-3-f0ef1c7128364173b3d659461cd7b74c.jpg)
 5. If this is the first time you've uploaded a profile picture, Discord will ask you for two permissions: to access your camera and your photos and videos. Tap**Allow** or**While using the app** on at least one of these options to proceed.
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select an image app.  
 ![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/86Z7ytxgb26C9ZIg9qv92lbXy90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile4-6-e7f871a42b974f36a95af316c6f8d0c3.jpg)
 7. Choose an image and tap**Upload** . You can crop and zoom if you need to, but you have to do it before selecting the**Upload** button (there's a**Crop** button that shows up after you choose the image).
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Click the checkmark at the top right when you're satisfied if you cropped your image, then press**Save** to save the changes.  
 ![Updating a Discord profile picture on mobile.](https://www.lifewire.com/thmb/VI2elSd14X27hKFsCroqVin3bEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DiscordProfileImageMobile7-9-0291015a37e24a9b916667e373b615e4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  FAQ
 
 * Why can't I change my profile picture on Discord?  
@@ -98,8 +109,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +116,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-seamless-audio-switch-from-srt-to-xmlssa-guide/"><u>[New] 2024 Approved Seamless Audio Switch From SRT to XML/SSA Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-creating-impactful-outros-top-6-free-tools/"><u>[Updated] 2024 Approved Creating Impactful Outros Top 6 FREE Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-key-selections-top-6-fb-lite-video-grabs-for-2024/"><u>[Updated] Key Selections Top 6 FB Lite Video Grabs for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-hash-tags-boosting-gameplay-vids/"><u>[Updated] Top Hash Tags Boosting Gameplay Vids</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ultimate-brainiac-challenge-gk-quizzes/"><u>[Updated] Ultimate Brainiac Challenge - GK Quizzes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avi3/"><u>AVIファイルからのオーディオコンバート：3つの最適化方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-guide-setting-up-your-own-wireless-home-cinema-in-the-dorm/"><u>DIY Guide: Setting Up Your Own Wireless Home Cinema in the Dorm</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-vs-gasoline-how-evs-take-the-lead-in-performance/"><u>Electric Vs. Gasoline: How EVs Take the Lead in Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enjoy-every-taylor-swift-movie-watching-guide-from-start-to-finish/"><u>How to Enjoy Every Taylor Swift Movie - Watching Guide From Start to Finish</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24plus-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24+ PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/save-money-and-create-magic-with-our-top-of-free-photo-editor-picks-replace-with-a-number-that-fits-your-content-such-as-7/"><u>Save Money and Create Magic with Our Top # of Free Photo Editor Picks! (Replace # with a Number that Fits Your Content, Such as 7)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sony-playstation-showdown-ps5-versus-ps5-slim-an-in-depth-comparison/"><u>Sony PlayStation Showdown: PS5 versus PS5 Slim - An In-Depth Comparison</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-setting-up-internet-connectivity-for-your-home-theaters/"><u>Step-by-Step Instructions: Setting Up Internet Connectivity for Your Home Theaters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722903500226-step-by-step-solution-correcting-a-500-http-status-code-issue/"><u>Step-by-Step Solution: Correcting a 500 HTTP Status Code Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-tactics-for-resolving-freezing-issues-on-chromebooks/"><u>Top 8 Tactics for Resolving Freezing Issues on Chromebooks</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/troubleshooting-guide-unstuck-baldurs-gate-iii-from-your-computer/"><u>Troubleshooting Guide: Unstuck Baldur's Gate III From Your Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-making-itunesfinder-recognize-your-iphone-again/"><u>Troubleshooting: Making iTunes/Finder Recognize Your iPhone Again</u></a></li>
+</ul></div>
 

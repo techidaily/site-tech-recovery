@@ -1,7 +1,7 @@
 ---
 title: "Mastering Energy Efficiency: A Guide to Enabling Low Power Mode on Your macOS Monterey - Tips From ZDNet"
-date: 2024-12-29T18:10:02.665Z
-updated: 2025-01-04T19:15:05.349Z
+date: 2025-01-05T18:35:18.699Z
+updated: 2025-01-10T22:07:00.299Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -43,10 +39,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -56,17 +48,29 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -76,10 +80,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,19 +126,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-direct-stream-from-youtube-to-facebook-without-pauses-or-holds/"><u>[New] 2024 Approved Direct Stream From YouTube to Facebook without Pauses or Holds</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-how-to-transform-your-shopping-adventures-into-haul-masterpieces/"><u>[Updated] 2024 Approved How to Transform Your Shopping Adventures Into Haul Masterpieces</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-perfecting-your-fisheye-lens-techniques-stepwise/"><u>[Updated] 2024 Approved Perfecting Your Fisheye Lens Techniques Stepwise</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-listing-leading-8-4k-ultra-hd-players/"><u>[Updated] Exclusive Listing Leading 8 4K Ultra HD Players</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-webp-conversion-to-jpeg/"><u>[Updated] Mastering the Art of WebP Conversion to JPEG</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/analyzing-instagrams-per-video-timeframe/"><u>Analyzing Instagram's Per-Video Timeframe</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/complete-step-by-step-tutorial-on-transferring-your-gpt-hard-drive-data-to-an-ssd-in-windows-10-or-11-full-guide/"><u>Complete Step-by-Step Tutorial on Transferring Your GPT Hard Drive Data to an SSD in Windows 10 or 11 – Full Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-inner-workings-of-eco-friendly-motorized-scooters/"><u>Exploring the Inner Workings of Eco-Friendly Motorized Scooters</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/find-out-which-followers-bookmarked-your-ig-uploads-successfully/"><u>Find Out Which Followers Bookmarked Your IG Uploads Successfully</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/find-playstation-portable-details-launch-date-cost-features-and-purchase-locations/"><u>Find PlayStation Portable Details: Launch Date, Cost, Features & Purchase Locations</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/mini-2-and-air-2s-luts-free-trial-then-paid-upgrade-for-2024/"><u>Mini 2 & Air 2S LUTS - Free Trial, Then Paid Upgrade for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps5-or-no-ps5-are-there-real-advantages-to-owning-sonys-newest-game-console/"><u>PS5 or No PS5: Are There Real Advantages to Owning Sony's Newest Game Console?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/six-proven-methods-for-resolving-your-apple-watchs-connectivity-challenges/"><u>Six Proven Methods for Resolving Your Apple Watch's Connectivity Challenges</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/twitter-user-unfollow-strategies-when-and-how-to-do-it-effectively/"><u>Twitter User Unfollow Strategies: When and How to Do It Effectively</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-winning-strategies-for-win-11s-crashy-photos-app/"><u>[New] Winning Strategies for Win 11'S Crashy Photos App</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-video-ads-create-and-design-with-free-creative-kit-for-2024/"><u>[Updated] FB Video Ads Create & Design with Free Creative Kit for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-perfect-your-mobile-shoot-expert-picks-of-the-best-9-cam-gear/"><u>[Updated] Perfect Your Mobile Shoot Expert Picks of the Best 9 Cam Gear</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-expert-zoom-alternatives-in-remote-work-software/"><u>2024 Approved Expert Zoom Alternatives in Remote Work Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-revolutionizing-smartphone-photography-iphone-xs-features-explored/"><u>2024 Approved Revolutionizing Smartphone Photography IPhone X's Features Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-netgear-password-list-for-july-2024-revealed/"><u>Essential NETGEAR Password List for July 2024 Revealed</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/guide-complet-recuperation-des-donnees-sur-un-vieux-disque-dur-ide/"><u>Guide Complet : Récupération Des Données Sur Un Vieux Disque Dur IDE.</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-any-modern-xbox-controller-to-a-pc-3-easy-methods/"><u>How to Connect Any Modern Xbox Controller to a PC: 3 Easy Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-not-found-d3d9dll-complications-expert-solutions/"><u>Overcoming 'Not Found' D3D9.DLL Complications: Expert Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rethink-your-inbox-find-the-top-8-email-services-beyond-gmail/"><u>Rethink Your Inbox: Find the Top 8 Email Services Beyond Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-integrating-bots-into-your-discord-group/"><u>Step-by-Step Instructions: Integrating Bots Into Your Discord Group</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watching-transformers-series-correctly-a-step-by-step-instruction/"><u>Watching Transformers Series Correctly: A Step-by-Step Instruction</u></a></li>
 </ul></div>
 

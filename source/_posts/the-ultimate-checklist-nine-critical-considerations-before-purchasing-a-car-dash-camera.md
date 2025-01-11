@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Checklist: Nine Critical Considerations Before Purchasing a Car Dash Camera"
-date: 2024-08-20T11:30:18.917Z
-updated: 2024-08-21T11:30:18.917Z
+date: 2025-01-03T18:00:39.814Z
+updated: 2025-01-11T12:54:14.506Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Checklist: Nine Critical Considerations Before Purchasing a Car Dash Camera"
@@ -21,6 +21,11 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 1. Craft **Blaze Powder** with a**Blaze Rod** .  
 ![Craft Blaze Powder with a Blaze Rod.](https://www.lifewire.com/thmb/qSMCUF6bbvZMVtIw7PWru7OxLnk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-17cf8c053f0a43a7ad87853eab45ff92.jpg)
 2. Make a**Crafting Table** with 4 wood planks. Any type of plank (**Warped Planks** , **Crimson Planks** , etc.) will do.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Make a Crafting Table with 4 wood planks.](https://www.lifewire.com/thmb/FrhprZpyD-UmvnQ8_WU_j2ywbTM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2b6becda954b4f6ca22144303a9d7a30.jpg)
 3. Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.  
 ![Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.](https://www.lifewire.com/thmb/_KMBsLRFlAKz_Vsv7IDm4NPdlsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-7747868208ee4f78a3588c8c7f34ed57.jpg)
@@ -33,10 +38,24 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 7. Put a **Water Bottle** in one of the three boxes at the bottom of the brewing menu.  
 ![Add the Water Bottle to one of the three boxes at the bottom of the brewing menu.](https://www.lifewire.com/thmb/XN8yw9gjspE70SuTZBbP7LahfTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-483d26234f9a46d49dcc4cb51bdc1556.jpg)  
  Make up-to three potions at once by putting Water Bottles in the other bottom boxes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Put**1 Nether Wart** in the box at the top of the brewing menu.  
 ![Put 1 Nether Wart in the box at the top of the brewing menu.](https://www.lifewire.com/thmb/MjgshJ6DqtRW1P8bW7GvdnTRDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-7bb3bff99f2d4daebf1c93c83857ae01.jpg)
 9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Awkward Potion Recipe  
 
@@ -49,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 * 1 Nether Wart  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does an Awkward Potion Do in Minecraft?  
 
  The Awkward Potion is an essential base ingredient for many other potions. Here's a list of what you can make with an Awkward Potion.  
@@ -88,8 +108,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +115,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-visual-clarity-blur-your-meeting-backgrounds/"><u>[New] 2024 Approved Mastering Visual Clarity Blur Your Meeting Backgrounds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-creator-studio-unlocking-the-power-of-your-channel/"><u>[New] YouTube Creator Studio Unlocking the Power of Your Channel</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-guide-to-perfecting-your-yt-visual-footprint/"><u>[Updated] In 2024, The Ultimate Guide to Perfecting Your YT Visual Footprint</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bend-the-norm-innovative-text-transformation-techniques/"><u>2024 Approved Bend the Norm Innovative Text Transformation Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-uav-connoisseurs-guide-to-essential-equipment/"><u>2024 Approved The UAV Connoisseur's Guide to Essential Equipment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/6-key-reasons-for-your-vehicles-recurring-battery-problems/"><u>6 Key Reasons for Your Vehicle's Recurring Battery Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/advantages-of-driving-electric-how-evs-triumph-over-traditional-car-engines/"><u>Advantages of Driving Electric: How EVs Triumph Over Traditional Car Engines</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722890544489-boost-your-ipads-performance-by-replacing-the-old-battery-heres-how/"><u>Boost Your iPad's Performance by Replacing the Old Battery – Here’s How!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chart-your-path-in-artificial-intelligence-with-these-15-free-online-solo-learners-courses-from-lifewire/"><u>Chart Your Path in Artificial Intelligence with These 15 Free, Online Solo Learner's Courses From Lifewire</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tips-on-dealing-with-msvcr7-groovy-errors-in-windows/"><u>Comprehensive Tips on Dealing with Msvcr7 Groovy Errors in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-when-your-apple-watch-wont-detect-you-are-standing-up/"><u>How To Resolve When Your Apple Watch Won't Detect You Are Standing Up</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-ethical-approaches-to-achieve-one-million-youtube-subscribers/"><u>In 2024, Ethical Approaches to Achieve One Million YouTube Subscribers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-investing-in-minecraft-realms-a-smart-choice/"><u>Is Investing in Minecraft Realms a Smart Choice?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-iphone-regional-adjustments-a-comprehensive-tutorial/"><u>Mastering IPhone Regional Adjustments: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-a-suddenly-silent-car-sound-system/"><u>Solving the Mystery of a Suddenly Silent Car Sound System</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-essential-guide-to-fb-status-video-downloads-for-2024/"><u>The Essential Guide to FB Status Video Downloads for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-must-have-items-for-your-ultimate-summer-everyday-carry-list/"><u>Top 7 Must-Have Items for Your Ultimate Summer Everyday Carry List</u></a></li>
+</ul></div>
 

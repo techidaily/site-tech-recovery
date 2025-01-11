@@ -1,7 +1,7 @@
 ---
 title: "All M-Powered Macs Embrace Fedora: The Exceptional Case in Detail"
-date: 2025-01-03T17:20:57.730Z
-updated: 2025-01-04T17:30:54.495Z
+date: 2025-01-09T18:24:03.940Z
+updated: 2025-01-11T12:31:05.128Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,20 +123,17 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-real-time-webcam-and-screen-melding-tips-for-2024/"><u>[Updated] Real-Time Webcam & Screen Melding Tips for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/avoiding-pitfalls-common-mistakes-in-instagram-filmmaking-for-2024/"><u>Avoiding Pitfalls Common Mistakes in Instagram Filmmaking for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beginning-with-x-a-detailed-walkthrough-of-setting-up-a-new-account/"><u>Beginning with X: A Detailed Walkthrough of Setting Up a New Account</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/discover-powerful-tagging-tactics-a-guide-to-amplifying-freegame-content-for-2024/"><u>Discover Powerful Tagging Tactics A Guide to Amplifying FreeGame Content for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-way-to-repair-your-hard-drive-with-windows-chkdsk-command/"><u>Effective Way to Repair Your Hard Drive with Windows' Chkdsk Command</u></a></li>
-<li><a href="https://games-able.techidaily.com/explode-savings-with-playstations-summer-clearance/"><u>Explode Savings with PlayStation's Summer Clearance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-pdhdll-not-found-a-step-by-step-solution-manual-for-users-and-developers/"><u>Fixing 'Pdh.dll Not Found' - A Step-by-Step Solution Manual for Users and Developers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-optimize-youtube-submission-swift-rendering-and-uploading-methods/"><u>In 2024, Optimize YouTube Submission - Swift Rendering and Uploading Methods</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prime-xsplit-replacements-a-guide-to-streaming/"><u>Prime Xsplit Replacements A Guide to Streaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps4-user-guide-how-to-effortlessly-capture-screen-moments/"><u>PS4 User Guide: How to Effortlessly Capture Screen Moments</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-artisans-path-to-creating-3d-luts/"><u>The Artisan’s Path to Creating 3D LUTs</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-v30-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-emergence-and-influence-of-artificial-intelligence-on-global-progress/"><u>The Emergence and Influence of Artificial Intelligence on Global Progress</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-streaming-technology-and-its-hardware/"><u>Understanding Streaming Technology and Its Hardware</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-taking-a-step-back-in-time-with-instagram-videos/"><u>[Updated] 2024 Approved Taking a Step Back in Time with Instagram Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-choices-purchasing-your-dreams-in-youtube-ringtones/"><u>[Updated] Prime Choices Purchasing Your Dreams in YouTube Ringtones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-beginners-introduction-to-instagram-and-how-it-works/"><u>A Beginner's Introduction to Instagram and How It Works</u></a></li>
+<li><a href="https://extra-information.techidaily.com/benefits-of-apples-m1-in-post-production-editing-for-2024/"><u>Benefits of Apple's M1 in Post-Production Editing for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-zte-nubia-z60-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from ZTE Nubia Z60 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-7-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 7 Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oppo-reno-11f-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Oppo Reno 11F 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-win11-key-components-alert-flaws/"><u>Resolving Win11: Key Components Alert Flaws</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-titans-tangle-determining-the-superior-language-agent/"><u>Tech Titans Tangle: Determining the Superior Language Agent</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-making-new-friends-with-these-5-essential-apps/"><u>The Ultimate Guide to Making New Friends with These 5 Essential Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uninstall-and-simplify-tutorial-for-clearing-out-applications-on-samsung-smart-televisions/"><u>Uninstall and Simplify: Tutorial for Clearing Out Applications on Samsung Smart Televisions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-electric-vehicles-bev-phev-fcev-and-hybrids-demystified/"><u>Unraveling Electric Vehicles: BEV, PHEV, FCEV & Hybrids Demystified</u></a></li>
 </ul></div>
 

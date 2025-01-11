@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to the M3 MacBook Air with Apple Silicon - The New Standard for Everyday Use Unveiled !
-date: 2024-12-15T16:35:40.752Z
-updated: 2024-12-17T19:13:16.187Z
+date: 2025-01-06T11:10:50.120Z
+updated: 2025-01-10T20:53:18.670Z
 tags:
   - apple
 categories:
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -47,10 +47,6 @@ First, the best thing about the arrival of the M3 MacBook Air models might be th
 One more thing to keep in mind if you're considering buying the 15-inch M3 MacBook Air: if you configure it with 16GB of RAM and 512GB of storage, then you'll be at $1,699 and quickly getting into 14-inch M3 MacBook Pro territory in terms of cost. If you're going to go there, I'd recommend opting for the 14-inch M3 MacBook Pro instead, because of its much better display and sound, and the fact that you can hook it up to two external monitors and still use the laptop's monitor as a third display.
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -74,10 +70,6 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 The ability to run two external monitors with the lid closed is one of the M3 MacBook Air's biggest upgrades.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
 
@@ -113,6 +105,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cinebench CPU/GPU benchmark (higher is better)
 
 ---
@@ -141,6 +137,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -156,7 +156,7 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -175,6 +175,10 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca2bd4d6e-b885-4395-a878-1ce6720d9d63%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca2bd4d6e-b885-4395-a878-1ce6720d9d63%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -184,10 +188,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -235,18 +235,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-elite-introductory-editors-for-app-platforms-for-2024/"><u>[New] Elite Introductory Editors for App Platforms for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-5-dreamy-winter-scenes-as-youtube-backdrops/"><u>[New] In 2024, 5 Dreamy Winter Scenes as YouTube Backdrops</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-panoramic-precision-battle-gear-vs-lgcam-showdown-for-2024/"><u>[Updated] Panoramic Precision Battle Gear Vs LGCam Showdown for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlining-communication-the-art-of-using-zoom-in-win11/"><u>[Updated] Streamlining Communication The Art of Using Zoom in Win11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wavwma-movavi/"><u>線上免費轉換WAV為WMA - Movavi音檔變更器</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversione-rapida-e-gratuita-da-flac-a-mp4-con-movavi-ottieni-risultati-eccellenti-senza-costi-aggiuntivi/"><u>Conversione Rapida E Gratuita Da FLAC a MP4 Con Movavi - Ottieni Risultati Eccellenti Senza Costi Aggiuntivi</u></a></li>
-<li><a href="https://solve-help.techidaily.com/how-to-easily-extract-and-save-mp3-from-mp4-videos-using-windows-amoji-a-step-by-step-guide-for-no-cost-conversion/"><u>How to Easily Extract and Save MP3 From MP4 Videos Using Windows Amoji: A Step-by-Step Guide for No Cost Conversion</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-11x-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme 11X 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/los-13-mejores-aplicaciones-de-grabacion-de-audio-en-linea-sin-coste-guia-integral-por-movavi/"><u>Los 13 Mejores Aplicaciones De Grabación De Audio en Línea Sin Coste: Guía Integral Por Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-convertir-facilmente-archivos-tta-a-formato-flac-gratuito-en-linea/"><u>Movavi: Convertir Fácilmente Archivos TTA a Formato FLAC Gratuito en Línea</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/riprendere-ed-esportare-immagini-da-raw-a-formato-jpeg-senza-costo-tutorial-di-conversione-con-movavi/"><u>Riprendere Ed Esportare Immagini Da RAW a Formato JPEG Senza Costo: Tutorial Di Conversione Con Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-utrolige-instrumenter-for-optimalisering-af-videomaterialets-omfang-i-online-og-offline-settings/"><u>Top 5 Utrolige Instrumenter For Optimalisering Af Videomaterialets Omfang - I Online Og Offline Settings</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-best-video-editing-apps-for-vloggers-top-picks-for-ios-and-android/"><u>Updated 2024 Approved The Best Video Editing Apps for Vloggers Top Picks for iOS & Android</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-profit-making-techniques-for-beauty-vloggers/"><u>[New] 2024 Approved Profit-Making Techniques for Beauty Vloggers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-complete-lowdown-on-making-captivating-short-videos/"><u>[New] 2024 Approved The Complete Lowdown on Making Captivating Short Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-ultimate-guide-unveiling-the-top-8-youtube-boosters/"><u>[New] 2024 Approved The Ultimate Guide Unveiling the Top 8 Youtube Boosters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-handbook-for-vr-gameplay-capture/"><u>[Updated] In 2024, The Ultimate Handbook for VR Gameplay Capture</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-from-concept-to-curtain-call-scriptwriting-tips-for-successful-streams/"><u>2024 Approved From Concept to Curtain Call Scriptwriting Tips for Successful Streams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-inner-workings-of-oled-displays-explained/"><u>Exploring the Inner Workings of OLED Displays Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-legally-watch-netflix-flicks-offline-on-your-laptop-device/"><u>How to Legally Watch Netflix Flicks Offline on Your Laptop Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-facebook-image-search/"><u>How to Use Facebook Image Search</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 13 mini</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/long-duration-ergohead-mat-evaluation-top-choice-for-comfort-and-endurance-at-your-standing-desk/"><u>Long Duration Ergohead Mat Evaluation - Top Choice for Comfort & Endurance at Your Standing Desk</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/micromobility-sphere-update-major-milestones-current-news-chat-and-additional-facts/"><u>Micromobility Sphere Update: Major Milestones, Current News, Chat and Additional Facts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reliable-hard-drive-care-with-western-digitals-data-lifeguard-a-user-friendly-review/"><u>Reliable Hard Drive Care with Western Digital's Data Lifeguard - A User-Friendly Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-blueprint-for-a-more-effective-and-reliable-windows-11/"><u>The Blueprint for a More Effective and Reliable Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-essential-factors-to-assess-when-shopping-for-your-new-desktop-computer/"><u>Top 8 Essential Factors to Assess When Shopping for Your New Desktop Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722891387108-top-rated-ceiling-sound-systems/"><u>Top Rated Ceiling Sound Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-repairing-horizontal-line-defects-on-your-samsung-televisions/"><u>Ultimate Guide: Repairing Horizontal Line Defects on Your Samsung Televisions</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-huawei-nova-y71-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Huawei Nova Y71 | Dr.fone</u></a></li>
 </ul></div>
 

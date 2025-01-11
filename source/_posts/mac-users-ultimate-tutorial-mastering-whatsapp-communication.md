@@ -1,7 +1,7 @@
 ---
 title: "Mac Users' Ultimate Tutorial: Mastering WhatsApp Communication"
-date: 2024-08-20T11:27:52.251Z
-updated: 2024-08-21T11:27:52.251Z
+date: 2025-01-06T16:13:35.829Z
+updated: 2025-01-10T17:19:22.336Z
 categories:
   - BestProducts
 description: "This Article Describes Mac Users' Ultimate Tutorial: Mastering WhatsApp Communication"
@@ -10,12 +10,21 @@ thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04
 ---
 
 ## IPhone Users' Ultimate How-To: Jumping Into Shared Photo Collections with Ease
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * To accept a shared album invitation, tap notification >**For You** \>**Accept** .
 * To leave a shared album, go to**Photos** \>**For You** \> album > person icon >**Unsubscribe** \>**Unsubscribe** .
 
  This article explains how to accept a shared album invitation on the iPhone. You can create shared albums yourself, but to enjoy those created by other people, you have to accept an invitation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Accept a Shared Album Invitation on iPhone
 
@@ -36,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04
  Once you've accepted a share album invitation, you can control how you see the photos in the album. Tap**...** and the menu gives you options including**Sort** ,**Filter** (to see only photos or videos), to see where all photos were taken on a map, or to play the photos as a slideshow, among other choices.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Leave a Shared Photo Album on iPhone
 
  If you've decided you no longer want to be part of a shared album, you can leave the album by following these steps:
@@ -48,15 +58,18 @@ thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04
 4. Tap the person icon (or**...** \>**Shared Album Details** ).  
 ![iPhone with Photos app, For You, and person icon highlighted](https://www.lifewire.com/thmb/cT_4U_RW7AO6FB8dxe9PvcX_pfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Foryou-32ab9b28b3c24c4fa7cf4fb5d8f8f897.jpg)
 5. Tap**Unsubscribe** .
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. In the confirmation pop-up, tap**Unsubscribe** .  
 ![iPhone shared photo album with Unsubscribe highlighted on two screens](https://www.lifewire.com/thmb/GjQTXPTilhfLwbtE3_8BtmCqsLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unsubscribe-d3016b5886984a38bbf0675d85e4d0ba.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Don't want to leave a shared album, but annoyed by notifications when new photos or other changes are made? You can turn off notifications for an album by going to the album > person icon > moving the**Notifications** slider to**off/white** .
 
 [How to Share an Album on iPhone](https://www.lifewire.com/share-album-on-iphone-6832807)
@@ -90,8 +103,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +110,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-capturing-life-on-camera-mastering-the-art-of-vlogging/"><u>[Updated] 2024 Approved Capturing Life on Camera Mastering the Art of Vlogging</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-innovative-techniques-for-stellar-screen-captures-with-adobe-captivity/"><u>[Updated] 2024 Approved Innovative Techniques for Stellar Screen Captures with Adobe Captivity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-speed-and-quality-picture-reader/"><u>[Updated] Ultimate Speed & Quality Picture Reader</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-untouched-live-visual-recorders-for-2024/"><u>[Updated] Untouched Live Visual Recorders for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/4-effective-techniques-to-remove-photo-backgrounds-effortlessly/"><u>4 Effective Techniques to Remove Photo Backgrounds Effortlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/common-reasons-for-malfunctioning-car-speakers-explained-simply/"><u>Common Reasons for Malfunctioning Car Speakers Explained Simply</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-a-hit-on-youtube-name-generation-insights/"><u>Crafting a Hit on YouTube Name Generation Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-http-404-error-tips-for-troubleshooting-and-resolution/"><u>Decoding the HTTP 404 Error - Tips for Troubleshooting & Resolution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enjoy-every-indiana-jones-film-in-their-recommended-watching-sequence/"><u>How to Enjoy Every Indiana Jones Film in Their Recommended Watching Sequence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-d3dx925dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_25.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-8-plus-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 8 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-windows-11-4-effective-ways-to-take-quick-screenshots/"><u>Mastering Windows 11: 4 Effective Ways to Take Quick Screenshots</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-8-plus-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone 8 Plus with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-5-teamwork-platforms-of-2022-expert-reviews-and-comparisons/"><u>Top 5 Teamwork Platforms of 2022 - Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-lag-times-could-it-be-your-internet-or-actual-nintendo-switch-online-disruptions/"><u>Understanding Lag Times: Could It Be Your Internet or Actual Nintendo Switch Online Disruptions?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-full-potential-of-your-samsung-smart-tv-through-remote-control-techniques/"><u>Unlock the Full Potential of Your Samsung Smart TV Through Remote Control Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-latest-discover-the-new-iphone-release/"><u>Unveiling the Latest: Discover the New iPhone Release</u></a></li>
+</ul></div>
 

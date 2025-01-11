@@ -1,7 +1,7 @@
 ---
 title: "Business Edition Assessment: Unveiling the Capabilities of Microsoft Surface Pro 8 - Reviews by ZDNet"
-date: 2024-12-24T20:15:55.329Z
-updated: 2024-12-25T19:12:57.446Z
+date: 2025-01-04T02:41:49.594Z
+updated: 2025-01-10T18:03:32.400Z
 tags:
   - apple
 categories:
@@ -71,7 +71,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -90,6 +90,10 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -97,10 +101,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -127,10 +127,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -154,7 +150,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -169,10 +165,14 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -212,19 +212,24 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/utting-edge-techniques-pushing-boundaries-in-youtube-cinematography/"><u>[New] Cutting Edge Techniques Pushing Boundaries in YouTube Cinematography</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-kid-approved-drone-choices-summarized/"><u>[New] Top Kid-Approved Drone Choices Summarized</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-ringtones-from-youtube-a-compilation-of-optimal-download-hubs/"><u>[Updated] Ringtones From YouTube A Compilation of Optimal Download Hubs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-uniting-fandoms-top-20-best-anime-songs/"><u>2024 Approved Uniting Fandoms Top 20 Best Anime Songs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-maximum-videos-on-a-64gb-drive/"><u>In 2024, Maximum Videos on a 64GB Drive</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-rar-file-extraction-on-your-apple-computer/"><u>Mastering RAR File Extraction on Your Apple Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/play-and-conquer-a-comprehensive-walkthrough-of-roller-champions-crossplayer-feature-for-pc/"><u>Play and Conquer: A Comprehensive Walkthrough of Roller Champions' Crossplayer Feature for PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-getting-back-missing-emails-in-gmail/"><u>Step-by-Step Tutorial for Getting Back Missing Emails in Gmail</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-the-challenge-of-non-launchable-gta-5/"><u>Troubleshooting Guide: Overcoming the Challenge of Non-Launchable GTA 5</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tutorial-connecting-windows-system-to-television-screen-using-the-cast-feature-of-chromecast/"><u>Tutorial: Connecting Windows System to Television Screen Using the Cast Feature of Chromecast</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ultimate-10-apps-to-boost-audio-velocity/"><u>Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-techniques-on-how-to-erase-your-yahoo-mail-account-forever/"><u>Ultimate Techniques on How to Erase Your Yahoo Mail Account Forever</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-educational-perks-your-guide-to-youtube-premium-offers-for-students/"><u>Unlocking Educational Perks: Your Guide to YouTube Premium Offers for Students</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-you-need-to-know-about-output-impedance-key-insights-for-engineers/"><u>What You Need to Know About Output Impedance: Key Insights for Engineers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ypassing-barriers-privately-share-youtube-video-via-google-for-2024/"><u>[New] Bypassing Barriers Privately Share YouTube Video via Google for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-breakdown-of-sharex-expert-opinions-and-alternatives-for-2024/"><u>[Updated] Breakdown of ShareX Expert Opinions & Alternatives for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-enhancing-listener-engagement-through-excellent-intros/"><u>[Updated] Enhancing Listener Engagement Through Excellent Intros</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-streamline-your-workflow-with-top-10-free-mac-screen-recorders/"><u>[Updated] Streamline Your Workflow with Top 10 Free Mac Screen Recorders</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-mp560-driver-download-and-update-quickly-and-easily/"><u>Canon MP560 Driver Download & Update | Quickly & Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-lightweight-laptop-perfect-for-home-offices-in-depth-testing-and-analysis-on-zdnet/"><u>Discover the Ultimate Lightweight Laptop Perfect for Home Offices: In-Depth Testing & Analysis on ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-correctly-address-osetupdll-file-disappearance-issues/"><u>Expert Tips to Correctly Address oSetup.dll File Disappearance Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-facebooks-disappearing-dark-mode-issue-quick-and-effective-tips/"><u>Fixing Facebook's Disappearing Dark Mode Issue: Quick and Effective Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-slow-loading-xbox-app-on-pc/"><u>How to Fix a Slow-Loading Xbox App on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-your-xbox-series-x-or-s-headset-is-not-working/"><u>How to Fix It When Your Xbox Series X or S Headset Is Not Working</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-free-up-space-by-deleting-android-cache-a-complete-guide/"><u>How to Free Up Space by Deleting Android Cache: A Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/investigating-instances-where-facebook-marketplace-might-be-missing/"><u>Investigating Instances Where Facebook Marketplace Might Be Missing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-and-streamline-commands-in-modern-windows-systems/"><u>Optimize and Streamline Commands in Modern Windows Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-scanning-documents-from-your-printer-to-pc/"><u>Step-by-Step Guide: Scanning Documents From Your Printer to PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-art-of-spotting-bogus-bonds-protecting-yourself-from-fraudulent-friending-attempts/"><u>The Art of Spotting Bogus Bonds: Protecting Yourself From Fraudulent Friending Attempts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-6-digital-journals-for-your-personal-reflection/"><u>The Best 6 Digital Journals For Your Personal Reflection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-google-home-potential-how-to-connect-and-control-from-your-pc/"><u>Unlocking Google Home Potential: How to Connect and Control From Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-secure-usage-resolving-the-issue-of-malfunctioned-airtags-due-to-faulty-battery-protection-a-comprehensive-guide/"><u>Unlocking Secure Usage: Resolving the Issue of Malfunctioned AirTags Due to Faulty Battery Protection - A Comprehensive Guide</u></a></li>
 </ul></div>
 

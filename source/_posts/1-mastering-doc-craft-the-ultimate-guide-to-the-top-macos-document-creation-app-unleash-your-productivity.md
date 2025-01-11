@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2024-12-23T17:58:32.750Z
-updated: 2024-12-25T16:42:10.352Z
+date: 2025-01-05T17:35:16.103Z
+updated: 2025-01-11T03:53:20.198Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,21 +129,24 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-laughter-labyrayer-with-adobes-help/"><u>[New] 2024 Approved Laughter Labyrayer with Adobe's Help</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-recordtv-easy-cost-free-windows-software-tips/"><u>[Updated] 2024 Approved RecordTV Easy, Cost-Free Windows Software Tips</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-streamline-your-content-delivery-with-tailored-srt-upload-practices-on-media-outlets/"><u>2024 Approved Streamline Your Content Delivery with Tailored SRT Upload Practices on Media Outlets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/are-you-affected-by-the-latest-twitch-interruption-or-is-it-a-local-problem/"><u>Are You Affected by the Latest Twitch Interruption, or Is It a Local Problem?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-smart-8-hd-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Smart 8 HD Fingerprint Lock</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-server-errors-identifying-if-blizzard-battlenet-is-down/"><u>Deciphering Server Errors: Identifying if Blizzard Battle.net Is Down</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-skype-hacks-resolving-connection-problems-with-ease/"><u>Essential Skype Hacks: Resolving Connection Problems with Ease</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-beatit-bt-d11-portable-charger-powerful-performance-unveiled/"><u>Expert Analysis of the Beatit BT-D11 Portable Charger: Powerful Performance Unveiled</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-a78-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo A78 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/navigating-a-fresh-start-guide-to-altering-your-tiktok-username-for-2024/"><u>Navigating a Fresh Start Guide to Altering Your TikTok Username for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-gopro-video-editing-simplified-a-macbook-users-guide-to-quik/"><u>New 2024 Approved GoPro Video Editing Simplified A MacBook Users Guide to Quik</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-experiencing-how-to-train-your-dragon-movies-from-start-to-finish/"><u>The Ultimate Guide to Experiencing How to Train Your Dragon Movies From Start to Finish</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-major-savings-explore-our-handpicked-selection-of-top-6-deal-websites/"><u>Unlock Major Savings: Explore Our Handpicked Selection of Top 6 Deal Websites</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-free-melodies-15-reliable-websites-for-complimentary-music-downloads/"><u>Unlocking Free Melodies: 15 Reliable Websites for Complimentary Music Downloads</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wirelessly-connect-your-television-a-guide-to-streaming-zoom-video-calls/"><u>Wirelessly Connect Your Television: A Guide to Streaming Zoom Video Calls</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-conquering-vr-lexicon-for-beginners-for-2024/"><u>[New] Conquering VR Lexicon for Beginners for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-craft-of-igtv-video-production-with-phones-and-dslrs/"><u>[Updated] Mastering the Craft of IGTV Video Production with Phones and DSLRs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ai-to-the-rescue-how-technology-can-alleviate-alert-fatigue-and-prevent-burnout-in-it-roles-zdnet/"><u>AI to the Rescue! How Technology Can Alleviate Alert Fatigue and Prevent Burnout in IT Roles | ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/clever-circumventions-for-edgenuity-video-course-skipping-for-2024/"><u>Clever Circumventions for Edgenuity Video Course Skipping for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-and-socialize-with-the-top-5-apps-for-making-lifelong-friends/"><u>Connect and Socialize with the Top 5 Apps for Making Lifelong Friends</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/cookiebot-enabled-enhancing-your-websites-analytics-with-advanced-tracking/"><u>Cookiebot-Enabled: Enhancing Your Website's Analytics with Advanced Tracking</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-404-error-message-causes-and-corrections-for-website-owners/"><u>Decoding the 404 Error Message: Causes & Corrections for Website Owners</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/essential-guide-to-selecting-artistic-win-programs/"><u>Essential Guide to Selecting Artistic Win Programs</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-c53-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-eliminate-a-superfluous-windows-boot-repair-segment/"><u>How to Eliminate a Superfluous Windows Boot Repair Segment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-like-a-pro-with-google-maps-live-view-tips-and-tricks-inside/"><u>Navigate Like a Pro with Google Maps Live View - Tips and Tricks Inside!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-aquatic-filters-boosting-gopro-cinematography/"><u>Premium Aquatic Filters Boosting GoPro Cinematography</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722869063088-samsung-galaxy-z-flip-31-revealed-anticipated-cost-and-launch-speculations-for-the-latest-innovation/"><u>Samsung Galaxy Z Flip 3^1 Revealed – Anticipated Cost and Launch Speculations for the Latest Innovation!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fixes-for-missing-dll-files-on-your-computer/"><u>Step-by-Step Fixes for Missing DLL Files on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-hiding-your-phone-number-on-an-android-device/"><u>Step-by-Step Guide: Hiding Your Phone Number on an Android Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/to-buy-or-not-to-buy-evaluating-blu-ray-player-options-today/"><u>To Buy or Not to Buy: Evaluating Blu-Ray Player Options Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-mfc42dll-file-missing-issues-on-your-pc/"><u>Ultimate Guide: Resolving mfc42.dll File Missing Issues on Your PC</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-duosync-advanced-auditory-coordination-toolkit-for-premiere-pro-professionals/"><u>Updated DuoSync Advanced Auditory Coordination Toolkit for Premiere Pro Professionals</u></a></li>
 </ul></div>
 

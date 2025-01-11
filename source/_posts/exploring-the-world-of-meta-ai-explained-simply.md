@@ -1,7 +1,7 @@
 ---
 title: Exploring the World of Meta AI Explained Simply
-date: 2024-08-20T11:26:37.526Z
-updated: 2024-08-21T11:26:37.526Z
+date: 2025-01-04T04:00:35.545Z
+updated: 2025-01-11T02:01:15.621Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the World of Meta AI Explained Simply
@@ -23,14 +23,22 @@ Close
 
 ![Meta AI Search](https://www.lifewire.com/thmb/IJhuuR_0nzH0cC3jDNbC1eUScp8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MetaAI-9f8fe03dd7744a409abac985af461dd7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Note:
 
  If you don't see Meta AI in an app you're using, check for an update.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Who Built Meta AI? 
 
  Meta AI is an artificial intelligence research laboratory owned by Meta Platforms Inc. It was founded in 2015 as Facebook Artificial Intelligence Research (FAIR) and later renamed when Facebook, Inc. rebranded as Meta Platforms, Inc. The team behind the chatbot includes researchers and engineers who work on machine learning, computer vision, natural language processing, and other areas of AI research.
@@ -38,8 +46,9 @@ Close
  Meta AI's unique language model is called[ Llama 3](https://llama.meta.com/llama3/) ; it's open-source and freely available. The company positions it as a competitor to ChatGPT and Google Gemini, with several features custom-designed for the popular apps you use.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Can Meta AI Do? 
 
  Meta AI is similar to generative multi-modal chatbots like ChatGPT, Copilot, and Gemini. But uniquely, it also works with Google and Bing for real-time search.
@@ -53,12 +62,9 @@ Close
 ![Meta AI on the Web](https://www.lifewire.com/thmb/g0zAqyNCCsGzSSxgOty0neVOgBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ask-Meta-35d2b7072de04faabbc4ba461270c3eb.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
+
 ## How Can You Use Meta AI? 
 
  If you live in the U.S. or any supported country, you can use Meta AI in Facebook, Instagram, WhatsApp, Messenger, and[ on the web](https://www.meta.ai/) .
@@ -69,15 +75,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Using Meta AI in an Instagram chat](https://www.lifewire.com/thmb/p_xZcrKy0CoLH-PPGSE3lNEoIlc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instagram-Meta-AI-a22c619032aa45ec9967463a59eb1ac0.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Along with Meta AI, there are[ 28 more AI 'characters'](https://about.fb.com/news/2023/09/social-profiles-for-metas-ai-characters/) with unique personas and even social profiles on Facebook and Instagram. Some are digital avatars of cultural icons you recognize, such as Snoop Dogg, Tom Brady, Kendall Jenner, and Naomi Osaka. Meta AI generates their text posts, and the images come from Emu.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ###  Note:
 
  As it's open source,[ Meta AI's frameworks, tools, libraries, datasets, and models](https://ai.meta.com/resources/) are also available to everyone for AI research and app development.
@@ -104,8 +103,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +110,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-conquer-the-crowd-initiating-your-top-ranked-gaming-channel-for-2024/"><u>[New] Conquer the Crowd Initiating Your Top-Ranked Gaming Channel for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-selecting-the-ideal-vr-device-seeking-simplicity-with-wireless-or-precision-with-tethers/"><u>[New] Selecting the Ideal VR Device Seeking Simplicity with Wireless, Or Precision With Tethers?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-swirl-device-set/"><u>[New] Swirl Device Set</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-pinnacle-article-hook-maker/"><u>[Updated] 2024 Approved Pinnacle Article Hook Maker</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/easy-guide-extracting-films-from-securely-encoded-disney-dvds-on-your-mac/"><u>Easy Guide: Extracting Films From Securely Encoded Disney DVDs on Your Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-methods-to-implement-and-test-a-website-ping-strategy/"><u>Easy Methods to Implement and Test a Website Ping Strategy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/must-have-the-ultimate-list-of-5-key-services-for-twitch-content-creators/"><u>Must-Have: The Ultimate List of 5 Key Services for Twitch Content Creators</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-tier-voip-games-conversation-tools/"><u>New Top-Tier VOIP Games Conversation Tools</u></a></li>
+<li><a href="https://win-trending.techidaily.com/solutions-when-your-hardware-doesnt-connect-with-windows-expert-advice-from-yl-computing/"><u>Solutions When Your Hardware Doesn't Connect with Windows: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/studio-2-spotlight-microsofts-pursuit-of-perfection-in-design/"><u>Studio 2 Spotlight: Microsoft's Pursuit of Perfection in Design</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-for-resolving-uneven-colors-and-bent-appearances-on-monitors/"><u>Troubleshooting Techniques for Resolving Uneven Colors and Bent Appearances on Monitors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-meta-quest-3-lite-revealed-anticipated-costs-launch-timeline-and-potential-features/"><u>Upcoming Meta Quest 3 Lite Revealed: Anticipated Costs, Launch Timeline & Potential Features</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-is-avs-video-editor-the-best-choice-for-you/"><u>Updated In 2024, Is AVS Video Editor the Best Choice for You ?</u></a></li>
+</ul></div>
 

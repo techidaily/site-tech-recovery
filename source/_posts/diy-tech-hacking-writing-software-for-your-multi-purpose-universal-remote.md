@@ -1,7 +1,7 @@
 ---
 title: "DIY Tech Hacking: Writing Software for Your Multi-Purpose Universal Remote"
-date: 2024-08-20T11:24:39.428Z
-updated: 2024-08-21T11:24:39.428Z
+date: 2025-01-10T05:57:07.238Z
+updated: 2025-01-11T09:34:10.668Z
 categories:
   - BestProducts
 description: "This Article Describes DIY Tech Hacking: Writing Software for Your Multi-Purpose Universal Remote"
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 of 09
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Duolingo](https://www.duolingo.com/)
 
 ![French to English question on Duolingo ](https://www.lifewire.com/thmb/zVo694n9zb4iakeebKxxNmCcWJY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duolingo-7cd8ccfed52b425aa098f2ec2bb9f9d6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -79,16 +87,10 @@ of 09
 
 of 09
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Memrise](https://www.memrise.com/)
 
 ![Memrise free language learning courses](https://www.lifewire.com/thmb/2wtAxiwxjUbfdOEZAsiDcyewFRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/memrise-language-learning-courses-8fae9d27bfc04c5ea1a30b86a3e02ef0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * Speak with an AI-powered language tutor.
@@ -121,10 +123,6 @@ of 09
 
 ![StudyStack Kazakh language learning flashcards](https://www.lifewire.com/thmb/r3Flgq3_9nYQG2CHSelmZfZac9s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/studystack-kazakh-flashcards-824ce43a596749ba86a4691b64aae137.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * Community-created flashcards.
@@ -149,6 +147,10 @@ of 09
 ## [123TeachMe](https://www.123teachme.com/)
 
 ![123 Teach Me Spanish lessons for work](https://www.lifewire.com/thmb/EOA6d6D6lu-JlmXCDrz4sdwjZ4Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/123-teach-me-spanish-lessons-42f28b242cf0445db745d76528e8fe63.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -180,6 +182,10 @@ of 09
 
 ![Mango Languages Irish lesson](https://www.lifewire.com/thmb/GMJQXhwrtgMV-fX8tYWki-NylB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mango-languages-learn-irish-64fa0a50f5e74f8890e288ee61875b8a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Free in libraries and schools that offer the program.
@@ -208,9 +214,6 @@ of 09
 
 ![A list of the most popular language learning lessons at FSI Language Courses](https://www.lifewire.com/thmb/kxllpzsA_C08VvqBNw7T74kIMvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fsi-language-courses-9fffc26e481d40d3b6bee51bad0678ce.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  What We Like
 
 * Courses were used by the U.S. government for training.
@@ -233,16 +236,14 @@ of 09
 
 of 09
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [LearnALanguage.com](https://www.learnalanguage.com/)
 
 ![learnalanguage options](https://www.lifewire.com/thmb/cIoZT0R5D-qf8EFyzsJL_7YeZMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/learnalanguage-8b3ef3cadcbb48198b1b0554ab06f9b6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Some lessons are offbeat and fun.
@@ -266,13 +267,14 @@ of 09
 
 of 09
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [MIT OpenCourseWare](https://ocw.mit.edu/search/?d=Global%20Languages&s=department%5Fcourse%5Fnumbers.sort%5Fcoursenum)
 
 ![MIT OpenCourseWare Chinese language learning lessons](https://www.lifewire.com/thmb/1VIFfqh6uBPyhYGR2uICnmwq6fQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mitopencourseware-0fec61fb314f4ab895bcbb79a1ac119e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * Broader range of language-related courses.
@@ -313,8 +315,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +322,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/est-budget-cameras-for-creating-quality-vlogs/"><u>[New] Best Budget Cameras for Creating Quality Vlogs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-action-packed-comparisons-gopro-vs-star-sj7/"><u>[Updated] Action-Packed Comparisons GoPro Vs Star SJ7</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-flawless-video-calls-from-laptop-using-the-desktop-whatsapp-browser-for-2024/"><u>[Updated] Flawless Video Calls From Laptop Using the Desktop WhatsApp Browser for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-ios-insiders-list-top-rated-downloading-apps-for-video-buffs/"><u>[Updated] In 2024, IOS Insider's List Top-Rated Downloading Apps for Video Buffs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973950955-bluetooth-connection-errors-on-windows-11-heres-how-to-fix-them-now/"><u>Bluetooth Connection Errors on Windows 11? Here’s How to Fix Them Now.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eight-remedies-to-revive-a-frozen-chromebook-easily/"><u>Eight Remedies to Revive a Frozen Chromebook Easily</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-leading-the-way-in-affordable-video-conferencing-technology/"><u>In 2024, Leading the Way in Affordable Video Conferencing Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-duckduckgo-trustworthy-an-in-depth-look-at-its-security-protocols/"><u>Is DuckDuckGo Trustworthy? An In-Depth Look at Its Security Protocols</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028474591-mp4/"><u>MP4ビデオの優れた品質保持しながら回転可能にするテクニック</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protecting-your-icloud-messages-with-dual-authentication-techniques/"><u>Protecting Your iCloud Messages with Dual-Authentication Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-unresponsive-rust-mics-a-comprehensive-guide-for-2-getting-your-rust-microphone-to-work-again/"><u>Solving the Problem of Unresponsive Rust Mics: A Comprehensive Guide for 2# # Getting Your Rust Microphone to Work Again</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamers-picks-top-5-noise-canceling-headsets/"><u>Streamer's Picks Top 5 Noise-Canceling Headsets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-streaming-videos-from-any-source-onto-your-apple-tv-with-vlc/"><u>The Complete Guide to Streaming Videos From Any Source Onto Your Apple TV with VLC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-must-watch-lgbtqplus-series-on-netflix-this-july/"><u>Top Picks: Must-Watch LGBTQ+ Series on Netflix This July</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-to-resolve-wi-fi-connection-issues-on-your-surface-pro/"><u>Troubleshooting Steps to Resolve Wi-Fi Connection Issues on Your Surface Pro</u></a></li>
+</ul></div>
 

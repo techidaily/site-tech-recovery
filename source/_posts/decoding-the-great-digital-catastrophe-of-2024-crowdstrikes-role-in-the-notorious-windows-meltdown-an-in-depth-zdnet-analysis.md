@@ -1,7 +1,7 @@
 ---
 title: "Decoding The Great Digital Catastrophe of 2024: CrowdStrike's Role in the Notorious Windows Meltdown | An In-Depth ZDNet Analysis"
-date: 2025-01-01T18:25:50.357Z
-updated: 2025-01-04T18:24:01.322Z
+date: 2025-01-05T08:07:17.982Z
+updated: 2025-01-10T21:15:30.559Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,19 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-ensuring-data-privacy-while-transforming-youtube-video-audio-to-mp3/"><u>[Updated] 2024 Approved Ensuring Data Privacy While Transforming YouTube Video Audio to MP3</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-content-crusaders-route-to-rapid-instagram-fame-for-2024/"><u>[Updated] Content Crusader’s Route to Rapid Instagram Fame for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-repair-handling-the-phase0exception-blue-screen-of-death-stopcode-0x0000007/"><u>DIY Repair: Handling the PHASE0_EXCEPTION Blue Screen of Death, Stopcode 0X0000007#</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-automatic-amd-graphics-drivers/"><u>Easy Installation: Automatic AMD Graphics Drivers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-maximizing-your-experience-with-google-gemini/"><u>Expert Strategies for Maximizing Your Experience with Google Gemini</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-vegas-pro-21-a-comprehenive-examination-for-gamblers-and-techies-alike/"><u>In 2024, Vegas Pro '21 A Comprehenive Examination for Gamblers and Techies Alike</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/maximize-your-zoom-experience-with-top-three-strategies/"><u>Maximize Your Zoom Experience with Top Three Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997231521-minecraft-dungeon-pc-performance-issues-heres-how-to-stop-the-unwanted-interruptions/"><u>Minecraft Dungeon PC Performance Issues? Here's How to Stop the Unwanted Interruptions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-12-complimentary-keyboarding-courses-ideal-for-every-age-group/"><u>Top 12 Complimentary Keyboarding Courses Ideal for Every Age Group</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-tracks-for-a-professional-unboxing-presentation/"><u>Top Tracks for a Professional Unboxing Presentation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-new-audiences-with-accessible-insta-stories-adding-captions-made-easy/"><u>Unlocking New Audiences with Accessible Insta-Stories - Adding Captions Made Easy</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unravel-the-mystery-of-star-wars-episode-order-with-disney-plus-streaming/"><u>Unravel the Mystery of Star Wars Episode Order with Disney Plus Streaming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-8-free-videography-programs-perfect-for-indie-filmmakers/"><u>[New] Top 8 Free Videography Programs Perfect For Indie Filmmakers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-7-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 7 and iPad Securely</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/el-salvador-adopts-bitcoin-as-official-currency-insight-into-its-implementation/"><u>El Salvador Adopts Bitcoin as Official Currency – Insight Into Its Implementation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-your-listening-experience-with-our-favorite-8-ios-music-apps/"><u>Enhance Your Listening Experience with Our Favorite 8 iOS Music Apps</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/enhance-your-live-broadcasts-using-manycam-the-ultimate-virtual-webcam-software-suite/"><u>Enhance Your Live Broadcasts Using ManyCam: The Ultimate Virtual Webcam Software Suite</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-disconnected-sounds-to-cohesive-scenes-with-audacity/"><u>From Disconnected Sounds to Cohesive Scenes with Audacity</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-realme-narzo-n55-frp-by-drfone-android/"><u>Full Guide to Bypass Realme Narzo N55 FRP</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-remotely-operate-google-home-smart-gadgets-on-windows-and-mac-computers/"><u>How To Remotely Operate Google Home Smart Gadgets on Windows and Mac Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-non-functional-xbox-series-x-and-s-audio-devices/"><u>Quick Fixes for Non-Functional Xbox Series X and S Audio Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/securing-a-smooth-pathway-to-share-srt-text-across-multiple-platforms/"><u>Securing a Smooth Pathway to Share SRT Text Across Multiple Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/taking-flight-in-content-creation-dji-drones-and-fb-live/"><u>Taking Flight in Content Creation DJI Drones & FB Live</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-strategy-for-recovering-a-forgotten-fb-password-without-contact-details/"><u>The Ultimate Strategy for Recovering a Forgotten FB Password without Contact Details</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-21-free-ip-camera-apps-best-choices-for-home-security-and-surveillance/"><u>Top 21 Free IP Camera Apps: Best Choices for Home Security & Surveillance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-hidden-electronic-mail-addresses-legal-methods-explored/"><u>Unveiling Hidden Electronic Mail Addresses – Legal Methods Explored</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered by ZDNet"
-date: 2025-01-01T16:29:18.915Z
-updated: 2025-01-04T17:10:48.192Z
+date: 2025-01-09T19:41:28.456Z
+updated: 2025-01-11T10:01:10.771Z
 tags:
   - apple
 categories:
@@ -60,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,10 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -105,7 +105,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -117,10 +117,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,7 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -155,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,19 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-webster.techidaily.com/1-pasos-faciles-para-mover-archivos-de-windows-a-macos-sin-usar-migration-assistant/"><u>1. 'Pasos Fáciles Para Mover Archivos De Windows a macOS Sin Usar Migration Assistant'</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/8-free-instagram-to-mp4-converters-you-can-try-onlinewindowsmac/"><u>8 Free Instagram to MP4 Converters You Can Try [Online/Windows/Mac]</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/beyond-the-limits-how-starlink-satellites-can-transform-your-life/"><u>Beyond The Limits: How Starlink Satellites Can Transform Your Life</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disneyplus-must-watches-handpicked-selection-of-fantastic-movies-right-now/"><u>Disney+ Must-Watches: Handpicked Selection of Fantastic Movies Right Now</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-realme-c51-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Realme C51.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-proplus-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 Pro+ 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-solution-to-your-401-access-denied-problem-with-easy-to-follow-techniques/"><u>Master the Solution to Your 401 Access Denied Problem with Easy-to-Follow Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximize-productivity-easy-tutorial-on-linking-three-screens-to-one-computer/"><u>Maximize Productivity: Easy Tutorial on Linking Three Screens to One Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mfc71-dll-file-not-found-heres-how-you-can-rectify-it-easily/"><u>MFC71 DLL File Not Found? Here's How You Can Rectify It Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-linking-your-facebook-page-with-a-pinterest-tab-for-enhanced-engagement/"><u>Steps to Linking Your Facebook Page with a Pinterest Tab for Enhanced Engagement</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-why-your-facebook-profile-may-not-appear-on-marketplace/"><u>The Ultimate Guide: Why Your Facebook Profile May Not Appear on Marketplace</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/voicemod-fixes-and-tweaks-how-to-successfully-launch-and-use-the-app-updated-techniques/"><u>Voicemod Fixes and Tweaks: How to Successfully Launch & Use the App (Updated Techniques )</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-perfect-your-presence-with-solo-video-setups-and-techniques/"><u>[New] In 2024, Perfect Your Presence with Solo Video Setups and Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-ultimate-film-making-camera-lineup-best-of-all-levels/"><u>[New] In 2024, Ultimate Film-Making Camera Lineup Best of All Levels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-overwatch-the-ultimate-guide-to-recording-gameplay/"><u>[New] Overwatch The Ultimate Guide to Recording Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-remedies-to-clear-windows-setup-stuck-on-validation-error/"><u>9 Remedies to Clear Windows Setup Stuck on Validation Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-tv-and-fandango-a-perfect-match-for-movie-lovers-watch-here/"><u>Apple TV and Fandango: A Perfect Match for Movie Lovers – Watch Here!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-alternatives-to-gmail-the-ultimate-list-users-seeking-change/"><u>Best Alternatives to Gmail: The Ultimate List Users Seeking Change</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-patch-tuesday-a-guide-to-microsofts-monthly-security-updates/"><u>Decoding Patch Tuesday: A Guide to Microsoft's Monthly Security Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/electric-vehicle-purchasing-guide-a-list-of-nine-insightful-questions-every-potential-buyer-should-ask/"><u>Electric Vehicle Purchasing Guide: A List of Nine Insightful Questions Every Potential Buyer Should Ask</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/getting-familiar-with-the-latest-galaxy-z-flip-model-price-points-launch-date-and-innovative-functionalities/"><u>Getting Familiar with the Latest Galaxy Z Flip Model - Price Points, Launch Date & Innovative Functionalities</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-11-pro-max-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 11 Pro Max with iTunes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-e13-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-masterclass-guide-screen-recording-hulu-videos-effortlessly/"><u>In 2024, Masterclass Guide Screen Recording Hulu Videos Effortlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-with-ease-enhanced-menu-toggle-for-facebook-linkedin-and-youtube-integration/"><u>Navigate with Ease: Enhanced Menu Toggle for Facebook, LinkedIn & YouTube Integration</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-freeze-issues-effective-strategies-for-a-frozen-macbook-air/"><u>Resolving Freeze Issues: Effective Strategies for a Frozen MacBook Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-ksuserdll-file-errors-on-your-pc-tips-and-fixes/"><u>Troubleshooting ksuser.dll File Errors on Your PC - Tips and Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/upgrade-your-media-with-winxvideo-ai-video-and-image-boosting-tools-for-quality-conversion-and-editing/"><u>Upgrade Your Media with Winxvideo AI - Video & Image Boosting Tools for Quality Conversion & Editing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watching-netflix-on-the-nintendo-switch-is-it-feasible/"><u>Watching Netflix On The Nintendo Switch – Is It Feasible?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Google Pixel 7a | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Pedal Smarter, Not Harder: How Photochromic Smart Glasses Transform Bike Rides | Insights"
-date: 2024-12-31T16:41:19.168Z
-updated: 2025-01-04T18:34:15.732Z
+date: 2025-01-09T03:12:07.806Z
+updated: 2025-01-11T10:28:24.815Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -79,7 +79,7 @@ Matthew Miller/ZDNET
 The battery provides up to 12 hours of data and the glasses are dust- and water-resistant, which means I can wear them all year long here in Puget Sound. I always wear glasses while biking, but rarely use them while running, and yet I have worn these for every run since they arrived. I am definitely buying my own pair to help me achieve my goals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -118,21 +118,19 @@ The Engo 2 also ensure that I will continue to be a Strava Premium subscriber. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/umor-havens-discovering-comedy-gems-on-youtube-for-2024/"><u>[New] Humor Havens Discovering Comedy Gems on YouTube for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mavic-air-vs-spark-the-gamers-edition-comparison/"><u>[New] Mavic Air Vs. Spark The Gamer's Edition Comparison</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-soundwaves-on-social-a-guide-to-embedding-tracks-in-stories/"><u>[Updated] 2024 Approved Soundwaves on Social A Guide to Embedding Tracks in Stories</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-dissecting-the-technical-specifications-of-dji-phantom-3/"><u>[Updated] Dissecting the Technical Specifications of DJI Phantom 3</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-poco-m6-pro-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Poco M6 Pro 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-spoofing-disguise-your-phones-real-location/"><u>Mastering the Art of Spoofing: Disguise Your Phone's Real Location</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/neroadvrctndll-error-solutions-how-to-restore-your-data-management-tools/"><u>nero.advrctn.dll Error Solutions: How to Restore Your Data Management Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/order-matters-how-to-enjoy-every-indy-movie-in-chronological-storyline/"><u>Order Matters - How To Enjoy Every Indy Movie In Chronological Storyline</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/shutting-off-the-latest-iphones-tips-and-tricks-for-model-15-pro-pro-max-edition/"><u>Shutting Off the Latest iPhones - Tips and Tricks for Model 15 Pro, Pro Max Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/steps-to-establish-a-viable-youtube-sponsor-relationship-for-2024/"><u>Steps to Establish a Viable YouTube Sponsor Relationship for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stop-your-macs-auto-sleep-feature-with-these-simple-steps/"><u>Stop Your Mac's Auto-Sleep Feature with These Simple Steps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-fascinating-world-of-stock-pictures-and-meme-lore/"><u>The Fascinating World of Stock Pictures & Meme Lore</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-iphone-guide-for-shooting-hdr-photos/"><u>The Ultimate iPhone Guide for Shooting HDR Photos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-the-best-and-free-movie-streamingdownloading-sites-selecting-the-top-11/"><u>The Ultimate List of the Best and Free Movie Streaming/Downloading Sites: Selecting the Top 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-correcting-mfc71dll-not-found-or-mismatched-file-error/"><u>Troubleshooting Steps: Correcting 'mfc71.dll Not Found or Mismatched File' Error</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-secret-sauce-to-swipe-right-crafting-captivating-bio-on-tinder/"><u>[New] In 2024, The Secret Sauce to Swipe Right Crafting Captivating Bio on Tinder</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-advice-on-quick-and-clean-ppt-captures/"><u>[Updated] 2024 Approved Expert Advice on Quick and Clean PPT Captures</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-enhancing-presentations-the-captivate-way/"><u>[Updated] In 2024, Enhancing Presentations The Captivate Way</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-facebook-the-story-behind-its-creation-appeal-and-important-functions/"><u>Demystifying Facebook: The Story Behind Its Creation, Appeal, and Important Functions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-travel-tweeters-to-follow-insider-deals-advice-and-thrilling-adventures-top-66-picks/"><u>Expert Travel Tweeters to Follow: Insider Deals, Advice, and Thrilling Adventures (Top 66 Picks)</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guida-rapida-alla-creazione-di-backup-con-la-riga-di-comando-usando-aomei-backupper/"><u>Guida Rapida Alla Creazione Di Backup Con La Riga Di Comando Usando AOMEI Backupper</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722858387971-how-to-address-and-resolve-missing-jscriptdll-problems-on-windows-systems/"><u>How To Address and Resolve Missing JScript.dll Problems on Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-download-fun-a-guide-to-game-purchases-on-oculus-meta-quest-2/"><u>How to Download Fun: A Guide to Game Purchases on Oculus Meta Quest 2</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-brother-hl-3170cdw-driver-setup-fast-effortless-instructions-inside/"><u>Seamless Brother HL-3170CDW Driver Setup: Fast, Effortless Instructions Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-successfully-downloading-and-installing-the-latest-ios-update/"><u>Step-by-Step Guide: Successfully Downloading & Installing the Latest iOS Update</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-order-for-enjoying-the-epic-indiana-jones-series/"><u>The Definitive Order for Enjoying the Epic Indiana Jones Series</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncover-hidden-imessages-and-apple-notes-a-recovery-tutorial/"><u>Uncover Hidden iMessages and Apple Notes: A Recovery Tutorial</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/unveiling-the-features-of-the-samsung-galaxy-tab-s7-a-top-choice-for-android-lovers/"><u>Unveiling the Features of the Samsung Galaxy Tab S7: A Top Choice for Android Lovers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715701175426-xbox-game-memories-save-them-with-screenshots/"><u>Xbox Game Memories, Save Them with Screenshots!</u></a></li>
 </ul></div>
 

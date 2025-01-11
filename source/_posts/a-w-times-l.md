@@ -1,7 +1,7 @@
 ---
 title: \\[A = W \\Times L \\
-date: 2024-12-31T17:48:20.015Z
-updated: 2025-01-04T17:57:46.494Z
+date: 2025-01-08T08:01:33.396Z
+updated: 2025-01-10T21:10:44.575Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | **Google Pixel 6 Pro** | **iPhone 13 Pro**                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                             |
@@ -46,18 +42,18 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
 
 ---
 
-##  You should buy the Google Pixel 6 Pro if…
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+##  You should buy the Google Pixel 6 Pro if…
 
 ###  1\. You want fun and experimental camera features
 
@@ -67,6 +63,10 @@ One standout camera feature on the Pixel 6 Pro is **Motion Mode,** whichallows u
 
 Another new and useful feature is **Magic Eraser.** Like Photoshop's Content Aware Fill, the software trick allows you to magically erase unwanted objects from a photo. Using the feature is as simple as circling what you'd like to erase from your image, whether that's strangers in the background, stain marks, or signage, and the Pixel 6 Pro does the rest. When done correctly, the image will look like it was perfectly captured in the first place. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You want a bigger battery
 
 While Apple's iPhones have made significant improvements to battery life since the early days, the Google Pixel 6 Pro wins the endurance battle. With 5,003 mAh (versus the iPhone's suggested 3,095 mAh), the Pixel 6 Pro can withstand a day's use with more ease than Apple's Pro phone. Google says the Pixel 6 Pro can support up to 9 hours of YouTube playback with just a single charge, which is close to our in-house experiences. It also helps that the Pixel supports USB-C fast charging, a more standardized method of charging than Apple's proprietary Lightning port. 
@@ -74,6 +74,10 @@ While Apple's iPhones have made significant improvements to battery life since t
 **Also: [One year later, Google Pixel 6 Pro is still Google's best smartphone](https://www.zdnet.com/article/google-pixel-6-pro-review/)**
 
 CNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want a sleek, innovative design
 
@@ -84,10 +88,6 @@ With a Gorilla Glass Victus rear and a curved aluminum-edged frame, the Pixel 6 
 Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 on the horizon. With improved theme capabilities, new adaptive widgets, and a slew of Android perks, the Pixel software is both pleasing to the eye and practical. 
 
 [Buy the Google Pixel 6 Pro $418.88 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HYR2NC8%2Fref%3Dasc%5Fdf%5FB09HYR2NC81727521200000%3Fcreative%3D395261%26creativeASIN%3DB09HYR2NC8%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5b1293-c7f0-4074-bebc-aa1278013569%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy the iPhone 13 Pro if...
 
@@ -112,7 +112,7 @@ While not an actual product, the Apple ecosystem is still very much part of the 
 Image: Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
@@ -153,19 +153,20 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/9plusxplusyplusz-(-30/"><u> [9+X+y+z < 30 </u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-create-fantastic-youtube-description-with-templates-to-get-more-viewers/"><u>[New] In 2024, Create Fantastic YouTube Description With Templates To Get More Viewers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-optimum-locations-magnifying-youtube-videos/"><u>[New] Optimum Locations Magnifying YouTube Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-bite-sized-content-on-youtube-for-2024/"><u>[Updated] Bite-Sized Content on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beauty-behind-the-screen-color-correction-insights/"><u>[Updated] In 2024, Beauty Behind the Screen Color Correction Insights</u></a></li>
-<li><a href="https://win-bits.techidaily.com/copybootsecurely-an-reliable-alternative-to-xml-drive-duplication/"><u>CopyBootSecurely: An Reliable Alternative to XML Drive Duplication</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722903841553-disabling-closed-captions-on-amazon-prime-video-a-step-by-step-guide/"><u>Disabling Closed Captions on Amazon Prime Video: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-ways-to-block-unwanted-messages-on-your-iphone/"><u>Effective Ways to Block Unwanted Messages on Your iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-crafting-a-trusted-contacts-list-in-googles-mail-service/"><u>Expert Strategies for Crafting a Trusted Contacts List in Google's Mail Service</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fixes-and-remedies-when-your-xbox-series-x-or-s-headset-fails/"><u>Quick Fixes and Remedies When Your Xbox Series X or S Headset Fails</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stay-under-the-radar-effective-steps-for-incognito-mode-across-all-major-browsers/"><u>Stay Under the Radar: Effective Steps for Incognito Mode Across All Major Browsers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-modify-location-on-an-iphone-effectively/"><u>The Ultimate Guide to Modify Location on an iPhone Effectively</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-gopro-comparison-max-360-vs-hero-11-performance/"><u>Ultimate GoPro Comparison Max 360 vs Hero 11 Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-tiktok-content-with-expert-number-manipulation/"><u>[New] Transform Your TikTok Content with Expert Number Manipulation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlocking-the-potential-of-youtube-tv-services/"><u>[Updated] 2024 Approved Unlocking the Potential of YouTube TV Services</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-accelerate-image-enhancement-top-15-pixlr-tips-for-speed-and-efficiency/"><u>[Updated] Accelerate Image Enhancement Top 15 Pixlr Tips for Speed and Efficiency</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-precision-in-sound-10-tips-for-professional-audio-quality-for-2024/"><u>[Updated] Precision in Sound 10 Tips for Professional Audio Quality for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-capturing-human-gestures-an-in-depth-guide/"><u>[Updated] The Art of Capturing Human Gestures An In-Depth Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/15l-gaming-desktop-at-only-520-save-almost-40-technews/"><u>15L Gaming Desktop at Only $520 - Save Almost 40% | TechNews</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-text-manipulation-techniques/"><u>2024 Approved Superior Text Manipulation Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-0x80070422-issue-a-step-by-step-guide-for-windows-11-users/"><u>Fixing the 0X80070422 Issue: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-issue-why-this-application-wont-launch-on-your-computer/"><u>Fixing the Issue: Why This Application Won't Launch on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-windows-10-restoring-access-to-locked-out-sync-functions-a-step-by-step-tutorial/"><u>Fixing Windows 10: Restoring Access to Locked-Out Sync Functions – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fortnite-audio-issues-solve-sudden-sound-drops-and-glitches-instantly/"><u>Fortnite Audio Issues? Solve Sudden Sound Drops and Glitches Instantly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-utorrent-software-for-windows-11-beginners-guide-to-downloading-and-installation/"><u>Free Utorrent Software for Windows 11 - Beginner's Guide to Downloading and Installation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-your-google-usb-drive-ready-free-software-downloads/"><u>Get Your Google USB Drive Ready - Free Software Downloads</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-install-and-configure-a-pc-game-racing-wheel-a-detailed-guide/"><u>How to Install and Configure a PC Game Racing Wheel - A Detailed Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigate-roblox-error-277-successfully-expert-tips-for-players-using-pcs-updated/"><u>Navigate Roblox Error 277 Successfully: Expert Tips for Players Using PCs (Updated )</u></a></li>
 </ul></div>
 

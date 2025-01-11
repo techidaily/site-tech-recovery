@@ -1,7 +1,7 @@
 ---
 title: Top 11 Must-Have Windows & Mac Programs According to ZDNet
-date: 2025-01-01T17:19:37.546Z
-updated: 2025-01-04T18:54:54.816Z
+date: 2025-01-06T10:13:35.820Z
+updated: 2025-01-10T18:10:41.362Z
 tags:
   - apple
 categories:
@@ -36,11 +36,11 @@ Show less
 
 [View now at Microsoft](https://microsoft-us.evyy.net/c/159047/434427/3327?u=https://www.microsoft.com/en-us/microsoft-365/business//&subid1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&sharedId=zdnet)
 
-## Microsoft 365 apps for Business
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Microsoft 365 apps for Business
 
 ### It's not just a bundle anymore
 
@@ -53,10 +53,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Tweeten](https://tweetenapp.com/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tweeten
 
@@ -73,10 +69,14 @@ Show less
 [View now at OneNote](https://www.onenote.com/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OneNote
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### An infinitely expandable notebook
 
@@ -91,6 +91,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at Adobe Acrobat](https://www.adobe.com/products/catalog.html#category=pdf)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Adobe Acrobat Pro DC
 
@@ -107,14 +111,10 @@ Show less
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Quicken Home and Business
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### I hate it, but I use it
 
@@ -129,6 +129,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microsoft Edge (Chromium)
 
@@ -146,10 +150,6 @@ Show less
 
 ## 1Password
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Everyone needs a password manager
 
 When I set up a new PC, Mac, or mobile device, the first thing I install, without exception, is the 1Password browser extension. (For a full review, see: [1Password: My favorite password manager is an essential security tool.](https://www.zdnet.com/article/1password-my-favorite-password-manager-is-an-essential-security-tool/)) It has every feature you expect from this class of software, including a robust password generator that can create and save truly random, unguessable credentials, as well as support for two-factor authentication. My family plan costs $5 a month and makes it easy to share credentials for online services with my wife.
@@ -162,11 +162,11 @@ Show less
 
 [View now at Workona](https://workona.com/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Workona
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The cleanest way to organize browser tabs
 
@@ -185,7 +185,7 @@ Show less
 ## Spotify Music
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### No music app is perfect, but Spotify is best all around
@@ -202,6 +202,10 @@ Show less
 
 ## VLC Media Player
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Free, open source, handles every format imaginable
 
 This free, open source tool has been around forever. (I wrote about it nearly a decade ago, when it was the best [free alternative DVD player](https://www.zdnet.com/article/if-vlc-can-ship-a-free-dvd-player-why-cant-microsoft/) on the market.) It plays just about every media format (including Blu-ray discs), it doesn't require downloading dodgy codec packs to work, and it runs on every conceivable platform. On Windows 10, make sure to install the [full Windows package](http://www.videolan.org/vlc/download-windows.html), not the limited-feature variant in the Windows Store.
@@ -211,10 +215,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MediaMonkey
 
@@ -256,22 +256,18 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-all-about-metaverse-marketing-example-strategies-and-more/"><u>[New] All About Metaverse Marketing Example, Strategies, and More</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dance-of-words-crafting-bouncing-text-effects/"><u>[Updated] 2024 Approved Dance of Words Crafting Bouncing Text Effects</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-zoom-the-ultimate-guide-to-audio-recording-for-podcasts/"><u>[Updated] Mastering Zoom The Ultimate Guide to Audio Recording for Podcasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/control-your-computers-visibility-turn-on-or-off-discovery-feature-in-windows-10/"><u>Control Your Computer's Visibility: Turn On or Off Discovery Feature in Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-of-free-disk-defragmenters/"><u>Discover the Ultimate List of Free Disk Defragmenters</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-ways-to-add-email-addresses-to-gmail-safe-list-a-comprehensive-guide/"><u>Easy Ways to Add Email Addresses to Gmail Safe List: A Comprehensive Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guida-dettagliata-per-lutilizzo-di-winxdvd-un-approccio-completo/"><u>Guida Dettagliata per L'utilizzo Di WinXDVD: Un Approccio Completo</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mac-dual-display-configuration-a-step-by-step-guide/"><u>Mac Dual Display Configuration: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-d-link-security-your-complete-password-reference-updated-jul-24/"><u>Navigating D-Link Security: Your Complete Password Reference (Updated Jul '24)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-activatingdeactivating-screen-keyboards-in-win10/"><u>Step-by-Step Instructions for Activating/Deactivating Screen Keyboards in Win10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/syncing-samsung-audio-buds-with-laptop-easy-troubleshooting-steps/"><u>Syncing Samsung Audio Buds With Laptop: Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-motorola-edge-40-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Motorola Edge 40 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-7-must-know-aspects-before-buying-your-next-smart-tv/"><u>The Ultimate Checklist: 7 Must-Know Aspects Before Buying Your Next Smart TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-poor-zoom-experiences-issues-with-software-or-internet-speed/"><u>Troubleshooting Poor Zoom Experiences - Issues with Software or Internet Speed?</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-global-scripts-a-windows-font-guide/"><u>Unleashing Global Scripts: A Windows Font Guide</u></a></li>
-<li><a href="https://win-community.techidaily.com/0x8004231f3/"><u>エラーコード0x8004231Fを解消するための3つの有効な方法</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-countering-harshness-maintaining-poise-online/"><u>[Updated] In 2024, Countering Harshness Maintaining Poise Online</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-seamless-video-playback-a-facebook-feature-explanation/"><u>2024 Approved Seamless Video Playback A Facebook Feature Explanation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-6-plus-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 6 Plus Without iTunes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-oneplus-nord-ce-3-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from OnePlus Nord CE 3 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-language-models-such-as-chatgpt-a-potential-tool-in-constructing-computer-viruses-or-hacking-tools/"><u>Are Language Models Such as ChatGPT a Potential Tool in Constructing Computer Viruses or Hacking Tools?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/e-audiences-best-hashtags-for-going-viral-on-yt/"><u>Engage Audiences Best Hashtags for Going Viral on YT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/future-ready-education-identifying-the-ers-best-cities-to-visit-new-york-paris-and-tokyo/"><u>Future-Ready Education: Identifying the Er's Best Cities to Visit - New York, Paris, and Tokyo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-can-you-legally-download-netflix-titles-for-offline-viewing-on-a-laptop/"><u>How Can You Legally Download Netflix Titles for Offline Viewing on a Laptop?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-blaze-2-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Blaze 2 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-absence-of-printmanagement-on-your-system/"><u>Remedying the Absence of 'Printmanagement' On Your System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-of-the-best-reddits-all-time-favorites-for-2024/"><u>The Best of the Best Reddit's All-Time Favorites for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-best-free-racing-games-without-internet-play-anywhere/"><u>Top 5 Best Free Racing Games Without Internet | Play Anywhere!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-iphone-calls-that-dont-sound-alarm-tips-and-solutions/"><u>Troubleshooting iPhone Calls That Don't Sound Alarm - Tips & Solutions</u></a></li>
 </ul></div>
 

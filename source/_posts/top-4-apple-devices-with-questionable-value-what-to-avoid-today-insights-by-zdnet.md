@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights by ZDNet"
-date: 2024-12-31T16:34:34.880Z
-updated: 2025-01-04T17:57:15.817Z
+date: 2025-01-06T08:22:39.660Z
+updated: 2025-01-10T22:05:45.581Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ Beyond that, Apple's lineup seems pretty strong, from the [M3 MacBook Air system
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The 'Naughty' list**
 
 Don't buy these devices:
@@ -58,6 +62,10 @@ Don't buy these devices:
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
 ## **The 'Nice' list**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
 
@@ -76,7 +84,7 @@ Kerry Wan/ZDNET
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
@@ -93,10 +101,6 @@ Along with the updated processor, this MacBook Air can also power two external m
 
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Apple Vision Pro**
 
 Apple Vision Pro on a stand
@@ -110,6 +114,10 @@ Jason Hiner/ZDNET
 It's hard to bet against Apple, but a futuristic set of goggles with a starting price of [$3,499](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) doesn't feel like the easiest thing to sell. Still, Apple is Apple, and if any company can convince consumers to part with large sums of cash (and developers [to create apps](https://www.zdnet.com/article/apples-vision-pro-will-launch-with-600-new-apps-built-just-for-the-headset/) for a new platform that could fall flat on its face), it's Apple. 
 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
 
@@ -126,10 +134,6 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -144,10 +148,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -171,7 +171,7 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple AirTag**
@@ -214,22 +214,22 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-best-mp4-player-you-should-know/"><u>[New] 2024 Approved Best MP4 Player You Should Know</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-building-your-thriving-youtube-space-for-gamers/"><u>[New] In 2024, Building Your Thriving YouTube Space for Gamers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sky-high-adventures-the-gopro-karma-experience/"><u>[Updated] Sky-High Adventures The GoPro Karma Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/avoid-annoying-no-id-calls-with-these-easy-steps-on-your-iphone/"><u>Avoid Annoying No-ID Calls with These Easy Steps on Your iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-tips-for-setting-up-a-personalized-email-footer-with-godaddys-mail-service/"><u>Easy Tips for Setting Up a Personalized Email Footer with GoDaddy's Mail Service</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/finding-the-unfindable-retrieving-deleted-phone-calls-from-an-android-smartphone/"><u>Finding the Unfindable: Retrieving Deleted Phone Calls From an Android Smartphone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/galactic-gateway-top-10-sci-fi-movies-that-transcend-reality/"><u>Galactic Gateway Top 10 Sci-Fi Movies that Transcend Reality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guidelines-for-selecting-an-engaging-movie-trailer-song/"><u>In 2024, Guidelines for Selecting an Engaging Movie Trailer Song</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-tips-how-to-prevent-silent-intruders-by-blocking-private-numbers-and-no-caller-id/"><u>IPhone Tips: How To Prevent Silent Intruders by Blocking Private Numbers & No Caller ID</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-tolkien-the-ideal-viewing-sequence-for-lord-of-the-rings/"><u>Mastering Tolkien: The Ideal Viewing Sequence for 'Lord of the Rings'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-running-android-apps-seamlessly-on-windows-10-systems/"><u>Step-by-Step Tutorial: Running Android Apps Seamlessly on Windows 10 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-must-have-tech-tools-for-academic-success/"><u>The Ultimate List of Must-Have Tech Tools for Academic Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-fm20dll-error-effectively/"><u>Troubleshooting the MISSING fm20.dll Error Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-aim-how-did-aol-instant-messenger-change-online-communication/"><u>Understanding AIM - How Did AOL Instant Messenger Change Online Communication?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-new-in-ipados-version-18-launch-details-cost-free-access-and-key-enhancements/"><u>What's New in iPadOS Version 18? Launch Details, Cost-Free Access & Key Enhancements!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winxdvd-perfektes-video-komprimieren-fur-eine-reibungslose-ubertragung-auf-whatsapp-ohne-einbussen-an-bildqualitat/"><u>WinXDVD: Perfektes Video-Komprimieren Für Eine Reibungslose Übertragung Auf WhatsApp, Ohne Einbußen an Bildqualität.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oppo-a79-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Oppo A79 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-poll-power-players-quintessential-politic-games/"><u>[New] 2024 Approved Poll Power Players Quintessential Politic Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-elite-lockpicking-games-for-thrill-seekers/"><u>2024 Approved Elite Lockpicking Games for Thrill Seekers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719576236146-boost-your-career-with-croatian-skills-explore-these-7-benefits/"><u>Boost Your Career with Croatian Skills – Explore These 7 Benefits!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/diving-into-3d-worlds-iphones-approach-to-vr-viewing-for-2024/"><u>Diving Into 3D Worlds IPhone's Approach to VR Viewing for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-digital-liberation-unlocking-your-kobo-books-without-drm/"><u>Effortless Digital Liberation: Unlocking Your Kobo Books Without DRM</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-setup-quick-guide-to-installing-your-essential-apps/"><u>Effortless Setup: Quick Guide to Installing Your Essential Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-automatic-screen-rotation-on-your-kindle-fire-device-a-step-by-step-guide/"><u>Enabling Automatic Screen Rotation on Your Kindle Fire Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-kindles-read-anywhere-feature-tips-for-adding-the-mobile-app-to-your-devices/"><u>Enabling Kindle's Read Anywhere Feature: Tips for Adding the Mobile App to Your Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-guide-understanding-the-11-most-popular-audiobook-file-types/"><u>Essential Guide: Understanding the 11 Most Popular Audiobook File Types</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-conversion-from-cbr-format-to-epub-a-step-by-step-guide/"><u>Free Conversion From CBR Format to EPUB: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grasping-the-functionality-of-airborne-robotics-for-2024/"><u>Grasping the Functionality of Airborne Robotics for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-bypass-epub-drm-restrictions-effectively-and-safely/"><u>How to Bypass ePub DRM Restrictions Effectively and Safely</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-users-rejoice-adobes-ade-app-is-finally-here-get-your-free-download-today/"><u>IPad Users Rejoice! Adobe's ADE App Is Finally Here – Get Your Free Download Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-geforce-x0001-problem-codes-on-w10w11-systems/"><u>Remedying GeForce X0001 Problem Codes on W10/W11 Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sensory-storytelling-crafting-engaging-food-videos/"><u>Sensory Storytelling Crafting Engaging Food Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-approaches-to-ai-assistance-in-professional-writing-services/"><u>Strategic Approaches to AI Assistance in Professional Writing Services</u></a></li>
 </ul></div>
 

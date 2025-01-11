@@ -1,7 +1,7 @@
 ---
 title: Identifying and Locating Hidden AirTags Around You - Insights From ZDNet
-date: 2025-01-02T17:54:43.588Z
-updated: 2025-01-04T18:07:58.678Z
+date: 2025-01-07T04:08:23.378Z
+updated: 2025-01-11T02:25:59.508Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Apple
 
@@ -41,10 +37,6 @@ I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/76
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Open System Preferences by clicking the Apple button in the top left corner of your desktop, and click System Preferences. In the resulting window, click Apple ID > iCloud Drive > Options (**Figure 1**).
@@ -54,7 +46,7 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -64,6 +56,10 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 **Figure 2**: Enabling Pages for iCloud Drive collaboration.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
 
@@ -76,7 +72,7 @@ The first thing you must do is open the Pages document that will be shared with 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
@@ -86,6 +82,10 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -106,7 +106,7 @@ Make sure to configure both the Who Can Access and Permission options. Here, you
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stop sharing
@@ -149,22 +149,19 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-fun-flicks-online-must-see-comedy-streaming-stations/"><u>[Updated] 2024 Approved Fun Flicks Online Must-See Comedy Streaming Stations</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-how-to-make-fortnite-thumbnail-for-free-and-easy-for-2024/"><u>[Updated] How to Make Fortnite Thumbnail for Free and Easy for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quick-aspect-alteration-for-web-design/"><u>[Updated] Quick Aspect Alteration for Web Design</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-smooth-video-in-every-shot-prime-mobile-cameras-with-ois/"><u>[Updated] Smooth Video in Every Shot Prime Mobile Cameras With OIS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-make-moments-last-longer-using-phantoms-slow-mo-magic/"><u>2024 Approved How to Make Moments Last Longer Using Phantom's Slow Mo Magic</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-professionals-playbook-to-profitable-youtube-ventures-for-2024/"><u>A Professional's Playbook to Profitable YouTube Ventures for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-what-to-do-when-you-cant-find-physxloaderdll/"><u>Comprehensive Guide: What To Do When You Can't Find physxloader.dll</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-expand-your-xbox-ones-memory-with-an-outside-usb-drive-a-complete-guide/"><u>How to Expand Your Xbox One's Memory with an Outside USB Drive - A Complete Guide</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/improve-your-youtube-videos-clarity-solutions-for-post-upload-enhancement/"><u>Improve Your YouTube Video's Clarity: Solutions for Post-Upload Enhancement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-learning-snapseeds-power-tools/"><u>In 2024, Unleash Creativity Learning Snapseed's Power Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-tech-jungle-laptop-secrets-smartphone-wonders-and-book-discoveries-revealed/"><u>Navigating the Tech Jungle: Laptop Secrets, Smartphone Wonders, and Book Discoveries Revealed!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revealing-the-top-notch-free-srt-translators-for-your-needs/"><u>Revealing the Top-Notch FREE SRT Translators for Your Needs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/score-amazing-deals-exclusive-apple-watch-discounts-for-march/"><u>Score Amazing Deals: Exclusive Apple Watch Discounts for March</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-fm2ebdll-not-found-issues-effectively/"><u>Step-by-Step Guide: Correcting 'fm2eb.dll Not Found' Issues Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-refresh-any-ipad-expert-guide-to-hard-resets/"><u>Troubleshoot and Refresh Any iPad: Expert Guide to Hard Resets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-a-superior-data-restoration-program-exhaustive-insights-into-the-power-of-recuva/"><u>Unveiling a Superior Data Restoration Program: Exhaustive Insights Into the Power of Recuva</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/want-to-know-your-email-heres-how/"><u>Want to Know Your Email? Here's How</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-melodic-mix-audio-meets-images-online/"><u>[New] 2024 Approved Melodic Mix Audio Meets Images Online</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-10-androidios-weddings-ultimate-countdown-timer-apps/"><u>[New] Top 10 Android/iOS Weddings Ultimate Countdown Timer Apps</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mp34-aac/"><u>最適なMP3ファイル変換サイトトップ4 - AACからの効率的転送方法</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bebop-unfurled-in-flight-form-the-secondary-parrot-review/"><u>Bebop Unfurled in Flight Form – The Secondary Parrot Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/determining-the-ideal-speed-for-your-personal-computer-a-comprehensive-guide/"><u>Determining the Ideal Speed for Your Personal Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elite-selection-top-5-personal-item-trackers/"><u>Elite Selection: Top 5 Personal Item Trackers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/insta-marketing-dynamo-crafting-winning-strategies-with-videos-on-social-media/"><u>Insta-Marketing Dynamo Crafting Winning Strategies with Videos on Social Media</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-with-manycam-top-choice-in-virtual-webcam-and-broadcasting-apps/"><u>Live Streaming with ManyCam: Top Choice in Virtual Webcam and Broadcasting Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-more-wi-fi-struggles-easy-tips-for-restoring-ipad-internet-connection/"><u>No More Wi-Fi Struggles: Easy Tips for Restoring iPad Internet Connection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-shadows-masterful-techniques-for-addressing-rainbow-six-sieges-screen-colour-disruption-on-computers/"><u>Overcoming Shadows: Masterful Techniques for Addressing Rainbow Six Siege's Screen Colour Disruption on Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-the-ocidll-not-detected-problem/"><u>Step-by-Step Guide: Correcting the 'Oci.Dll Not Detected' Problem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-correcting-the-missing-pdhdll-file-mistake/"><u>Understanding and Correcting the Missing pdh.dll File Mistake</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-premier-range-of-keys-and-fobs-identifiers/"><u>Unveiling the Premier Range of Keys & Fobs Identifiers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-updated-strategy-for-content-creators/"><u>YouTube's Updated Strategy for Content Creators</u></a></li>
 </ul></div>
 

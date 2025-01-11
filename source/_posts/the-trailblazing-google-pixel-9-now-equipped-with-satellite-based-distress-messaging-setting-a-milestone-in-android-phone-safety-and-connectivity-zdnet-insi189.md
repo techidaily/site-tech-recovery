@@ -1,7 +1,7 @@
 ---
 title: "The Trailblazing Google Pixel 9: Now Equipped with Satellite-Based Distress Messaging, Setting a Milestone in Android Phone Safety and Connectivity | ZDNET Insights"
-date: 2024-12-31T17:26:18.597Z
-updated: 2025-01-04T18:17:56.371Z
+date: 2025-01-04T10:25:15.323Z
+updated: 2025-01-11T00:55:59.062Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,16 +49,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -69,7 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -79,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -87,6 +83,10 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -122,24 +122,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-understanding-facebook-reels-and-their-production-techniques/"><u>[New] In 2024, Understanding Facebook Reels and Their Production Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/remier-football-vids-key-youtube-infographic-data-for-2024/"><u>[New] Premier Football Vids Key YouTube Infographic Data for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/audio-troubleshooting-techniques-for-non-responsive-chromecasts/"><u>Audio Troubleshooting Techniques for Non-Responsive Chromecasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fix-your-pc-now-the-ultimate-guide-to-resolving-shell32dll-not-found-dilemma/"><u>Fix Your PC Now: The Ultimate Guide to Resolving Shell32.dll Not Found Dilemma</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-gameplay-audio-problems-for-warzone-players-on-both-pc-and-consoles/"><u>How to Fix Gameplay Audio Problems for Warzone Players on Both PC and Consoles</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-12-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone 12? 5 Tips You Must Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-the-buzz-teslas-upcoming-robot-latest-info-gossips-expected-cost-and-launch-timeline/"><u>Inside the Buzz: Tesla's Upcoming Robot - Latest Info, Gossips, Expected Cost & Launch Timeline</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-startup-stalls-on-macos-how-to-get-your-apps-running-again/"><u>Overcoming Startup Stalls on macOS: How to Get Your Apps Running Again</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reestablishing-wi-fi-connection-steps-to-rectify-microsoft-surface-pro-woes/"><u>Reestablishing Wi-Fi Connection: Steps to Rectify Microsoft Surface Pro Woes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-smart-tv-mastery-how-to-set-up-and-use-remote-control-seamlessly/"><u>Samsung Smart TV Mastery: How to Set Up and Use Remote Control Seamlessly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/self-created-soundtracks-for-your-instagram-alerts/"><u>Self-Created Soundtracks for Your Instagram Alerts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stay-on-track-with-these-elite-10-workout-logging-apps-of-2024-your-fitness-journey-revolution/"><u>Stay on Track with These Elite 10 Workout Logging Apps of 2024 - Your Fitness Journey Revolution</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-v30-lite-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo V30 Lite 5G FRP</u></a></li>
-<li><a href="https://win-great.techidaily.com/the-ultimate-guide-to-effective-dj-branding-choosing-the-right-social-media-content-and-schedules/"><u>The Ultimate Guide to Effective DJ Branding: Choosing the Right Social Media Content & Schedules</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-a1-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo A1 5G Location | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-correcting-the-msstdfmtdll-not-detected-error-efficiently/"><u>Understanding and Correcting the 'msstdfmt.dll' Not Detected Error Efficiently</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unleash-your-inner-sherlock-explore-these-e-murder-mystery-puzzles-enhanced-by-artificial-intelligence-technology/"><u>Unleash Your Inner Sherlock: Explore These E-Murder Mystery Puzzles Enhanced by Artificial Intelligence Technology</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/windows-skype-alternatives-top-video-call-apps-for-your-pc/"><u>Windows Skype Alternatives: Top Video Call Apps for Your PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-narrative-basics-explanation/"><u>[New] 2024 Approved Narrative Basics Explanation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-next-gen-of-visual-perfection-a-review-of-eizos-cg318-4k/"><u>[New] 2024 Approved The Next Gen of Visual Perfection A Review of EIZO's CG318-4K</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-complete-untapped-potential-of-dji-phantom-4/"><u>[Updated] In 2024, The Complete Untapped Potential of DJI Phantom 4</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-skype-capture-manual-unveiling-the-best-free-and-paid-practices-windowsmac-for-2024/"><u>[Updated] Skype Capture Manual Unveiling the Best Free and Paid Practices (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boosting-your-zoom-meetings-chromebook-edition/"><u>Boosting Your Zoom Meetings Chromebook Edition</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-language-ai-like-microsofts-phi-help-with-math-equations/"><u>Can Language AI Like Microsoft's Phi Help with Math Equations?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722888727799-dells-best-kept-academic-secret-how-students-can-save-big-with-exclusive-offers/"><u>Dell's Best-Kept Academic Secret: How Students Can Save Big with Exclusive Offers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-expedite-excitement-fast-video-on-android/"><u>In 2024, Expedite Excitement Fast Video on Android</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-unpacking-rar-archives-on-macos/"><u>Step-by-Step Guide to Unpacking RAR Archives on macOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essential-guide-to-enjoying-endless-tunes-with-our-selection-of-7-premium-free-music-apps/"><u>The Essential Guide to Enjoying Endless Tunes with Our Selection of 7 Premium-Free Music Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-users-manual-to-observing-and-understanding-data-utilization/"><u>The User's Manual to Observing and Understanding Data Utilization</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-htc-u23-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from HTC U23 Pro to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-why-minecraft-fails-to-start-on-windows-solutions-inside/"><u>Troubleshooting Guide: Why Minecraft Fails to Start on Windows - Solutions Inside</u></a></li>
 </ul></div>
 

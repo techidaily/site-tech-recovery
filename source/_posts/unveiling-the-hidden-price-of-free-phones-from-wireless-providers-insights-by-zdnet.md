@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Hidden Price of 'Free' Phones From Wireless Providers - Insights by ZDNet
-date: 2024-12-12T17:18:16.986Z
-updated: 2024-12-17T16:34:10.299Z
+date: 2025-01-08T11:53:45.249Z
+updated: 2025-01-11T04:10:22.721Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ I've been wanting to rewatch the entire four seasons of _For All Mankind_, the a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Apple TV+ on the Vision Pro
 
 The Apple TV+ app provides a couple of viewing options on the Vision Pro. The first is just a window in passthrough mode, where you see the show floating in space, with whatever your room is as a backdrop. That didn't interest me at all. I wanted full immersion. 
@@ -80,13 +84,13 @@ It wasn't distracting enough for me to stop the show, but it was one of those an
 
 And yet, watching the show was incredible in that environment. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The reality of virtual reality
 
 But it wasn't all vintage 1969 Corvette Stingrays and Apollo 11\. There were some problems. The first was audio… 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. AirPods ala mode
 
@@ -120,6 +124,10 @@ So, yes, you can turn on noise cancellation. I just didn't know how to do it on 
 
 Just because I love you folks and want to give you the complete story, I later forced myself to watch the second episode of some of the best TV ever made, on what is probably the most intense giant TV screen I've ever watched. And yeah, both the AirPods Pro and AirPods Max worked just fine. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Eyestrain and itchy itch
 
 I watched the first 20 minutes of the show in entertainment center bliss, but then my eyes started to hurt and my face (the part inside the headset) started to itch. 
@@ -127,10 +135,6 @@ I watched the first 20 minutes of the show in entertainment center bliss, but th
 I made sure to close and blink my eyes throughout the viewing experience, but by about 40 minutes in, I found myself alternately wishing the show was over and enthralled by how awesome the video was. 
 
 To alleviate the itching, I stopped the video a few times, loosened the headset, and scratch it. That's a bit of an immersion killer. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. No coffee for you
 
@@ -142,6 +146,10 @@ I wound up drinking my coffee through a straw, but that was also a bit of a prob
 
 After trying this once, I waited until the times I needed to scratch itches to take sips. Not ideal. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Jumpy-jump, flail, flail
 
 There's supposed to be a people detection feature in the Vision Pro that opens a bit of a portal if someone walks up to you and stands in front of you. But when my wife reached across the couch with an insistent tap, there was no such warning. 
@@ -151,7 +159,7 @@ It wasn't as much that it was startling. It was more that it took some coordinat
 I'm sure it looked ridiculous to her, and I know it was somewhat stressful to me. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Oh, my furrowed brow
@@ -160,19 +168,11 @@ I did notice brow pain while watching, but the entertainment experience was so e
 
 To be fair, it's not a terrible level of hurt, like when you stub your toe. But it's painful enough that it's worth remarking about. The pain went away after about ten minutes. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. In VR, nobody can hear you stream
 
 I can confirm the sense of isolation some [Vision Pro reviewers have reported](https://www.zdnet.com/article/i-tried-apple-vision-pro-for-a-weekend-and-here-are-my-3-biggest-takeaways/#:~:text=3.%20It%27s%20lonely%20in%20the%20spatial%20computing%20world). To be fair, I was purposely going for the isolation, because I didn't want to be involved in my wife's Zoom meeting. 
 
 But when my pup came over, I could feel him and pet him, but he couldn't look at my face and I couldn't see him. It wasn't a terrible moment, because he has prodigious lap-sitting skills, but I wanted to look back at his little face and couldn't. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Is it worth it?
 
@@ -228,21 +228,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-get-your-data-on-site-quickly-5-best-techniques-for-computer-transfer/"><u>[New] Get Your Data On-Site Quickly 5 Best Techniques for Computer Transfer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-on-the-go-photography-revolution-with-3dlut-apps/"><u>[Updated] On-the-Go Photography Revolution with 3DLUT Apps</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-calculating-your-digital-footprint-understanding-views-and-income-from-youtube/"><u>2024 Approved Calculating Your Digital Footprint Understanding Views & Income From YouTube</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/an-injury-to-the-deep-branch-of-the-ulnar-nerve-can-lead-to-a-claw-hand-deformity-due-to-unopposed-extensor-muscles/"><u>An Injury to the Deep Branch of the Ulnar Nerve Can Lead to a Claw Hand Deformity Due to Unopposed Extensor Muscles.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comparacao-detalhada-entre-standards-de-video-ntsc-vs-pal-qual-e-superior/"><u>Comparação Detalhada Entre Standards De Video - NTSC Vs. PAL: Qual É Superior?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversione-aac-a-ogg-libero-su-internet-utilizzando-il-software-di-movavi/"><u>Conversione AAC a Ogg Libero Su Internet Utilizzando Il Software Di Movavi</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/1726029161061-dvd/"><u>DVD再生に問題が発生した時、カーナビで有効な修正方法</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-3g2-file-conversion-quick-guide-with-movavis-powerful-online-tool/"><u>Free 3G2 File Conversion - Quick Guide with Movavi's Powerful Online Tool</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oneplus-nord-n30-se-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How OnePlus Nord N30 SE Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-vidcollector-social-media-to-device/"><u>In 2024, VidCollector Social Media to Device</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-find-x7-ultrafrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Find X7 UltraFRP Lock</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/kostenlose-konvertierung-von-3gp-in-mp3-audios-mit-movavi/"><u>Kostenlose Konvertierung Von 3GP in MP3-Audios - Mit Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/le-piu-ottime-soluzioni-open-source-per-la-creacio-dei-dvd-e-cd-scoperta-i-migliori-programmi-liberi/"><u>Le Più Ottime Soluzioni Open Source per La Creacio Dei DVD E CD, Scoperta I Migliori Programmi Liberi!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/orf-naar-png-converteren-gratuite-online-instant-convertauto-met-movavi/"><u>ORF Naar PNG-Converteren: Gratuite Online Instant Convertauto Met Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-ways-apple-can-elevate-its-ai-capabilities-to-match-rivals-google-and-openai-insights/"><u>Top 10 Ways Apple Can Elevate Its AI Capabilities to Match Rivals Google & OpenAI: Insights</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-iconic-acting-peek-vimeo/"><u>[New] Iconic Acting Peek - Vimeo</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-comprehensive-guide-to-the-updated-facetune-photo-editing/"><u>[Updated] 2024 Approved Comprehensive Guide to the Updated Facetune Photo Editing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-content-creation-in-todays-revenue-landscape/"><u>[Updated] 2024 Approved Content Creation in Today’s Revenue Landscape</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722855049012-basketball-bonanza-unleashed-experience-the-thrills-of-march-madness-and-final-four-live/"><u>Basketball Bonanza Unleashed: Experience the Thrills of March Madness & Final Four Live!</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-or-disabling-tpm-support-a-complete-vbox-70-guide/"><u>Enabling or Disabling TPM Support - A Complete VBox 7.0 Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ensuring-privacy-security-when-using-chatgpts-customizable-language-models/"><u>Ensuring Privacy Security When Using ChatGPT's Customizable Language Models</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-diagnosing-and-fixing-post-failures-on-your-pc/"><u>Expert Advice: Diagnosing and Fixing POST Failures on Your PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-digitize-effortlessly-turn-to-mematic/"><u>In 2024, Digitize Effortlessly - Turn to Mematic</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-efficiency-to-cooking-7-ai-driven-approaches/"><u>Introducing Efficiency to Cooking: 7 AI-Driven Approaches</u></a></li>
+<li><a href="https://fox-access.techidaily.com/pinnacle-stock-for-premium-vector-designs/"><u>Pinnacle Stock for Premium Vector Designs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-explanation-of-how-dts-play-fi-enhances-your-music-experience/"><u>The Ultimate Explanation of How DTS Play-Fi Enhances Your Music Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-securing-and-listing-new-domains-in-macos-mail/"><u>The Ultimate Guide to Securing and Listing New Domains in macOS Mail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-trick-for-finding-out-where-someone-is-with-their-iphone/"><u>The Ultimate Trick for Finding Out Where Someone Is with Their iPhone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-mix-fold-3-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi Mix Fold 3 Location | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-apple-watch-solutions-when-it-fails-to-detect-step-count/"><u>Troubleshooting Apple Watch: Solutions When It Fails to Detect Step Count</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-setting-up-camera-timers-on-your-iphone/"><u>Ultimate Guide: Setting Up Camera Timers on Your iPhone</u></a></li>
 </ul></div>
 

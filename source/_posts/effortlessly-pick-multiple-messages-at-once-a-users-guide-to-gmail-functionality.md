@@ -1,7 +1,7 @@
 ---
 title: "Effortlessly Pick Multiple Messages at Once: A User's Guide to Gmail Functionality"
-date: 2024-08-20T11:25:42.515Z
-updated: 2024-08-21T11:25:42.515Z
+date: 2025-01-04T12:11:39.691Z
+updated: 2025-01-11T04:28:26.234Z
 categories:
   - BestProducts
 description: "This Article Describes Effortlessly Pick Multiple Messages at Once: A User's Guide to Gmail Functionality"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 ---
 
 ## Effortlessly Pick Multiple Messages at Once: A User's Guide to Gmail Functionality
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * To select every email, click the**checkbox** above the messages, then click**Select all \[#\] conversations** .
@@ -26,12 +31,18 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 2. Right below the search bar and above your emails, click the**checkbox** to select all the messages that are currently displayed. Or, select the**arrow** next to this checkbox to choose the types of emails to be selected, such as Read, Unread, Starred, or Unstarred.  
 ![Screenshot of Select All button in Gmail](https://www.lifewire.com/thmb/nDxAo7ifTPWhhJHpwNwtDS2jSIk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_select-all-messages-in-a-gmail-label-collection-or-search-1172098-5baea535c9e77c002636c2bc.jpg)  
  At this point, you have only selected the messages that are visible on the screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. To select every email in Gmail, including those that are not currently displayed, look at the top of your email list for an additional button, and select it. It look like this:**Select all \[#\] conversations in \[label\]** .  
 ![A list of emails selected in Gmail](https://www.lifewire.com/thmb/4VAxqfY1MDMB8VrzP3z18uSp99Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-gmail-messages-59c38ca927ab46cbb225ebda805c03cc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Select All Gmail Emails From a Search
 
  Gmail provides some powerful[search tools to help you find emails quickly](https://www.lifewire.com/how-to-search-mail-in-gmail-1172081) . For example, you can locate your biggest emails, look for messages that have attachments, or find emails that arrived on a specific date.
@@ -44,11 +55,13 @@ thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b
 ![Gmail emails highlighted from a search](https://www.lifewire.com/thmb/n2qAQZOsSxNaeRsOvsrHDnmIFoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/select-all-conversations-match-search-b3214279e6b44aa89ebcfb82199b23f9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Can Do With Selected Emails
 
  Anything you can do with a single email, Gmail lets you do with a selection of messages. Here are some actions you can take when you select lots of emails at once:
@@ -101,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +121,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-reign-in-the-views-youtube-thumbnail-size-and-ratios/"><u>[New] In 2024, Reign in the Views Youtube Thumbnail Size & Ratios</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unleashing-creative-potential-with-these-6-youtube-graphic-sources/"><u>[Updated] Unleashing Creative Potential with These 6 YouTube Graphic Sources</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-solutions-to-rectify-mscorwksdll-missing-on-your-computer/"><u>Comprehensive Solutions to Rectify mscorwks.dll Missing on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-mscorwksdll-cannot-be-located-error-on-windows-systems/"><u>Fixing The 'mscorwks.dll Cannot Be Located' Error on Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-black-screen-to-brighter-outcomes-fixes-when-your-pc-powers-on-but-displays-nothing/"><u>From Black Screen to Brighter Outcomes: Fixes When Your PC Powers On But Displays Nothing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-s18-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-swiftly-switch-songs-in-yt-playlist-heres-how/"><u>In 2024, Swiftly Switch Songs in YT Playlist, Here's How</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-considerations-to-keep-in-mind-prior-to-investing-in-restored-portable-pcs/"><u>Key Considerations to Keep in Mind Prior to Investing in Restored Portable PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-high-quality-displays-on-a-budget-top-lightweight-laptop-picks-under-500-gadgetguide/"><u>Unlocking High-Quality Displays on a Budget: Top Lightweight Laptop Picks Under $500 | GadgetGuide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722894840103-yahoo-mail-not-receiving-emails-heres-how-you-can-fix-it/"><u>Yahoo Mail Not Receiving Emails? Here’s How You Can Fix It</u></a></li>
+</ul></div>
 

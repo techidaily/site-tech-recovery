@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Restore Functionality of Your Xbox Gaming Headset (Series X/S)
-date: 2024-08-20T11:32:43.837Z
-updated: 2024-08-21T11:32:43.837Z
+date: 2025-01-05T09:47:59.487Z
+updated: 2025-01-11T03:46:59.368Z
 categories:
   - BestProducts
 description: This Article Describes Expert Tips to Restore Functionality of Your Xbox Gaming Headset (Series X/S)
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/9aAIrmerqE-lXFve1ScHyZbz_Ps=/540x405/fi
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/9aAIrmerqE-lXFve1ScHyZbz_Ps=/540x405/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://www.lifewire.com/thmb/9aAIrmerqE-lXFve1ScHyZbz_Ps=/540x405/fi
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-do-reviewers-get-dollars-for-commentary/"><u>[Updated] Do Reviewers Get Dollars for Commentary?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-enhance-playstation-2-gaming-the-ultimate-guide-to-android-emulation-tools-for-2024/"><u>[Updated] Enhance PlayStation 2 Gaming The Ultimate Guide to Android Emulation Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-6-ingenious-sites-brimming-with-customizable-youtube-themes/"><u>[Updated] In 2024, 6 Ingenious Sites Brimming With Customizable YouTube Themes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ustream-review-and-alternatives/"><u>2024 Approved Ustream Review and Alternatives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-these-exceptional-platforms-for-accessing-free-e-books-anywhere-anytime/"><u>Explore These Exceptional Platforms for Accessing Free E-Books Anywhere, Anytime</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-away-from-giant-tech-companies-like-microsoft-understanding-the-need-for-alternatives-in-government-systems/"><u>Navigating Away From Giant Tech Companies Like Microsoft: Understanding the Need for Alternatives in Government Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-your-apple-watch-touch-problems-understanding-why-it-may-fail-to-react/"><u>Resolving Your Apple Watch Touch Problems: Understanding Why It May Fail to React</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/revolutionizing-workflows-with-abbyy-discover-the-next-generation-rpa-solutions-for-modern-enterprises/"><u>Revolutionizing Workflows with ABBYY: Discover the Next Generation RPA Solutions for Modern Enterprises</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/save-big-on-your-mobile-service-with-verizons-premium-deals-in-month/"><u>Save Big on Your Mobile Service with Verizon's Premium Deals in [Month]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-melodies-the-creme-de-la-creme-of-seven-free-audio-streaming-apps-for-smartphones-and-tablets/"><u>Unlock Melodies: The Crème De La Crème of Seven Free Audio Streaming Apps for Smartphones and Tablets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-secrets-to-lenovo-educational-price-cuts-for-students/"><u>Unveiling the Secrets to Lenovo Educational Price Cuts for Students</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->

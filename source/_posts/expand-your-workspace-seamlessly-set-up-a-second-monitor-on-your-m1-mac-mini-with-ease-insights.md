@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Workspace: Seamlessly Set Up a Second Monitor on Your M1 Mac Mini with Ease | Insights"
-date: 2025-01-03T19:07:59.250Z
-updated: 2025-01-04T17:39:30.279Z
+date: 2025-01-03T23:30:49.606Z
+updated: 2025-01-10T19:59:53.110Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
@@ -49,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -57,7 +53,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -69,7 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -79,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -87,6 +83,10 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -122,19 +122,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-auditory-ambience-finder-for-film-and-video-sets/"><u>[Updated] Auditory Ambience Finder For Film and Video Sets</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-leveraging-snap-functions-boosting-virtual-interaction-during-meets-for-2024/"><u>[Updated] Leveraging Snap Functions Boosting Virtual Interaction During Meets for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-premium-tech-for-home-screenings-for-2024/"><u>[Updated] Premium Tech for Home Screenings for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-to-overcome-frequent-freezes-and-crashes-by-fuser-software-in-windows-os/"><u>Expert Tips to Overcome Frequent Freezes and Crashes by Fuser Software in Windows OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-reasons-behind-electric-vehicles-performance-edge-over-gasoline-options/"><u>Exploring the Reasons Behind Electric Vehicles' Performance Edge Over Gasoline Options</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-dnssddll-errors-when-they-arise/"><u>How to Correctly Address 'dnssd.dll' Errors When They Arise</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-10-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 10 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-meizu-21-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Meizu 21 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-itel-a70-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Itel A70 for Free? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-windows-app-problems-handling-libgdkwin3n2-20dll-not-found-error-effectively/"><u>Resolving Windows App Problems: Handling libgdk_win3n2-2.0.dll Not Found Error Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-tech-treasures-best-gaming-systems-and-tools-for-youngsters/"><u>Top Tech Treasures: Best Gaming Systems and Tools for Youngsters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-solution-for-windows-update-issue-decode-and-solve-error-0x80070n1f/"><u>Ultimate Solution for Windows Update Issue - Decode and Solve Error 0X80070n1f</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-ps5s-secret-treasures-the-full-list-of-exclusive-games/"><u>Unlocking PS5's Secret Treasures: The Full List of Exclusive Games</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ositive-interaction-not-pressure-a-subscription-success-story/"><u>[New] Positive Interaction, Not Pressure A Subscription Success Story</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-endless-screen-saving-software/"><u>2024 Approved Endless Screen Saving Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-roku-express-and-roku-stick-key-features-and-functionalities/"><u>Comparing Roku Express and Roku Stick: Key Features & Functionalities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-world-of-online-jokes-what-are-memes/"><u>Decoding the World of Online Jokes: What Are Memes?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-work-efficiency-discover-how-the-pomodoro-technique-transforms-task-management-inccom/"><u>Enhance Your Work Efficiency: Discover How the Pomodoro Technique Transforms Task Management | Inc.com</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-richest-video-content-star-on-earth/"><u>In 2024, The Richest Video Content Star on Earth</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resetting-your-fb-password-no-emailphone-needed/"><u>Resetting Your FB Password: No Email/Phone Needed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-advapi32dll-file-cannot-be-located-dilemma/"><u>Resolving the 'Advapi32.dll File Cannot Be Located' Dilemma</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211209699-9798350068306-summary-of-sophie-bashfords-you-are-a-goddess/"><u>Summary of Sophie Bashford's You Are a Goddess | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-pokemon-go-manual-all-you-need-to-know/"><u>The Complete Pokémon Go Manual: All You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-on-running-chatgpt-as-a-desktop-app-on-windows-systems/"><u>The Ultimate Tutorial on Running ChatGPT as a Desktop App on Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turn-off-facebook-mobile-app-on-android-a-complete-walkthrough/"><u>Turn Off Facebook Mobile App on Android – A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-integrating-wi-fi-streaming-into-your-home-cinema-experience/"><u>Ultimate Guide: Integrating Wi-Fi Streaming Into Your Home Cinema Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-ps-vr-2-extras-guide/"><u>Ultimate PS VR 2 Extras Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-error-code-0x80070570-and-effective-solutions/"><u>Understanding Error Code 0X80070570 & Effective Solutions</u></a></li>
 </ul></div>
 

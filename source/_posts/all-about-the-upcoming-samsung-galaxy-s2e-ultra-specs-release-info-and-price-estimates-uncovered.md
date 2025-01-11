@@ -1,7 +1,7 @@
 ---
 title: All About the Upcoming Samsung Galaxy S2e Ultra – Specs, Release Info, and Price Estimates Uncovered
-date: 2024-08-20T11:31:11.824Z
-updated: 2024-08-21T11:31:11.824Z
+date: 2025-01-07T04:30:58.261Z
+updated: 2025-01-11T00:20:30.810Z
 categories:
   - BestProducts
 description: This Article Describes All About the Upcoming Samsung Galaxy S2e Ultra – Specs, Release Info, and Price Estimates Uncovered
@@ -22,17 +22,26 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 
  Samsung's next flagship phone is scheduled to arrive early next year. We've collected all the rumors about the Galaxy S25 Ultra so you can decide whether to wait for it or stick with the[latest phone in the Galaxy lineup](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Samsung Galaxy S25 Ultra Be Released?
 
  The Galaxy S25 Ultra release date hasn't been revealed yet, but we're watching for it in early 2025\. This is when Samsung typically releases new Galaxy S series phones, so this is essentially already confirmed. It will arrive next to the[S25 and S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
  The Galaxy S25 Ultra will likely be available in January or February 2025.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung Galaxy S25 Ultra Price Rumors
 
  We hate to say it, but this phone will probably be a little more expensive than the[S24 Ultra](https://www.lifewire.com/samsung-galaxy-s24-ultra-review-8548896) . And that's a bummer because this is the highest-end phone from the set, so it's already priced above the other options.
@@ -49,16 +58,14 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Samsung Galaxy 25 Ultra pre-orders will start following the phone's announcement at the[Samsung Unpacked](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) event in early 2025\. It should last around two weeks before the phone becomes available. We'll provide the link at that time.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung Galaxy S25 Ultra Features
 
  When a new phone rolls out, one of the main things that gets a makeover is its operating system. The Galaxy S25 Ultra is expected to hit shelves with Android 15 and[One UI](https://www.lifewire.com/what-is-samsung-one-ui-4178405) 7.
@@ -69,9 +76,6 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 
 [What Is a Large Language Model?](https://www.lifewire.com/large-language-model-7724669)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Ultra Specs and Hardware
 
  A Samsung fan shared some disappointing news about the S25 Ultra on X: it seems it will keep the same battery size and charging speeds as previous Ultra models. If this turns out to be true, it means the phone will still charge at 45W with a wire, 15W wirelessly, and 4.5W reverse wireless charging. And, naturally, it'll stick with the same 5000 mAh battery.
@@ -93,8 +97,9 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 [Ice Universe suggests the Galaxy S25 Ultra will maintain its 200MP main camera and 50MP 5x camera](https://www.notebookcheck.net/Samsung-Galaxy-S25-Ultra-Upgraded-ultrawide-and-3x-cameras-hinted-by-fresh-leak.841616.0.html) while upgrading the ultrawide and 3x cameras to 50MP each. Upgrading the 3x camera from the current 10MP sensor could enhance low-light performance and hybrid zoom quality.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Samsung Galaxy S25 Ultra
 
  You [get more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more on Android and Samsung.
@@ -111,8 +116,6 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +123,24 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-exclusive-list-the-best-websites-for-ringtone-grabs/"><u>[New] In 2024, Exclusive List The Best Websites for Ringtone Grabs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-troubleshooting-video-interruptions-on-facebook-live/"><u>[Updated] Troubleshooting Video Interruptions on Facebook LIVE</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtubers-dream-gear-top-cameras-unveiled/"><u>[Updated] YouTubers' Dream Gear Top Cameras Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-detailed-walkthrough-of-chromium-installation-in-windows-11/"><u>A Detailed Walkthrough of Chromium Installation in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accessing-apple-entertainment-adding-the-apple-tv-application-to-fire-stick/"><u>Accessing Apple Entertainment: Adding the Apple TV Application to Fire Stick</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoiding-hassle-simple-steps-to-take-a-device-offline-on-google-home-setup/"><u>Avoiding Hassle: Simple Steps to Take a Device Offline on Google Home Setup</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-latest-iphone-model-iphone-13/"><u>Comprehensive Review of the Latest iPhone Model - iPhone 13</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-asus-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Asus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixes-for-faded-colors-and-twisted-graphics-on-computer-screens-an-easy-diy-approach/"><u>Fixes for Faded Colors and Twisted Graphics on Computer Screens: An Easy DIY Approach</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/harmonizing-your-hits-the-definitive-guide-to-merging-spotify-playlists-with-precision/"><u>Harmonizing Your Hits: The Definitive Guide to Merging Spotify Playlists with Precision</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immersive-storytelling-harnessing-top-10-text-innovations-in-videos/"><u>Immersive Storytelling Harnessing Top 10 Text Innovations in Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-your-zoom-experience-compromised-by-user-error-lets-find-out/"><u>Is Your Zoom Experience Compromised by User Error? Let's Find Out!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-dead-usb-ports-a-step-by-step-guide/"><u>Reviving Your Dead USB Ports: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-installing-apple-tv-app-on-amazon-fire-stick/"><u>Step-by-Step Instructions: Installing Apple TV App on Amazon Fire Stick</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-selection-of-enjoyable-online-games-tailored-for-children/"><u>The Ultimate Selection of Enjoyable Online Games Tailored for Children</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-criteria-to-evaluate-before-purchasing-your-next-gaming-desktop-or-laptop/"><u>Top Criteria to Evaluate Before Purchasing Your Next Gaming Desktop or Laptop</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-mini-beast-an-experts-review-of-the-acer-predator-triton-300-ses-power-and-price-balance/"><u>Unveiling the Mini Beast - An Expert's Review of the Acer Predator Triton 300 SE's Power and Price Balance</u></a></li>
+</ul></div>
 

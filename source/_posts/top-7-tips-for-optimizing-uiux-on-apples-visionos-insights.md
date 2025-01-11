@@ -1,7 +1,7 @@
 ---
 title: Top 7 Tips for Optimizing UI/UX on Apple's VisionOS - Insights
-date: 2024-12-25T10:22:07.500Z
-updated: 2024-12-25T22:15:40.874Z
+date: 2025-01-05T06:44:58.740Z
+updated: 2025-01-11T13:09:38.434Z
 tags:
   - apple
 categories:
@@ -53,7 +53,7 @@ That way, they're not suddenly dropped into a whole new world, but they can slow
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Identify your key moments
@@ -67,7 +67,7 @@ Apple uses its Photos app as an example. A key moment for Apple's Photos app mig
 In a writing app, VRification might involve going from a typical windowed user interface for most writing to a focus mode that shuts out the outside world and lets your users concentrate, by providing a calming background and perhaps some calming music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Adjust UI elements to accommodate the new environment
@@ -79,7 +79,7 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Utilize grid systems where appropriate
@@ -87,6 +87,10 @@ One area to pay particular attention to is when you use hover effects. When you 
 Apple says that apps designed with the [iPadOS grid system](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios) will translate very nicely to the Vision Pro. The grid works well for designing windows. Point sizes translate well from the iPad to Vision Pro. 
 
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
 
@@ -98,10 +102,6 @@ To that end, even if you're building a non-entertainment app that would normally
 
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  6\. Focus on key details, but don't overwhelm
 
 Apple recommends always rendering a ground plane so users feel grounded. If you're putting someone inside a theatre, provide key details (like a stage, lighting, and curtains), but don't get carried away trying to reproduce the cola stains in the carpet or that unique crackle that comes from walking over scraps of petrified popcorn. If you're rendering an outdoor landscape, show slowly moving clouds but keep things subtle. 
@@ -109,7 +109,7 @@ Apple recommends always rendering a ground plane so users feel grounded. If you'
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
@@ -159,16 +159,15 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-elevate-your-content-a-compreranial-guide-to-template-driven-tiktok-videos/"><u>[New] In 2024, Elevate Your Content A Compreranial Guide to Template-Driven TikTok Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-advanced-screen-recording-techniques-for-enhanced-productivity-in-adobe-captive/"><u>[Updated] In 2024, Advanced Screen Recording Techniques for Enhanced Productivity in Adobe Captive</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-exclusive-collection-vimeo-video-clippers/"><u>2024 Approved Exclusive Collection Vimeo Video Clippers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-asus-rog-phone-8-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Asus ROG Phone 8 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-our-picked-selection-of-six-best-non-internet-translation-gadgets/"><u>Exploring Our Picked Selection of Six Best Non-Internet Translation Gadgets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-a-stubborn-amazon-echo-a-comprehensive-guide-to-reactive-responses/"><u>Fixing a Stubborn Amazon Echo: A Comprehensive Guide to Reactive Responses</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-the-potency-of-open-source-video-engines/"><u>In 2024, Unleashing the Potency of Open Source Video Engines</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/mlining-the-production-process-of-your-short-videos/"><u>Streamlining the Production Process of Your Short Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-group-chat-and-conference-calls-applications/"><u>Top-Rated Group Chat & Conference Calls Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-insights-into-apples-upcoming-event-dates-confirmed-rumored-innovations-and-more/"><u>Unlocking Insights Into Apple's Upcoming Event – Dates Confirmed, Rumored Innovations & More</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watch-espnplus-with-ease-configuring-your-lg-smart-tv-for-cable-alternatives/"><u>Watch ESPN+ with Ease: Configuring Your LG Smart TV for Cable Alternatives</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-explore-the-11-key-insights-into-superior-color-adjustment-techniques/"><u>[New] 2024 Approved Explore the 11 Key Insights Into Superior Color Adjustment Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-bite-sized-broadcasting-maintaining-quality-in-quick-posts/"><u>[Updated] 2024 Approved Bite-Sized Broadcasting Maintaining Quality in Quick Posts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-facial-lockout-a-deep-dive-into-iphones-face-id-vs-galaxys-recognition/"><u>2024 Approved Facial Lockout A Deep Dive Into iPhone's Face ID Vs. Galaxy’s Recognition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-for-when-mfc42dll-is-absent-on-your-pc/"><u>Comprehensive Fixes for When mfc42.dll Is Absent on Your PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-overseeing-your-digital-data-expenditure/"><u>Master the Art of Overseeing Your Digital Data Expenditure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-d3dx934dll-essential-tips-to-correct-the-missing-file-and-not-detected-issues/"><u>Resolving d3dx9_34.dll: Essential Tips to Correct the 'Missing File' And 'Not Detected' Issues</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-trio-of-macau-cantonese-portuguese-and-others/"><u>The Trio of Macau: Cantonese, Portuguese & Others</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-repairing-the-elusive-missing-bootmgr-problem/"><u>Troubleshooting and Repairing the Elusive 'Missing Bootmgr' Problem</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-online-animation-software-top-10-picks-for-2024/"><u>Updated The Ultimate Guide to Online Animation Software Top 10 Picks for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Are You Stuck? Finding Out if PlayStation Network Is Down Worldwide or If It's a Home Connection Snag
-date: 2024-08-20T11:32:05.168Z
-updated: 2024-08-21T11:32:05.168Z
+date: 2025-01-09T09:43:13.994Z
+updated: 2025-01-11T10:32:53.633Z
 categories:
   - BestProducts
 description: This Article Describes Are You Stuck? Finding Out if PlayStation Network Is Down Worldwide or If It's a Home Connection Snag
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/XANELQFP9ideckIFKU-XBI_rrxQ=/400x300/fi
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -24,11 +28,25 @@ thumbnail: https://www.lifewire.com/thmb/XANELQFP9ideckIFKU-XBI_rrxQ=/400x300/fi
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +65,9 @@ thumbnail: https://www.lifewire.com/thmb/XANELQFP9ideckIFKU-XBI_rrxQ=/400x300/fi
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +106,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-expert-tips-for-saving-your-favorite-screened-events/"><u>[New] In 2024, Expert Tips for Saving Your Favorite Screened Events</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-potential-vr-innovations-for-fun-and-games/"><u>[New] Unleashing Potential VR Innovations for Fun & Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unveiling-the-power-of-screen-capture-showmores-review-breakdown/"><u>2024 Approved Unveiling the Power of Screen Capture ShowMore's Review Breakdown</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/beste-top-3-methoden-zum-zurucksetzen-von-laptops-auf-werkseinstellungen-bei-msi/"><u>Beste Top 3 Methoden Zum Zurücksetzen Von Laptops Auf Werkseinstellungen Bei MSI</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-screen-tremors-and-glitches-in-surface-pro-models/"><u>Diagnosing and Repairing Screen Tremors and Glitches in Surface Pro Models</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-avi-to-mp4-try-premium-features-of-avi-video-converter-with-trialpay/"><u>Download AVI to MP4: Try Premium Features of AVI Video Converter with TrialPay</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effizientes-konvertieren-von-flv-in-mp4-dateien-masterclass-am-winx-hd-video-converter-deluxe/"><u>Effizientes Konvertieren Von FLV in MP4 Dateien - Masterclass Am WinX HD Video Converter Deluxe</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-twitch-broadcasts-recording-essentials/"><u>In 2024, Mastering Twitch Broadcasts Recording Essentials</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-disabling-security-pin-on-windows-11/"><u>Step-by-Step Guide to Disabling Security Pin on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-upcoming-apple-audio-device-uncovered-projections-on-pricing-strategy-and-product-specs/"><u>The Upcoming Apple Audio Device Uncovered: Projections on Pricing Strategy & Product Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-the-stop-0x00000078-phase0exception-bug/"><u>Troubleshooting Tips for the STOP 0X00000078 Phase0Exception Bug</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For OnePlus 12? | Dr.fone</u></a></li>
+</ul></div>
 

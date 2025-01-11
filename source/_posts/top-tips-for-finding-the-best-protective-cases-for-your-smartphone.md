@@ -1,7 +1,7 @@
 ---
 title: Top Tips for Finding the Best Protective Cases for Your Smartphone
-date: 2024-08-20T11:28:56.413Z
-updated: 2024-08-21T11:28:56.413Z
+date: 2025-01-07T16:47:54.165Z
+updated: 2025-01-11T13:15:16.755Z
 categories:
   - BestProducts
 description: This Article Describes Top Tips for Finding the Best Protective Cases for Your Smartphone
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
  This article explains how to fix an unresponsive keyboard. This guide covers built-in keyboards as well as wired and wireless keyboards.
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 Ways to Fix the Problem
 
@@ -38,6 +42,10 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -50,6 +58,10 @@ thumbnail: https://www.lifewire.com/thmb/r8M9KfAMPVBrkhdFb_I3HRov3Vk=/300x200/fi
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bryan Natanael / Unsplash
 
@@ -80,8 +92,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +99,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-docs.techidaily.com/8-strategien-beheben-des-itunes-fehlers-0xe8000015-ein-leitfaden-zur-nahtlosen-apps-installation-auf-ihrem-mac-oder-pc/"><u>[8 Strategien] Beheben Des iTunes Fehlers 0xE8000015: Ein Leitfaden Zur Nahtlosen Apps-Installation Auf Ihrem Mac Oder PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-filmmakers-toolkit-essential-color-grading-of-7-techniques/"><u>[New] In 2024, The Filmmaker's Toolkit Essential Color Grading of 7 Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-guru-setup-opt-for-studio-or-beta-option/"><u>[New] In 2024, YouTube Guru Setup Opt for Studio or Beta Option</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-seamless-sync-tweets-as-videos-on-whatsapp/"><u>[New] Seamless Sync Tweets as Videos on WhatsApp</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-professional-tips-for-efficient-screen-casting-in-meet/"><u>[Updated] 2024 Approved Professional Tips for Efficient Screen Casting in Meet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-inside-the-magic-box-how-does-vr-function/"><u>[Updated] In 2024, Inside the Magic Box How Does VR Function?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-on-iphone-image-softening-dive-into-the-fourfold-approach/"><u>2024 Approved Expertise on iPhone Image Softening Dive Into the Fourfold Approach</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/analyzing-the-impact-of-microsofts-recent-outages-a-wake-up-call-for-governments-to-limit-dependence-on-major-tech-firms/"><u>Analyzing the Impact of Microsoft's Recent Outages: A Wake-Up Call for Governments to Limit Dependence on Major Tech Firms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/before-purchase-the-crucial-8-aspects-of-selecting-a-new-desktop-pc/"><u>Before Purchase: The Crucial 8 Aspects of Selecting a New Desktop PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-visuals-on-a-samsung-oled-4k-screen-a-comprehensive-guide/"><u>Enhancing Visuals on a Samsung OLED 4K Screen: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-ways-to-fix-windows-10-a-guide-to-using-sfc-and-dism/"><u>Exploring Ways to Fix Windows 10: A Guide to Using SFC & DISM</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-look-the-most-important-news-and-announcements-from-apple-wwdc-2025/"><u>Inside Look: The Most Important News & Announcements From Apple WWDC 2025</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-openshift-lightspeed-revolutionizing-kubernetes-management-with-artifical-intelligence-exclusive-coverage-on-zdnet/"><u>Introducing OpenShift Lightspeed: Revolutionizing Kubernetes Management with Artifical Intelligence | Exclusive Coverage on ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-the-error-of-x3daudiodll-failure-to-load/"><u>Step-by-Step Guide: Correcting the Error of x3daudio.dll Failure to Load</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-naccount/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest N_Account</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722887616023-top-apple-watch-promotions-available-in-month-get-the-hottest-offers/"><u>Top Apple Watch Promotions Available in [Month] – Get the Hottest Offers!</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/turn-your-web-pages-into-engaging-e-booklets-using-flipmaster-download-now-from-flipbuildercom/"><u>Turn Your Web Pages Into Engaging E-Booklets Using FlipMaster - Download Now From flipbuilder.com</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-creating-a-custom-email-signature-on-godaddy-webmail/"><u>Ultimate Guide to Creating a Custom Email Signature on GoDaddy Webmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-creating-your-own-diy-projector-screen/"><u>Ultimate Guide: Creating Your Own DIY Projector Screen</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

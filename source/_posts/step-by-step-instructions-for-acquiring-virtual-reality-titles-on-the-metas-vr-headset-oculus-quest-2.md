@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Acquiring Virtual Reality Titles on the Meta's VR Headset - Oculus Quest 2
-date: 2024-08-20T11:32:09.734Z
-updated: 2024-08-21T11:32:09.734Z
+date: 2025-01-07T08:52:30.609Z
+updated: 2025-01-11T01:05:52.655Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions for Acquiring Virtual Reality Titles on the Meta's VR Headset - Oculus Quest 2
@@ -38,11 +38,12 @@ thumbnail: https://www.lifewire.com/thmb/2wGCY1WLrqXRUYC-y7kuFSuEANE=/400x300/fi
 5. Find the**Video Support** section, and look for supported display details. This item could also be labeled**Display Support** .  
 ![The video support section highlighted on an Apple support page.](https://www.lifewire.com/thmb/Vut63kcRCPdM3twlvvZdkHyREYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-set-up-dual-monitors-on-a-mac-8b3dbd4db6d44153a19f5760816ee453.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this example, you can see that a 2011 MacBook Air 13-inch can display its native resolution on the built-in display while also outputting video to an external display at a resolution of 2560 x 1600 pixels. That means this particular Mac could handle a 1080p display easily, but it wouldn’t work with a 4K monitor.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Set Up Dual Monitors On a Mac
 
  Once you’ve obtained one or multiple monitors for your MacBook or a desktop Mac, you’ve verified your Mac can handle the monitors, and you have either the necessary cables and adapters, you’re ready to set up dual displays on your device.
@@ -57,37 +58,44 @@ thumbnail: https://www.lifewire.com/thmb/2wGCY1WLrqXRUYC-y7kuFSuEANE=/400x300/fi
 4. Click the**Apple menu** icon.  
 ![The Apple menu icon highlighted in macOS.](https://www.lifewire.com/thmb/mxh256GgttjxNzbQCH3AamswyO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-set-up-dual-monitors-on-a-mac-dd56d174d1ce4c96a80f72b7ec068a24.jpg)
 5. Click**System Preferences** or**System Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![System Preferences highlighted in the Apple menu.](https://www.lifewire.com/thmb/4JpDMxtJnbDEsvc34XdH_m9afXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-set-up-dual-monitors-on-a-mac-d9ed8911ab194b9bbfc2005f2e23f87a.jpg)
 6. Click**Displays** .  
 ![Displays highlighted in the System Preferences menu.](https://www.lifewire.com/thmb/2Ki-6zTrxQ2qxdC79uadSyAK-_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-set-up-dual-monitors-on-a-mac-31454ee75cf4474ebf7891bb55683ca8.jpg)
 7. On your main display, click**Arrangement** . You may also see this option listed as**Arrange** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Arrangement highlighted in the macOS display options.](https://www.lifewire.com/thmb/pMTd1XnM4CtYaZjefKk--lUI8i0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-set-up-dual-monitors-on-a-mac-2fb97248394e426f9f4fb3a5c8c1cf71.jpg)
 8. On the**Arrangement** or**Arrange Displays** menu, you’ll see the positioning of your displays. If you want to change the setup, locate the**secondary monitor icon** .  
 ![Clicking a monitor to drag it in the macOS display arrangement options.](https://www.lifewire.com/thmb/CC5yaPcB2e25vUld-JFWME-AQhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-how-to-set-up-dual-monitors-on-a-mac-f0be68176b9b4051a43e208c4bdb8024.jpg)  
  If you're satisfied with the monitor positioning, you can skip to step 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Click and drag the**secondary monitor** into the correct position.  
 ![Dragging a monitor in the macOS display arrangement options.](https://www.lifewire.com/thmb/Q0CDCStfMtH5VOEENcMuTyBMNFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010-how-to-set-up-dual-monitors-on-a-mac-c1698ef24b964ab0a328d4f7837ab636.jpg)
 10. Release your mouse or trackpad, and the secondary monitor will drop into the position you chose.  
 ![A repositioned monitor in the macOS display settings.](https://www.lifewire.com/thmb/wJRGi-TYH_drHpFkVwUUUsGwyhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011-how-to-set-up-dual-monitors-on-a-mac-af14ecad77c74d0d94786be55ffb58d9.jpg)
 11. On your main display, make sure to deselect the screen mirroring box or that you've selected**Main display** from the**Use as** drop-down menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The Mirror Displays checkbox highlighted in the macOS display arrangement options.](https://www.lifewire.com/thmb/OKWCXoNThJXXF2XOMIt65lbHZXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-set-up-dual-monitors-on-a-mac-e3112b85c90e4841af282cc55252aa31.jpg)  
  If the mirror displays box is checked, both monitors will show the same image at all times.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 12. Click the correct resolution for your display.  
 ![1920x1080 highlighted on a stretched out macOS screenshot.](https://www.lifewire.com/thmb/GvKW6t3G5foY659NnIcCpKLzLZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/013-how-to-set-up-dual-monitors-on-a-mac-36fd1e7b5aec4230ae0599a4c1c8637a.jpg)  
  Select the built-in resolution for your monitor for the best results. It needs to be equal to or lower than the resolution that your Mac is capable of handling.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 13. Make sure the image doesn't look stretched, squashed, discolored, or anything. If it doesn't look right, click**Scaled** or choose an option from the resolutions thumbnails.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### {"uuid":null,"data":{"theme":"EXPERTTIPTIP","heading":"","html":"  
 
@@ -100,11 +108,13 @@ thumbnail: https://www.lifewire.com/thmb/2wGCY1WLrqXRUYC-y7kuFSuEANE=/400x300/fi
 ![A correctly configured dual display on a Mac.](https://www.lifewire.com/thmb/en5LgT1ksGm2CaguuK0bgx5MO-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2021-03-20at2.44.42PM-dda66002386d4ba28afb158fbf36f07b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up Displays Wirelessly in Ventura
 
  Wireless display connection options have been possible as of[macOS Ventura (13)](https://www.lifewire.com/upgrade-to-macos-ventura-5525478) . The process of wirelessly connecting an additional display is very straightforward. This method is primarily intended to work with other Apple devices.
@@ -113,10 +123,6 @@ thumbnail: https://www.lifewire.com/thmb/2wGCY1WLrqXRUYC-y7kuFSuEANE=/400x300/fi
 
 ![Ventura (macOS13) Displays menu](https://www.lifewire.com/thmb/Dz1wJwmTTaNUZvR_gFDkZWbOe30=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/venturawirelessdisplay-e653807f1afe48eb873994101bd07b38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## How to Choose a Monitor for a Mac
 
  If you’ve never set up dual monitors before, finding the right monitor can seem like a daunting prospect. To choose the right monitor, you need to consider the display's size, resolution, color accuracy, and other characteristics.
@@ -130,9 +136,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  If you’re adding a second monitor to your MacBook, you may want to consider going with a bigger 4K monitor to maximize your screen real estate or a compact flat panel display that you can take with you on the go.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Ports and Inputs
 
  It’s also important to consider the type of inputs a monitor accepts, but that isn’t as big a deal. If you find the ideal monitor, but it only has HDMI inputs, and you’re using a MacBook that only has USB-C, all you need to do is pick up a USB-C to HDMI adapter or a USB-C hub that includes an HDMI port.
@@ -170,8 +176,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +183,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-distinguishing-between-youtube-policies-and-cc-clauses/"><u>[New] In 2024, Distinguishing Between YouTube Policies and CC Clauses</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-art-of-capturing-attention-top-6-videos-to-watch/"><u>[Updated] In 2024, The Art of Capturing Attention Top 6 Videos to Watch</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/p-by-step-approach-to-professional-video-sharing/"><u>A Step-by-Step Approach to Professional Video Sharing</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-unwanted-edge-desktop-buttons/"><u>Disabling Unwanted Edge Desktop Buttons</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-11-pro-max-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 11 Pro Max to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-personalize-your-macs-finder-display-settings-for-efficient-organization/"><u>How to Personalize Your Mac's Finder Display Settings for Efficient Organization</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-infinix-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Infinix</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-cutting-edge-tools-for-instagrams-most-trendy-reels/"><u>In 2024, Cutting-Edge Tools for Instagram's Most Trendy Reels</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-guide-installing-the-perfect-keyboard-drivers-on-windows-7/"><u>Simple Guide: Installing the Perfect Keyboard Drivers on Windows 7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-xinput13dll-file-absent-issue-a-step-by-step-guide/"><u>Solving the xinput1_3.dll File Absent Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/taking-control-of-your-content-a-beginners-guide-to-scheduling-tweets-efficiently/"><u>Taking Control of Your Content: A Beginner's Guide to Scheduling Tweets Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-removing-a-lock-screen-pin-from-windows-10/"><u>Ultimate Tutorial: Removing a Lock Screen PIN From Windows 10</u></a></li>
+</ul></div>
 

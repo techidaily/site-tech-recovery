@@ -1,7 +1,7 @@
 ---
 title: Gadolinium-Based Contrast Agents Enhance the Visualization of Tumor Vascularity on MRI Scans.
-date: 2024-12-31T17:24:43.644Z
-updated: 2025-01-04T17:08:20.270Z
+date: 2025-01-07T05:25:52.244Z
+updated: 2025-01-11T09:46:00.768Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,16 +129,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-google-meet-on-youtube-streaming-made-easy-step-by-step/"><u>2024 Approved Google Meet on YouTube Streaming Made Easy, Step by Step</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/an-in-depth-look-at-what-google-hangouts-really-is-and-how-it-functioned/"><u>An In-Depth Look at What Google Hangouts Really Is and How It Functioned</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-social-presence-on-instagram-by-using-trending-gifs-in-conversations/"><u>Boost Your Social Presence on Instagram by Using Trending GIFs in Conversations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/endless-buffer-fix-for-frozen-videos-from-photo-booth/"><u>Endless Buffer Fix for Frozen Videos From Photo Booth</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/how-to-take-your-tweets-visual-aesthetics-from-vids-to-dynamic-gifs/"><u>How To Take Your Tweets Visual Aesthetics From Vids to Dynamic GIFs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-spark-10c-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Spark 10C Phone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-google-pixel-8-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Google Pixel 8 Pro Is Unlocked</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/ogle-player-powerful-pixel-perfect-media-for-2024/"><u>Ogle Player Powerful, Pixel-Perfect Media for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solution-steps-for-d3d9dll-missing-error-on-your-pc/"><u>Solution Steps for d3d9.dll Missing Error on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-to-remove-vertical-line-defects-in-samsung-televisions/"><u>Troubleshooting Steps to Remove Vertical Line Defects in Samsung Televisions</u></a></li>
-<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Update your drivers with Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-enhancing-facebook-traffic-with-innovative-video-techniques-for-2024/"><u>[New] Enhancing Facebook Traffic with Innovative Video Techniques for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pinnacle-ios-solutions-the-best-ps2-game-emulators-for-2024/"><u>[Updated] Pinnacle IOS Solutions The Best PS2 Game Emulators for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-watch-series-7-ultra-unveiled-release-dates-pricing-and-latest-rumored-features-revealed/"><u>Apple Watch Series 7 (Ultra) Unveiled: Release Dates, Pricing, and Latest Rumored Features Revealed!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-iphone-visual-quality-selective-photo-and-video-tools-for-2024/"><u>Boost iPhone Visual Quality Selective Photo and Video Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-infinix-hot-40i-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Hot 40i in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-and-fix-mingwm10dll-errors-on-windows-systems/"><u>How To Correctly Address and Fix Mingwm10.dll Errors on Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-c51-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme C51 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-multi-speaker-setup-link-several-bluetooth-audio-devices-together/"><u>Mastering Multi-Speaker Setup: Link Several Bluetooth Audio Devices Together</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-no-alert-syndrome-comprehensive-guide-with-20plus-solutions-for-iphones/"><u>Overcome No-Alert Syndrome: Comprehensive Guide with 20+ Solutions for iPhones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/precise-procedure-for-fusing-gopro-footage-into-comprehensive-video-spheres/"><u>Precise Procedure for Fusing GoPro Footage Into Comprehensive Video Spheres</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-walkthrough-how-to-conquer-pokemon-unite-on-pc/"><u>Step-by-Step Walkthrough: How to Conquer Pokémon Unite on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-level-of-virtual-experience-sony-vr-headset-forthcoming-release-insights-cost-estimates-and-in-depth-tech-details/"><u>The Next Level of Virtual Experience: Sony VR Headset - Forthcoming Release Insights, Cost Estimates, and In-Depth Tech Details</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-5-compatible-screen-mirroring-applications-for-your-windows-11-pc/"><u>Top 5 Compatible Screen Mirroring Applications for Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-when-you-encounter-missing-dciman32dll-errors/"><u>Troubleshooting Steps When You Encounter Missing dciman32.dll Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tune-in-for-exhilarating-mens-ncaa-hoops-action-from-march-madness-frenzy-to-glory-at-the-final-four/"><u>Tune in for Exhilarating Men's NCAA Hoops Action - From March Madness Frenzy to Glory at the Final Four!</u></a></li>
 </ul></div>
 

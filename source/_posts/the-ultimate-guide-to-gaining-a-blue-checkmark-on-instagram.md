@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Gaining a Blue Checkmark on Instagram
-date: 2024-08-20T11:29:58.601Z
-updated: 2024-08-21T11:29:58.601Z
+date: 2025-01-07T00:26:48.153Z
+updated: 2025-01-10T18:17:12.516Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Gaining a Blue Checkmark on Instagram
@@ -30,9 +30,6 @@ thumbnail: https://www.lifewire.com/thmb/o2dxUYSOon4DiAHREgUI4hC4OA0=/400x300/fi
 6. Built-in ports
 7. RAM (memory)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How Much Should a Motherboard Cost?
 
  Motherboard prices vary widely by model and manufacturer and can be as little as $50 or less or as much as $1,500\. However, the more you spend on a motherboard, the more features you'll get. Here's a general overview of basic, average, and high-end motherboard prices.  
@@ -54,8 +51,9 @@ thumbnail: https://www.lifewire.com/thmb/o2dxUYSOon4DiAHREgUI4hC4OA0=/400x300/fi
  Check your CPU specs carefully to determine if they suit your intended uses.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What CPU Socket Should a Motherboard Have?
 
  The CPU socket is a critical factor when deciding what motherboard to buy. A motherboard's CPU socket type determines what CPUs you can use with the motherboard.
@@ -70,12 +68,13 @@ thumbnail: https://www.lifewire.com/thmb/o2dxUYSOon4DiAHREgUI4hC4OA0=/400x300/fi
 
 ![Close up of the CPU socket and motherboard laying on a table.](https://www.lifewire.com/thmb/WV8WVXvqGDl2YvFDsCxNkgVIkPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1267327926-7d1724acc0504c8391f4e08bd8f150e9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Close up of a CPU socket and motherboard.
 
 Narumon Bowonkitwanchai/Getty Images
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Form Factor and Case Should a Motherboard Have?
 
@@ -105,15 +104,16 @@ Narumon Bowonkitwanchai/Getty Images
 
  Most motherboards support PCIe 3.0, but some support the newer PCIe 4.0 and 5.0, which provide more bandwidth. If you have any PCIe cards or want to future-proof your selection, look for a board with PCIe 5.0 support.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Built-In Ports Does a Motherboard Need?
 
  It’s also worth looking at the ports built into the motherboard. Motherboards will include a mix of[USB-A](https://www.lifewire.com/usb-type-a-connector-2626032) ,[USB-C](https://www.lifewire.com/usb-c-4149490) , audio ports,[HDMI and DisplayPort](https://www.lifewire.com/displayport-vs-hdmi-4686971) , and even legacy ports like VGA, PS/2, parallel, and serial ports. Motherboards can also include Ethernet ports and other connectivity like built-in Wi-Fi and Bluetooth.
 
  Consider which ports you’re most likely to need, and select a motherboard that fits your requirements so you won’t have to add an expansion card or USB hub immediately.  
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How Much RAM Does a Motherboard Need?
 
  It’s also important to look at how many[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) slots the motherboard has and how much total RAM it supports to meet your memory needs. This factor isn’t crucial if your computer only needs to stream media, surf the web, and play basic games. Still, having the option to install more RAM is vital if you do any video or photo editing or play resource-intensive games.  
@@ -124,9 +124,6 @@ Narumon Bowonkitwanchai/Getty Images
 
  You'll need to purchase a motherboard if you're building a new PC. You may need to replace the motherboard when upgrading or fixing your current PC. If you're buying a new motherboard as a replacement or building a PC, ensure you have the knowledge and instructions on how to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Should I Do After Buying a Motherboard?
 
  After buying a motherboard, you must install it on your current PC or the PC you're building. Before you begin, be sure to have your motherboard and PC manuals. Consult an experienced tech for help or outsource the task if you're not an expert.
@@ -136,6 +133,10 @@ Narumon Bowonkitwanchai/Getty Images
  How you proceed depends on whether you're reusing your old CPU and other hardware or installing new elements. Proceed carefully according to your motherboard's replacement instructions.  
 
 [How to Replace a Motherboard](https://www.lifewire.com/replace-a-motherboard-5189494)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Tips for Choosing a Motherboard
 
@@ -150,8 +151,9 @@ Narumon Bowonkitwanchai/Getty Images
 * If you want to overclock your CPU, ensure your motherboard can handle the job concerning CPU multipliers and voltages.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is a Motherboard?
 
  A motherboard is a computer hardware element that connects various internal computer parts, including the CPU, memory modules, hard drives, expansion cards, and ports. Computer parts connect to the computer directly or with appropriate cables.
@@ -189,8 +191,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +198,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-cool-climates-cozy-cinematics-selecting-winter-backgrounds/"><u>[New] Cool Climates, Cozy Cinematics Selecting Winter Backgrounds</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-remedy-for-hidden-shorts-video-thumbnails/"><u>[Updated] Remedy for Hidden Shorts Video Thumbnails</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-look-at-netflixs-former-dvd-subscription-model/"><u>A Comprehensive Look at Netflix's Former DVD Subscription Model</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-bsod-errors-a-comprehensive-guide/"><u>Decoding BSOD Errors - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-guide-to-choosing-a-motherboard-understanding-the-7-main-points/"><u>Essential Guide to Choosing a Motherboard: Understanding the 7 Main Points</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-tiktok-videos-editing-hacks-revealed-for-2024/"><u>Mastering TikTok Videos Editing Hacks Revealed for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-performance-installing-the-newest-amd-radeon-v2410-video-card-drivers/"><u>Maximize Performance: Installing the Newest AMD Radeon V24.10 Video Card Drivers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/strategies-for-syncing-zoom-meetings-across-devices/"><u>Strategies for Syncing Zoom Meetings Across Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-17-graphic-design-tools-a-comprehensive-guide/"><u>Top 17 Graphic Design Tools: A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nokia-xr21-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nokia XR21 Phone Network-Ready</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Power of Quick Access – Navigating Android's Shortcut Menu Effortlessly
-date: 2024-08-20T11:25:31.920Z
-updated: 2024-08-21T11:25:31.920Z
+date: 2025-01-05T07:54:58.250Z
+updated: 2025-01-10T20:56:43.768Z
 categories:
   - BestProducts
 description: This Article Describes Unlocking the Power of Quick Access – Navigating Android's Shortcut Menu Effortlessly
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/2LCMLoKTM7a_TERPG8_KW7dJ5DE=/400x300/fi
 
  The Android Quick Settings menu has been a powerful feature of Android since[Android Jellybean](https://www.lifewire.com/android-versions-4173277) . This article explains how to use it. The tips and information below should apply no matter who made your phone: Samsung, Google, Huawei, Xiaomi, or others.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get a Full or Abbreviated Quick Settings Tray
 
  Finding the Quick Settings menu is simple: Drag your finger from the top of the screen downward. If your phone is unlocked, you'll see an abbreviated menu that you can use as-is or drag down once more to see an expanded tray with more options.
@@ -31,9 +35,9 @@ thumbnail: https://www.lifewire.com/thmb/2LCMLoKTM7a_TERPG8_KW7dJ5DE=/400x300/fi
 ![Android lock screen with Quick Settings open](https://www.lifewire.com/thmb/obGd6L9sRNMrdDVHebdfD1X0xtw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-quick-settings-b54fe7996f60451388bd899004b045a6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Edit Your Quick Settings Menu
 
  Don't like your options? Edit them. To do this, first unlock your device so you're on the Home screen, then follow these steps:
@@ -42,12 +46,18 @@ thumbnail: https://www.lifewire.com/thmb/2LCMLoKTM7a_TERPG8_KW7dJ5DE=/400x300/fi
 2. Tap the**pencil** icon to open the menu for editing. It's at the top on some phones and the bottom on others.  
 ![Android settings.](https://www.lifewire.com/thmb/DNQXQl8DV9_spK1AJz-9xRDfDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-use-the-quick-settings-menu-on-android-88162a616fe74310a63af73af1cf4d35.jpg)
 3. Long-press a tile and drag it elsewhere to make changes.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Drag tiles into the tray (the top portion of the edit menu) if you want to see them, or out of the tray (the bottom) if you do not.  
  You can also change the order of where Quick Settings tiles appear. The first six items will show up in the abbreviated Quick Settings menu.  
  You may have more available choices than you think. Swipe up to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What You Can Do With the Android Quick Settings Menu
 
@@ -59,36 +69,32 @@ thumbnail: https://www.lifewire.com/thmb/2LCMLoKTM7a_TERPG8_KW7dJ5DE=/400x300/fi
 
 ![Internet tile highlighted in Android Quick Settings](https://www.lifewire.com/thmb/gJ39wpp_flLiPuTxeEpURu3gSSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/quick-settings-internet-toggle-f699069d77754912ac9971f0623fa9cf.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Battery Saver
 
  The**Battery saver** tile toggles[Battery saver mode](https://www.lifewire.com/battery-saver-mode-on-android-5176451) on and off. When on, this will help your phone last longer between charges because it can limit background activity and pause non-essential apps and notifications.
 
 ![Android quick settings battery](https://www.lifewire.com/thmb/DU5oQiA1Yz7ADqOjliT8ZVJBz8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-use-the-quick-settings-menu-on-android-225186c4f3e44acbb14aff3b70d4775e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On some devices, if you tap this tile while your phone isn't charging, you'll see an estimate of how much time is remaining on your battery.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Flashlight
 
  The**Flashlight** Quick Settings toggle is the easiest way to[turn on your phone's flashlight](https://www.lifewire.com/turn-on-flashlight-android-phone-7109609) . There's no deeper option here. Just toggle it on or off to get somewhere in the dark. You don't need to unlock your phone to use this.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Screen Cast
 
  If you have a Chromecast or Google Home,**Screen Cast** lets you send your screen or audio to that device. This is a quick way to[mirror your Android on a TV](https://www.lifewire.com/mirror-android-to-tv-4768551) .
 
 ![Screen Cast toggle highlighted in Android Quick Settings](https://www.lifewire.com/thmb/JgGBzxOYpSyH8CX8Un8H4LcHqL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/quick-settings-screen-cast-toggle-18db2feee0ae48f5a19d5a3c3a23b99c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Auto-rotate
 
  Control whether or not your phone displays horizontally when you rotate it horizontally. You can use this as a quick toggle to prevent the phone from auto-rotating when you're reading in bed, for example. Keep in mind that the Home menu is locked in place regardless of the state of this tile.
@@ -105,19 +111,21 @@ thumbnail: https://www.lifewire.com/thmb/2LCMLoKTM7a_TERPG8_KW7dJ5DE=/400x300/fi
 
 ![Android quick settings Bluetooth](https://www.lifewire.com/thmb/ALRBVgqlWpEmCtsV7Es_5ITKk18=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-use-the-quick-settings-menu-on-android-d7f976e7bcfd424a90d7d02604f2c54a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Airplane Mode
 
 [Turn Airplane mode on and off](https://www.lifewire.com/turn-airplane-mode-on-or-off-on-android-5212172) with a simple tap of this toggle. When enabled, it turns your phone's Wi-Fi and cellular data off. Long-press to see the Network & Internet settings.
 
 ![Android quick settings airplane mode](https://www.lifewire.com/thmb/oEVagRx8jxfGR6PTdB4j0bJmuWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-use-the-quick-settings-menu-on-android-38b95341b9fe470b8bf33178e47a2cfd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Airplane mode](https://www.lifewire.com/what-is-airplane-mode-5074988) isn't just for airplanes. Toggle this on for the ultimate do not disturb while saving your battery.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Do Not Disturb
 
@@ -134,8 +142,9 @@ thumbnail: https://www.lifewire.com/thmb/2LCMLoKTM7a_TERPG8_KW7dJ5DE=/400x300/fi
 ![Android quick settings location](https://www.lifewire.com/thmb/l4SlLyASHf0HomtvdtzBKO0tLDs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-how-to-use-the-quick-settings-menu-on-android-6c98fcf71957409fb720cf6a51f1244a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Hotspot
 
 **Hotspot** allows you to use your phone as a mobile[hotspot](https://www.lifewire.com/wi-fi-hotspot-definition-2377357) to share your phone's data with other devices, such as your laptop or even other phones and tablets. This is also known as tethering. Some carriers charge you for this feature, so use it with care.
@@ -144,12 +153,6 @@ thumbnail: https://www.lifewire.com/thmb/2LCMLoKTM7a_TERPG8_KW7dJ5DE=/400x300/fi
 
 ![Android quick settings hotspot](https://www.lifewire.com/thmb/7VhPwlnwFa-D5oMUGsYvQuEQ8KQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/010-how-to-use-the-quick-settings-menu-on-android-5ffadf41641445a8882f139e895bd6fd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Color Inversion
 
  This tile inverts all the colors on your screen and in all apps. Some people find their screen easier to read when**Color Inversion** is activated.
@@ -157,27 +160,21 @@ thumbnail: https://www.lifewire.com/thmb/2LCMLoKTM7a_TERPG8_KW7dJ5DE=/400x300/fi
 ![Color inversion toggle highlighted on a Pixel phone](https://www.lifewire.com/thmb/d44Uw0vuCluK0QbwsyD0_0orByE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/color-inversion-quick-settings-android-9a9022b2cd2244d6b2482eea398de2eb.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Data Saver
 
 **Data Saver** attempts to save on your data usage by turning off a lot of apps that use background data connections. Use this if you have a limited bandwidth cellular data plan. Long-press this toggle if you want to modify which apps should bypass this feature.
 
 ![Android quick settings data saver](https://www.lifewire.com/thmb/8HDS4Nz_7P2gMzgtp7qOXupFEZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/015-how-to-use-the-quick-settings-menu-on-android-dbdd5ec2d0294e1591082cfb3ddadc05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### NFC
 
  The**NFC** tile was added by Android 7.1.1 (Nougat) although it was not added to the default Quick Settings tray. It allows you to share information between an app on two nearby phones—essentially a social sharing feature. You need an app that takes advantage of the Nearby feature in order for this tile to work. Example apps include Trello and Pocket Casts.
 
 ![Android quick settings NFC](https://www.lifewire.com/thmb/BCMrZFFwhUKQ4tWUXoDmoJ5O6jE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/014-how-to-use-the-quick-settings-menu-on-android-d8c5c8f9aec94d9dbce743bb1d3a64be.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  Depending on your phone and apps, lots of other Quick Settings tiles might exist on your phone. Examples include Screen record, QR code scanner,[Sensors Off](https://www.lifewire.com/turn-off-android-phone-sensors-5524799) , Wallet, Camera access, Alarm, Dark theme, Recorder, One-handed mode,[Night Light](https://www.lifewire.com/how-to-use-android-night-mode-4688869) , Focus mode, and Bedtime mode.
 
  FAQ
@@ -207,8 +204,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +211,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-garagebands-easy-way-to-dull-down-noise-levels-for-2024/"><u>[New] Garageband's Easy Way to Dull Down Noise Levels for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-text-mastery-cutting-edge-effects-guide/"><u>[Updated] Text Mastery Cutting-Edge Effects Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-transforming-the-metaverse-essential-gear-to-consider-top-7-for-2024/"><u>[Updated] Transforming the Metaverse Essential Gear to Consider (Top 7) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-future-unveiled-a-comprehemail-protected-date-insights-and-latest-buzz/"><u>Apple's Future Unveiled: A Compreh([email Protected] Date Insights & Latest Buzz</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-macintosh-and-windows-computers-what-sets-them-apart/"><u>Comparing Macintosh and Windows Computers: What Sets Them Apart?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/considering-an-rtx-upgrade-what-gamers-need-to-know-before-making-the-leap/"><u>Considering an RTX Upgrade: What Gamers Need to Know Before Making the Leap</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-poco-f5-pro-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Poco F5 Pro 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-look-is-the-eero-pro-mesh-network-ideal-for-full-house-internet-coverage/"><u>Inside Look: Is The Eero Pro Mesh Network Ideal for Full House Internet Coverage?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-edge-server-racks-in-the-market-ranking-the-finest-of-2024/"><u>Leading Edge Server Racks in the Market - Ranking the Finest of 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-infinix-zero-5g-2023-turbo-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Zero 5G 2023 Turbo? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-superior-performance-7-reasons-why-palm-2-is-a-game-changer-for-googles-bard/"><u>Unlocking Superior Performance: 7 Reasons Why PaLM 2 Is a Game-Changer for Google's Bard</u></a></li>
+</ul></div>
 

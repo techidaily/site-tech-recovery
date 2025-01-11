@@ -1,7 +1,7 @@
 ---
 title: "Discovering Mac OS X Keychain Passwords: A Step-by-Step Guide"
-date: 2024-12-28T18:36:03.437Z
-updated: 2025-01-04T19:28:08.490Z
+date: 2025-01-09T11:48:05.229Z
+updated: 2025-01-11T03:31:56.089Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -27,7 +27,7 @@ I will start this out by reminding everyone that you should be using a password 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -37,10 +37,6 @@ I'm going to show you how to open the Keychain Access tool and how to use it to 
 The only thing you'll need to follow along is an Apple laptop or desktop. I'll demonstrate it on a MacBook Pro running macOS Monterey (version 12.2.1). 
 
 With that said, let's get to work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
 
@@ -53,7 +49,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -71,7 +67,7 @@ As you can see, the password is hidden from sight. To view the password for the 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating a password entry
@@ -81,6 +77,10 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 **Figure 3**
 
 Creating a new password entry to be stored in the Keychain Access tool. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -113,20 +113,20 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-download.techidaily.com/download-intel-cpu-drivers-quickly-and-easily/"><u>[DOWNLOAD] Intel CPU Drivers | Quickly & Easily</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-secrets-to-shooting-exceptional-micro-videos/"><u>[New] In 2024, Secrets to Shooting Exceptional Micro Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-streamlining-your-youtube-tracks-a-sound-guide-for-2024/"><u>[Updated] Streamlining Your YouTube Tracks A Sound Guide for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/como-solucionar-la-dificultad-para-compartir-archivos-en-windows-11-una-guia-completa-de-4-metodos-y-1-consejo-clave/"><u>Como Solucionar La Dificultad Para Compartir Archivos en Windows 11: Una Guía Completa De 4 Métodos Y 1 Consejo Clave</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/excellent-choices-in-collective-online-video-calls/"><u>Excellent Choices in Collective Online Video Calls</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-9-smartphone-video-call-solutions-iphone-vs-android-reviewed/"><u>In 2024, Best 9 Smartphone Video Call Solutions IPhone vs Android Reviewed</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-v30-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme V30</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-life-beyond-the-social-media-realm/"><u>Navigating Life Beyond the Social Media Realm</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-online-video-creation-made-easy-with-wevideo/"><u>New Online Video Creation Made Easy with WeVideo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-your-pcs-audio-problems-a-5-step-guide-for-windows-11/"><u>Solving Your PC's Audio Problems: A 5-Step Guide for Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-for-the-not-found-avcodecdll-error/"><u>Troubleshooting Techniques for the Not Found Avcodec.dll Error</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/twitch-account-security-boost-a-step-by-step-guide-on-activating-two-factor-authentication/"><u>Twitch Account Security Boost: A Step-by-Step Guide on Activating Two-Factor Authentication</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-fixes-for-shaky-and-fluctuating-displays-on-your-microsoft-surface-pro/"><u>Ultimate Fixes for Shaky & Fluctuating Displays on Your Microsoft Surface Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-strategies-to-correct-code-43-malfunctions/"><u>Ultimate Strategies to Correct Code 43 Malfunctions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-atandts-cellular-data-roaming-rules-and-costs/"><u>Understanding AT&T's Cellular Data Roaming Rules and Costs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oyful-views-essential-15-comical-youtubers-to-relax-with/"><u>[New] Joyful Views Essential 15 Comical YouTubers to Relax With</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/kyrocket-your-channels-status-on-youtube-with-these-steps-for-2024/"><u>[New] Skyrocket Your Channel's Status on YouTube with These Steps for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-supreme-graphics-power-for-4k-gamers-only/"><u>[Updated] In 2024, Supreme Graphics Power For 4K Gamers Only</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-combat-arcade-nintendo-switch-edition-max-156/"><u>[Updated] In 2024, Ultimate Combat Arcade Nintendo Switch Edition (Max 156)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-revolutionary-q500-the-ultimate-4k-bird/"><u>2024 Approved Revolutionary Q500 The Ultimate 4K Bird</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024-techniques-step-up-your-game-with-improved-fortnite-fps/"><u>2024 Techniques: Step Up Your Game with Improved Fortnite FPS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-secure-surfing-using-chromes-private-window-features/"><u>A Beginner's Guide to Secure Surfing: Using Chrome's Private Window Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/audiophiles-guide-to-choosing-between-a-home-theater-and-stereo-sound-receiver/"><u>Audiophile's Guide to Choosing Between a Home Theater and Stereo Sound Receiver</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-visual-storytelling-with-ar-and-luts/"><u>In 2024, Unlocking Visual Storytelling with AR & LUTs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimat-konvertera-med-vlc-till-mp4-filer-den-basta-processningsmetoden/"><u>Optimat Konvertera Med VLC Till MP4-Filer - Den Bästa Processningsmetoden</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-securely-changing-your-apple-account-password-for-2020-and-beyond/"><u>Ultimate Tutorial: Securely Changing Your Apple Account Password for 2020 and Beyond</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-full-potential-of-kodi-with-our-expert-picks-for-premier-vpn-solutions-in-2020/"><u>Unlock the Full Potential of Kodi with Our Expert Picks for Premier VPN Solutions in 2020</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-guide-eradicating-persistent-mouse-hiccups-and-jitter/"><u>Windows 11 Guide: Eradicating Persistent Mouse Hiccups and Jitter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-update-0x80070422-error-on-windows-10-solved/"><u>Windows Update 0X80070422 Error on Windows 10 [Solved]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/winning-strategies-against-high-system-ram-drain-in-windows-10/"><u>Winning Strategies Against High System RAM Drain in Windows 10</u></a></li>
 </ul></div>
 

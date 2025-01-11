@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2024-12-28T17:58:23.442Z
-updated: 2025-01-04T18:56:10.311Z
+date: 2025-01-08T12:52:00.599Z
+updated: 2025-01-11T08:10:09.782Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best AT&T deals
 
@@ -117,7 +121,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -133,10 +137,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [Google Pixel 8 Pro, free with trade-in, free Pixel Watch 2 View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/google-pixel-8-pro.html)
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Accessory and service deals
 
@@ -159,28 +159,28 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
@@ -236,14 +236,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-must-play-openworld-experiences/"><u>[New] Must-Play Openworld Experiences</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-tips-for-iphone-users-converting-standard-speed-to-slow-scenes/"><u>[Updated] 2024 Approved Tips for iPhone Users Converting Standard Speed to Slow Scenes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-real-time-broadcasting-softwares-edge-over-gear/"><u>2024 Approved Real-Time Broadcasting Software's Edge Over Gear?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-breakdown-of-augmented-reality-vs-virtual-reality-vs-mixed-reality-vs-extended-reality/"><u>A Comprehensive Breakdown of Augmented Reality vs Virtual Reality vs Mixed Reality vs Extended Reality</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-reset-realme-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Realme Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://win-hot.techidaily.com/comment-resoudre-le-dilemme-dun-cle-usb-incompatible-avec-windows-10/"><u>Comment Résoudre Le Dilemme D'un Clé USB Incompatible Avec Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/facebook-security-hack-getting-back-in-without-emailphone/"><u>Facebook Security Hack: Getting Back In Without Email/Phone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-replace-default-browser-with-a-new-one-on-your-samsung-television-online-access/"><u>How to Replace Default Browser with a New One on Your Samsung Television Online Access</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-question-are-airpods-and-nintendo-switch-compatible-lets-explore-your-options/"><u>The Ultimate Question: Are AirPods and Nintendo Switch Compatible? Let's Explore Your Options</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-channel-combat-determining-which-earns-more-from-videosdailymotion-or-youtube/"><u>[Updated] In 2024, Channel Combat Determining Which Earns More From Videos—Dailymotion or YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-editorial-efficiency-m1s-smooth-performance-unveiled/"><u>[Updated] In 2024, Editorial Efficiency M1's Smooth Performance Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-practical-routines-for-streamlining-gotomeeting-session-logging/"><u>[Updated] In 2024, Practical Routines for Streamlining GoToMeeting Session Logging</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-reclaiming-brightness-in-youtube-videos/"><u>[Updated] Reclaiming Brightness in YouTube Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-strategies-to-enhance-twitter-user-experience-with-ads/"><u>[Updated] Strategies to Enhance Twitter User Experience with Ads</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/automating-communication-a-complete-guide-to-planned-text-messages-on-your-iphone/"><u>Automating Communication: A Complete Guide to Planned Text Messages on Your iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-the-visibility-of-search-outcomes-in-windows-1011/"><u>Enhancing the Visibility of Search Outcomes in Windows 10/11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-considerations-everyone-should-make-before-investing-in-a-smartwatch/"><u>Essential Considerations Everyone Should Make Before Investing in a Smartwatch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-elite-circle-the-creme-de-la-creme-of-popular-sites-on-the-internet/"><u>Explore the Elite Circle: The Crème De La Crème of Popular Sites on the Internet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-textbooks-to-tech-how-students-can-score-big-savings-on-lenovo-devices/"><u>From Textbooks to Tech: How Students Can Score Big Savings on Lenovo Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-eliminating-horizontal-and-vertical-lines-from-your-tv/"><u>Step-by-Step Tutorial: Eliminating Horizontal and Vertical Lines From Your TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streaming-the-live-samsung-unboxing-event-a-step-by-step-guide/"><u>Streaming the Live Samsung Unboxing Event: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-top-6-most-polarizing-figures-in-tech/"><u>The Top 6 Most Polarizing Figures in Tech</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-your-inactive-snapchat-expert-methods-for-reactivation/"><u>Unlocking Your Inactive Snapchat: Expert Methods for Reactivation</u></a></li>
+<li><a href="https://fox-search.techidaily.com/win7-aomei/"><u>Win7移植指南：将系统安装到新驱动器 - AOMEI回升者</u></a></li>
 </ul></div>
 

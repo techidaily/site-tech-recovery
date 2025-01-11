@@ -1,7 +1,7 @@
 ---
 title: "Keep It Private with Webex: How to Apply Background Blur for Secure Meetings"
-date: 2024-08-20T11:30:06.269Z
-updated: 2024-08-21T11:30:06.269Z
+date: 2025-01-08T07:57:26.975Z
+updated: 2025-01-10T19:52:30.491Z
 categories:
   - BestProducts
 description: "This Article Describes Keep It Private with Webex: How to Apply Background Blur for Secure Meetings"
@@ -47,6 +47,10 @@ of 07
 
 of 07
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Use Your Apple Pencil to Create Notes and Random Doodles: Nebo](https://www.nebo.app/)
 
 ![Screen Shot of iPad Note-Taking App, by MyScript Nebo Note Taking for Apple Pencil MyScript](https://www.lifewire.com/thmb/sU5EreLEah9rV3MqdHzdXWnYjmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.57.47PM-5b4421d6c9e77c00540a7c4b.png)
@@ -73,12 +77,13 @@ of 07
 
 of 07
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## [Track Your Notes With a Timeline: Agenda](https://agenda.com/)
 
 ![Screen Shot of iPad Note-Taking App, Agenda – A new take on notes 9+ Momenta B.V.](https://www.lifewire.com/thmb/HfQN2TevpYQTN7tZWIKgNhyXlK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.15.11PM-5b44189ec9e77c0037c9fe7e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -108,9 +113,6 @@ of 07
 
 ![Screen Shot of iPad Note Taking App, Transom, Note-taking for Writers by VoidMedia](https://www.lifewire.com/thmb/D-W0tDJzFgOogqVZz8Cg-uUV5HI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at8.02.33PM-5b4549d246e0fb0037b62987.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * Fluid, no-frills app.
@@ -135,12 +137,13 @@ of 07
 
 of 07
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Convert Your Scribbles to Text: Notes Plus](https://www.writeon.cool/notes-plus/)
 
 ![Screen Shot of iPad app, Notes Plus by Viet Tran](https://www.lifewire.com/thmb/CdWqVs7w56VEyDvNrM4DKZLuBUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-10at7.51.16PM-5b4546d0c9e77c00372e65a0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -168,25 +171,14 @@ of 07
 
 of 07
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Customizable Notes: Drafts](https://getdrafts.com/)
 
 ![Screen Shot of iPad Note-Taking App, Note Taking: Notes & NotebookNotepad plus Markdown Writer React Apps Pty Ltd](https://www.lifewire.com/thmb/MbKvv1tpHWkwSwZJMDdlHQCMaJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-07-09at10.39.39PM-5b441de2c9e77c00371bd2c5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ​
 
  What We Like
@@ -218,9 +210,9 @@ of 07
 ![GoodNotes 5](https://www.lifewire.com/thmb/MjU51U1vy_MrNO2GF679jhCRDLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2023-01-20at6.25.22PM-9a3a3db8275544498ecbcf8db5bb5c98.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Ability to use GoodNotes as a digital whiteboard.
@@ -262,8 +254,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -271,4 +261,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-list-of-best-hashtags-for-yt-view-spikes/"><u>[Updated] 2024 Approved The Ultimate List of Best Hashtags for YT View Spikes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-the-excellent-church-streaming-services/"><u>[Updated] Navigating the Excellent Church Streaming Services</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unlocking-iphones-full-podcast-potential/"><u>[Updated] Unlocking iPhone's Full Podcast Potential</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-uploading-and-showcasing-videos-on-instagram-made-easy-for-2024/"><u>[Updated] Uploading and Showcasing Videos on Instagram Made Easy for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-screens-enhance-performance-on-windows-11/"><u>Clear Screens, Enhance Performance on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-cat5-and-cat6-ethernet-cables-key-distinctions-explored/"><u>Comparing Cat5 and Cat6 Ethernet Cables: Key Distinctions Explored</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easily-update-dell-drivers-for-windows-10/"><u>Easily Update Dell Drivers for Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficient-techniques-for-retrieving-missing-email-correspondence-in-gmail/"><u>Efficient Techniques for Retrieving Missing Email Correspondence in Gmail</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-copying-and-pasting-errors-in-windows-11/"><u>Expert Advice: Overcoming Copying & Pasting Errors in Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-majestic-celestial-images-at-your-command/"><u>In 2024, Majestic Celestial Images at Your Command</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/managing-and-blocking-junk-texts-using-iphones-built-in-features/"><u>Managing and Blocking Junk Texts Using iPhone's Built-In Features</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/newly-launched-satechi-charger-stands-compatible-with-qi2-and-apples-magsafe/"><u>Newly Launched Satechi Charger Stands Compatible with Qi2 & Apple's MagSafe</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pixel-watch-series-4-rumored-details-anticipated-cost-launch-timeline-and-features-unveiled/"><u>Pixel Watch Series 4 Rumored Details: Anticipated Cost, Launch Timeline & Features Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revealing-concealed-mac-os-x-folders-using-command-prompt-techniques/"><u>Revealing Concealed Mac OS X Folders Using Command Prompt Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/syncopated-syntax-showcase/"><u>Syncopated Syntax Showcase</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-restoring-power-for-your-ps5-gamepad/"><u>Ultimate Guide to Restoring Power for Your PS5 Gamepad</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncovering-the-world-of-smartwatches-functions-and-features-explained/"><u>Uncovering the World of Smartwatches: Functions & Features Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-tech-talk-discussing-expected-releases-and-prices-for-googles-pixel-9/"><u>Upcoming Tech Talk: Discussing Expected Releases & Prices for Google's Pixel 9.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/word-wizardry-comprehensive-methods-to-insert-straight-lines-into-your-document/"><u>Word Wizardry: Comprehensive Methods to Insert Straight Lines Into Your Document</u></a></li>
+</ul></div>
 

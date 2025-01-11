@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air M1 at an Unbeatable Bargain: Save Big with Our $649 Price Tag! | TechRadar"
-date: 2024-12-28T16:45:13.441Z
-updated: 2025-01-04T17:44:42.981Z
+date: 2025-01-04T12:03:38.069Z
+updated: 2025-01-11T00:09:55.468Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,22 +81,22 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-visual-storytelling-for-social-media-editing-vt-videos-in-fcpx/"><u>[New] Visual Storytelling for Social Media Editing VT Videos in FCPX</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-screencapturegooglemeet-iphone-and-android-methods-for-2024/"><u>[Updated] ScreenCaptureGoogleMeet IPhone and Android Methods for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-twilight-tactics-capturing-the-best-in-low-light-portraits/"><u>2024 Approved Twilight Tactics Capturing the Best in Low Light Portraits</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amazon-prime-videos-top-5-must-watch-movies-for-families-this-month/"><u>Amazon Prime Video's Top 5 Must-Watch Movies for Families This Month!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apples-next-gen-smartwatch-unveiled-anticipated-price-points-launch-timeline-and-detailed-specifications/"><u>Apple's Next-Gen Smartwatch Unveiled: Anticipated Price Points, Launch Timeline & Detailed Specifications</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/comprehensive-netgear-c3700-cabledsl-gateway-assessment/"><u>Comprehensive Netgear C3700 Cable/DSL Gateway Assessment</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-food-logging-apps-a-selection-of-our-top-picks/"><u>Discover the Best Food Logging Apps: A Selection of Our Top Picks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-12-pro-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 12 Pro Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-restore-network-functionality-on-macos-with-ease/"><u>How to Restore Network Functionality on macOS with Ease</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-the-world-easier-our-pick-of-8-essential-travel-planning-applications/"><u>Navigate the World Easier: Our Pick of 8 Essential Travel Planning Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/order-matters-how-to-enjoy-every-magical-moment-of-the-harry-potter-series-properly/"><u>Order Matters! How to Enjoy Every Magical Moment of the Harry Potter Series Properly</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/streamline-digital-marketing-operations-the-role-of-cookiebot/"><u>Streamline Digital Marketing Operations: The Role of Cookiebot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-inner-workings-of-chatbots-insights-into-their-ability-to-replicate-realistic-conversations-with-humans/"><u>The Inner Workings of Chatbots: Insights Into Their Ability to Replicate Realistic Conversations With Humans</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-g2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo G2 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-non-responsive-keyboards-learn-how-to-restore-functionality/"><u>Troubleshooting Tips for Non-Responsive Keyboards - Learn How to Restore Functionality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-correcting-motherboard-errors-from-failed-cmos-chip/"><u>Troubleshooting Tips: Correcting Motherboard Errors From Failed CMOS Chip</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-preserving-your-periscope-content-a-detailed-process/"><u>[New] In 2024, Preserving Your Periscope Content A Detailed Process</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-the-art-of-preview-premiere-pro-edition/"><u>[Updated] 2024 Approved Mastering the Art of Preview Premiere Pro Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-tamil-tunes-steps-for-ringtones-and-editing-songs-as-alerts/"><u>[Updated] In 2024, Tamil Tunes Steps for Ringtones & Editing Songs as Alerts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-taste-test-10-momentous-videos-for-2024/"><u>[Updated] Twitter's Taste Test 10 Momentous Videos for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-email-services-with-advanced-security-features-to-protect-you-online/"><u>Best Email Services with Advanced Security Features to Protect You Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-viewing-all-of-taylor-swifts-films-sequentially/"><u>Complete Guide: Viewing All of Taylor Swift's Films Sequentially</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-your-vehicles-secret-audio-access-codes-a-step-by-step-guide/"><u>Discovering Your Vehicle's Secret Audio Access Codes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-future-of-vr-with-meta-quest-3-lite-price-forecasts-release-insights-and-speculations-unveiled/"><u>Explore the Future of VR with Meta Quest 3 Lite: Price Forecasts, Release Insights, and Speculations Unveiled</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-officejet-3830-driver-download-guide-easy-setup-on-windows-computers/"><u>HP OfficeJet 3830 Driver Download Guide: Easy Setup on Windows Computers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-google-pixel-8-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Google Pixel 8 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keep-it-private-with-webex-how-to-apply-background-blur-for-secure-meetings/"><u>Keep It Private with Webex: How to Apply Background Blur for Secure Meetings</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-snaps-windows-strategies-for-sticky-notes/"><u>Secure Your Snaps: Windows Strategies for Sticky Notes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722861528221-six-outstanding-independent-offline-word-decoder-utilities-your-guide-to-choosing-the-best/"><u>Six Outstanding Independent Offline Word Decoder Utilities - Your Guide to Choosing the Best!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essential-pick-top-5-iphone-gps-tools-for-seamless-traveling/"><u>The Essential Pick: Top 5 iPhone GPS Tools for Seamless Traveling</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-honor-90-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Honor 90 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-mobile-network-operators-a-comprehensive-guide/"><u>Understanding Mobile Network Operators: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Savings on Amazon in August 2024 - Exclusive Offers and Discounts Featured by ZDNet
-date: 2024-12-29T19:10:07.438Z
-updated: 2025-01-04T19:12:18.039Z
+date: 2025-01-05T20:12:16.928Z
+updated: 2025-01-11T09:50:31.677Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ Below are some of the best Best Buy deals we have found, which will save you som
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best Best Buy deals of June 2024
 
 * [Apple Watch Series 9](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series9-gps-45mm-aluminum-case-with-midnight-sport-band-medium-large-midnight%2F6574340.p%3FskuId%3D6574340&publisher_slug=itechdaily19598&exclusive=1): $329 (save $100)
@@ -32,6 +36,10 @@ Below are some of the best Best Buy deals we have found, which will save you som
 * [Samsung 85-inch Neo QLED 4K UHD Smart Tizen TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-85-class-qn90c-neo-qled-4k-uhd-smart-tizen-tv%2F6533537.p%3FskuId%3D6533537&publisher_slug=itechdaily19598&exclusive=1): $2400 (save $200)
 * [Toshiba 55-inch LED 4K UHD Smart Fire TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftoshiba-55-class-c350-series-led-4k-uhd-smart-fire-tv%2F6532120.p%3FskuId%3D6532120&publisher_slug=itechdaily19598&exclusive=1): $270 (save $100)
 * [Samsung Galaxy Watch6 smartwatch (40mm)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-watch6-aluminum-smartwatch-40mm-bt-graphite%2F6546704.p%3FskuId%3D6546704&publisher%5Fslug=zdnet&article%5Fname=the%20best%20best%20buy%20deals%20of%20june%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $240 (save $60)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best Best Buy tech deals
 
@@ -44,6 +52,10 @@ Kayla Solino/ZDNET
 * [Samsung Galaxy Watch6 smartwatch (40mm)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-watch6-aluminum-smartwatch-40mm-bt-graphite%2F6546704.p%3FskuId%3D6546704&publisher%5Fslug=zdnet&article%5Fname=the%20best%20best%20buy%20deals%20of%20june%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $240 (save $60)
 * [Samsung Q-series soundbar w/Q-Symphony](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-q-series-3-1-2-ch-dolby-atmos-soundbar-w-q-symphony-titan-black%2F6535893.p%3FskuId%3D6535893&publisher_slug=itechdaily19598&exclusive=1): $480 (save $120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best Best Buy headphone deals
 
 Jada Jones/ZDNET
@@ -54,6 +66,10 @@ Jada Jones/ZDNET
 * [Sony WH-1000XM5 wireless noise-canceling headphones](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-wh-1000xm5-wireless-noise-canceling-over-the-ear-headphones-silver%2F6505728.p%3FskuId%3D6505728&publisher_slug=itechdaily19598&exclusive=1): $330 (save $70)
 * [Bose QuietComfort wireless noise-canceling headphones](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbose-quietcomfort-wireless-noise-cancelling-over-the-ear-headphones-black%2F6554461.p%3FskuId%3D6554461&publisher_slug=itechdaily19598&exclusive=1): $249 (save $100)
 * [Sennheiser Momentum 4 headphones](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsennheiser-momentum-4-wireless-adaptive-noise-canceling-over-the-ear-headphones-black%2F6514466.p%3FskuId%3D6514466&publisher_slug=itechdaily19598&exclusive=1): $300 (save $80)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best Best Buy TV deals
 
@@ -82,7 +98,7 @@ Sabrina Ortiz/ZDNET
 * [Apple MacBook Air 13.6-inch laptop (M2 chip, 8GB RAM, 256GB)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-6-laptop-apple-m2-chip-8gb-memory-256gb-ssd-starlight%2F6509648.p%3FskuId%3D6509648&publisher%5Fslug=zdnet&article%5Fname=the%20best%20best%20buy%20deals%20of%20june%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $849 (save $150)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best Best Buy robot vacuum deals
@@ -94,10 +110,6 @@ Maria Diaz/ZDNET
 * [iRobot Roomba Combo j5+](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot-roomba-combo-j5-self-emptying-vacuum-and-mop-graphite%2F6553419.p%3FskuId%3D6553419&publisher_slug=itechdaily19598&exclusive=1): $450 (save $280)
 * [iRobot Roomba j9+ self-emptying robot vacuum](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot-roomba-j9-self-emptying-robot-vacuum-ruby-bronze%2F6553417.p%3FskuId%3D6553417&publisher_slug=itechdaily19598&exclusive=1): $599 (save $300)
 * [iRobot Roomba Vac Essential robot vacuum](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot-roomba-vac-essential-robot-vacuum-q0120-black%2F6577016.p%3FskuId%3D6577016&publisher_slug=itechdaily19598&exclusive=1): $180 (save $70)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these Best Buy deals?
 
@@ -114,25 +126,13 @@ We chose our favorite Best Buy deals based on the following factors:
 
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on these deals, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What was Best Buy called originally?
 
 Founded in 1966, Best Buy used to be known as Sound of Music. However, after diversifying out from audio products, the company changed its name to Best Buy in 1983\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How popular is Best Buy's Geek Squad?
 
 Geek Squad repairs and refurbishes tech including laptops and smartphones. According to the retail giant, the group makes approximately five million house calls every year. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best tech deals in 2024?
 
@@ -188,24 +188,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-best-windows-video-calls-the-top-8-list/"><u>[New] 2024 Approved Best Windows Video Calls The Top 8 List</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-enhance-tweet-management-the-most-effective-apps-for-tweets-for-2024/"><u>[New] Enhance Tweet Management The Most Effective Apps for Tweets for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-low-cost-android-calls-compared-ranking/"><u>[Updated] In 2024, Best Low-Cost Android Calls Compared Ranking</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/13-usmesnych-prukladu-jak-snadno-prenasat-streamovaci-hry-movavi/"><u>13 Úsměšných Průkladů, Jak Snadno Přenášat Streamovací Hry - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899749582-currently-hot-shows-on-max-you-cant-miss/"><u>Currently Hot Shows on MAX You Can't Miss</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experts-dissect-and-analyze-new-apple-tv-4k-gen-3-performance-review/"><u>Experts Dissect and Analyze New Apple TV 4K (Gen 3) Performance Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-anno-1800-game-resolving-persistent-directx-troubles/"><u>Fixing Anno 1800 Game: Resolving Persistent DirectX Troubles</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722895564871-free-online-fax-solutions-discover-the-best-7-options-today/"><u>Free Online Fax Solutions - Discover the Best 7 Options Today!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-y56-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo Y56 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-lava-yuva-3-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Lava Yuva 3 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-running-more-than-one-youtube-channel-effectively/"><u>Mastering the Art of Running More Than One YouTube Channel Effectively</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/not-found-alert-missing-content-error-on-website/"><u>Not Found Alert: Missing Content Error on Website</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-display-glitches-in-windows-os/"><u>Overcoming Display Glitches in Windows OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/social-detectives-guide-easily-find-friends-and-contacts-on-facebook-with-six-key-tips/"><u>Social Detective's Guide: Easily Find Friends and Contacts on Facebook with Six Key Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-fixes-for-when-you-encounter-msidll-errors/"><u>Step-by-Step Fixes for When You Encounter 'msi.dll' Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tackling-the-libxml2dll-error-comprehensive-strategies-for-a-smooth-fix/"><u>Tackling the Libxml2.dll Error: Comprehensive Strategies for a Smooth Fix</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-find-n3-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo Find N3 Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-in-autonomous-travel-inside-teslas-taxi-service-price-predictions-and-availability/"><u>The Next Big Thing in Autonomous Travel: Inside Tesla's Taxi Service - Price Predictions & Availability</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/workplace-communication-mastery-tips-and-tricks-for-using-slack-effectively/"><u>Workplace Communication Mastery: Tips and Tricks for Using Slack Effectively</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-virtual-reality-breakthrough-apps-for-smartphones/"><u>[New] Virtual Reality Breakthrough Apps for Smartphones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-immersive-gameplay-capture-roblox-and-macos-synergy-for-2024/"><u>[Updated] Immersive Gameplay Capture Roblox & macOS Synergy for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-monetizing-media-earnings-analysis-for-pewdiepie/"><u>2024 Approved Monetizing Media Earnings Analysis for PewDiePie</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chromecast-audio-fixes-what-to-do-when-you-cant-hear-your-casted-content/"><u>Chromecast Audio Fixes: What to Do When You Can't Hear Your Casted Content</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/descubra-os-mais-famosos-aplicativos-para-capturar-screenshots-on-line-ranking-dos-11-primeiros-gratuitos/"><u>Descubra Os Mais Famosos Aplicativos Para Capturar Screenshots On-Line - Ranking Dos 11 Primeiros Gratuitos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-most-out-of-facebook-unlock-productivity-secrets-with-5-key-moves/"><u>Get the Most Out of Facebook: Unlock Productivity Secrets With 5 Key Moves</u></a></li>
+<li><a href="https://fox-access.techidaily.com/high-definition-excellence-selecting-the-top-youtube-converters-for-2024/"><u>High Definition Excellence Selecting the Top YouTube Converters for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-remove-and-replace-a-phones-glass-screen-protector/"><u>How to Remove and Replace a Phone's Glass Screen Protector</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-reno-10-proplus-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo Reno 10 Pro+ 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-how-to-turn-mundane-games-into-epic-scenes/"><u>In 2024, How to Turn Mundane Games Into Epic Scenes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/playstation-5-face-off-exploring-the-distinctions-between-the-slim-design-and-traditional-model/"><u>PlayStation 5 Face-Off: Exploring the Distinctions Between the Slim Design and Traditional Model</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-nine-critical-considerations-before-purchasing-a-car-dash-camera/"><u>The Ultimate Checklist: Nine Critical Considerations Before Purchasing a Car Dash Camera</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-recommended-navigation-apps-for-your-iphone/"><u>Top 5 Recommended Navigation Apps for Your iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-resolving-missing-d3dx9amoleddll-error/"><u>Troubleshooting Tips for Resolving Missing d3dx9_amoled.dll Error</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977184633-z270-gaming-mastery-secure-your-z270-carbon-drivers-today/"><u>Z270 Gaming Mastery: Secure Your Z270 Carbon Drivers Today</u></a></li>
 </ul></div>
 

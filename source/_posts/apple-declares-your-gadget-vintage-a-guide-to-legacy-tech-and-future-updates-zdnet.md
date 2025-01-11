@@ -1,7 +1,7 @@
 ---
 title: "Apple Declares Your Gadget Vintage: A Guide to Legacy Tech & Future Updates | ZDNet"
-date: 2024-12-31T18:46:17.097Z
-updated: 2025-01-04T19:06:11.627Z
+date: 2025-01-07T17:51:02.637Z
+updated: 2025-01-11T11:06:27.126Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ In this article, I'll show you how to take both screenshots and screen recording
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take a screenshot or screen recording with your Vision Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The two ways to take a screenshot on Vision Pro
@@ -65,7 +65,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 So that's how it's done. Now for the weird part.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to handle screenshot weirdness on Vision Pro
@@ -107,7 +107,7 @@ I carefully lined up the horizon of the lake (I'm using the Mount Hood environme
 It's quite frustrating, and either an artifact of the Vision Pro or of my slightly tilted psyche. Either way, it's weird and annoying. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to capture a screen recording on Vision Pro
@@ -157,16 +157,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/all-about-the-new-touchscreen-macbook-anticipated-costs-release-timeline-and-leaked-specs-revealed/"><u>All About the New Touchscreen MacBook: Anticipated Costs, Release Timeline & Leaked Specs Revealed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-to-follow-tutorial-on-downloading-and-installing-intel-usb-30-drivers-for-windows-10/"><u>Easy-to-Follow Tutorial on Downloading and Installing Intel USB 3.0 Drivers for Windows 10</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/enhance-your-livestreams-with-manycam-advanced-features-for-professional-virtual-webcams/"><u>Enhance Your Livestreams with ManyCam: Advanced Features for Professional Virtual Webcams</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-bing-your-go-to-microsoft-search-platform/"><u>Exploring the World of Bing - Your Go-To Microsoft Search Platform</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-link-your-disneyplus-app-to-a-chromecast-for-ultimate-viewing-pleasure/"><u>How To Link Your Disney+ App to a Chromecast for Ultimate Viewing Pleasure</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-14-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 14 Plus Lock Screen with Notifications?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mastering-the-art-of-sound-capture-using-adobe-audition-for-windows-users/"><u>Mastering the Art of Sound Capture: Using Adobe Audition for Windows Users</u></a></li>
-<li><a href="https://win-trending.techidaily.com/successful-recovery-strategies-for-ram-errors-tips-by-yl-computing-software-specialists/"><u>Successful Recovery Strategies for RAM Errors: Tips by YL Computing Software Specialists</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-ntdlldll-issues-a-guide-for-windows-10-8-and-7-users/"><u>Troubleshooting ntdll.dll Issues: A Guide for Windows 10, 8 & 7 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watching-dragon-ball-sequentially-tips-and-tricks-for-fans/"><u>Watching Dragon Ball Sequentially: Tips and Tricks for Fans</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-the-best-practices-for-skype-in-obs/"><u>[New] Unveiling the Best Practices for Skype in OBS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-iphone-android-which-has-the-better-youtube-experience/"><u>[Updated] 2024 Approved IPhone, Android Which Has the Better YouTube Experience?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-movie-sites-for-children-our-picks/"><u>Discover the Best Free Movie Sites for Children, Our Picks!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-high-end-technology-without-breaking-your-bank-top-picks/"><u>Experience High-End Technology without Breaking Your Bank: Top Picks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-motorola-defy-2-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Defy 2 Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-turn-off-microsoft-copilot-integration-in-your-windows-11-system/"><u>How To Turn Off Microsoft Copilot Integration In Your Windows 11 System</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-solutions-to-unlock-motorola-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>In 2024, 6 Solutions to Unlock Motorola Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reasons-to-get-pumped-about-the-latest-iphone-16-innovations-insights-from-zdnet/"><u>Reasons to Get Pumped About the Latest iPhone 16 Innovations - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rumors-surrounding-apples-revolutionary-home-robot-what-to-know-about-pricing-and-launch-dates/"><u>Rumors Surrounding Apple's Revolutionary Home Robot - What to Know About Pricing & Launch Dates?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-take-if-your-wii-system-fails-to-recognize-dvd-or-game-disc/"><u>Steps to Take if Your Wii System Fails to Recognize DVD or Game Disc</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unleash-your-stream-potential-on-youtube-with-just-a-handful-of-followers-for-2024/"><u>Unleash Your Stream Potential on YouTube with Just a Handful of Followers for 2024</u></a></li>
 </ul></div>
 

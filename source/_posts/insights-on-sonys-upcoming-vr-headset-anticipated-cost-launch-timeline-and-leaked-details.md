@@ -1,7 +1,7 @@
 ---
 title: Insights on Sony's Upcoming VR Headset - Anticipated Cost, Launch Timeline & Leaked Details
-date: 2024-08-20T11:25:03.219Z
-updated: 2024-08-21T11:25:03.219Z
+date: 2025-01-04T22:42:22.534Z
+updated: 2025-01-11T07:10:58.297Z
 categories:
   - BestProducts
 description: This Article Describes Insights on Sony's Upcoming VR Headset - Anticipated Cost, Launch Timeline & Leaked Details
@@ -22,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
 
  In January, Sony announced a partnership with Siemens to develop an industrial headset for engineers and 3D content creators. This Sony-Siemens pro-grade collaboration is tentatively scheduled to arrive later this year. Here’s what else we know about the Sony VR headset release date, features, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Will the Sony VR Headset Be Released? 
 
  The[ CES 2024](https://www.lifewire.com/ces-news-and-everything-else-to-know-5090178) unveiling of the Sony-Siemens partnership came with a general timeline for their Extended Reality (XR) head-mounted display (HMD): later this year. 
@@ -30,13 +34,14 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
 
  Assuming Sony and Siemens are still on track with their initial announcement, we anticipate a release by the end of the year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Lifewire's Release Date Estimate
 
  We expect to see the Sony VR Headset by December 2024 at the latest.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Sony VR Headset Price Rumors 
 
  There’s no word from Sony or Siemens about pricing, but this headset has been emphasized as a pro model for creators and engineers in the industrial metaverse.
@@ -44,15 +49,17 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
  In that respect, it seems more likely to rival the[ Apple Vision Pro](https://www.lifewire.com/apple-vision-pro-2-8612550) (with a $3,499 starting price) than the more mid-tier[ Meta Quest 3](https://www.lifewire.com/oculus-quest-3-news-specs-rumors-5220120) , which starts at $599.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information 
 
  Pre-ordering isn’t available yet, but we’ll be sure to include links and details here. You can also sign up for launch updates directly from Siemens.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Sony VR Headset Features 
 
  Sony presented prototypes of its VR headset at CES 2024, and a recent[ Siemens press release](https://newsroom.sw.siemens.com/en-US/siemens-rl24-sony-siemens-nx/) confirms one important detail of the partnership: The headset was developed with and exclusively uses Siemens’ Xcelerator engineering software—specifically its new NX Immersive Designer product, which will also be available when the headset launches.
@@ -67,13 +74,11 @@ thumbnail: https://www.lifewire.com/thmb/M1ceEUHcCwWM0wSNSpXnRfKUkQM=/400x300/fi
 ![Rendering of 3D modeling while wearing the Sony VR Headset and using the ring controller.](https://www.lifewire.com/thmb/4xyJFjIlj-e9RXY9KmMJ5hQAlvg=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/sony-siemens-xcelerator-rl24-newsroom-01-1280x720-dcad4516a8e54fbe86c918fd395959ca.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sony
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sony VR Headset Specs and Hardware 
 
  On the specs and hardware side, this Sony-Siemens headset will run on Android OS and have an 8K display: two 1.3-inch micro-OLEDs with 4K resolution per eye.
@@ -88,9 +93,6 @@ Sony
 
  As more details take shape about the release and availability of this Sony VR headset for content creators and professionals, you can find them here.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Latest News About the Sony VR Headset 
 
  You can get more[ tech news from Lifewire](https://www.lifewire.com/news-4795879) , including a few stories of interest about Sony.
@@ -111,8 +113,6 @@ Sony
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +120,20 @@ Sony
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-of-the-chill-easy-phone-game-compilation/"><u>[Updated] 2024 Approved Best of the Chill Easy Phone Game Compilation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/connect-and-share-how-to-enable-multiplayer-gaming-on-xbox-one-with-friends/"><u>Connect and Share: How to Enable Multiplayer Gaming on Xbox One With Friends</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-sync-a-users-manual-for-lg-smart-tv-screen-casting/"><u>Effortless Sync: A User's Manual for LG Smart TV Screen Casting</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-workout-logging-applications-to-optimize-your-fitness-routine/"><u>Essential Workout Logging Applications to Optimize Your Fitness Routine</u></a></li>
+<li><a href="https://extra-information.techidaily.com/evaluating-video-space-on-a-64gb-card/"><u>Evaluating Video Space on a 64GB Card</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-honor-play-7t-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Honor Play 7T Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-connecting-wireless-airpods-with-a-nintendo-switch/"><u>Guide to Connecting Wireless AirPods with a Nintendo Switch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/home-viewing-a-guide-to-watching-3d-films-through-fandango/"><u>Home Viewing: A Guide to Watching 3D Films Through Fandango</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/identifying-graphics-card-issues-a-comprehensive-guide-by-yl-software-experts/"><u>Identifying Graphics Card Issues: A Comprehensive Guide by YL Software Experts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-iphone-7-plus-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From iPhone 7 Plus Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-online-privacy-flush-out-browser-caches-in-major-platforms-effortlessly/"><u>Master the Art of Online Privacy: Flush Out Browser Caches in Major Platforms Effortlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-creating-a-unified-music-experience-with-spotifys-playlist-feature/"><u>Step-by-Step Tutorial: Creating a Unified Music Experience with Spotify's Playlist Feature</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-complete-process-for-crafting-your-own-ringtone-from-tiktok-music/"><u>The Complete Process for Crafting Your Own Ringtone From TikTok Music</u></a></li>
+</ul></div>
 

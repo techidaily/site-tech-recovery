@@ -1,7 +1,7 @@
 ---
 title: "To Upgrade or Not: Pros & Cons of Switching to iPhone 16, According to Expert Reviewers at ZDNet"
-date: 2024-12-29T17:18:54.271Z
-updated: 2025-01-04T16:34:22.339Z
+date: 2025-01-06T09:24:46.972Z
+updated: 2025-01-11T10:20:57.740Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
@@ -39,7 +39,7 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -54,6 +54,10 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -67,7 +71,7 @@ And if you're looking to change carriers, like managing editor Alison DeNisco Ra
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. For work
@@ -91,10 +95,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 **Also: [iPhone 16 Pro vs. iPhone 15 Pro: Should you upgrade to the latest model?](https://www.zdnet.com/article/iphone-16-pro-vs-iphone-15-pro/)**
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
@@ -125,7 +125,7 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -168,21 +168,22 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-uninterrupted-youtube-how-to-block-ads-in-popular-browsers/"><u>[New] 2024 Approved Uninterrupted YouTube How to Block Ads in Popular Browsers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-magix-acid-pro-evaluation-with-equivalent-software-for-2024/"><u>[New] Magix ACID Pro Evaluation with Equivalent Software for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-captivating-audiencvith-effective-thumbnail-sizes-for-2024/"><u>[Updated] Captivating Audiencvith Effective Thumbnail Sizes for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-navigating-fb-lives-dual-screen-dynamics-essential-insights/"><u>[Updated] Navigating FB Live's Dual-Screen Dynamics Essential Insights</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/44cm44k644o844og44gu44ot44o844kr44or44o744os44kz44o844oh44kj44oz44kw5qmf6io944gn57ch5y2y44gr5yuv55s757eo6zugic0g5ywo6kej6kqs44cn/"><u>「ズームのローカル・レコーディング機能で簡単に動画編集 - 全解説」</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehvew-of-methods-to-monitor-your-internet-bandwidth-consumption/"><u>A Comprehvew of Methods to Monitor Your Internet Bandwidth Consumption</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-getting-your-instagram-account-verified-by-verified/"><u>Expert Tips for Getting Your Instagram Account Verified by @Verified</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-s17-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Vivo S17 Pro Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17e-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo S17e PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protect-your-privacy-disable-caller-id-display-for-android-users/"><u>Protect Your Privacy: Disable Caller ID Display for Android Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-restoring-functionality-in-a-malfunctioning-samsung-soundbar/"><u>Step-by-Step Guide to Restoring Functionality in a Malfunctioning Samsung Soundbar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-walkthrough-on-reactivating-your-iphone-15/"><u>The Complete Walkthrough on Reactivating Your iPhone 15</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-ntldr-is-missing-blue-screen-and-preventive-measures/"><u>Ultimate Guide: Resolving the 'NTLDR Is Missing' Blue Screen & Preventive Measures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-potential-of-macos-15-sequoia-official-release-schedule-and-latest-updates-unveiled/"><u>Unlock the Potential of MacOS 15 Sequoia – Official Release Schedule & Latest Updates Unveiled</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/where-to-find-the-ideal-phone-deals-expert-recommendations/"><u>Where to Find the Ideal Phone Deals: Expert Recommendations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-complete-guide-to-proficient-periscope-operation/"><u>[New] In 2024, Complete Guide to Proficient Periscope Operation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-how-to-shoot-underwater-video-easily-with-7-tips/"><u>[New] In 2024, How to Shoot Underwater Video Easily (with 7 Tips)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-learn-how-to-obtain-fee-free-pictorial-entertainment/"><u>[Updated] Learn How To Obtain Fee-Free Pictorial Entertainment</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-stable-frame-rates-for-a-seamless-cold-war-experience-proven-pc-tweaks-and-adjustments-2024-insights/"><u>Mastering Stable Frame Rates for a Seamless Cold War Experience: Proven PC Tweaks & Adjustments (2024 Insights)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-creating-videos-using-just-your-desktop/"><u>Mastering the Art of Creating Videos Using Just Your Desktop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mouse-sensitivity-how-to-change-mouse-sensitivity-and-fix-mouse-sensitivity-issues/"><u>Mouse Sensitivity - How to Change Mouse Sensitivity and Fix Mouse Sensitivity Issues</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pinnacle-playwriting-sanctuary-for-2024/"><u>Pinnacle Playwriting Sanctuary for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reversing-your-monitor-orientation-a-complete-guide/"><u>Reversing Your Monitor Orientation: A Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-online-shopping-essential-tips-for-protecting-yourself/"><u>Secure Online Shopping: Essential Tips for Protecting Yourself</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/speeding-up-windows-11-boot-sequence-effective-strategies-revealed/"><u>Speeding Up Windows 11 Boot Sequence: Effective Strategies Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-updating-driver-software-in-windows-11-using-device-manager/"><u>Step-by-Step Guide: Updating Driver Software in Windows 11 Using Device Manager</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-reason-discover-how-and-why-you-should-use-a-vpn-today/"><u>The Ultimate Reason: Discover How and Why You Should Use a VPN Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-vanished-charge-symbol-on-windows-11-expert-fixes-and-tips/"><u>Troubleshooting a Vanished Charge Symbol on Windows 11: Expert Fixes and Tips</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-are-you-curious-about-finding-a-good-iphone-slow-motion-app-discover-the-top-rated-applications-in-the-market-that-will-help-you-creat/"><u>Updated 2024 Approved Are You Curious About Finding a Good iPhone Slow-Motion App? Discover the Top-Rated Applications in the Market that Will Help You Create the Perfect Video</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-se-2022-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone SE (2022) has bad ESN or blacklisted IMEI?</u></a></li>
 </ul></div>
 

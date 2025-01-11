@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Top Upcoming Enhancements for iPhone, iPad, Mac with AI Integration Announced by Apple This Autumn - Features Revealed on ZDNet"
-date: 2024-12-20T20:31:54.906Z
-updated: 2024-12-26T00:17:10.989Z
+date: 2025-01-09T02:17:29.386Z
+updated: 2025-01-10T17:47:04.907Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -93,10 +93,6 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -123,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -136,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,18 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-win10-gaming-sessions-best-recording-approaches/"><u>[New] In 2024, Win10 Gaming Sessions Best Recording Approaches</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevating-your-videos-visual-impact-youtubthumbnail-design-on-macos/"><u>[Updated] In 2024, Elevating Your Video's Visual Impact YoutubThumbnail Design on macOS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/clearing-outdated-dns-data-from-macos-a-simple-guide/"><u>Clearing Outdated DNS Data From macOS: A Simple Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/conquering-competition-crafting-standout-youtube-advertising-banners/"><u>Conquering Competition Crafting Standout YouTube Advertising Banners</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/cutthroat-countdown-best-zombies-in-gaming-unveiled/"><u>Cutthroat Countdown Best Zombies In Gaming Unveiled</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nubia-red-magic-8s-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ending-black-screen-woes-fall-creators-update/"><u>Ending Black Screen Woes: Fall Creators Update</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-shadow-to-light-mastering-the-art-of-repairing-a-black-screen-on-windows-11-devices/"><u>From Shadow to Light: Mastering the Art of Repairing a Black Screen on Windows 11 Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-handle-an-fm20dll-not-found-issue-on-windows-pcs/"><u>How to Correctly Handle an fm20.dll Not Found Issue on Windows PCs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-t2x-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo T2x 5G</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premier-mobile-and-desktop-mkv-software/"><u>Premier Mobile & Desktop MKV Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-repair-how-to-address-d3dx9-33dll-file-not-found-mishaps/"><u>Troubleshoot and Repair: How to Address D3DX9-33.dll File Not Found Mishaps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-fixes-for-ac1st16dll-error-not-found-solutions-and-tips/"><u>Ultimate Fixes for ac1st16.dll Error: Not Found Solutions and Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-reformat-and-rename-macs-image-file-transformation-for-2024/"><u>[New] Reformat and Rename Mac's Image File Transformation for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capture-kings-arena/"><u>[Updated] 2024 Approved Capture King's Arena</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-epic-retrospect-swiftly-undoing-iphone-videos/"><u>[Updated] In 2024, Epic Retrospect Swiftly Undoing iPhone Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-try-these-free-online-tempo-trackers-today-for-2024/"><u>[Updated] Try These FREE Online Tempo Trackers Today for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/sential-youtube-groups-navigating-stocks-for-2024/"><u>20 Essential YouTube Groups Navigating Stocks for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-15-plus-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 15 Plus Lock Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-amber-alert-notifications-on-your-android-device/"><u>Disabling AMBER Alert Notifications on Your Android Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-history-understanding-what-is-aim-aol-instant-messenger/"><u>Exploring the History: Understanding What Is AIM (AOL Instant Messenger)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nic-haven-best-dj-template-selections/"><u>Harmonic Haven Best DJ Template Selections</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/install-updated-amd-radeon-gpu-software-version-2410/"><u>Install Updated AMD Radeon GPU Software - Version 24.10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-kubernetes-workflow-with-openshift-lightspeed-the-new-ai-powered-tool-from-red-hat-zdnet/"><u>Revolutionize Your Kubernetes Workflow with OpenShift Lightspeed, the New AI-Powered Tool From Red Hat | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roku-ready-dive-into-crystal-clear-viewing-on-hitachi-4k-uhd-tv-screens/"><u>Roku Ready? Dive Into Crystal Clear Viewing on Hitachi 4K UHD TV Screens</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-eliminating-dsounddll-missing-error-in-windows/"><u>Step-by-Step Guide: Eliminating dsound.dll Missing Error in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-solution-to-solve-your-mfc42dll-issue/"><u>The Complete Solution to Solve Your mfc42.dll Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-teen-choice-netflix-films-a-must-watch-list/"><u>Top Teen Choice Netflix Films: A Must-Watch List</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722884739123-trouble-with-missing-rockaldlldll-heres-how-to-correctly-fix-the-issue/"><u>Trouble with Missing 'Rockaldll.dll'? Here’s How to Correctly Fix the Issue!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unfolding-the-digital-canvas-vr-evolution-for-2024/"><u>Unfolding the Digital Canvas VR Evolution for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-k70-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi K70 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-coming-for-the-google-pixel-lineup-forecast-on-model-10s-arrival-cost-predictions-and-specs-hints/"><u>What's Coming for the Google Pixel Lineup: Forecast on Model 10'S Arrival, Cost Predictions & Specs Hints</u></a></li>
 </ul></div>
 

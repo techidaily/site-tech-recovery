@@ -1,7 +1,7 @@
 ---
 title: "Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek"
-date: 2025-01-02T17:50:48.730Z
-updated: 2025-01-04T16:28:58.125Z
+date: 2025-01-08T02:11:40.712Z
+updated: 2025-01-10T23:05:49.536Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,20 +120,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-master-the-art-of-video-annotation-using-markers-with-ease/"><u>[Updated] Master the Art of Video Annotation Using Markers with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-pc-speed-with-improved-win11-startups/"><u>Boost PC Speed with Improved Win11 Startups</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-14-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on 14.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dual-storage-mastery-how-to-delete-icloud-images-and-keep-them-intact-on-iphone/"><u>Dual-Storage Mastery: How to Delete iCloud Images and Keep Them Intact on iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-best-lgbtq-content-available-on-netflix-this-july-2024/"><u>Explore the Best LGBTQ Content Available on Netflix This July 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-there-a-psn-service-interruption-or-are-you-facing-connectivity-problems/"><u>Is There A PSN Service Interruption, Or Are You Facing Connectivity Problems?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/must-watch-max-documentaries-in-july-2024-our-list/"><u>Must-Watch Max Documentaries in July 2024 - Our List</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-the-maze-of-car-audio-encryption-learn-how-to-find-your-radio-security-code-easily/"><u>Navigate the Maze of Car Audio Encryption – Learn How to Find Your Radio Security Code Easily!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protecting-your-mail-app-on-macos-a-step-by-step-guide-to-creating-safe-senders-lists/"><u>Protecting Your Mail App on macOS: A Step-by-Step Guide to Creating Safe Senders Lists</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/seamless-aspect-ratio-adaptation-in-dev-workflows-for-2024/"><u>Seamless Aspect Ratio Adaptation in Dev Workflows for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-tech-hacks-how-to-perform-screen-reflection-on-an-lg-display/"><u>Seamless Tech Hacks: How to Perform Screen Reflection on an LG Display</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/solution-found-overcoming-the-siths-blackout-glitch-in-star-wars-battlefront-2/"><u>Solution Found! Overcoming the Sith's Blackout Glitch in Star Wars Battlefront 2</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-gt-5-240w-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme GT 5 (240W) Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-s-hottest-video-editing-apps-for-iphone-enthusiasts/"><u>Updated S Hottest Video Editing Apps for iPhone Enthusiasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-a-list-mobile-applications-for-enhanced-gopro-videos/"><u>[New] In 2024, A-List Mobile Applications for Enhanced GoPro Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unlocking-potential-innovations-in-gif-artistry/"><u>[New] Unlocking Potential Innovations in GIF Artistry</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-elevate-your-videography-top-tier-vimeo-tools/"><u>[Updated] In 2024, Elevate Your Videography Top-Tier Vimeo Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/recordingrealm-expedition-unveiling-snapcastpro-2023-for-2024/"><u>RecordingRealm Expedition Unveiling 'SnapCastPro' 2023 for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-setting-up-your-virtual-private-network-vpn-on-microsofts-latest-operating-system-windows-11/"><u>Step-by-Step Instructions for Setting up Your Virtual Private Network (VPN) on Microsoft's Latest Operating System, Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-on-how-to-set-up-wifi-connection-on-your-computer/"><u>Step-by-Step Instructions on How to Set Up WiFi Connection on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-hidden-or-missing-amd-graphics-driver-in-device-manager/"><u>Step-by-Step Solutions for Hidden or Missing AMD Graphics Driver in Device Manager</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-adding-an-extra-display-to-your-pc/"><u>Step-by-Step Tutorial: Adding an Extra Display to Your PC</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-take-your-videos-to-the-next-level-os-x-mavericks-editing-tips/"><u>Updated 2024 Approved Take Your Videos to the Next Level OS X Mavericks Editing Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/lies-beneath-the-core-of-asmr-videos/"><u>What Lies Beneath The Core of ASMR Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-introduction-design-made-simple-and-inexpensive/"><u>YouTube Introduction Design Made Simple and Inexpensive</u></a></li>
 </ul></div>
 

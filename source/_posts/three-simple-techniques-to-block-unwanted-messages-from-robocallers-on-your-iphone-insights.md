@@ -1,7 +1,7 @@
 ---
 title: Three Simple Techniques to Block Unwanted Messages From Robocallers on Your iPhone - Insights
-date: 2024-12-22T18:37:49.572Z
-updated: 2024-12-26T09:00:23.758Z
+date: 2025-01-09T07:35:44.439Z
+updated: 2025-01-10T21:29:28.649Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ The good news is that you can stop these text messages using a feature already i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to stop spam text messages on iPhone
@@ -42,10 +42,6 @@ Tap on Messages to access the settings for your Messages app.
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scroll until you find 'Filter Unknown Messages'
 
 Scroll down to find the Filter Unknown Messages option and turn it on. This option is turned off by default, so you'll need to toggle it to the "on" position to enable it.
@@ -55,6 +51,10 @@ Scroll down to find the Filter Unknown Messages option and turn it on. This opti
 Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
 
@@ -78,10 +78,6 @@ The message inbox will now default to show messages from people in your contact 
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do I stop spam calls on iPhone?
@@ -99,10 +95,6 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I report junk messages on iPhone?
 
 The tutorial above will let you live in ignorant bliss of whoever is trying to reach you, but you can also go a step further and report messages as junk. Here's how you can report junk messages on your iPhone:
@@ -111,6 +103,10 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 2. Tap on Report Junk below the message.
 
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I block a sender on my iPhone?
 
@@ -121,6 +117,10 @@ If you keep getting messages from the same sender after reporting them, you can 
 3. Tap on the Info button on the right.
 4. Select Block this caller.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why is the 'Filter Unknown Senders' option turned off?
 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
@@ -128,7 +128,7 @@ The necessity for increased vigilance in certain situations -- like deliveries a
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
@@ -167,20 +167,20 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-fast-track-to-fame-masterful-use-of-insta-likes-and-vids/"><u>[New] 2024 Approved Fast Track to Fame Masterful Use of Insta Likes and Vids</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-mastering-valheim-agriculture-seed-selection-insights/"><u>[Updated] Mastering Valheim Agriculture Seed Selection Insights</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-stop-frustrating-facetime-call-drops-for-2024/"><u>[Updated] Stop Frustrating FaceTime Call Drops for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722886091598-buzz-on-android-16-potential-specs-leak-predicted-pricing-and-tentative-release-timeline-teased/"><u>Buzz on Android 16: Potential Specs Leak, Predicted Pricing & Tentative Release Timeline Teased!</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/comprendre-le-comportement-des-fichiers-supprimes-sur-une-cle-usb-pourquoi-ils-ne-vont-pas-directement-a-la-corbeille/"><u>Comprendre Le Comportement Des Fichiers Supprimés Sur Une Clé USB : Pourquoi Ils Ne Vont Pas Directement À La Corbeille?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-teslas-autonomous-taxi-insight-into-predicted-pricing-availability-date-specifications-and-fresh-rumors/"><u>Decoding Tesla’s Autonomous Taxi: Insight Into Predicted Pricing, Availability Date, Specifications and Fresh Rumors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/embark-on-a-social-media-adventure-with-the-worlds-top-66-twitter-travel-gurus-deals-and-tales/"><u>Embark on a Social Media Adventure with The World’s Top 66 Twitter Travel Gurus, Deals & Tales</u></a></li>
-<li><a href="https://os-tips.techidaily.com/extend-your-iphones-power-cycle-top-5-user-friendly-tips-for-longer-battery-life/"><u>Extend Your iPhone's Power Cycle: Top 5 User-Friendly Tips for Longer Battery Life</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-11-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 11 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic5-ultimate-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic5 Ultimate to Outlook | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-information-and-speculations-surrounding-the-new-sony-car-model-afeela/"><u>Inside Information and Speculations Surrounding the New Sony Car Model, Afeela</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-non-functional-search-on-windows-11/"><u>Overcoming Non-Functional Search on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/social-media-success-how-to-swiftly-score-more-likes-and-followers-on-instagram/"><u>Social Media Success: How to Swiftly Score More Likes and Followers on Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-dsounddll-file-absence-issue-a-step-by-step-guide/"><u>Solving the dsound.dll File Absence Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/why-isnt-my-apple-watch-getting-cellular-data-fix-it-now/"><u>Why Isn't My Apple Watch Getting Cellular Data? Fix It Now!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capture-life-in-motion-using-ipad-filming-techniques/"><u>[Updated] In 2024, Capture Life in Motion Using iPad Filming Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-efficient-guide-image-conversion-to-professional-youtube-thumbnails/"><u>[Updated] In 2024, Efficient Guide Image Conversion to Professional YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/pirational-winter-bgs-to-heat-your-videos-for-2024/"><u>5 Inspirational Winter Bgs to Heat Your Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/compiling-top-ios-recording-utilities/"><u>Compiling Top iOS Recording Utilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-change-altering-names-and-logos-for-riot-players/"><u>Embrace Change: Altering Names & Logos for Riot Players</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/improve-iphone-photography-effective-methods-for-restoring-focus-functionality/"><u>Improve iPhone Photography: Effective Methods for Restoring Focus Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/multi-channel-strategies-for-successful-youtube-presence/"><u>Multi-Channel Strategies for Successful YouTube Presence</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-s-hottest-explainer-video-creation-software-reviews-and-comparisons/"><u>New S Hottest Explainer Video Creation Software Reviews and Comparisons</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamp-your-viewing-experience-by-upgrading-your-samsung-tv-software/"><u>Revamp Your Viewing Experience by Upgrading Your Samsung TV Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-overcoming-code-n-series-hiccups-especially-43/"><u>The Ultimate Guide to Overcoming Code N-Series Hiccups – Especially #43</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-into-computer-components/"><u>Tom's Tech Review: Expert Insights Into Computer Components</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unleash-creativity-with-these-4-simple-steps-to-loops-on-instagram-for-2024/"><u>Unleash Creativity with These 4 Simple Steps to Loops on Instagram for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-true-power-of-chatgpt-with-add-ons/"><u>Unlocking the True Power of ChatGPT with Add-Ons</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-potent-blend-of-style-and-speed-an-in-depth-review-of-the-dell-xps-13-2-in-1-notebook/"><u>Unveiling the Potent Blend of Style and Speed: An In-Depth Review of the Dell XPS 13 2-in-1 Notebook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-power-of-recuva-an-in-depth-review-of-leading-file-recovery-applications/"><u>Unveiling the Power of Recuva: An In-Depth Review of Leading File Recovery Applications</u></a></li>
 </ul></div>
 
