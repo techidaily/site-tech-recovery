@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet
-date: 2025-01-07T08:23:44.275Z
-updated: 2025-01-10T17:25:21.019Z
+date: 2025-01-10T23:42:13.138Z
+updated: 2025-01-16T18:03:38.185Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -41,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,19 +52,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -73,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -84,11 +76,19 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,20 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-from-ordinary-to-outstanding-mastering-instagram-editing-skills-for-2024/"><u>[New] From Ordinary to Outstanding Mastering Instagram Editing Skills for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/destiny-2-disconnect-woes-heres-how-to-re-establish-your-server-link-successfully/"><u>Destiny ^2 Disconnect Woes? Here's How to Re-Establish Your Server Link Successfully!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/efficiency-achieved-tackling-and-solving-cyberpunk-cuper-2077s-high-cpu-drain/"><u>Efficiency Achieved: Tackling and Solving Cyberpunk Cuper 2077'S High CPU Drain</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/excel-mastery-effective-techniques-for-combining-columns/"><u>Excel Mastery: Effective Techniques for Combining Columns</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-navigating-and-controlling-roku-without-a-traditional-remote/"><u>Guide to Navigating and Controlling Roku without a Traditional Remote</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-a2plus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi A2+ to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-dynamic-typographic-options/"><u>In 2024, Advanced Dynamic Typographic Options</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-blend-soundscape-into-ppt-narratives/"><u>In 2024, Blend Soundscape Into PPT Narratives</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-download-harmony-free-music-from-fb/"><u>In 2024, Download Harmony Free Music From FB</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inexpensive-essentials-for-creating-your-dream-home-theater/"><u>Inexpensive Essentials for Creating Your Dream Home Theater</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/leading-iphone-email-apps-reviewed-our-selections/"><u>Leading iPhone Email Apps Reviewed: Our Selections</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/selecting-excellent-steadicams-to-elevate-your-dslr-cinematic-outputs-for-2024/"><u>Selecting Excellent Steadicams to Elevate Your DSLR Cinematic Outputs for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components-and-hardware/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components and Hardware</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-13-complimentary-pdf-editing-tools-you-can-start-using-in-july-2024/"><u>Top 13 Complimentary PDF Editing Tools You Can Start Using in July 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-how-to-recover-lost-helperdll-components/"><u>Troubleshooting Guide: How to Recover Lost Helper.dll Components</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-subtlety-at-the-helm-lowering-sound-intensity-in-fl-studio-for-2024/"><u>[New] Subtlety at the Helm Lowering Sound Intensity in FL Studio for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-win-10s-top-10-video-cam-applications/"><u>[New] Win 10'S Top 10 Video Cam Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ai-movavi-aviogg/"><u>AIビデオファイルを自由に変換: オンラインでMovavi AVIからOGGへ</u></a></li>
+<li><a href="https://article-tips.techidaily.com/capturing-yesterdays-essence-your-path-from-pixel-to-playback-for-2024/"><u>Capturing Yesterday's Essence Your Path From Pixel to Playback for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comment-convertir-facilement-votre-fichier-rom-au-format-mp3-gratuitement-sur-la-plateforme-movavi/"><u>Comment Convertir Facilement Votre Fichier ROM Au Format MP3 Gratuitement Sur La Plateforme Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-mka-files-for-free-on-the-web-with-movavi-tools/"><u>Convert MKA Files for Free on the Web with Movavi Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/crea-tu-propio-archivo-de-video-con-formato-mkv-a-partir-de-un-audio-wav-online-gratis-movavi/"><u>Crea Tu Propio Archivo De Vídeo Con Formato MKV a Partir De Un Audio WAV Online Gratis - Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-setup-your-logitech-c92n-webcam-on-windows-11108/"><u>Download Updated Drivers: Setup Your Logitech C92n Webcam on Windows 11/10/8</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/e-necessario-obter-consentimento-para-filmagem-de-uma-pessoa-legalidades-explicadas/"><u>É Necessário Obter Consentimento Para Filmagem De Uma Pessoa? - Legalidades Explicadas</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-facile-pour-jouer-des-videos-mp4-dans-windows-1087-etapes-a-suivre-simples/"><u>Guide Facile Pour Jouer Des Vidéos MP4 Dans Windows 10/8/7 : Étapes À Suivre Simples !</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-samsung-galaxy-s23-ultra-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Samsung Galaxy S23 Ultra to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-p60-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Huawei P60 Phone without PIN</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-ultimate-guide-to-calculate-your-youtube-views-and-money/"><u>In 2024, Ultimate Guide to Calculate Your YouTube Views and Money.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/quick-guide-how-to-seamlessly-record-screens-with-audio-on-windows-and-mac/"><u>Quick Guide: How to Seamlessly Record Screens with Audio on Windows and Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tga-para-bmp-converter-online-e-gratuitario-aprenda-com-a-fabrica-multimidia-movavi/"><u>TGA Para BMP Converter Online E Gratuitário - Aprenda Com a Fábrica Multimídia Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformar-imagens-png-em-arquivos-tiff-gratuitamente-no-movavi-instrucoes-passo-a-passo/"><u>Transformar Imagens PNG Em Arquivos TIFF Gratuitamente No Movavi - Instruções Passo a Passo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-no-cost-dvd-ripper-applications-for-pc-and-mac-users/"><u>Ultimate List of No-Cost DVD Ripper Applications for PC and Mac Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unshielding-windows-deactivating-defender-firewall/"><u>Unshielding Windows: Deactivating Defender Firewall</u></a></li>
 </ul></div>
 

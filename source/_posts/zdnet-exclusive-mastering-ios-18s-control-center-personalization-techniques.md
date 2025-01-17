@@ -1,7 +1,7 @@
 ---
 title: "ZDNET Exclusive: Mastering iOS 18'S Control Center Personalization Techniques"
-date: 2024-10-25T17:28:49.649Z
-updated: 2024-10-31T05:48:05.826Z
+date: 2025-01-14T21:15:15.426Z
+updated: 2025-01-16T16:07:41.114Z
 tags:
   - apple
 categories:
@@ -28,13 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,13 +43,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -63,6 +57,10 @@ Screenshot by Lance Whitney/ZDNET
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -79,10 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -92,10 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,24 +126,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-social-media-fame-on-instagram/"><u>[New] Mastering Social Media Fame on Instagram</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-techniques-to-extract-sound-from-vimeo-videos/"><u>[New] Techniques to Extract Sound From Vimeo Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-leveraging-facebook-for-automatic-video-views/"><u>[Updated] 2024 Approved Leveraging Facebook for Automatic Video Views</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-4-ways-to-set-up-your-talking-head-shots-for-youtube-for-2024/"><u>[Updated] 4 Ways To Set Up Your Talking-Head Shots For YouTube for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-essential-chrome-sketching-apps-for-every-aspiring-artist/"><u>[Updated] In 2024, Essential Chrome Sketching Apps for Every Aspiring Artist</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-streamline-operations-ranking-the-top-8-facebook-task-managers/"><u>[Updated] In 2024, Streamline Operations Ranking the Top 8 Facebook Task Managers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehvew-of-methods-to-monitor-your-internet-bandwidth-consumption/"><u>A Comprehvew of Methods to Monitor Your Internet Bandwidth Consumption</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-list-of-free-and-public-dns-servers/"><u>A List of Free and Public DNS Servers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976038966-confusion-may-result-from-metabolic-disturbances-infections-toxic-ingestions-or-increased-intracranial-pressure/"><u>Confusion May Result From Metabolic Disturbances, Infections, Toxic Ingestions, or Increased Intracranial Pressure.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-your-mornings-with-the-philips-hf3505-sunrise-alarm-clock-detailed-analysis/"><u>Evaluating Your Mornings with the Philips HF3505 Sunrise Alarm Clock: Detailed Analysis</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y02t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protect-your-privacy-disable-caller-id-display-for-android-users/"><u>Protect Your Privacy: Disable Caller ID Display for Android Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-restoring-functionality-in-a-malfunctioning-samsung-soundbar/"><u>Step-by-Step Guide to Restoring Functionality in a Malfunctioning Samsung Soundbar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-engaging-effectively-in-a-twitter-conversation/"><u>Step-by-Step Tutorial: Engaging Effectively in a Twitter Conversation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-walkthrough-on-reactivating-your-iphone-15/"><u>The Complete Walkthrough on Reactivating Your iPhone 15</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-ntldr-is-missing-blue-screen-and-preventive-measures/"><u>Ultimate Guide: Resolving the 'NTLDR Is Missing' Blue Screen & Preventive Measures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-potential-of-macos-15-sequoia-official-release-schedule-and-latest-updates-unveiled/"><u>Unlock the Potential of MacOS 15 Sequoia – Official Release Schedule & Latest Updates Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/where-to-find-the-ideal-phone-deals-expert-recommendations/"><u>Where to Find the Ideal Phone Deals: Expert Recommendations</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-network-drive-setup-a-comprehensive-walkthrough/"><u>Win11's Network Drive Setup: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-language-free-top-8-srt-translation-websites/"><u>[New] Mastering Language Free, Top 8 SRT Translation Websites</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-enhance-user-experience-top-free-speech-to-text-apps-for-mac-revealed/"><u>[Updated] 2024 Approved Enhance User Experience Top Free Speech-to-Text Apps for Mac Revealed</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-top-10-unique-tiktok-filters-sparking-engagement/"><u>[Updated] 2024 Approved Top 10 Unique TikTok Filters Sparking Engagement</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-playbook-for-cutting-edge-youtube-studio-video-editing/"><u>[Updated] In 2024, The Ultimate Playbook for Cutting-Edge YouTube Studio Video Editing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-innovative-functionality-with-ios-18-public-beta-the-5-exciting-experiences-showcased/"><u>Discover Innovative Functionality with iOS 18 Public Beta – The 5 Exciting Experiences Showcased</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-perform-a-successful-firmware-update-on-your-apple-studio-monitor-tips-and-tricks-from-zdnet/"><u>How to Perform a Successful Firmware Update on Your Apple Studio Monitor - Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-refresh-the-software-of-your-apple-studio-display-expert-advice-from-zdnet/"><u>How To Refresh The Software of Your Apple Studio Display - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-10t-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme 10T 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-mastery-with-manycam-ultimate-software-and-virtual-camera-solutions/"><u>Live Streaming Mastery with ManyCam: Ultimate Software and Virtual Camera Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimize-your-productivity-with-custom-focus-modes-in-macos-monterey-expert-advice-by-zdnet/"><u>Optimize Your Productivity with Custom Focus Modes in macOS Monterey | Expert Advice by ZDNET</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-virtual-recording-tools-online/"><u>Top Virtual Recording Tools Online</u></a></li>
 </ul></div>
 

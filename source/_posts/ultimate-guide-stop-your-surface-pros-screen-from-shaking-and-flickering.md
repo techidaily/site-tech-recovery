@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Stop Your Surface Pro's Screen From Shaking & Flickering"
-date: 2024-08-19T15:24:02.518Z
-updated: 2024-08-20T15:24:02.518Z
+date: 2025-01-14T02:57:21.920Z
+updated: 2025-01-16T18:17:31.911Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Stop Your Surface Pro's Screen From Shaking & Flickering"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  If you can't make Skype work, there are a number of troubleshooting steps you can follow to see what the problem is and to get things up and running again.
 
  Lifewire / Maritsa Patrinos​
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Skype Is Not Working
 
@@ -32,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -43,14 +44,14 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Step 3: Check Your Network Connection
 
  Make sure it's not a network problem. Skype won't work if you don't have a network connection. This is true if you're using it from any device, be it on the web, your phone, computer, etc.
@@ -58,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  If you can't open the websites from Step 1 or nothing else works, then your whole network is probably not working. Try [restarting your router](https://www.lifewire.com/how-to-properly-restart-a-router-modem-2624570) or following our[troubleshooting steps for Wi-Fi issues](https://www.lifewire.com/what-to-do-when-theres-no-wi-fi-internet-connection-2378240) .
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 4: Check Skype's Audio Settings and Permissions
 
@@ -70,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
@@ -94,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
@@ -104,14 +110,9 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype for Computers
 
  If the Skype video isn't working on your computer, open Skype's video settings through the**Tools** \>**Audio & Video Settings** menu item (press the**Alt** key if you don't see the menu).
@@ -132,9 +133,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Step 6: Make a Test Call in Skype
 
  Now that you've made sure that the hardware is turned on and enabled in Skype, it's time to[make a test audio call](https://www.lifewire.com/skype-quick-audio-test-3426523) .
@@ -147,9 +145,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -158,15 +153,16 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
 
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 9: Verify the Microphone Works
 
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
@@ -203,8 +199,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +206,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-video-editors-alternatives-to-inshot/"><u>[New] In 2024, Video Editors Alternatives to Inshot</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-innovative-home-designs-for-modern-minecraft-world-for-2024/"><u>[New] Innovative Home Designs for Modern Minecraft World for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-complementing-narratives-with-skillful-b-roll-usage-for-2024/"><u>[Updated] Complementing Narratives with Skillful B-Roll Usage for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-detailed-walkthrough-to-tackle-and-repair-haldll-problems-on-multiple-windows-platforms/"><u>A Detailed Walkthrough to Tackle and Repair Hal.dll Problems on Multiple Windows Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chromecast-personalization-tips-how-to-change-and-set-a-unique-image-as-your-screen-saver/"><u>Chromecast Personalization Tips: How to Change and Set a Unique Image as Your Screen Saver</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-breakdown-of-wi-fi-technologies-be-ac-ax-bgn-specifications-unveiled/"><u>Comprehensive Breakdown of Wi-Fi Technologies: Be, Ac, AX, B/G/N Specifications Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-how-these-8-people-finders-can-help-you-track-someone-down/"><u>Discover How These 8 People Finders Can Help You Track Someone Down</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-management-a-comprehveiw-of-key-functions-in-the-android-quick-settings-shortcut/"><u>Effortless Management: A Comprehveiw of Key Functions in the Android Quick Settings Shortcut</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ancestral-creations-public-domain-masterpieces/"><u>In 2024, Ancestral Creations Public Domain Masterpieces</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-essential-insights-on-making-your-podcast-name-unforgettable/"><u>In 2024, Essential Insights on Making Your Podcast Name Unforgettable</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-experience-legendary-ps3-gaming-on-your-pc-today/"><u>In 2024, Experience Legendary PS3 Gaming on Your PC Today</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-zoom-panel-essentials-for-novices/"><u>In 2024, Zoom Panel Essentials for Novices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-insights-navigating-the-pre-purchase-process-of-an-ev/"><u>Key Insights: Navigating the Pre-Purchase Process of an EV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-space-time-your-comprehensive-guide-to-watching-star-trek-movies-in-proper-order/"><u>Navigating Space-Time: Your Comprehensive Guide to Watching Star Trek Movies in Proper Order</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715834823879-the-compre-written-documentation-and-examples-for-recording-sims-4-games-in-a-way-that-is-clear-concise-and-easy-to-understand-with-each-new-title-conveying/"><u>The Compre Written Documentation and Examples for Recording Sims 4 Games in a Way that Is Clear, Concise, and Easy to Understand, with Each New Title Conveying Similar Meanings While Adhering to the Maximum Character Limit of 156 Characters for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unfixing-the-auto-focus-glitch-on-your-iphone-camera-tips-and-tricks/"><u>Unfixing the Auto-Focus Glitch on Your iPhone Camera - Tips & Tricks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Insert Source Code Into a Word Document
-date: 2024-08-19T15:22:28.718Z
-updated: 2024-08-20T15:22:28.718Z
+date: 2025-01-13T03:36:32.100Z
+updated: 2025-01-16T16:51:57.688Z
 categories:
   - BestProducts
 description: This Article Describes How to Insert Source Code Into a Word Document
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 
  These troubleshooting tips work with iPadOS 14 and later and all currently supported versions of iOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## If the Printer Isn't Showing Up in the List on Your iPad
 
  The most common problem occurs when the iPad cannot find or recognize your printer. The root cause of this problem is that the iPad and printer are not communicating with each other correctly.
@@ -23,6 +27,10 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
  Some printers, especially early AirPrint printers, are a little finicky and require special treatment from time to time.
 
 ![No AirPrint Printers Found message on an iPad.](https://www.lifewire.com/thmb/PINbY5NNM2YpYVf6BIRAjMvyfYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_my-ipad-wont-print-cant-find-printer-1994541-d3ec6679b22b423d876a15837e54cd6e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try these troubleshooting steps, in order:
 
@@ -35,6 +43,10 @@ thumbnail: https://www.lifewire.com/thmb/rzYewCryTjWb2_V2_mncFJn6Mew=/400x300/fi
 5. Restart the printer. Instead of a problem with the iPad, it could be a problem with the printer. Powering down the printer and powering it back up again could correct problems on the printer side. Wait until the printer has reconnected to the Wi-Fi network before testing it again.  
  Most AirPrint printers have a Wi-Fi light or icon on the display to show that it's connected properly.
 6. Verify it's an AirPrint printer. If this is a new printer, it should say that it's AirPrint compatible on the packaging. Some older printers use a specific app to print from the iPad, so refer to the owner's manual. You can see a[list of AirPrint printers on Apple's website](https://support.apple.com/en-us/HT201311) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If the Printer Appears in the List
 
@@ -70,8 +82,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -79,8 +89,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-a-compreenas-step-by-step-guide-for-bordered-instagram-images/"><u>[New] In 2024, A Compreenas Step-by-Step Guide for Bordered Instagram Images</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-monitoring-lost-instagram-connections-for-2024/"><u>[New] Monitoring Lost Instagram Connections for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-step-by-step-the-ultimate-4-methods-for-gameplay-screens/"><u>[Updated] In 2024, Step-By-Step The Ultimate 4 Methods for Gameplay Screens</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-fix-frozen-mobile-youtube-videos-on-multiple-devices/"><u>2024 Approved Fix Frozen Mobile YouTube Videos on Multiple Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-navigation-redefined-with-google-maps-live-view-functionality/"><u>Experience Navigation Redefined with Google Maps' Live View Functionality</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/innovative-combo-exploring-features-of-arlos-video-doorbell-with-built-in-alarm/"><u>Innovative Combo: Exploring Features of Arlo's Video Doorbell with Built-In Alarm</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ipad-friendly-top-4-methods-to-transfer-music-from-your-ipod-shuffle-or-nano-without-using-itunes/"><u>IPad-Friendly: Top 4 Methods to Transfer Music From Your iPod, Shuffle or Nano Without Using iTunes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/minimize-time-maximize-results-with-this-srt-to-txt-hack-for-2024/"><u>Minimize Time, Maximize Results with This SRT to TXT Hack for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-paramount-plus-playback-errors-a-users-manual-for-samsung-smart-tv-boxes/"><u>Overcoming Paramount + Playback Errors: A User's Manual for Samsung Smart TV Boxes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-fix-for-when-your-pc-says-msstdfmtdll-is-missing/"><u>The Definitive Fix for When Your PC Says Msstdfmt.dll Is Missing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-comprehensive-guide-to-watching-movies-with-fandango-on-a-fire-stick/"><u>Your Comprehensive Guide to Watching Movies with Fandango on a Fire Stick</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

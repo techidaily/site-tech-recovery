@@ -1,7 +1,7 @@
 ---
 title: IPhone 15 Assessment - Top Pick for Enthusiasts and Professionals Alike!
-date: 2025-01-06T05:07:19.453Z
-updated: 2025-01-11T05:20:06.947Z
+date: 2025-01-10T02:34:34.859Z
+updated: 2025-01-16T21:54:18.014Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -48,6 +48,10 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -64,19 +68,11 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -132,6 +128,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -147,7 +147,7 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -162,13 +162,13 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,20 +204,20 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-ensuring-earning-potential-on-youtubers-for-2024/"><u>[New] Ensuring Earning Potential on YouTubers for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-longer-content-strategies-explained/"><u>[New] In 2024, Instagram Longer Content Strategies Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-the-art-of-fps-with-counter-strike-tips/"><u>Ace the Art of FPS with Counter-Strike Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-virtual-collaborations-blending-zoom-with-skype-techniques/"><u>Enhancing Virtual Collaborations Blending ZOOM with SKYPE Techniques</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/exploring-various-window-management-options-in-control-panels-a-guide-the-yl-tech-insight/"><u>Exploring Various Window Management Options in Control Panels: A Guide - The YL Tech Insight</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/five-simple-solutions-how-to-get-your-chatgpt-back-on-track/"><u>Five Simple Solutions: How to Get Your ChatGPT Back on Track</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-smart-7-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Infinix Smart 7 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-enter-safe-mode-in-windows-10-7-8-81-xp-and-vista/"><u>How to Enter Safe Mode in Windows 10, 7, 8, 8.1, XP & Vista</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-is-your-social-media-strategy-up-to-date-with-facebook-changes/"><u>In 2024, Is Your Social Media Strategy Up-to-Date with Facebook Changes?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimized-storage-analysis-how-many-videos-on-a-64128gb-drive-in-2024/"><u>Optimized Storage Analysis How Many Videos on a 64/128GB Drive, In 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-frame-rate-drops-in-minecraft-on-your-powerhouse-pc-a-modern-approach-learn-from-2vectras-best-practices/"><u>Overcoming Frame Rate Drops in Minecraft on Your Powerhouse PC: A Modern Approach - Learn From 2Vectra's Best Practices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-and-simple-conversion-turning-wav-files-into-mp3-format-using-audials/"><u>Quick and Simple Conversion: Turning WAV Files Into MP3 Format Using Audials</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reset-your-gmail-access-securely-a-2022-how-to-on-verification-codes/"><u>Reset Your Gmail Access Securely: A 2022 How-To on Verification Codes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolved-step-by-step-guide-to-addressing-full-cpu-utilization-problems/"><u>Resolved: Step-by-Step Guide to Addressing Full CPU Utilization Problems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-20-greatest-sandbox-experiences-ever-made/"><u>[New] 20 Greatest Sandbox Experiences Ever Made</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-vega-56-users-guide-to-finding-and-applying-driver-updates-for-enhanced-performance-in-windows-os/"><u>AMD Vega 56 User's Guide to Finding and Applying Driver Updates for Enhanced Performance in Windows OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-eliminating-the-suggest-next-function-on-instagram/"><u>Complete Guide: Eliminating the 'Suggest Next' Function on Instagram</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fix-for-when-your-system-cant-find-helperdll/"><u>Comprehensive Fix for When Your System Can't Find Helper.dll</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-repair-kernel32dll-errors-in-windows-systems/"><u>Effective Strategies to Repair Kernel32.dll Errors in Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-common-glitches-a-users-handbook-for-successful-instagram-story-uploads/"><u>Overcoming Common Glitches: A User’s Handbook for Successful Instagram Story Uploads</u></a></li>
+<li><a href="https://discover-help.techidaily.com/reproduccion-de-contenido-av1-en-la-plataforma-plex-paso-a-paso-y-solucion-detallada/"><u>Reproducción De Contenido AV1 en La Plataforma Plex - Paso a Paso Y Solución Detallada</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-capturing-screen-images-on-your-desktop-computer/"><u>Step-by-Step Guide: Capturing Screen Images on Your Desktop Computer</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-guide-setting-up-block-level-incremental-backup-on-your-windows-pc/"><u>Step-by-Step Guide: Setting Up Block-Level Incremental Backup on Your Windows PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209868072-9780957619524-the-human-energy-system/"><u>The Human Energy System | Free Book</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/time-travel-on-fb-accessing-historical-posts-for-2024/"><u>Time Travel on FB Accessing Historical Posts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-windows-11-search-issues-with-our-top-fixing-tips/"><u>Troubleshoot Windows 11 Search Issues with Our Top Fixing Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-trick-navigating-to-command-prompt-within-file-explorer-tabs/"><u>Ultimate Trick: Navigating to Command Prompt Within File Explorer Tabs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722886473783-understanding-the-502-bad-gateway-error-causes-and-solutions/"><u>Understanding the 502 Bad Gateway Error - Causes & Solutions</u></a></li>
 </ul></div>
 

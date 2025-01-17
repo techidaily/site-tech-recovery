@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air with M1 Chip Available at Unbeatable Rate of Only $649: Top Deal"
-date: 2025-01-06T02:32:40.000Z
-updated: 2025-01-10T17:29:26.220Z
+date: 2025-01-13T21:29:43.402Z
+updated: 2025-01-16T23:25:31.986Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,19 +81,19 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-microphones-for-idevices-and-their-benefits-explained/"><u>[New] Top Microphones for iDevices & Their Benefits Explained</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-top-7-image-enhancement-displays-for-editors-2024-edition/"><u>[Updated] Top 7 Image Enhancement Displays for Editors, 2024 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/an-in-depth-look-at-what-bing-really-is-and-how-it-works/"><u>An In-Depth Look at What Bing Really Is and How It Works</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-on-watching-spider-man-no-way-home-online/"><u>Complete Guide on Watching 'Spider-Man: No Way Home' Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-speeds-for-optimal-performance-a-guide-to-your-pcs-true-potential/"><u>Essential Speeds for Optimal Performance: A Guide to Your PC's True Potential</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722895973745-how-long-before-a-mailcom-email-address-gets-deleted-find-out-now/"><u>How Long Before a mail.com Email Address Gets Deleted – Find Out Now</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-narzo-n55-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme Narzo N55 Phone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722962362449-investment-in-human-capital-and-talent-acquisition-strategies/"><u>Investment in Human Capital and Talent Acquisition Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kop-movavi-video-converter-av-handelsstiftelsen-basta-pris-god-kallavsattning-och-full-gorlig-dataskicklighet/"><u>Köp Movavi Video Converter Av Handelsstiftelsen - Bästa Pris, God Kallavsättning Och Full Görlig Dataskicklighet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionary-milestone-by-t-mobile-ultimate-speed-triumphs-as-new-record-for-sub-6-5g-uploads-established/"><u>Revolutionary Milestone by T-Mobile: Ultimate Speed Triumphs as New Record for Sub-6 5G Uploads Established</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sculpt-sketch-and-color-like-never-before-microsoft-paint-enhancements/"><u>Sculpt, Sketch & Color Like Never Before: Microsoft Paint Enhancements</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-t2x-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo T2x 5G</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-to-resolving-typical-windows-drivers-issues-insights-from-yl-computing/"><u>Ultimate Guide to Resolving Typical Windows Drivers Issues - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/viewing-tips-accessing-the-roku-channel-on-non-roku-devices/"><u>Viewing Tips: Accessing The Roku Channel on Non-Roku Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-5-ways-to-record-gameplay-and-webcam/"><u>[New] 5 Ways to Record Gameplay and Webcam</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-effortlessly-erase-photo-borders-with-photopea/"><u>[Updated] Effortlessly Erase Photo Borders with Photopea</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722881425369-all-you-need-to-know-about-the-next-google-pixel-anticipated-price-launch-date-and-specs-rumors-included/"><u>All You Need to Know About the Next Google Pixel: Anticipated Price, Launch Date & Specs - Rumors Included</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fix-for-windows-10-microsoft-store-wont-start/"><u>Comprehensive Fix for Windows 10: Microsoft Store Won't Start?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/digital-dialogue-preservation-guide/"><u>Digital Dialogue Preservation Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-amber-alert-notifications-steps-for-android-users/"><u>Disabling Amber Alert Notifications: Steps for Android Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-buys-in-video-games-kids-favorite-consoles-and-cool-accessories/"><u>Essential Buys in Video Games: Kids’ Favorite Consoles & Cool Accessories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-repairing-system-files-overcoming-wpcapdll-disappearance-errors-on-windows/"><u>Guide to Repairing System Files: Overcoming Wpcap.dll Disappearance Errors on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-prevent-backward-typing-in-windows/"><u>Guidelines to Prevent Backward Typing in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-add-a-new-mail-sound-for-gmail/"><u>How to Add a New Mail Sound for Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/independent-messaging-on-facebooks-platform-tips-for-non-account-users-of-messenger/"><u>Independent Messaging on Facebook's Platform: Tips for Non-Account Users of Messenger</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-hp-audio-device-drivers-free-access-and-effortless-installation-steps/"><u>Instant HP Audio Device Drivers – Free Access and Effortless Installation Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-ram-wav/"><u>MOVAVI 在線自由邊輸出 RAM 到 WAV 格式：直覺上的選擇</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/premium-streaming-making-an-informed-decision-on-spotifys-plan/"><u>Premium Streaming: Making an Informed Decision on Spotify's Plan</u></a></li>
 </ul></div>
 

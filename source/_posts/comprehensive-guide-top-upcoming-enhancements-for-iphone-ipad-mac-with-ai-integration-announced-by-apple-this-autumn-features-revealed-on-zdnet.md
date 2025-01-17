@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Top Upcoming Enhancements for iPhone, iPad, Mac with AI Integration Announced by Apple This Autumn - Features Revealed on ZDNet"
-date: 2025-01-09T02:17:29.386Z
-updated: 2025-01-10T17:47:04.907Z
+date: 2025-01-11T00:04:54.451Z
+updated: 2025-01-16T17:46:07.738Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,10 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -108,6 +104,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -119,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -132,10 +132,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,24 +210,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-reformat-and-rename-macs-image-file-transformation-for-2024/"><u>[New] Reformat and Rename Mac's Image File Transformation for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capture-kings-arena/"><u>[Updated] 2024 Approved Capture King's Arena</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-epic-retrospect-swiftly-undoing-iphone-videos/"><u>[Updated] In 2024, Epic Retrospect Swiftly Undoing iPhone Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-try-these-free-online-tempo-trackers-today-for-2024/"><u>[Updated] Try These FREE Online Tempo Trackers Today for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/sential-youtube-groups-navigating-stocks-for-2024/"><u>20 Essential YouTube Groups Navigating Stocks for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-15-plus-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 15 Plus Lock Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-amber-alert-notifications-on-your-android-device/"><u>Disabling AMBER Alert Notifications on Your Android Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-history-understanding-what-is-aim-aol-instant-messenger/"><u>Exploring the History: Understanding What Is AIM (AOL Instant Messenger)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nic-haven-best-dj-template-selections/"><u>Harmonic Haven Best DJ Template Selections</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/install-updated-amd-radeon-gpu-software-version-2410/"><u>Install Updated AMD Radeon GPU Software - Version 24.10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-kubernetes-workflow-with-openshift-lightspeed-the-new-ai-powered-tool-from-red-hat-zdnet/"><u>Revolutionize Your Kubernetes Workflow with OpenShift Lightspeed, the New AI-Powered Tool From Red Hat | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/roku-ready-dive-into-crystal-clear-viewing-on-hitachi-4k-uhd-tv-screens/"><u>Roku Ready? Dive Into Crystal Clear Viewing on Hitachi 4K UHD TV Screens</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-eliminating-dsounddll-missing-error-in-windows/"><u>Step-by-Step Guide: Eliminating dsound.dll Missing Error in Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-solution-to-solve-your-mfc42dll-issue/"><u>The Complete Solution to Solve Your mfc42.dll Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-teen-choice-netflix-films-a-must-watch-list/"><u>Top Teen Choice Netflix Films: A Must-Watch List</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722884739123-trouble-with-missing-rockaldlldll-heres-how-to-correctly-fix-the-issue/"><u>Trouble with Missing 'Rockaldll.dll'? Here’s How to Correctly Fix the Issue!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unfolding-the-digital-canvas-vr-evolution-for-2024/"><u>Unfolding the Digital Canvas VR Evolution for 2024</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-k70-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi K70 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-coming-for-the-google-pixel-lineup-forecast-on-model-10s-arrival-cost-predictions-and-specs-hints/"><u>What's Coming for the Google Pixel Lineup: Forecast on Model 10'S Arrival, Cost Predictions & Specs Hints</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-bring-your-tiktok-visuals-to-life-with-sound/"><u>[Updated] 2024 Approved Bring Your TikTok Visuals to Life with Sound</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-transitioning-artistry-in-inshot-videos/"><u>[Updated] 2024 Approved Transitioning Artistry in Inshot Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-best-no-cost-video-conferencing-apps-cross-system-friendly/"><u>[Updated] Best No-Cost Video Conferencing Apps Cross-System Friendly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-marketing-edge-with-video-based-client-advocacy/"><u>[Updated] Marketing Edge with Video-Based Client Advocacy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-cat5-vs-cat6-ethernet-cables-key-factors-and-performance/"><u>Comparing Cat5 Vs. Cat6 Ethernet Cables: Key Factors and Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-top-8-windows-timer-apps/"><u>Comprehensive Guide to Top 8 Windows Timer Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-strategies-for-fixing-the-shell32dll-is-absent-error/"><u>Essential Strategies for Fixing the 'Shell32.dll Is Absent' Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/everything-you-need-to-know-about-the-upcoming-nothing-phone-3-projected-launch-date-costs-and-specs-discussed/"><u>Everything You Need to Know About the Upcoming Nothing Phone 3: Projected Launch Date, Costs, and Specs Discussed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-spectrum-analysis-of-vsco-editing-features-for-2024/"><u>Full Spectrum Analysis of VSCO Editing Features for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/high-hopes-minor-letdowns-a-closer-look-at-the-motorola-edgeplus/"><u>High Hopes, Minor Letdowns: A Closer Look at the Motorola Edge+</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oppo-reno-11-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Oppo Reno 11 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-streaming-wars-the-ultimate-twitch-vs-youtube-battle/"><u>In 2024, Streaming Wars The Ultimate Twitch Vs. YouTube Battle</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-any-language-for-free-explore-these-9-highly-recommended-online-language-platforms/"><u>Master Any Language for Free? Explore These 9 Highly Recommended Online Language Platforms!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-tv-shopping-a-beginners-guide-to-upgrading-your-home-viewing-experience/"><u>Navigating TV Shopping: A Beginner's Guide to Upgrading Your Home Viewing Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-watching-disneyplus-on-your-smart-tv-with-chromecast/"><u>Step-by-Step Guide: Watching Disney+ on Your Smart TV with Chromecast</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-to-experience-the-wizarding-world-in-proper-film-sequence/"><u>Step-by-Step Instructions to Experience the Wizarding World in Proper Film Sequence.</u></a></li>
 </ul></div>
 

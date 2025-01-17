@@ -1,7 +1,7 @@
 ---
 title: Experiencing Issues with Roblox? Here's How to Determine if It’s Down for Everyone.
-date: 2024-08-19T15:20:40.314Z
-updated: 2024-08-20T15:20:40.314Z
+date: 2025-01-12T23:52:44.081Z
+updated: 2025-01-16T21:55:48.001Z
 categories:
   - BestProducts
 description: This Article Describes Experiencing Issues with Roblox? Here's How to Determine if It’s Down for Everyone.
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/5K24cGNlrZx2jYEKIgfilLXdp24=/400x300/fi
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://www.lifewire.com/thmb/5K24cGNlrZx2jYEKIgfilLXdp24=/400x300/fi
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,17 +278,9 @@ thumbnail: https://www.lifewire.com/thmb/5K24cGNlrZx2jYEKIgfilLXdp24=/400x300/fi
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -292,8 +292,9 @@ thumbnail: https://www.lifewire.com/thmb/5K24cGNlrZx2jYEKIgfilLXdp24=/400x300/fi
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -322,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -331,4 +330,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-novices-pathway-to-writing-youtube-video-plans/"><u>[Updated] A Novice's Pathway to Writing YouTube Video Plans</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-techniques-for-zoom-enhanced-videoleap-capture/"><u>[Updated] Expert Techniques for Zoom-Enhanced Videoleap Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-download-apple-podcasts/"><u>2024 Approved How to Download Apple Podcasts?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-understanding-every-windows-blue-screen-error-code/"><u>Comprehensive Guide: Understanding Every Windows Blue Screen Error Code</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-rapid-growth-techniques-for-youtube-views-via-collaborative-videos/"><u>In 2024, Rapid Growth Techniques for YouTube Views via Collaborative Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-keeping-your-mechanical-keyboard-pristine/"><u>Step-by-Step Guide: Keeping Your Mechanical Keyboard Pristine</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-transforming-avi-files-into-ogg-format-videoaudio/"><u>Step-by-Step Guide: Transforming AVI Files Into Ogg Format (Video/Audio)</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategies-for-describing-photos-on-popular-networks/"><u>Strategies for Describing Photos on Popular Networks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-big-three-critical-technology-advancements-of-the-decade/"><u>The Big Three: Critical Technology Advancements of the Decade</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722891394100-ultimate-summer-essentials-the-7-items-you-need-in-your-edc-list/"><u>Ultimate Summer Essentials: The 7 Items You Need in Your EDC List</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered by ZDNet"
-date: 2025-01-09T19:41:28.456Z
-updated: 2025-01-11T10:01:10.771Z
+date: 2025-01-12T21:48:24.415Z
+updated: 2025-01-17T00:33:48.731Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -90,6 +86,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -104,10 +104,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -117,6 +113,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -130,7 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -151,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,24 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-perfect-your-presence-with-solo-video-setups-and-techniques/"><u>[New] In 2024, Perfect Your Presence with Solo Video Setups and Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-ultimate-film-making-camera-lineup-best-of-all-levels/"><u>[New] In 2024, Ultimate Film-Making Camera Lineup Best of All Levels</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-overwatch-the-ultimate-guide-to-recording-gameplay/"><u>[New] Overwatch The Ultimate Guide to Recording Gameplay</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/9-remedies-to-clear-windows-setup-stuck-on-validation-error/"><u>9 Remedies to Clear Windows Setup Stuck on Validation Error</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-tv-and-fandango-a-perfect-match-for-movie-lovers-watch-here/"><u>Apple TV and Fandango: A Perfect Match for Movie Lovers – Watch Here!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-alternatives-to-gmail-the-ultimate-list-users-seeking-change/"><u>Best Alternatives to Gmail: The Ultimate List Users Seeking Change</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-patch-tuesday-a-guide-to-microsofts-monthly-security-updates/"><u>Decoding Patch Tuesday: A Guide to Microsoft's Monthly Security Updates</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/electric-vehicle-purchasing-guide-a-list-of-nine-insightful-questions-every-potential-buyer-should-ask/"><u>Electric Vehicle Purchasing Guide: A List of Nine Insightful Questions Every Potential Buyer Should Ask</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/getting-familiar-with-the-latest-galaxy-z-flip-model-price-points-launch-date-and-innovative-functionalities/"><u>Getting Familiar with the Latest Galaxy Z Flip Model - Price Points, Launch Date & Innovative Functionalities</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-11-pro-max-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 11 Pro Max with iTunes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-e13-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-masterclass-guide-screen-recording-hulu-videos-effortlessly/"><u>In 2024, Masterclass Guide Screen Recording Hulu Videos Effortlessly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-with-ease-enhanced-menu-toggle-for-facebook-linkedin-and-youtube-integration/"><u>Navigate with Ease: Enhanced Menu Toggle for Facebook, LinkedIn & YouTube Integration</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-freeze-issues-effective-strategies-for-a-frozen-macbook-air/"><u>Resolving Freeze Issues: Effective Strategies for a Frozen MacBook Air</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-ksuserdll-file-errors-on-your-pc-tips-and-fixes/"><u>Troubleshooting ksuser.dll File Errors on Your PC - Tips and Fixes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/upgrade-your-media-with-winxvideo-ai-video-and-image-boosting-tools-for-quality-conversion-and-editing/"><u>Upgrade Your Media with Winxvideo AI - Video & Image Boosting Tools for Quality Conversion & Editing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watching-netflix-on-the-nintendo-switch-is-it-feasible/"><u>Watching Netflix On The Nintendo Switch – Is It Feasible?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-chromebooks-to-the-rescue-mastering-webcam-recordings/"><u>[Updated] Chromebooks to the Rescue Mastering Webcam Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-game-on-6-efficient-techniques-for-perfect-pc-snapshots-for-2024/"><u>[Updated] Game On 6 Efficient Techniques for Perfect PC Snapshots for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-metaphorical-realities-30plus-inspirational-vr-expressions/"><u>2024 Approved Metaphorical Realities 30+ Inspirational VR Expressions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cr2-jpgmovavi/"><u>簡單的CR2 JPG轉檔方法，完全靠Movavi解決！</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/combine-photos-like-a-pro-in-just-5-straightforward-steps/"><u>Combine Photos Like a Pro in Just 5 Straightforward Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-wmd-file-format-to-avi-using-movavis-free-tool-for-australian-users/"><u>Convert WMD File Format to AVI Using Movavi's Free Tool for Australian Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/estrategias-maestrias-para-mejorar-el-desempeno-de-videojuegos-en-windows-10/"><u>Estrategias Maestrías Para Mejorar El Desempeño De Videojuegos en Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-converter-mp3-and-wmv-formats-by-movavi/"><u>Free Online Converter - MP3 & WMV Formats by Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-reno-11f-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-14-plus-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 14 Plus in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-speed-settings-for-snapchat-content/"><u>In 2024, Navigating Speed Settings for Snapchat Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-present-day-vr-tech-diary/"><u>In 2024, Present-Day VR Tech Diary</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/produce-personalized-video-content-easily-with-movavi-tools/"><u>Produce Personalized Video Content Easily with Movavi Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranked-vr-gaming-experiences-on-pc-android-and-iphone-20162017/"><u>Top-Ranked VR Gaming Experiences on PC, Android & iPhone (2016/2017)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tout-de-suite-gratuit-transformez-votre-fichier-apng-en-format-png-avec-notre-outil-en-ligne-movavi/"><u>Tout De Suite Gratuit : Transformez Votre Fichier APNG en Format PNG Avec Notre Outil en Ligne - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trasforma-i-file-mp2-in-formato-wmv-online-e-gratuiti-con-convertitore-video-di-movavi/"><u>Trasforma I File MP2 in Formato WMV Online E Gratuiti Con Convertitore Video Di Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-differences-playstation-5-vs-ps5-slim-which-console-wins/"><u>Unveiling Differences: PlayStation 5 Vs. PS5 Slim – Which Console Wins?</u></a></li>
+<li><a href="https://win-able.techidaily.com/whats-new-in-rainbow-six-siege-a-complete-overview/"><u>What's New in Rainbow Six Siege : A Complete Overview</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pgm/"><u>오늘날의 가장 깔끔한 무료 PGM 포스트 대체 기능 - 모바이</u></a></li>
 </ul></div>
 

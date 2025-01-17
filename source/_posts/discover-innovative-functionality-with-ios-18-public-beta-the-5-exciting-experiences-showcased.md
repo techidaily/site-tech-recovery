@@ -1,7 +1,7 @@
 ---
 title: Discover Innovative Functionality with iOS 18 Public Beta – The 5 Exciting Experiences Showcased
-date: 2024-11-09T03:36:51.716Z
-updated: 2024-11-16T05:02:28.940Z
+date: 2025-01-13T17:34:26.495Z
+updated: 2025-01-16T19:39:47.226Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Place your Home screen icons anywhere
 
 With iOS 18, you can customize the Home screen by moving icons to any spot and applying different themes. To dive in, press down on any empty area of the Home screen. Drag an icon to any location on the screen, and it will stay in place. This means you can place icons in columns, as a border around the screen, or just free-floating in space.
@@ -43,10 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,24 +120,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-obsessed-with-broadcasting-choose-between-xsplit-and-obs-for-2024/"><u>[Updated] Obsessed with Broadcasting? Choose Between XSplit & OBS for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-weaving-a-memorable-tiktok-outro-narrative-for-2024/"><u>[Updated] Weaving A Memorable TikTok Outro Narrative for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlimited-verbal-input-processing-for-free/"><u>2024 Approved Unlimited Verbal Input Processing for Free</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wavavi-movavi/"><u>免費網路直立WAV到AVI轉換 - 使用Movavi 影片編輯工具</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-guide-to-navigating-t-mobiles-domestic-roaming-agreements/"><u>A Guide to Navigating T-Mobile's Domestic Roaming Agreements</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/brother-hl2280dw-drivers-for-pc-download-for-windows-111087-systems/"><u>Brother HL2280DW Drivers for PC: Download for Windows 11/10/8/7 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/como-convertir-archivo-wmv-a-formato-mov-sin-costo-con-herramientas-en-linea-movavi/"><u>Cómo Convertir Archivo WMV a Formato MOV Sin Costo Con Herramientas en Línea - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-and-convert-ogv-video-files-to-avi-for-free-today/"><u>Download and Convert OGV Video Files to AVI for Free Today!</u></a></li>
-<li><a href="https://discover-data.techidaily.com/effortless-guid-partition-restoration-on-windows-11-a-step-by-step-guide/"><u>Effortless Guid Partition Restoration on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-access-to-whatsapp-users-reined-in-by-germany-legislation/"><u>Facebook's Access to WhatsApp Users Reined in by Germany Legislation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/faster-than-ever-revolutionary-methods-to-speed-up-fb-videos/"><u>Faster Than Ever Revolutionary Methods to Speed Up FB Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-change-your-aac-files-into-high-quality-aiff-format-with-ease/"><u>Free Online Conversion: Change Your AAC Files Into High-Quality AIFF Format with Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guia-paso-a-paso-para-cambiar-de-mp3-a-ogv-libremente-en-linea-usando-movavi-sin-gastos-involucrados/"><u>Guía Paso a Paso Para Cambiar De Mp3 a Ogv Libremente en Línea Usando Movavi: Sin Gastos Involucrados</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-pratique-comment-conversion-dun-fichier-ogg-en-mp3/"><u>Guide Pratique : Comment Conversion D'un Fichier Ogg en MP3</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-rapide-pour-convertir-vob-en-wav-gratuite-en-ligne-via-movavi/"><u>Guide Rapide Pour Convertir VOB en WAV Gratuite en Ligne via Movavi</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-cut-mp4-videos-for-free-9-excellent-options/"><u>New Cut MP4 Videos for Free 9 Excellent Options</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-aimp4/"><u>Online AIMP4 투영어 변환 편집기 - 무료 제공</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-mejores-reproductores-swf-compatibles-con-windows-10-y-mac/"><u>Top 7 Mejores Reproductores SWF Compatibles Con Windows 10 Y Mac</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-nokia-c110-by-drfone-android/"><u>Universal Unlock Pattern for Nokia C110</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-diy-remote-podcast-production-tips/"><u>[Updated] DIY Remote Podcast Production Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-channel-name-inspiration-strategies-for-success/"><u>[Updated] In 2024, Channel Name Inspiration Strategies for Success</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-xlsx-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in .xlsx files</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-decoding-vivacut-video-editing-essentials/"><u>In 2024, Decoding VivaCut Video Editing Essentials</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-air-face-off-the-new-m3-chip-against-the-beloved-m2-which-one-wins-exclusive/"><u>MacBook Air Face-Off: The New M3 Chip Against the Beloved M2 – Which One Wins? Exclusive</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tech-update-samsung-reclaims-lead-over-apple-in-phone-deliveries-as-competitor-emerges-stronger-analysis/"><u>Tech Update: Samsung Reclaims Lead Over Apple in Phone Deliveries as Competitor Emerges Stronger | Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-2024-stylus-tablet-picks-thoroughly-evaluated-by-tech-gurus/"><u>Top-Ranking 2024 Stylus Tablet Picks: Thoroughly Evaluated by Tech Gurus</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/understanding-vmwares-storage-solutions-a-deep-dive-into-vasa-vaai-vamp-and-vadp/"><u>Understanding VMware's Storage Solutions: A Deep Dive Into VASA, VAAI, VAMP, and VADP</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-behind-apples-steep-ascent-a-detailed-analysis-revealed-on-zdnet/"><u>Unraveling the Mystery Behind Apple's Steep Ascent – A Detailed Analysis Revealed on ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watchos-n-zdnet-unveils-top-improvements-in-latest-apple-watch-upgrade/"><u>WatchOS 지Ņ게됨: ZDNet Unveils Top Improvements in Latest Apple Watch Upgrade!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-users-rejoice-learn-how-to-handle-imessages-with-ease-insights-by-zdnet/"><u>Windows Users Rejoice! Learn How to Handle iMessages with Ease, Insights by ZDNet</u></a></li>
 </ul></div>
 

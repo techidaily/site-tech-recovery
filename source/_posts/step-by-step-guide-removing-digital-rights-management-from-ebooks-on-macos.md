@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing Digital Rights Management From eBooks on macOS"
-date: 2024-08-20T11:21:05.203Z
-updated: 2024-08-21T11:21:05.203Z
+date: 2025-01-12T19:09:57.018Z
+updated: 2025-01-17T02:12:44.455Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedca30e5d0f04cb4a458929e39.jpg
@@ -9,15 +9,21 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
 
 ## Step-by-Step Guide: Removing Digital Rights Management From eBooks on macOS
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Remove DRM from EPUB Mac
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 5/18/2020 2:24:46 PM.
 
 5 [(5 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Today I will write something about how to remove DRM from epub Mac. Maybe you heve been hating reading books on Mac for a long time and want to free yourself to read the books on other protable devices. Here I will help you solve the problem. After you strip epub DRM Mac, you can read your epub books on any device which supports epub such as iPad, Kindle devices, Sony eReader ect. The decrypted epub books will no longer be restricted only to your Mac or certain platforms. Then you can enjoy them freely.
 
@@ -45,6 +51,10 @@ Then double click to open the ePUB DRM Removal--Epubor Ultimate. It will load th
 
 ![remove acsm drm](http://www.epubor.com/images/uppic/add-epub-books-to-ultimate-converter.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click "Decrypted", you will open the folder storing the decrypted adobe epub files.
 
 **Pro tips -- open acsm with ADE:**
@@ -53,9 +63,6 @@ If you have acsm files, you can double-click the .acsm file, then it will be ope
 
 If you have other Adobe DRM epub books that are not under the default folder "My Digital Editions", you can directly drag and drop the books to the software interface. (Before this, you should also make sure you can open them on ADE). As soon as you drag them to the software, their DRM will be removed immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Remove DRM from iBooks EPUB Mac
 
 Then for the DRM epub books purchased from iTunes, they are in iBooks DRM (Apple FairPlay DRM). So to remove iBooks DRM, we use the iBooks DRM removal. 
@@ -71,8 +78,9 @@ If you don't want it to bahave like this, you can press "shift" when opening the
 ![ibooks drm removal](http://www.epubor.com/images/uppic/ibooks-drm-removal.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 The decrypted epub books will replace the original files automatically. If you still have a need of the DRM epub books, you can go to check the “Recycle Bin”. Or you can back-up the original books before removing DRM.
 
 Download Adobe EPUB DRM Removal for free:
@@ -87,8 +95,9 @@ Other related guides
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -96,8 +105,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 5 Comments
 
@@ -175,8 +182,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +189,23 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-translate-speech-to-text-the-right-way-with-google-translate/"><u>[Updated] 2024 Approved How to Translate Speech to Text the Right Way with Google Translate</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-revolutionizing-tv-viewership-with-streamed-fb-events/"><u>[Updated] 2024 Approved Revolutionizing TV Viewership with Streamed FB Events</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-windows-118s-smartscreen-protection-a-comprehensive-tutorial/"><u>Disabling Windows 11/8'S SmartScreen Protection: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/discover-9-free-whole-film-festive-movie-gems-on-youtube-for-2024/"><u>Discover 9 Free, Whole-Film Festive Movie Gems on Youtube for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-your-desktop-experience-tailoring-the-windows-ebar-for-optimal-use/"><u>Enhance Your Desktop Experience: Tailoring the Windows Ebar for Optimal Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-offers-now-score-deals-on-latest-tech-galaxy-s24-included/"><u>Exclusive Offers Now: Score Deals on Latest Tech - Galaxy S24 Included!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-unresponsive-clipboard-on-windows-n-discover-10-reliable-fixes-for-a-smooth-experience/"><u>Fixing the Unresponsive Clipboard on Windows N: Discover 10 Reliable Fixes for a Smooth Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-checking-internet-usage-statistics-on-microsofts-latest-operating-system-windows-11/"><u>Guide to Checking Internet Usage Statistics on Microsoft's Latest Operating System, Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-magic-6-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor Magic 6 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-tecno-pop-8-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Tecno Pop 8? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-quickly-move-and-modify-android-pictures-using-windows-11/"><u>How to Quickly Move & Modify Android Pictures Using Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-prime-video-power-players-all-time-top-tweets-and-views-ranking/"><u>In 2024, Prime Video Power Players All-Time Top Tweets & Views Ranking</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-lenovo-ideapad-3-15i-inch-model-iax9i-assessment-high-quality-affordable-performance-for-gamers/"><u>In-Depth Lenovo IdeaPad 3 15I-Inch Model IAX9i Assessment: High-Quality Affordable Performance for Gamers</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/maximize-storage-removing-complete-backup-drives-on-windows-10/"><u>Maximize Storage: Removing Complete Backup Drives on Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-mix-fold-3-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Xiaomi Mix Fold 3 Phone? Unlock It Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-your-panel-management-u-ban-and-block-users-on-twitch/"><u>Perfect Your Panel Management: U-Ban & Block Users on Twitch</u></a></li>
+</ul></div>
 

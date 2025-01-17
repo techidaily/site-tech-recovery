@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Productivity with Custom Focus Modes in macOS Monterey | Expert Advice by ZDNET
-date: 2024-11-13T21:09:36.199Z
-updated: 2024-11-16T02:31:30.019Z
+date: 2025-01-12T04:38:08.134Z
+updated: 2025-01-16T17:09:22.977Z
 tags:
   - apple
 categories:
@@ -26,17 +26,22 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -47,13 +52,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -61,6 +59,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -78,13 +80,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -100,10 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,21 +140,19 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-choices-premier-mac-video-capture-apps/"><u>[New] 2024 Approved Top Choices Premier Mac Video Capture Apps</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/isrupt-unbidden-youtube-content-feeds-for-2024/"><u>[New] Disrupt Unbidden YouTube Content Feeds for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-beatwave-visuals-instagram-videos-set-to-soundtracks/"><u>[Updated] Beatwave Visuals Instagram Videos Set to Soundtracks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-todmp4-movavi/"><u>1. 網路優惠 - 免費TOD到MP4格式移動工具 - 利用Movavi進行無限制轉換</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/decode-the-reverse-masterful-snapchat-techniques-for-2024/"><u>Decode the Reverse Masterful Snapchat Techniques for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-change-mka-files-into-mkv-format-with-ease-movavi/"><u>Free Online Conversion: Change MKA Files Into MKV Format with Ease - Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/high-cpu-usage-on-windows-11-solved/"><u>High CPU Usage on Windows 11 [Solved]</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-honor-play-8t-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Honor Play 8T to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a15-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A15 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726225248906-m1v-avi/"><u>M1V 포토로 가드를 AVI로 바꾸기 – 컴퓨터에서 무료 구현</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mac-protocolli-ottimali-per-la-compattazione-di-video-nel-2024/"><u>Mac Protocolli Ottimali per La Compattazione Di Video Nel 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-elevate-your-sound-10-best-professional-audio-editing-programs/"><u>New Elevate Your Sound 10 Best Professional Audio Editing Programs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mp4ogg/"><u>무세를 지나면서 MP4/OGG 품질 강화 : 원형 영상 가소성 교체기</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/flash-swf-mp4mp3-online/"><u>우리가 제공하는 원품: 무료 동시대 Flash SWF 파일을 MP4/MP3로 변환하기 - Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mp3flv/"><u>オープンソース MP3/FLVフォーマットの無料変換 - ムーバヴィ</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hythm-rendezvous-optimal-dj-video-selections/"><u>[New] Rhythm Rendezvous Optimal DJ Video Selections</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-vmix-vs-wirecast-which-is-the-best-professional-live-streaming-software/"><u>[New] VMix VS Wirecast Which Is the Best Professional Live Streaming Software?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-windowsnap-tool-for-straightforward-recording/"><u>2024 Approved WindowSnap Tool for Straightforward Recording</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipating-innovation-how-pre-ordering-the-apple-vision-pro-reflects-promising-developments-zdnet-analysis/"><u>Anticipating Innovation: How Pre-Ordering the Apple Vision Pro Reflects Promising Developments | ZDNET Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-vision-pro-mastery-capturing-flawless-screenshots-and-screencasts-effortlessly-steer-clear-of-quirks/"><u>Apple Vision Pro Mastery: Capturing Flawless Screenshots & Screencasts Effortlessly – Steer Clear of Quirks!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-the-features-of-rode-streamer-pro-x-could-this-be-the-answer-to-your-cinematic-challenges/"><u>Delving Into The Features Of Rode Streamer Pro X - Could This Be the Answer to Your Cinematic Challenges?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-latest-innovations-of-visionos-2-revealed-at-apples-worldwide-developers-conference-insights-and-curiosities/"><u>Exploring the Latest Innovations of VisionOS 2 Revealed at Apple's Worldwide Developers Conference - Insights & Curiosities</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-y17s-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo Y17s Data? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 14</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-no-cost-split-screen-video-editors-online-and-offline-options-reviewed-for-2024/"><u>New No-Cost Split Screen Video Editors Online and Offline Options Reviewed for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/reinstalling-applications-from-windows-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Reinstalling Applications From Windows Control Panel: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-exclusive-deal-grab-the-newest-apple-watch-series-10-at-just-99-with-pre-order-from-best-buy-a-step-by-step-guide-on-zdnet/"><u>Secure Your Exclusive Deal: Grab the Newest Apple Watch Series 10 at Just $99 with Pre-Order From Best Buy – A Step-by-Step Guide on ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-next-level-workouts-how-apples-airpods-pro-3-enhances-training-with-inbuilt-heart-rate-monitoring-insights/"><u>Unlock Next-Level Workouts: How Apple's AirPods Pro (3) Enhances Training With Inbuilt Heart Rate Monitoring - Insights</u></a></li>
 </ul></div>
 

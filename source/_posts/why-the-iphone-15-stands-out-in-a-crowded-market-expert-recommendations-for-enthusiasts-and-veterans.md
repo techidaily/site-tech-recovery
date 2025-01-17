@@ -1,7 +1,7 @@
 ---
 title: Why the iPhone 15 Stands Out in a Crowded Market | Expert Recommendations for Enthusiasts & Veterans
-date: 2025-01-09T12:34:33.419Z
-updated: 2025-01-11T04:18:43.406Z
+date: 2025-01-13T02:44:58.435Z
+updated: 2025-01-16T16:48:32.329Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -48,6 +48,10 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -63,10 +67,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 | Price        | Starting at $799                                  | Starting at $899                                  |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
@@ -129,7 +129,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -146,10 +146,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -162,12 +158,16 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -204,24 +204,24 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-exclusive-list-best-fb-video-mp4-extractors/"><u>[New] 2024 Approved Exclusive List Best FB Video MP4 Extractors</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-syncing-your-presence-in-real-time-tiktoks/"><u>[New] 2024 Approved Syncing Your Presence in Real-Time TikToks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-visionary-viewers-verdict-your-channel-vs-contenders-content-for-2024/"><u>[New] The Visionary Viewers' Verdict Your Channel Vs. Contenders’ Content for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>[Updated] Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1-the-impact-of-the-second-sino-japanese-war-on-chinas-population-insights-and-analysis-yl-computing/"><u>1. The Impact of the Second Sino-Japanese War on China's Population: Insights and Analysis - YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-40-gro-request-timeouts-and-strategies-for-effective-remediation/"><u>Decoding 40 Gro Request Timeouts and Strategies for Effective Remediation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-worlds-languages-for-free-with-these-favorite-websites/"><u>Discover the World's Languages for Free with These Favorite Websites</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-troubleshooting-for-correcting-missing-d3dx934dll-problems/"><u>DIY Troubleshooting for Correcting Missing d3dx9_34.dll Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/find-out-when-you-can-get-your-hands-on-a-new-playstation-console-prices-specs-and-more/"><u>Find Out When You Can Get Your Hands on a New PlayStation Console: Prices, Specs & More</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-the-glitches-solutions-for-persistent-crashes-in-tales-of-arise/"><u>Fix the Glitches - Solutions for Persistent Crashes in 'Tales of Arise'</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-11-pro-max-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 11 Pro Max in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-home-cinema-latest-on-samsungs-ubd-k850u/"><u>In 2024, Revolutionizing Home Cinema Latest on Samsung’s UBD-K850U</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-through-the-top-6-must-play-mario-bros-games-on-pc/"><u>Navigate Through the Top 6 Must-Play Mario Bros Games on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-mappers-application-dll-file-missing-a-step-by-step-guide/"><u>Resolving 'Mapper's Application DLL File Missing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-linking-your-pinterest-board-with-your-facebook-page-for-enhanced-engagement/"><u>Steps to Linking Your Pinterest Board with Your Facebook Page for Enhanced Engagement</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-migrate-your-google-images-to-apples-icloud-service/"><u>Steps to Migrate Your Google Images to Apple's iCloud Service</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-mesh-wireless-routers-the-ultimate-guide/"><u>Top Mesh Wireless Routers : The Ultimate Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-screen-upgrade-high-resolution-video-enhancer/"><u>Ultimate Screen Upgrade High-Resolution Video Enhancer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-social-features-share-games-and-enjoy-together-on-ps5/"><u>Unlocking Social Features: Share Games & Enjoy Together on PS5</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unraveling-youtubes-viewer-metrics-a-deeper-look/"><u>[New] 2024 Approved Unraveling YouTube's Viewer Metrics A Deeper Look</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-long-winded-to-concise-the-art-of-youtube-trimming/"><u>[New] In 2024, From Long-Winded to Concise The Art of YouTube Trimming</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-roadmap-to-thriving-in-twitter-live-broadcasts-for-2024/"><u>[New] The Roadmap to Thriving in Twitter Live Broadcasts for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-smart-selections-top-10-apps-for-in-the-moment-baseball-and-soccer-viewing/"><u>[Updated] 2024 Approved Smart Selections Top 10 Apps for In-the-Moment Baseball and Soccer Viewing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-depth-look-lg-bp350-screen-resolution-and-aspect-ratio/"><u>[Updated] In-Depth Look LG BP350 Screen Resolution and Aspect Ratio</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-electric-vehicles-perform-effectively-under-harsh-weather-conditions/"><u>Can Electric Vehicles Perform Effectively Under Harsh Weather Conditions?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-how-to-peek-at-instagram-profiles-without-joining/"><u>Discover How to Peek at Instagram Profiles Without Joining</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-can-i-remove-built-in-apps-on-my-iphone/"><u>How Can I Remove Built-In Apps on My iPhone?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-pair-a-logitech-mouse/"><u>How to Pair a Logitech Mouse</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-7-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 7 Plus without Password?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-scoop-apples-electric-car-projected-release-dates-and-pricing-details-revealed/"><u>Inside Scoop: Apple's Electric Car Projected Release Dates & Pricing Details Revealed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959488444-install-the-latest-drivers-for-tp-links-wireless-network-adapter-optimized-for-windows-11-8-and-abstraction-and-other-aspects-of-cognitive-development/"><u>Install the Latest Drivers for TP-Link's Wireless Network Adapter: Optimized for Windows 11, 8 & Abstraction and Other Aspects of Cognitive Development.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-zero-match-challenges-in-your-bumble-search-a-comprehensive-guide/"><u>Overcoming Zero-Match Challenges in Your Bumble Search – A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smooth-sailing-through-sequences-with-kinemaster-for-2024/"><u>Smooth Sailing Through Sequences with Kinemaster for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-into-the-next-era-of-foldables-samsung-galaxy-z-fold-7-rumors-including-price-timeline-and-tech-specs/"><u>Sneak Peek Into the Next Era of Foldables - Samsung Galaxy Z Fold 7 Rumors Including Price, Timeline & Tech Specs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-v27e-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo V27e FRP Bypass</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-step-by-step-guide-choosing-the-perfect-laptop-or-desktop-for-your-education-needs/"><u>Ultimate Step-by-Step Guide: Choosing the Perfect Laptop or Desktop for Your Education Needs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-full-potential-of-ps5-gaming-achieve-a-smooth-120-fps-experience/"><u>Unlock the Full Potential of PS5 Gaming - Achieve a Smooth 120 FPS Experience</u></a></li>
 </ul></div>
 

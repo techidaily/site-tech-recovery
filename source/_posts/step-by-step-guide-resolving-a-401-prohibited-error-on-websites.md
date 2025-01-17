@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving a 401 Prohibited Error on Websites"
-date: 2024-08-19T15:23:08.513Z
-updated: 2024-08-20T15:23:08.513Z
+date: 2025-01-10T16:28:46.129Z
+updated: 2025-01-17T00:06:45.750Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Resolving a 401 Prohibited Error on Websites"
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 
  This article provides methods to stop unwanted texts on an iPhone. These instructions apply to the iPhone's built-in Messages app and not third-party tools.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stop Unwanted Political Text Messages on an iPhone
 
  Once political groups or campaigns have your phone number, it's very hard to[stop unwanted political text messages](https://www.lifewire.com/how-to-stop-political-texts-4691829) . That's because organizations share supporters' numbers with each other (or even sell them). The best you can do is to opt out of these texts when you get them to take you off of a group or campaign list. However, this option won't stop others who have your number.
@@ -27,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
  Reply to the message with the suggested option—if there isn't one, Stop is the best thing to try—and you should be unsubscribed.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Block Text Messages on iPhone
 
  No matter how many unwanted texts you're getting, we've got good news: it's easy to[block text messages on iPhone](https://www.lifewire.com/block-text-messages-every-phone-and-carrier-4172380) . Here's how to use the free, simple built-in feature:
@@ -38,20 +43,16 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 3. Select**Info** .  
 ![A texter's icon and the info button on an iPhone](https://www.lifewire.com/thmb/P75NPpBTK_0vlrHu03pBRw_tAAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Icon-and-Info-844223a1fe094d1dbed1b2c012e11592.jpg)
 4. Tap**Block Caller** .
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. In the confirmation pop up, tap**Block Contact** .  
 ![A caller info screen with the Block Caller and Block Contact options highlighted](https://www.lifewire.com/thmb/ahanpniveoIJjKlwY-anZVzDqOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Block-Caller-options-iPhone-3736febbadac40f7bbc9288793690309.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  To unblock a contact and get their texts again, go to**Settings** \>**Messages** \>**Blocked Contacts** \> swipe right to left across contact >**Unblock** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Stop Unwanted Text Messages on iPhone By Filtering Unknown Senders
 
  For various reasons, you may not want to delete every text from an unknown number or person. For instance, you can miss order and appointment confirmation texts if you do. In that case, your iPhone can automatically file texts from unknown senders into a separate folder so you can review them when you have time without them cluttering up your main inbox.
@@ -63,12 +64,18 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 3. Move the**Filter Unknown Senders** slider to on/green.  
 ![The Settings app, Messages heading, and "Filter Unknown Senders" option on an iPhone](https://www.lifewire.com/thmb/lCnQVucvmXcKMmnaksO8lqPmQJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filter-Unknown-Texts-ab03750ad3b2433fa5837828629871fc.jpg)
 4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Stop Unwanted Group Texts on an iPhone
 
  If you're in a[group text](https://www.lifewire.com/text-multiple-people-using-iphone-2000555) that's just too chatty, you can silence notifications of messages or leave the group entirely by following these steps
@@ -80,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
  If everyone has an iPhone (blue message bubbles) and the chat has more than three other people in it, tap**Leave This Conversation** and then tap the confirmation pop-up.  
 ![A group chat on an iPhone with the name of the chat, the "Hide Alerts" option, and the "Leave this Conversation" commands highlighted](https://www.lifewire.com/thmb/HQ28TmHbL1M_I1yxXgoej2uiqFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Group-Text-options-1eb1d9e175f1471ea3a04ef674873699.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
 
 ## Block Texts With the Do Not Call Registry
@@ -115,8 +119,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +126,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-meme-ing-in-virtual-space-top-funny-vr-imagery-and-how-to-make-it/"><u>[New] Meme-Ing in Virtual Space Top Funny VR Imagery and How to Make It</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-orchestrating-a-harmonious-tiktok-finale/"><u>[New] Orchestrating a Harmonious TikTok Finale</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unveiling-the-top-10-drawing-apps-for-chromebooks/"><u>[Updated] In 2024, Unveiling the Top 10 Drawing Apps for Chromebooks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expand-your-circle-of-acquaintances-5-innovative-apps-to-make-connections/"><u>Expand Your Circle of Acquaintances: 5 Innovative Apps to Make Connections</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-accessing-contents-of-rar-compressed-folders-using-macos/"><u>Guide: Accessing Contents of .rar Compressed Folders Using macOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enhance-account-safety-on-twitch-mastering-2fa-setup-and-use/"><u>How to Enhance Account Safety on Twitch: Mastering 2FA Setup and Use</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-tecno-pop-7-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Tecno Pop 7 Pro FRP Locks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-network-settings-enabledisable-options-for-discovery-on-windows-11/"><u>Mastering Network Settings: Enable/Disable Options for Discovery on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-universal-control-seamlessly-operating-your-ipad-and-mac-with-magic-wireless-connections-insider-tips-from-zdnet/"><u>Mastering Universal Control: Seamlessly Operating Your iPad & Mac with Magic Wireless Connections - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastery-over-motion-manipulating-mp4-playback-rate/"><u>Mastery Over Motion Manipulating MP4 Playback Rate</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/official-guide-how-to-bridge-your-smartphone-with-oculus-quest-2/"><u>Official Guide: How to Bridge Your Smartphone with Oculus Quest 2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/recovering-lost-contacts-finding-deleted-numbers-on-your-android-device/"><u>Recovering Lost Contacts: Finding Deleted Numbers on Your Android Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/retracing-the-steps-of-googles-messaging-platform-google-hangouts-explained/"><u>Retracing the Steps of Google's Messaging Platform: Google Hangouts Explained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-mute-mystery-essential-fixes-for-no-sound-in-hearthstone/"><u>Solve the Mute Mystery - Essential Fixes for No Sound in Hearthstone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+</ul></div>
 

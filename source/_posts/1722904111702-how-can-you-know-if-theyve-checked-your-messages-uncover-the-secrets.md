@@ -1,7 +1,7 @@
 ---
 title: How Can You Know If They've Checked Your Messages? Uncover the Secrets
-date: 2024-08-19T15:21:50.454Z
-updated: 2024-08-20T15:21:50.454Z
+date: 2025-01-12T01:56:12.596Z
+updated: 2025-01-16T16:22:00.679Z
 categories:
   - BestProducts
 description: This Article Describes How Can You Know If They've Checked Your Messages? Uncover the Secrets
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 * WhatsApp: Go to**Settings** \>**Privacy** and toggle**Read receipts** on. Group chats use read receipts by default.
 
  Here's how to tell if someone read your text on Android and iOS smartphones. This article also covers WhatsApp, Facebook Messenger, and Instagram.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Read Receipts on iPhone
 
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  If you don't want people to know that when you read their messages,[turn off read receipts on your iPhone or Android](https://www.lifewire.com/turn-read-receipts-on-or-off-on-iphone-and-android-5074420) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Read Receipts on Android Smartphones
 
  The process is similar on Android. The[Google Messages app](https://www.lifewire.com/use-android-messages-app-4177697) supports read receipts, but the carrier must also support this feature. Your recipient must have read receipts activated for you to see if they read your message.
@@ -48,12 +56,9 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 ![The Google Messages menu, Settings screen, and RCS chats options](https://www.lifewire.com/thmb/B7JVQg4q7aeE8dmAE_ap6ttFnuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-read-receipts-rcs-chats-19d035e50fc3487ba50f8d7d782765fa.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
+
 ## WhatsApp Read Receipts
 
  WhatsApp uses built-in read receipts. The status of sent messages[is tracked through check marks next to messages](https://www.lifewire.com/how-to-track-messages-with-whatsapp-check-marks-4781495) . One grey check mark means the message was sent; two grey check marks mean the message was delivered, and two blue check marks mean the message was read.
@@ -63,8 +68,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  WhatsApp read receipts are a two-way street. If you disable read receipts to prevent others from knowing you read their messages, you won't know when they read yours.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### WhatsApp Message Details
 
  If you're looking for specific information about the messages you've sent in WhatsApp, here's how to see those details:
@@ -85,22 +91,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Scroll down and tap**Privacy & safety** .  
 ![The Chats, menu, and settings in the Facebook Messenger app for Android](https://www.lifewire.com/thmb/-ps7dMRHQclfLVgQWYJGmoAfjQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-messenger-app-settings-ac60afcaccab437aaa235122cf6cebc8.png)
 4. Choose**Read receipts** .
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 5. Tap the toggle next to**Show read receipts** so it turns on.  
 ![The Privacy and security screen and read receipts toggle in the Facebook Messenger app](https://www.lifewire.com/thmb/bbHvAPlOyTbtWcVcsFhlUuuQUy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/read-receipts-facebook-messenger-c45c63e4858e4a67b967003f10089270.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  The Facebook Messenger app provides detailed indicators about the delivery and read status each time you send a message. When your message is actively sending, you'll briefly see a blue circle. When it's sent, you'll see a blue circle with a checkmark. When it's delivered, you'll see a filled-in blue circle. Finally, when it's read, you'll see a small version of your recipient's profile image below the message.
 
 ![Read indicators in Facebook Messenger](https://www.lifewire.com/thmb/KfSmMETDPxk2OzNUveEZTEEAf6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-read-my-text-message-4148206-6116e0f818784404a8debc67972541c2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Instagram Read Receipts
 
 [Instagram lets you manage read receipts](https://www.lifewire.com/turn-off-read-receipts-on-instagram-5085244) , so to see when someone has read your Instagram message, you need to make sure the toggle is switched_on_ . The Instagram app lets you control read receipts for individual chats and all chats.
@@ -138,8 +139,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +146,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/unnies-in-a-flash-top-10-quick-and-quirky-video-concepts-for-youtubers-for-2024/"><u>[New] Funnies in a Flash Top 10 Quick & Quirky Video Concepts for YouTubers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatgpt-plus-evaluation-discover-if-its-a-valuable-addition-with-these-5-points/"><u>ChatGPT Plus Evaluation: Discover If It's a Valuable Addition with These 5 Points</u></a></li>
+<li><a href="https://some-tips.techidaily.com/connecting-with-loved-ones-easily-sending-messages-via-apple-watch/"><u>Connecting With Loved Ones: Easily Sending Messages via Apple Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficiently-deleting-multiple-connections-in-snapchat-with-ease/"><u>Efficiently Deleting Multiple Connections in Snapchat with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/future-fables-top-30-quotes-on-tomorrows-realities-for-2024/"><u>Future Fables Top 30 Quotes on Tomorrow's Realities for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oppo-a1-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo A1 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-join-the-revolutionized-twitter-space-with-an-x-account-creation-guide/"><u>How To Join The Revolutionized Twitter Space With An X Account Creation Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-v30-lite-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo V30 Lite 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-updates-on-playstation-5-slim-pricing-launch-timeline-and-technical-specifications/"><u>Latest Updates on PlayStation 5 Slim: Pricing, Launch Timeline & Technical Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-administrative-access-changing-other-users-passwords-in-windows/"><u>Mastering Administrative Access: Changing Other Users' Passwords in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-missing-msodll-file-error-on-your-pc/"><u>Resolving the 'Missing mso.dll' File Error on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tcl-debuts-19-innovative-q-and-s-series-smart-tvs-extending-their-cutting-edge-collection/"><u>TCL Debuts 19 Innovative Q and S Series Smart TVs, Extending Their Cutting-Edge Collection</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-list-of-split-screen-video-apps-for-mobile/"><u>The Ultimate List of Split Screen Video Apps for Mobile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-international-dialogue-top-5-gratis-chat-tools-for-global-communication/"><u>Unlocking International Dialogue: Top 5 Gratis Chat Tools for Global Communication</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unlocking-your-digital-cameras-potential-for-2024/"><u>Unlocking Your Digital Camera's Potential for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-notch-free-video-splitters-our-favorites/"><u>Updated 2024 Approved Top-Notch Free Video Splitters Our Favorites</u></a></li>
+</ul></div>
 

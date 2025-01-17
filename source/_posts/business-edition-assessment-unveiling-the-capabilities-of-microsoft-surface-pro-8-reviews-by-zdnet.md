@@ -1,7 +1,7 @@
 ---
 title: "Business Edition Assessment: Unveiling the Capabilities of Microsoft Surface Pro 8 - Reviews by ZDNet"
-date: 2025-01-04T02:41:49.594Z
-updated: 2025-01-10T18:03:32.400Z
+date: 2025-01-13T17:43:47.569Z
+updated: 2025-01-16T21:56:06.788Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -71,7 +75,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -90,10 +94,6 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -101,6 +101,10 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -150,7 +154,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -166,14 +170,10 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,24 +212,21 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ypassing-barriers-privately-share-youtube-video-via-google-for-2024/"><u>[New] Bypassing Barriers Privately Share YouTube Video via Google for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-breakdown-of-sharex-expert-opinions-and-alternatives-for-2024/"><u>[Updated] Breakdown of ShareX Expert Opinions & Alternatives for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-enhancing-listener-engagement-through-excellent-intros/"><u>[Updated] Enhancing Listener Engagement Through Excellent Intros</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-streamline-your-workflow-with-top-10-free-mac-screen-recorders/"><u>[Updated] Streamline Your Workflow with Top 10 Free Mac Screen Recorders</u></a></li>
-<li><a href="https://driver-download.techidaily.com/canon-mp560-driver-download-and-update-quickly-and-easily/"><u>Canon MP560 Driver Download & Update | Quickly & Easily</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-lightweight-laptop-perfect-for-home-offices-in-depth-testing-and-analysis-on-zdnet/"><u>Discover the Ultimate Lightweight Laptop Perfect for Home Offices: In-Depth Testing & Analysis on ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-correctly-address-osetupdll-file-disappearance-issues/"><u>Expert Tips to Correctly Address oSetup.dll File Disappearance Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-facebooks-disappearing-dark-mode-issue-quick-and-effective-tips/"><u>Fixing Facebook's Disappearing Dark Mode Issue: Quick and Effective Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-slow-loading-xbox-app-on-pc/"><u>How to Fix a Slow-Loading Xbox App on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-your-xbox-series-x-or-s-headset-is-not-working/"><u>How to Fix It When Your Xbox Series X or S Headset Is Not Working</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-free-up-space-by-deleting-android-cache-a-complete-guide/"><u>How to Free Up Space by Deleting Android Cache: A Complete Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/investigating-instances-where-facebook-marketplace-might-be-missing/"><u>Investigating Instances Where Facebook Marketplace Might Be Missing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-and-streamline-commands-in-modern-windows-systems/"><u>Optimize and Streamline Commands in Modern Windows Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-scanning-documents-from-your-printer-to-pc/"><u>Step-by-Step Guide: Scanning Documents From Your Printer to PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-art-of-spotting-bogus-bonds-protecting-yourself-from-fraudulent-friending-attempts/"><u>The Art of Spotting Bogus Bonds: Protecting Yourself From Fraudulent Friending Attempts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-best-6-digital-journals-for-your-personal-reflection/"><u>The Best 6 Digital Journals For Your Personal Reflection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-google-home-potential-how-to-connect-and-control-from-your-pc/"><u>Unlocking Google Home Potential: How to Connect and Control From Your PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-secure-usage-resolving-the-issue-of-malfunctioned-airtags-due-to-faulty-battery-protection-a-comprehensive-guide/"><u>Unlocking Secure Usage: Resolving the Issue of Malfunctioned AirTags Due to Faulty Battery Protection - A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-innovative-game-aids-vrs-top-picks/"><u>[New] In 2024, Innovative Game Aids VR's Top Picks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-choreographing-a-riveting-cinematic-shortcuts-showcase/"><u>[Updated] 2024 Approved Choreographing a Riveting Cinematic Shortcuts Showcase</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-mastering-the-art-of-video-conferencing-on-xbox-one/"><u>[Updated] Mastering the Art of Video Conferencing on Xbox One</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1-enhancing-your-pcs-performance-strategies-for-boosting-processor-speeds-with-yl-software-solutions/"><u>1. Enhancing Your PC's Performance: Strategies for Boosting Processor Speeds with YL Software Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-crafting-harmonious-mixes-the-audacity-crossfade-method/"><u>2024 Approved Crafting Harmonious Mixes The Audacity Crossfade Method</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-transforming-passive-browsing-into-active-participation-on-fb/"><u>2024 Approved Transforming Passive Browsing Into Active Participation on FB</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-of-15-zero-cost-uninstall-tools-for-smooth-software-removal/"><u>Discover the Ultimate List of 15 Zero-Cost Uninstall Tools for Smooth Software Removal</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-instructions-for-connecting-a-samsung-soundbar-to-your-tv-unit/"><u>Easy Instructions for Connecting a Samsung Soundbar to Your TV Unit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-tasty-adventures-with-our-choice-of-10-best-food-related-shows-on-netflix/"><u>Explore Tasty Adventures with Our Choice of 10 Best Food-Related Shows on Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-pixel-phase-9-a-glimpse-into-future-specs-pricing-and-expected-debut-date/"><u>Google Pixel Phase 9 - A Glimpse Into Future Specs, Pricing & Expected Debut Date.</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-13-pro-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 13 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-walkthrough-enabling-and-customizing-pip-viewing-on-your-android-device/"><u>In-Depth Walkthrough: Enabling and Customizing PiP Viewing on Your Android Device</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-a-funny-meme-on-macbook/"><u>New How to Make a Funny Meme on MacBook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/propel-your-productivity-key-strategies-with-windows-11/"><u>Propel Your Productivity: Key Strategies with Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ins-and-outs-of-wireless-connectivity-exploring-the-roaming-policy-of-t-mobiles-metro-plan/"><u>The Ins and Outs of Wireless Connectivity: Exploring the Roaming Policy of T-Mobile's Metro Plan</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-creme-de-la-creme-top-8-alternative-numbering-applications/"><u>Unveiling the Crème De La Crème: Top 8 Alternative Numbering Applications</u></a></li>
 </ul></div>
 

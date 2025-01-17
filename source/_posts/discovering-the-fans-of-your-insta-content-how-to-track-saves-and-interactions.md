@@ -1,7 +1,7 @@
 ---
 title: "Discovering the Fans of Your Insta Content: How to Track Saves and Interactions"
-date: 2024-08-19T15:22:15.858Z
-updated: 2024-08-20T15:22:15.858Z
+date: 2025-01-13T16:18:11.977Z
+updated: 2025-01-17T01:31:49.310Z
 categories:
   - BestProducts
 description: "This Article Describes Discovering the Fans of Your Insta Content: How to Track Saves and Interactions"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -24,11 +28,25 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/f8d47de4a877c211227285c8800b3d072256df0cc
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +106,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-cost-free-win-10-screencast-solutions-top-5-picks-for-2024/"><u>[New] Cost-Free Win 10 Screencast Solutions Top 5 Picks for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-360-degree-and-virtual-reality-cinematography/"><u>[New] Understanding 360-Degree and Virtual Reality Cinematography</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-leading-the-vr-charge-top-10-pc-headsets/"><u>[Updated] Leading The VR Charge Top 10 PC Headsets</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-ranked-affordable-video-players-and-streaming-services-pc-and-mobile/"><u>2024 Approved Best-Ranked Affordable Video Players and Streaming Services (PC & Mobile)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-from-novice-to-pro-transforming-zoom-into-a-youtube-live-staple/"><u>2024 Approved From Novice to Pro Transforming Zoom Into a YouTube Live Staple</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-resolving-typewriter-key-malfunctions-in-computers/"><u>Expert Tips for Resolving Typewriter Key Malfunctions in Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-downloading-official-apple-iphone-user-manuals/"><u>Step-by-Step Instructions: Downloading Official Apple iPhone User Manuals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-in-tech-delving-into-the-rumors-of-apples-newest-wearable-device-pricing-and-release-info/"><u>The Next Big Thing in Tech? Delving Into the Rumors of Apple's Newest Wearable Device Pricing & Release Info</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-strategies-for-securely-saving-and-protecting-your-digital-information/"><u>Top 5 Strategies for Securely Saving and Protecting Your Digital Information</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-ultra-hd-excellence-optimize-your-samsung-4k-tv-settings/"><u>Unlock Ultra HD Excellence: Optimize Your Samsung 4K TV Settings</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-capture-your-best-self-10-top-rated-webcam-software-for-windows-10-for-2024/"><u>Updated Capture Your Best Self 10 Top-Rated Webcam Software for Windows 10 for 2024</u></a></li>
+</ul></div>
 

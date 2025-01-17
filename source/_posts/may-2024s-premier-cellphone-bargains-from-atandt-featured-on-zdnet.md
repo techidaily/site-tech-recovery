@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2025-01-08T12:52:00.599Z
-updated: 2025-01-11T08:10:09.782Z
+date: 2025-01-11T01:09:30.731Z
+updated: 2025-01-16T18:01:20.529Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best AT&T deals
@@ -121,7 +121,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -158,34 +158,34 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,20 +236,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-channel-combat-determining-which-earns-more-from-videosdailymotion-or-youtube/"><u>[Updated] In 2024, Channel Combat Determining Which Earns More From Videos—Dailymotion or YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-editorial-efficiency-m1s-smooth-performance-unveiled/"><u>[Updated] In 2024, Editorial Efficiency M1's Smooth Performance Unveiled</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-practical-routines-for-streamlining-gotomeeting-session-logging/"><u>[Updated] In 2024, Practical Routines for Streamlining GoToMeeting Session Logging</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-reclaiming-brightness-in-youtube-videos/"><u>[Updated] Reclaiming Brightness in YouTube Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-strategies-to-enhance-twitter-user-experience-with-ads/"><u>[Updated] Strategies to Enhance Twitter User Experience with Ads</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/automating-communication-a-complete-guide-to-planned-text-messages-on-your-iphone/"><u>Automating Communication: A Complete Guide to Planned Text Messages on Your iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-the-visibility-of-search-outcomes-in-windows-1011/"><u>Enhancing the Visibility of Search Outcomes in Windows 10/11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-considerations-everyone-should-make-before-investing-in-a-smartwatch/"><u>Essential Considerations Everyone Should Make Before Investing in a Smartwatch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-elite-circle-the-creme-de-la-creme-of-popular-sites-on-the-internet/"><u>Explore the Elite Circle: The Crème De La Crème of Popular Sites on the Internet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-textbooks-to-tech-how-students-can-score-big-savings-on-lenovo-devices/"><u>From Textbooks to Tech: How Students Can Score Big Savings on Lenovo Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-eliminating-horizontal-and-vertical-lines-from-your-tv/"><u>Step-by-Step Tutorial: Eliminating Horizontal and Vertical Lines From Your TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/streaming-the-live-samsung-unboxing-event-a-step-by-step-guide/"><u>Streaming the Live Samsung Unboxing Event: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-top-6-most-polarizing-figures-in-tech/"><u>The Top 6 Most Polarizing Figures in Tech</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-your-inactive-snapchat-expert-methods-for-reactivation/"><u>Unlocking Your Inactive Snapchat: Expert Methods for Reactivation</u></a></li>
-<li><a href="https://fox-search.techidaily.com/win7-aomei/"><u>Win7移植指南：将系统安装到新驱动器 - AOMEI回升者</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-20-freepaid-luts-for-dji-mini-2air-2s-drone/"><u>[New] 20 Free/Paid LUTS for DJI Mini 2/Air 2S Drone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-content-game-perfectly-tailored-youtube-shorts-thumbnails/"><u>[New] 2024 Approved Elevate Your Content Game Perfectly Tailored YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-elevate-your-ios-experience-top-5-ps2-simulators/"><u>[New] 2024 Approved Elevate Your iOS Experience Top 5 PS2 Simulators</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-dinner-dramas-the-most-entertaining-food-moments-on-tiktok/"><u>[New] Dinner Dramas The Most Entertaining Food Moments on TikTok</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024deki-best-ucretsiz-videosatranma-programi-en-iyi-veri-guvenliginize-dair/"><u>2024'Deki Best Ücretsiz Videosatranma Programı - En Iyi Veri Güvenliğinize Dair</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024mkvtop6/"><u>2024年推薦の無料MKVプレーヤーTOP6:最高適合コンテンツで楽しむ</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-cross-platform-green-screen-applications-ideal-for-windows-android-and-iphone-users/"><u>Best Cross-Platform Green Screen Applications: Ideal for Windows, Android & iPhone Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/changer-une-image-jpg-en-format-bmp-sans-frais-movavi/"><u>Changer Une Image JPG en Format BMP Sans Frais - Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-change-mkv-files-into-m4v-format-with-ease/"><u>Free Online Conversion: Change MKV Files Into M4V Format with Ease</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-12-mini-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 12 mini Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-quick-guide-personalized-youtube-shorts-images-without-hassle/"><u>In 2024, Quick Guide Personalized YouTube Shorts Images Without Hassle</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/otimizacao-do-sistema-operacional-windows-10-para-melhor-experiencia-em-jogos-um-manual-completo/"><u>Otimização Do Sistema Operacional Windows 10 Para Melhor Experiência Em Jogos - Um Manual Completo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/swf-to-m4v-online-free-converter-moveavi/"><u>SWF to M4V Online Free Converter - Moveavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-definitive-guide-to-audio-transitions-for-2024/"><u>The Definitive Guide to Audio Transitions for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-htc-u23-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-screen-recorder/"><u>무료 비용 절제: Movavi Screen Recorder 에서 화면 사진 재미롭게 캡처하세요</u></a></li>
 </ul></div>
 

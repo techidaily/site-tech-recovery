@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2025-01-05T17:35:16.103Z
-updated: 2025-01-11T03:53:20.198Z
+date: 2025-01-12T20:18:59.988Z
+updated: 2025-01-17T01:41:41.092Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,24 +129,16 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-conquering-vr-lexicon-for-beginners-for-2024/"><u>[New] Conquering VR Lexicon for Beginners for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-craft-of-igtv-video-production-with-phones-and-dslrs/"><u>[Updated] Mastering the Craft of IGTV Video Production with Phones and DSLRs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ai-to-the-rescue-how-technology-can-alleviate-alert-fatigue-and-prevent-burnout-in-it-roles-zdnet/"><u>AI to the Rescue! How Technology Can Alleviate Alert Fatigue and Prevent Burnout in IT Roles | ZDNet</u></a></li>
-<li><a href="https://article-posts.techidaily.com/clever-circumventions-for-edgenuity-video-course-skipping-for-2024/"><u>Clever Circumventions for Edgenuity Video Course Skipping for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-and-socialize-with-the-top-5-apps-for-making-lifelong-friends/"><u>Connect and Socialize with the Top 5 Apps for Making Lifelong Friends</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/cookiebot-enabled-enhancing-your-websites-analytics-with-advanced-tracking/"><u>Cookiebot-Enabled: Enhancing Your Website's Analytics with Advanced Tracking</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-404-error-message-causes-and-corrections-for-website-owners/"><u>Decoding the 404 Error Message: Causes & Corrections for Website Owners</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/essential-guide-to-selecting-artistic-win-programs/"><u>Essential Guide to Selecting Artistic Win Programs</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-c53-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-eliminate-a-superfluous-windows-boot-repair-segment/"><u>How to Eliminate a Superfluous Windows Boot Repair Segment</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-like-a-pro-with-google-maps-live-view-tips-and-tricks-inside/"><u>Navigate Like a Pro with Google Maps Live View - Tips and Tricks Inside!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premium-aquatic-filters-boosting-gopro-cinematography/"><u>Premium Aquatic Filters Boosting GoPro Cinematography</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722869063088-samsung-galaxy-z-flip-31-revealed-anticipated-cost-and-launch-speculations-for-the-latest-innovation/"><u>Samsung Galaxy Z Flip 3^1 Revealed – Anticipated Cost and Launch Speculations for the Latest Innovation!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-fixes-for-missing-dll-files-on-your-computer/"><u>Step-by-Step Fixes for Missing DLL Files on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-hiding-your-phone-number-on-an-android-device/"><u>Step-by-Step Guide: Hiding Your Phone Number on an Android Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/to-buy-or-not-to-buy-evaluating-blu-ray-player-options-today/"><u>To Buy or Not to Buy: Evaluating Blu-Ray Player Options Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-mfc42dll-file-missing-issues-on-your-pc/"><u>Ultimate Guide: Resolving mfc42.dll File Missing Issues on Your PC</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-duosync-advanced-auditory-coordination-toolkit-for-premiere-pro-professionals/"><u>Updated DuoSync Advanced Auditory Coordination Toolkit for Premiere Pro Professionals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-spectacular-8-ultimate-vr-play-tools-for-2024/"><u>[New] Spectacular 8 Ultimate VR Play Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-basic-route-for-voice-switching-in-your-windows-flipper-edition/"><u>[New] The Basic Route for Voice Switching in Your Windows Flipper Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/13-premier-free-software-to-test-your-hard-drives-insiders-guide-for-july-202/"><u>13 Premier Free Software to Test Your Hard Drives: Insider's Guide for July 202</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-literature-enthusiasts-guide-to-ebook-apps-our-picks/"><u>Discover the Best Literature Enthusiast's Guide to eBook Apps : Our Picks!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-smart-7-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Infinix Smart 7?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-diagnose-and-fix-error-code-0xc0000185-in-your-computer-system/"><u>How to Diagnose and Fix Error Code 0Xc0000185 in Your Computer System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-terminate-your-participation-on-tiktok-a-detailed-guide/"><u>How To Terminate Your Participation on TikTok – A Detailed Guide</u></a></li>
+<li><a href="https://discover-best.techidaily.com/personalized-engagement-boosted-by-cookiebot-technology/"><u>Personalized Engagement Boosted by Cookiebot Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-for-downloading-updated-asus-bluetooth-drivers/"><u>Step-by-Step Tutorial for Downloading Updated ASUS Bluetooth Drivers</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-10-techniques-for-transforming-videos-into-animated-gifs-efficiently/"><u>Top 10 Techniques for Transforming Videos Into Animated GIFs Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-is-my-ps4-controller-blinking-blue-white-red-or-orange/"><u>Why Is My PS4 Controller Blinking Blue, White, Red, or Orange?</u></a></li>
 </ul></div>
 

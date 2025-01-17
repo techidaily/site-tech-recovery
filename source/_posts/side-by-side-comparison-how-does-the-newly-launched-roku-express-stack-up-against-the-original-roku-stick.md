@@ -1,7 +1,7 @@
 ---
 title: "Side-by-Side Comparison: How Does the Newly Launched Roku Express Stack Up Against the Original Roku Stick?"
-date: 2024-08-19T15:21:21.700Z
-updated: 2024-08-20T15:21:21.700Z
+date: 2025-01-10T22:38:38.271Z
+updated: 2025-01-17T01:39:26.741Z
 categories:
   - BestProducts
 description: "This Article Describes Side-by-Side Comparison: How Does the Newly Launched Roku Express Stack Up Against the Original Roku Stick?"
@@ -25,20 +25,22 @@ In This Article
 
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
 August 13 is our best guess.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google TV Streamer Price Rumors
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
@@ -48,13 +50,15 @@ August 13 is our best guess.
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9to5Google
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google TV Streamer Specs & Features
 
  In the picture above, you can see that, apart from the remote, this device looks nothing like the Chromecast with Google TV. Otherwise, we think it will work exactly like a Chromecast, letting you stream music and videos from online services and cast media to it from other devices.
@@ -69,14 +73,12 @@ August 13 is our best guess.
 
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9to5Google
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Google TV Streamer
 
  You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.
@@ -87,14 +89,11 @@ August 13 is our best guess.
 
 [Chromecast vs. Roku: Which Streaming Device Is Better?](https://www.lifewire.com/chromecast-vs-roku-4580492)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,4 +102,20 @@ August 13 is our best guess.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-loop-youtube-videos-on-tv/"><u>[Updated] How to Loop YouTube Videos on TV</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-samsung-galaxy-watch-evaluation-a-blend-of-intelligence-in-style/"><u>Comprehensive Samsung Galaxy Watch Evaluation: A Blend of Intelligence in Style</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-methods-to-ensure-your-windows-machine-always-starts-in-safe-mode/"><u>Easy Methods to Ensure Your Windows Machine Always Starts in Safe Mode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-these-6-premier-websites-to-unlock-jaw-dropping-deals-and-coupons/"><u>Explore These 6 Premier Websites to Unlock Jaw-Dropping Deals and Coupons</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-a-comprehensive-guide-to-monetize-your-facebook-page-tips-and-tricks/"><u>In 2024, A Comprehensive Guide to Monetize Your Facebook Page Tips and Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-apples-m1-max-attachments-a-detailed-guide/"><u>In 2024, Apple’s M1 Max Attachments A Detailed Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-roblox-not-working-understanding-network-errors-vs-player-connection-issues/"><u>Is Roblox Not Working? Understanding Network Errors vs Player Connection Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/streamline-your-event-planning-using-microsoft-excel-template-solutions/"><u>Streamline Your Event Planning Using Microsoft Excel Template Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-the-monetary-map-of-podcasting/"><u>Understanding the Monetary Map of Podcasting</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unified-sound-experience-syncing-your-bluetooth-speakers-for-maximum-impact/"><u>Unified Sound Experience: Syncing Your Bluetooth Speakers for Maximum Impact</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wired-back-to-life-logitech-mouse-restsore/"><u>Wired Back to Life: Logitech Mouse Restsore</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-path-to-a-unique-auditory-experience-customizing-ringtone-and-sound-on-android/"><u>Your Path to a Unique Auditory Experience Customizing Ringtone & Sound on Android</u></a></li>
+</ul></div>
 

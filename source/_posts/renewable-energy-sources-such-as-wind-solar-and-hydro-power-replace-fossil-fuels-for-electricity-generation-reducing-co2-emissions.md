@@ -1,7 +1,7 @@
 ---
 title: Renewable Energy Sources Such as Wind, Solar, and Hydro Power Replace Fossil Fuels for Electricity Generation, Reducing CO2 Emissions.
-date: 2025-01-10T06:05:45.494Z
-updated: 2025-01-11T05:09:09.486Z
+date: 2025-01-10T21:33:55.659Z
+updated: 2025-01-17T02:40:03.817Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -33,10 +33,6 @@ Ever since, those attributes have defined all smartphones, save for one common s
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -65,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
@@ -108,6 +104,10 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2017: The start of the AI/ML smartphone era
 
 It's difficult to nail down exactly when machine learning found its way into smartphones, but a good case can be made for 2017\. That year, [Google released the Pixel 2](https://blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/), which got a portrait mode that blurred backgrounds, and improved processing for HDR images.
@@ -134,10 +134,6 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -151,6 +147,10 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -195,7 +195,7 @@ One thing that's important to note: [Generative AI](https://www.zdnet.com/articl
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking to the future
@@ -254,22 +254,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-simplify-aquatic-footage-7-key-shooting-strategies/"><u>[New] Simplify Aquatic Footage 7 Key Shooting Strategies</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-nikon-d500-4k-performance/"><u>[New] The Ultimate Guide to Nikon D500 4K Performance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-changing-the-face-of-healthcare-with-vr/"><u>[Updated] Changing the Face of Healthcare with VR</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/tod-avimp4/"><u>完全無料で簡単なウェブ版動画変換 - TOD AVIからMP4へのプロセス</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amd-radeon-v2410-video-card-software-enhancements-and-download-guide/"><u>AMD Radeon V24.10 Video Card Software: Enhancements & Download Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-snappydriver-v113-software-analysis/"><u>Comprehensive SnappyDriver v1.13 Software Analysis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-503-error-code-causes-impacts-and-remedies/"><u>Decoding the 503 Error Code: Causes, Impacts, and Remedies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-15-premium-free-tools-for-quick-uninstalling/"><u>Discover the Ultimate List: 15 Premium-Free Tools for Quick Uninstalling</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/error-code-0xc0000185-what-it-is-and-how-to-fix-it/"><u>Error Code 0Xc0000185: What It Is and How to Fix It</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-claude-ai-benefits-and-features/"><u>Exploring the World of Claude AI: Benefits & Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-tech-trends-with-samsungs-most-recent-phone-launch-event/"><u>Get Ahead of Tech Trends with Samsung's Most Recent Phone Launch Event</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Xiaomi 13T? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-restore-broken-or-missing-functionality-of-a-laptop-with-a-diy-key-reattachment-trick/"><u>How to Restore Broken or Missing Functionality of a Laptop with a DIY Key Reattachment Trick</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-navigating-through-gopros-burst-recording-options/"><u>In 2024, Navigating Through GoPro's Burst Recording Options</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-through-unmatched-clarity-the-definitive-2021-review-of-apples-4k-streaming-box-controlled-by-siri/"><u>Navigating Through Unmatched Clarity: The Definitive 2021 Review of Apple's 4K Streaming Box Controlled by Siri</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-redmi-note-12-pro-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi Redmi Note 12 Pro 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-resolving-mobile-call-problems-in-android-devices/"><u>Troubleshooting and Resolving Mobile Call Problems in Android Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-android-podcast-software/"><u>[New] Prime Android Podcast Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-experts-picks-for-high-quality-vector-websites/"><u>[New] The Expert's Picks for High-Quality Vector Websites</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-labyrinth-luminaries-top-10-roguelike-highlights/"><u>[Updated] In 2024, Labyrinth Luminaries Top 10 Roguelike Highlights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-best-screen-record-apps-for-classroom-use/"><u>2024 Approved The Best Screen Record Apps for Classroom Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-music-to-mp3-or-opus-for-free-effortless-file-transformation-by-movavi-web-service/"><u>Convert Music to MP3 or Opus for Free - Effortless File Transformation by Movavi Web Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/flac-vs-mp3-determining-superior-audio-quality-is-it-worth-the-upgrade/"><u>Flac Vs. MP3: Determining Superior Audio Quality - Is It Worth the Upgrade?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-video-subtitling-tools-how-to-insert-text-into-videos-effortlessly/"><u>Free Online Video Subtitling Tools: How to Insert Text Into Videos Effortlessly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-proplus-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 Pro+ 5GFRP Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-tips-navigate-past-windows-error-code-0x887a0006-effortlessly/"><u>Quick-Fix Tips: Navigate Past Windows Error Code 0X887A0006 Effortlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-future-is-here-explore-potential-specs-launch-timeframe-and-cost-estimations-for-the-new-apple-watch-ultra-2/"><u>The Future Is Here – Explore Potential Specs, Launch Timeframe & Cost Estimations for the New Apple Watch Ultra 2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformer-vos-fichiers-ogg-en-mpeg-sans-frais-via-movavi-guide-rapide-et-facile/"><u>Transformer Vos Fichiers OGG en MPEG Sans Frais via Movavi - Guide Rapide Et Facile!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-honor-magic5-ultimate-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Honor Magic5 Ultimate</u></a></li>
 </ul></div>
 

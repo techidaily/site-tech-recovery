@@ -1,7 +1,7 @@
 ---
 title: "Mastering Internet Archiving: A Guide to Using the Wayback Machine"
-date: 2024-08-19T15:20:41.308Z
-updated: 2024-08-20T15:20:41.308Z
+date: 2025-01-13T00:58:13.001Z
+updated: 2025-01-16T22:38:08.115Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Internet Archiving: A Guide to Using the Wayback Machine"
@@ -33,9 +33,19 @@ thumbnail: https://thmb.techidaily.com/71ccc2fedcffdaa9357153f28278ee3778285e29e
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -43,7 +53,16 @@ thumbnail: https://thmb.techidaily.com/71ccc2fedcffdaa9357153f28278ee3778285e29e
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If None of These Tips Fixed the Problem
 
@@ -52,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/71ccc2fedcffdaa9357153f28278ee3778285e29e
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -93,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +120,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-drive-engagement-with-instagram-top-10-video-marketing-ideas-unveiled/"><u>[New] 2024 Approved Drive Engagement with Instagram Top 10 Video Marketing Ideas Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-digital-dreamscapes-compared-metaverse-vs-omniverse-in-the-limelight-for-2024/"><u>[New] Digital Dreamscapes Compared Metaverse Vs. Omniverse in the Limelight for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-closing-with-panache-free-youtubes-1-six/"><u>[Updated] Closing with Panache Free YouTube's #1 Six!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elevate-to-success-top-hashtags-for-6-figure-views-on-youtube/"><u>[Updated] Elevate to Success Top Hashtags for 6-Figure Views on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-capture-your-best-side-tips-for-effective-talking-head-shots/"><u>[Updated] In 2024, Capture Your Best Side Tips for Effective Talking-Head Shots</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-picks-best-free-cross-platform-video-communication-tools/"><u>[Updated] In 2024, Top Picks Best Free Cross-Platform Video Communication Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/combine-your-fortnite-gamer-ids-in-minutes/"><u>Combine Your Fortnite Gamer IDs in Minutes!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-f04-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy F04</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/detailed-strategies-for-altering-facial-gender-display-in-digital-media-for-2024/"><u>Detailed Strategies for Altering Facial Gender Display in Digital Media for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-on-how-to-get-and-setup-new-apple-ios-version/"><u>Easy Tutorial on How To Get And Setup New Apple iOS Version</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-checklist-key-points-prior-to-acquiring-secondhand-ipad-devices/"><u>Essential Checklist: Key Points Prior to Acquiring Secondhand iPad Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-solving-code-39-errors-in-windows-environments/"><u>Expert Tips for Solving Code 39 Errors in Windows Environments</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y100i-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y100i phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-watch-dragon-ball-in-order/"><u>How to Watch Dragon Ball in Order</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-chkdsk-utility-a-step-by-step-guide-for-windows-users/"><u>Mastering the Chkdsk Utility: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://facebook.techidaily.com/overlooked-high-impact-tech-developments-top-4-hidden-gems/"><u>Overlooked High-Impact Tech Developments - Top 4 Hidden Gems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fixes-reactivating-the-touch-functionality-of-your-apple-watch/"><u>Step-by-Step Fixes: Reactivating the Touch Functionality of Your Apple Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-for-adding-music-to-your-instagram-posts/"><u>Step-by-Step Process for Adding Music to Your Instagram Posts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-controlling-your-google-home-with-a-personal-laptop-or-desktop/"><u>The Ultimate How-To: Controlling Your Google Home with a Personal Laptop or Desktop</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Vision Pro’s Travel Mode: Insights & Preparation Tips for a Smooth Journey"
-date: 2024-12-01T20:15:08.416Z
-updated: 2024-12-05T07:35:38.671Z
+date: 2025-01-09T21:05:52.899Z
+updated: 2025-01-17T00:55:31.910Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Airplane Mode
 
 The Apple Vision Pro does have two modes related to travel: Airplane Mode and Travel Mode. 
@@ -65,7 +61,7 @@ You can also turn on Airplane Mode directly from the Settings panel. Open Settin
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Travel Mode
@@ -98,6 +94,10 @@ As mentioned above, Travel Mode and Airplane Mode are independent settings. That
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Planes, trains, automobiles - and boats
 
 While I have no intention of taking my Vision Pro out and about, I have had a chance to review the experiences shared by others online. Here are some thoughts for each of the vehicle types you're likely to be traveling in -- _as a passenger_. 
@@ -113,7 +113,7 @@ You'll need to account for where the battery goes, where your [travel case](http
 That said, as long as you have enough battery power (or [spare batteries](https://www.apple.com/shop/product/MW283LL/A/apple-vision-pro-battery)), your experience on a plane should be fairly straightforward as this was a use case Apple clearly designed for. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Trains
@@ -124,10 +124,6 @@ ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdn
 
 He also found that the lenses tended to fog up. While not necessarily a deal-killer, lens issues can be a serious problem when using the device, especially in a humid environment. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Automobiles
 
 While highway travel in a car may seem similar to air and train travel -- at least to the Vision Pro's sensors -- traveling locally is very different. Air and train travel are generally straight-line movements with gentle curves that might not even be noticeable. 
@@ -137,6 +133,10 @@ Highway travel, particularly on long stretches of the national highway system in
 **Also: [Connected cars, powered by AI, will make up 95% of all vehicles on the road by 2030](https://www.zdnet.com/article/connected-cars-powered-by-ai-will-make-up-95-of-all-vehicles-on-the-road-by-2030/)**
 
 Travel mode will certainly help, but expect it to blink in and out depending on what's going on outside the vehicle. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Shipboard travel
 
@@ -153,7 +153,7 @@ I've also lived through devastating earthquakes. The [Loma Prieta earthquake](ht
 If you're sailing and the vessel is rolling or heaving, give up on the entertainment, and do your best not to hurl your lunch. In fact, try not to eat any lunch. Just hang in there until it's over. There will be time to watch _Avatar: The Way of Water_ in 3D another day, when the seas are calm and so is your stomach lining. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Situational awareness
@@ -211,24 +211,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-5-ways-to-record-streaming-audio-online/"><u>[New] 5 Ways to Record Streaming Audio Online</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-methods-to-convert-instagram-video-to-mp3-for-2024/"><u>[New] Methods to Convert Instagram Video to Mp3 for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unlocking-the-power-of-igtv-from-novice-to-pro/"><u>[Updated] 2024 Approved Unlocking the Power of IGTV From Novice to Pro</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-a-new-dawn-in-gaming-stardew-valleys-best-mods-7-for-2024/"><u>[Updated] A New Dawn in Gaming - Stardew Valley's Best Mods (#7) for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-revisiting-video-broadcast-choices-post-wirecast-for-2024/"><u>[Updated] Revisiting Video Broadcast Choices Post-Wirecast for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-anatomy-of-apple-m1-chip-redefining-tech/"><u>[Updated] The Anatomy of Apple M1 Chip, Redefining Tech</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2023-die-top-freeware-fur-das-ripen-von-dvds-unter-windows-10-und-11-direkt-vergleichen/"><u>2023: Die Top-Freeware Für Das Ripen Von DVDs Unter Windows 10 Und 11 - Direkt Vergleichen!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-closed-captions-in-your-amazon-prime-streams/"><u>Disabling Closed Captions in Your Amazon Prime Streams</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/find-your-match-in-the-world-of-windows-facetime-clones-a-detailed-walkthrough/"><u>Find Your Match in the World of Windows' Facetime Clones: A Detailed Walkthrough</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-the-inside-scoop-on-samsung-galaxy-s2-expected-pricing-launch-dates-and-device-specs-revealed/"><u>Get the Inside Scoop on Samsung Galaxy S2지! Expected Pricing, Launch Dates & Device Specs Revealed</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-13-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 13 Pro Max? Find the Best Solution Here</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-deciding-on-the-best-gopro-max-or-hero-11/"><u>In 2024, Deciding on the Best GoPro Max or Hero 11?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-m34-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy M34 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/integrating-google-cast-on-amazons-firestick-for-enhanced-viewing/"><u>Integrating Google Cast on Amazon's Firestick for Enhanced Viewing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/todays-popular-pick-of-sports-themed-films-for-your-watchlist/"><u>Today's Popular Pick of Sports-Themed Films for Your Watchlist</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-15-must-see-dolby-atmos-films-perfect-for-your-home-theater-experience/"><u>Top 15 Must-See Dolby Atmos Films Perfect for Your Home Theater Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-must-try-journaling-applications-for-enhanced-productivity/"><u>Top 6 Must-Try Journaling Applications for Enhanced Productivity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trouble-with-nintendo-switch-online-determining-if-the-problem-is-widespread/"><u>Trouble with Nintendo Switch Online? Determining if the Problem Is Widespread.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/uncover-the-solution-to-not-found-or-missing-cygwin1dll-issues/"><u>Uncover the Solution to 'Not Found' Or Missing Cygwin1.dll Issues</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-techs-trailblazers-windows-10-redefines-user-interface/"><u>[New] 2024 Approved Tech's Trailblazers Windows 10 Redefines User Interface</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-crafting-a-memorable-look-back-experience-on-fb-for-2024/"><u>[Updated] Crafting a Memorable Look Back Experience on FB for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/80-less-on-the-second-generation-apple-watch-se-post-prime-day-insights-from-zdnet/"><u>$80 Less on the Second Generation Apple Watch SE Post-Prime Day - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-in-one-source-for-apple-devices-specs-owners-manuals-and-troubleshooting-advice-find-it/"><u>All-in-One Source for Apple Devices: Specs, Owner's Manuals & Troubleshooting Advice - Find It !</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-finest-gaming-smartphones-available-as-ranked-expert-picks/"><u>Discover the Finest Gaming Smartphones Available , as Ranked Expert Picks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mediamagic-8-edition/"><u>In 2024, MediaMagic 8 Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-netgear-nighthawk-c70er-top-tier-performance-from-a-reliable-wifi-hub/"><u>In-Depth Analysis of Netgear Nighthawk C70er: Top-Tier Performance From a Reliable WiFi Hub</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-iphone-efficiency-discover-the-power-of-concealed-voice-prompts-with-our-ultimate-tutorial/"><u>Maximize iPhone Efficiency: Discover the Power of Concealed Voice Prompts with Our Ultimate Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smartwatch-face-off-google-pixel-watch-against-apple-series-8-expert-buyers-guide-digital-trends/"><u>Smartwatch Face-Off: Google Pixel Watch Against Apple Series 8 - Expert Buyer's Guide | Digital Trends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tower-of-fantasy-pc-issues-resolved-no-more-game-crashes/"><u>Tower of Fantasy PC Issues Resolved - No More Game Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-iphone-1-exercise-when-an-auditor-tests-account-balances-for-overstatements-which-sampling-method-would-typically-be-used-is-it-a-stratified-random-b-sy126/"><u>Why iPhone 1 # Exercise: When an Auditor Tests Account Balances for Overstatements, Which Sampling Method Would Typically Be Used? Is It (a) Stratified Random, (B) Systematic, or (C) Haphazard?</u></a></li>
 </ul></div>
 

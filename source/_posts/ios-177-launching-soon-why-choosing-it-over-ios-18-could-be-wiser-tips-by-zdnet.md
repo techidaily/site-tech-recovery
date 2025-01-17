@@ -1,7 +1,7 @@
 ---
 title: IOS 17.7 Launching Soon! Why Choosing It Over iOS 18 Could Be Wiser - Tips by ZDNET
-date: 2025-01-07T13:45:40.342Z
-updated: 2025-01-10T19:26:13.223Z
+date: 2025-01-10T21:45:47.381Z
+updated: 2025-01-16T20:49:01.505Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,17 +124,19 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/raphic-portrayal-of-future-social-momentum-for-2024/"><u>[New] Graphic Portrayal of Future Social Momentum for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-and-leveraging-snapchat-spotlight/"><u>[Updated] Understanding and Leveraging Snapchat Spotlight</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-pce-ac56-driver-solutions-for-windows-1187-users-a-comprehensive-guide/"><u>ASUS PCE-AC56 Driver Solutions for Windows 11/8/7 Users – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-fatal-error-in-borderlands-3s-back-4-blood-mod-for-ubisoft-engine-4-ue4/"><u>Fixing 'Fatal Error' In Borderlands 3'S Back 4 Blood Mod for Ubisoft Engine 4 (UE4)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/growing-your-twitter-audience-top-strategies-and-tips/"><u>Growing Your Twitter Audience: Top Strategies & Tips</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-there-something-wrong-with-twitch-or-is-it-simply-a-glitch-on-your-end/"><u>Is There Something Wrong With Twitch? Or Is It Simply A Glitch on Your End?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/spotlight-synthesis-blending-lights-for-video-excellence/"><u>Spotlight Synthesis Blending Lights for Video Excellence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tackling-windows-glitches-expert-tips-for-resolving-the-notorious-error-code-19/"><u>Tackling Windows Glitches: Expert Tips for Resolving the Notorious Error Code 19</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-for-modifying-your-profile-icon-on-discord/"><u>The Ultimate Tutorial for Modifying Your Profile Icon on Discord</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/triggering-windows-11s-stealthy-taskbar-spotlight/"><u>Triggering Windows 11'S Stealthy Taskbar Spotlight</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlocking-the-secret-how-an-affordable-stand-is-essential-for-your-smartphone/"><u>Unlocking the Secret: How an Affordable Stand Is Essential for Your Smartphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/(3-icon-tutorial-creating-digital-expressions-of-affection-with-keys/"><u><3 Icon Tutorial: Creating Digital Expressions of Affection with Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/80-budget-friendly-portable-speaker-with-exceptional-audio-quality-for-all-genres-techradar/"><u>$80 Budget-Friendly Portable Speaker with Exceptional Audio Quality for All Genres - TechRadar</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-essentials-to-initiate-in-google-meet/"><u>2024 Approved The Essentials to Initiate in Google Meet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accelerate-footage-leading-android-apps/"><u>Accelerate Footage Leading Android Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/creating-order-adding-videos-to-personalized-youtube-shelves/"><u>Creating Order Adding Videos to Personalized YouTube Shelves</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stream-with-both-chromecast-and-fire-stick-connected-a-step-by-step-guide/"><u>How To Stream With Both Chromecast and Fire Stick Connected – A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-splice-video-editor-for-mac-free-download-now/"><u>New In 2024, Splice Video Editor for Mac Free Download Now</u></a></li>
+<li><a href="https://win-premium.techidaily.com/recuperation-de-fichiers-perdus-sous-windows-1011-guide-complet-de-depannage-et-recuperation/"><u>Récupération De Fichiers Perdus Sous Windows 10/11 - Guide Complet De Dépannage Et Récupération</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-braces-for-a-cryptocurrency-commercial-surge/"><u>Social Media Braces for a Cryptocurrency Commercial Surge</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-sudden-failures-in-car-radio-performance/"><u>Solutions for Sudden Failures in Car Radio Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-disabling-facebook-on-android-phones-and-tablets/"><u>Step-by-Step Tutorial: Disabling Facebook on Android Phones and Tablets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-must-have-fitness-tracker-apps-for-your-training-regime/"><u>Top 10 Must-Have Fitness Tracker Apps for Your Training Regime</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-pairing-your-airpods-with-macbook-air/"><u>Ultimate Guide: Pairing Your AirPods with MacBook Air</u></a></li>
 </ul></div>
 

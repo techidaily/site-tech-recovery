@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Repair Windows Runtime Error Code 0xC000018
-date: 2024-08-19T15:21:20.503Z
-updated: 2024-08-20T15:21:20.503Z
+date: 2025-01-11T00:33:18.378Z
+updated: 2025-01-16T19:19:25.006Z
 categories:
   - BestProducts
 description: This Article Describes How to Troubleshoot and Repair Windows Runtime Error Code 0xC000018
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
  The Code 43 error is one of several[Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) . It's generated when[Device Manager](https://www.lifewire.com/device-manager-2625860) stops a hardware device because the hardware reported to Windows that it's having some kind of unspecified problem.
 
  Any of Microsoft's operating systems could experience a Code 43 Device Manager error, including Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes a Code 43 Error (and What It Means)
 
@@ -28,6 +32,10 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 
  Device Manager error codes are exclusive to Device Manager. If you see the Code 43 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) , which you should not troubleshoot as a Device Manager problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix a Code 43 Error
 
  Follow these steps in order, to resolve a Code 43 error. Because this message is generic, standard troubleshooting steps come first.
@@ -35,10 +43,20 @@ thumbnail: https://www.lifewire.com/thmb/-FxSEaa-WtsVY8nFzP9heGo14Kw=/400x300/fi
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) if you haven't done so already.  
 ![Restart option in Windows 10 Start Menu](https://www.lifewire.com/thmb/Cmw3C3c6Sl1OCykb7eHN6EpF8aI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restartWindows10-5c64952c46e0fb0001f256a9.jpg)  
  There is always the chance that the error Code 43 you're seeing on a device was caused by some temporary problem with the hardware. If so, a restart of your computer might fix the Code 43 error.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some people have also reported that powering off their computer completely (not just a restart) and then turning it back on has corrected their Code 43 warning if it sources from a USB device. In the case of a laptop, turn it off and remove the battery, wait a few minutes, and then put the battery back in and start the computer.
 2. Plug the device into a different computer and then properly eject it from there. Plug it back into your computer to see if it fixes the Code 43 error.  
 ![Safe to remove hardware notification in Windows 10](https://www.lifewire.com/thmb/d4PE46YO5am98siorGqDdnKsEA4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safe-to-remove-hardware-windows-10-9f4cf57623f042bbb5afffa425036a58.png)  
  If you have another computer to test this on, be sure to try this before moving on to the more complicated steps below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Did you install a device or make a change in Device Manager just before the Code 43 error appeared? If so, it's possible that the change you made caused the Code 43 error. Undo the change if you can, restart your PC, and then check again for the Code 43 error.  
  Depending on the changes you made, some solutions might include:  
    * Removing or reconfiguring the newly installed device  
@@ -87,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,8 +112,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-the-potential-of-cartoon-face-lens-in-snapchat/"><u>[New] Unlocking the Potential of Cartoon Face Lens in Snapchat</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-photo-poetry-top-10-writing-tools-for-image-capture-on-iosandroid/"><u>[Updated] Photo Poetry Top 10 Writing Tools for Image Capture on iOS/Android</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/cdmp3-windows1110macos/"><u>無料ソフトウェアを使ってCDからMP3への簡単な変換ガイド - Windows11・10、macOS両方用</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bmp-format-transformation-for-free-using-movavis-web-service/"><u>BMP Format Transformation for Free Using Movavi's Web Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722967586217-effortless-guide-to-swiftly-updating-your-synaptics-ps2-touchpad-drivers-successfully/"><u>Effortless Guide to Swiftly Updating Your Synaptics PS/2 Touchpad Drivers Successfully!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/estimating-film-budget-the-cost-of-capturing-melodies-visually-for-2024/"><u>Estimating Film Budget The Cost of Capturing Melodies Visually for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-inside-scoop-on-sonys-afeela-car-release-timeline-estimated-price-range-and-full-specifications-explored/"><u>Get the Inside Scoop on Sony's Afeela Car: Release Timeline, Estimated Price Range, and Full Specifications Explored</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-itel-p55plus-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-20-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 20 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-disinfecting-electronic-devices-focus-on-tv-remotes/"><u>Master the Art of Disinfecting Electronic Devices: Focus on TV Remotes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/must-watch-3-tech-innovations-shaping-our-future-today/"><u>Must-Watch 3 Tech Innovations Shaping Our Future Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-and-effective-guide-on-setting-up-an-amazon-fire-tv-stick-remote/"><u>Quick & Effective Guide on Setting Up an Amazon Fire TV Stick Remote</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-quintet-of-people-search-platforms-you-need-to-know-about/"><u>The Quintet of People Search Platforms You Need to Know About</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/total-war-warhammer-iii-pc-version-permanent-solutions-to-eliminate-in-game-freezing-and-crashing/"><u>TOTAL WAR: WARHAMMER III PC Version – Permanent Solutions to Eliminate In-Game Freezing and Crashing!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-csgo-solutions-for-the-game-wont-start/"><u>Troubleshooting CS:GO - Solutions for the Game Won't Start</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->

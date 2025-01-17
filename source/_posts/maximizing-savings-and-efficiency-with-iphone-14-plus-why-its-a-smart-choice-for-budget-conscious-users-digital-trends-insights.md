@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Savings and Efficiency with iPhone 14 Plus: Why It's a Smart Choice for Budget-Conscious Users | Digital Trends Insights"
-date: 2024-10-24T08:28:39.384Z
-updated: 2024-10-30T16:33:36.475Z
+date: 2025-01-12T22:53:03.142Z
+updated: 2025-01-16T20:38:47.975Z
 tags:
   - apple
 categories:
@@ -18,6 +18,10 @@ The MacOS file manager, Finder, has a lot of handy tricks up its sleeve, many of
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple
 
 * [iPhone 16 Pro upgrade: If you have a 3 year-old iPhone, here are all the new features you'll get](https://www.zdnet.com/article/iphone-16-pro-and-pro-max-hands-on/)
@@ -33,13 +37,6 @@ Of course, not every file type has an associated Quick Action but you can add ne
 
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What files offer Quick Actions?
 
 By default, the following file types offer Quick Actions from within the Finder context menu:
@@ -51,24 +48,22 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
 
@@ -97,10 +92,7 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -153,17 +145,20 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/10-free-canon-luts-choose-your-expense-level/"><u>10 Free Canon LUTs; Choose Your Expense Level</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-step-by-step-approach-to-incorporating-luts-in-obs-studio-projects-for-2024/"><u>A Step-by-Step Approach to Incorporating LUTs in OBS Studio Projects for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-output-on-facebook-with-these-5-proven-methods/"><u>Boost Your Output on Facebook with These 5 Proven Methods</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-most-effective-off-grid-linguistic-apps-ranked/"><u>Explore the Most Effective Off-Grid Linguistic Apps, Ranked</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-oppo-k11x-by-fonelab-android-recover-video/"><u>How to recover old videos from your Oppo K11x</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-programs-designing-animated-3d-worlds-for-2024/"><u>Premier Programs Designing Animated 3D Worlds for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/professional-vue-black-dashboard-exclusive-premium-bootstrap-4-admin-suite-from-creative-tim/"><u>Professional Vue Black Dashboard: Exclusive Premium Bootstrap 4 Admin Suite From Creative Tim</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-connection-issues-how-to-tell-if-discord-server-is-down/"><u>Troubleshooting Connection Issues: How To Tell If Discord Server Is Down</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tricks-to-get-your-windows-computer-to-start-up-in-safe-mode/"><u>Ultimate Tricks to Get Your Windows Computer to Start Up in Safe Mode</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-disabling-the-automatic-play-feature-in-your-apple-music-library/"><u>Understanding & Disabling the Automatic Play Feature in Your Apple Music Library</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-oppo-f25-pro-5g-by-drfone-android/"><u>Universal Unlock Pattern for Oppo F25 Pro 5G</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ling-the-secrets-of-youtube-shorts-success/"><u>Unveiling the Secrets of YouTube Shorts Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-dji-mavic-pro-vs-gopro-karma/"><u>[New] 2024 Approved Dji Mavic Pro Vs GoPro Karma</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-content-ready-faster-with-this-list-of-easy-editors/"><u>[New] In 2024, Get Content Ready Faster With This List of Easy Editors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-quick-content-crusade-youtubes-shortform-versus-tiktoks-trendsetting/"><u>[Updated] In 2024, The Quick Content Crusade YouTube's Shortform Versus TikTok’s Trendsetting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-art-of-audio-blend-with-audacity-techniques/"><u>[Updated] Unveiling the Art of Audio Blend with Audacity Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-yourself-from-apple-music-a-simple-process-for-unsubscribing-directly-on-web-without-itunes-according-to-zdnet-experts/"><u>Free Yourself From Apple Music: A Simple Process for Unsubscribing Directly on Web without iTunes, According to ZDNET Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/getting-started-with-vision-pros-travel-mode-insights-and-preparation-tips-for-a-smooth-journey/"><u>Getting Started with Vision Pro’s Travel Mode: Insights & Preparation Tips for a Smooth Journey</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-fb-content-extraction-made-simple-windows-and-macos/"><u>In 2024, FB Content Extraction Made Simple Windows & macOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pixel-vs-pearl-comparing-the-latest-showdown-in-smartwatches-google-pixel-watch-2-and-apple-watch-series-9/"><u>Pixel Vs. Pearl: Comparing the Latest Showdown in Smartwatches - Google Pixel Watch 2 and Apple Watch Series 9</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/siri-takes-over-from-bing-in-apples-ecosystem-discover-how-this-shift-will-revolutionize-ai-integration/"><u>Siri Takes Over From Bing in Apple's Ecosystem – Discover How This Shift Will Revolutionize AI Integration</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-activating-and-setting-up-hyper-v-on-your-windows-10-pc/"><u>Step-by-Step Guide: Activating and Setting Up Hyper-V on Your Windows 10 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/switching-whatsapp-platforms-how-to-transfer-chats-and-media-between-android-and-iphone-smoothly/"><u>Switching WhatsApp Platforms: How to Transfer Chats and Media Between Android and iPhone Smoothly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/testing-resistance-against-apple-a-real-life-battle-over-iphone-upgrades-on-zdnet/"><u>Testing Resistance Against Apple: A Real-Life Battle Over iPhone Upgrades on ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-tablet-picks-in-depth-analysis-and-reviews-by-tech-experts/"><u>Top-Ranking Tablet Picks - In-Depth Analysis & Reviews by Tech Experts</u></a></li>
 </ul></div>
 

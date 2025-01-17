@@ -1,7 +1,7 @@
 ---
 title: Apple Vision Pro Sets Stage with Microsoft Office Suite at Launch - A Closer Look by ZDNet Experts
-date: 2024-12-03T05:08:40.429Z
-updated: 2024-12-05T09:17:42.380Z
+date: 2025-01-11T20:04:29.528Z
+updated: 2025-01-16T23:39:01.479Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A new-look Surface… kind of
@@ -53,7 +53,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -94,6 +94,10 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -101,6 +105,10 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -127,10 +135,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -153,10 +157,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -169,11 +169,11 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,24 +212,19 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>[Updated] 2024 Approved Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/2024s-ultimate-guide-to-choosing-the-best-modemrouter-packages/"><u>2024'S Ultimate Guide to Choosing the Best Modem/Router Packages</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-how-to-efficiently-capture-your-computers-visual-output/"><u>Comprehensive Guide: How to Efficiently Capture Your Computer's Visual Output</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/do-you-truly-experience-dolby-atmos-audio-quality/"><u>Do You Truly Experience Dolby Atmos Audio Quality?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tricks-for-a-seamless-3-screen-computer-display-configuration/"><u>Expert Tricks for a Seamless 3-Screen Computer Display Configuration</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/flairful-imagery-best-android-collages-unveiled/"><u>Flairful Imagery – Best Android Collages Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-achieve-perfect-timing-with-chromecast-audio-devices/"><u>How to Achieve Perfect Timing with Chromecast Audio Devices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-compile-presentation-asset-to-video/"><u>In 2024, Compile Presentation Asset to Video</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-directly-connect-tweeting-with-videos-on-whatsapp/"><u>In 2024, Directly Connect Tweeting with Videos on WhatsApp</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On OnePlus Nord N30 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Xiaomi Redmi 12? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximize-learning-with-these-9-must-have-gadgets-for-academic-success/"><u>Maximize Learning with These 9 Must-Have Gadgets for Academic Success</u></a></li>
-<li><a href="https://review-topics.techidaily.com/new-iphone-12-mini-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 12 mini Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/parental-content-restrictions-setup-for-the-discord-app/"><u>Parental Content Restrictions Setup for the Discord App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-issues-when-comments-fail-to-appear-below-youtube-content/"><u>Resolving Issues When Comments Fail to Appear Below YouTube Content</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-what-makes-a-great-gaming-pc/"><u>The Ultimate Guide: What Makes a Great Gaming PC?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-finding-and-installing-asus-laptop-driver-packages/"><u>Ultimate Guide: Finding & Installing ASUS Laptop Driver Packages</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-to-do-if-your-usb-tethering-is-not-working/"><u>What to Do If Your USB Tethering Is Not Working</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/write-striking-introductions-insights-and-demonstrations/"><u>Write Striking Introductions Insights & Demonstrations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturecraft-in-depth-analysis-of-screen-capture-tech-for-2024/"><u>[New] CaptureCraft In-Depth Analysis of Screen Capture Tech for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-guide-to-budget-friendly-phone-video-conferencing-iphone-and-android/"><u>[New] In 2024, Ultimate Guide to Budget-Friendly Phone Video Conferencing (iPhone & Android)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-make-every-discord-livestree-a-timeless-treasure/"><u>[Updated] How to Make Every Discord Livestree a Timeless Treasure</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-impact-a-guide-to-customizing-game-banners/"><u>[Updated] Maximizing Impact A Guide to Customizing Game Banners</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlock-the-secrets-for-a-viral-instagram-account-gain-fans-and-verified-status-in-less-than-150-characters/"><u>[Updated] Unlock the Secrets for a Viral Instagram Account Gain Fans and Verified Status in Less Than 150 Characters</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-things-we-liked-about-java-games/"><u>6 Things We Liked About Java Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazons-must-have-bargains-in-august-2e24-find-out-more-with-zdnet/"><u>Amazon's Must-Have Bargains in August 2E24: Find Out More with ZDNet!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-perfect-ipad-for-your-child-check-out-our-2022-picks/"><u>Choosing the Perfect iPad for Your Child? Check Out Our 2022 Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-productivity-with-dual-displays-on-your-m3-macbook-pro-compatible-as-the-m3-macbook-air/"><u>Enhance Productivity with Dual Displays on Your M3 MacBook Pro - Compatible as the M3 MacBook Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-your-hands-on-the-latest-from-apples-wwdc-top-3-products-for-immediate-purchase-find-out-where-to-preorder-zdnet/"><u>Get Your Hands On the Latest From Apple's WWDC: Top 3 Products for Immediate Purchase - Find Out Where to Preorder | ZDNET</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-7-plus-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 7 Plus Without a Home Button</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-note-50-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme Note 50 Phone with Broken Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/live-updates-from-the-apple-wwdc-keynote-latest-on-ai-innovations-with-siri-and-whats-new-in-ios-18-techspot/"><u>Live Updates From the Apple WWDC Keynote: Latest on AI Innovations with Siri and What's New in iOS 18 | TechSpot</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-errors-with-nvidia-driver-installation/"><u>No More Errors with Nvidia Driver Installation</u></a></li>
 </ul></div>
 

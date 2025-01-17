@@ -1,7 +1,7 @@
 ---
 title: "Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek"
-date: 2025-01-08T02:11:40.712Z
-updated: 2025-01-10T23:05:49.536Z
+date: 2025-01-14T00:16:10.124Z
+updated: 2025-01-17T01:09:56.840Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,16 +120,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-a-list-mobile-applications-for-enhanced-gopro-videos/"><u>[New] In 2024, A-List Mobile Applications for Enhanced GoPro Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unlocking-potential-innovations-in-gif-artistry/"><u>[New] Unlocking Potential Innovations in GIF Artistry</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-elevate-your-videography-top-tier-vimeo-tools/"><u>[Updated] In 2024, Elevate Your Videography Top-Tier Vimeo Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/recordingrealm-expedition-unveiling-snapcastpro-2023-for-2024/"><u>RecordingRealm Expedition Unveiling 'SnapCastPro' 2023 for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-setting-up-your-virtual-private-network-vpn-on-microsofts-latest-operating-system-windows-11/"><u>Step-by-Step Instructions for Setting up Your Virtual Private Network (VPN) on Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-on-how-to-set-up-wifi-connection-on-your-computer/"><u>Step-by-Step Instructions on How to Set Up WiFi Connection on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-hidden-or-missing-amd-graphics-driver-in-device-manager/"><u>Step-by-Step Solutions for Hidden or Missing AMD Graphics Driver in Device Manager</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-adding-an-extra-display-to-your-pc/"><u>Step-by-Step Tutorial: Adding an Extra Display to Your PC</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-take-your-videos-to-the-next-level-os-x-mavericks-editing-tips/"><u>Updated 2024 Approved Take Your Videos to the Next Level OS X Mavericks Editing Tips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/lies-beneath-the-core-of-asmr-videos/"><u>What Lies Beneath The Core of ASMR Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-introduction-design-made-simple-and-inexpensive/"><u>YouTube Introduction Design Made Simple and Inexpensive</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pure-magic-in-editing-top-6-background-removers-proved-effective/"><u>[Updated] Pure Magic in Editing Top 6 Background Removers Proved Effective</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726221153108-jpegpng-movavi/"><u>「お手頃価格JPEGとPNG間の即座交換サービス - Movavi無料版」</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024gopro10/"><u>2024年度更新！免費GoPro動画編集ツールベスト10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/deciphering-screen-recorders-bandicam-or-camtasia/"><u>Deciphering Screen Recorders Bandicam or Camtasia?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/decoding-the-average-earning-scale-for-podcasters/"><u>Decoding the Average Earning Scale for Podcasters</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/fixing-screen-issues-in-windows-professional-advice-by-yl-software/"><u>Fixing Screen Issues in Windows: Professional Advice by YL Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fotografia-digitali-essenziali-che-cose-un-file-cr2-and-strategie-daprire-efficaci/"><u>Fotografia Digitali Essenziali: Che Cos'È Un File CR2 & Strategie D'Aprire Efficaci</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-5-techniques-for-storing-lol-battles/"><u>In 2024, Top 5 Techniques for Storing LOL Battles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726226969423-movavi-mkv-m4a/"><u>Movavi - 무료 공급자: 이미지, 오디오를 MKV, M4A로 쉽게 전환</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-guide-insta-video-edits-and-borders/"><u>Step-By-Step Guide Insta Video Edits & Borders</u></a></li>
+<li><a href="https://win-forum.techidaily.com/why-doesnt-my-file-explorer-work-discover-the-best-troubleshooting-techniques/"><u>Why Doesn't My File Explorer Work? Discover the Best Troubleshooting Techniques</u></a></li>
 </ul></div>
 

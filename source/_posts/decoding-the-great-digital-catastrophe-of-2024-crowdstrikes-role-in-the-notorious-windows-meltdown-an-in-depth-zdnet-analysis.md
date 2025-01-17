@@ -1,7 +1,7 @@
 ---
 title: "Decoding The Great Digital Catastrophe of 2024: CrowdStrike's Role in the Notorious Windows Meltdown | An In-Depth ZDNet Analysis"
-date: 2025-01-05T08:07:17.982Z
-updated: 2025-01-10T21:15:30.559Z
+date: 2025-01-15T18:29:18.044Z
+updated: 2025-01-16T22:54:23.566Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,19 +176,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-8-free-videography-programs-perfect-for-indie-filmmakers/"><u>[New] Top 8 Free Videography Programs Perfect For Indie Filmmakers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-7-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 7 and iPad Securely</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/el-salvador-adopts-bitcoin-as-official-currency-insight-into-its-implementation/"><u>El Salvador Adopts Bitcoin as Official Currency – Insight Into Its Implementation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-your-listening-experience-with-our-favorite-8-ios-music-apps/"><u>Enhance Your Listening Experience with Our Favorite 8 iOS Music Apps</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/enhance-your-live-broadcasts-using-manycam-the-ultimate-virtual-webcam-software-suite/"><u>Enhance Your Live Broadcasts Using ManyCam: The Ultimate Virtual Webcam Software Suite</u></a></li>
-<li><a href="https://fox-info.techidaily.com/from-disconnected-sounds-to-cohesive-scenes-with-audacity/"><u>From Disconnected Sounds to Cohesive Scenes with Audacity</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-realme-narzo-n55-frp-by-drfone-android/"><u>Full Guide to Bypass Realme Narzo N55 FRP</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-remotely-operate-google-home-smart-gadgets-on-windows-and-mac-computers/"><u>How To Remotely Operate Google Home Smart Gadgets on Windows and Mac Computers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-non-functional-xbox-series-x-and-s-audio-devices/"><u>Quick Fixes for Non-Functional Xbox Series X and S Audio Devices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/securing-a-smooth-pathway-to-share-srt-text-across-multiple-platforms/"><u>Securing a Smooth Pathway to Share SRT Text Across Multiple Platforms</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/taking-flight-in-content-creation-dji-drones-and-fb-live/"><u>Taking Flight in Content Creation DJI Drones & FB Live</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-strategy-for-recovering-a-forgotten-fb-password-without-contact-details/"><u>The Ultimate Strategy for Recovering a Forgotten FB Password without Contact Details</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-21-free-ip-camera-apps-best-choices-for-home-security-and-surveillance/"><u>Top 21 Free IP Camera Apps: Best Choices for Home Security & Surveillance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-hidden-electronic-mail-addresses-legal-methods-explored/"><u>Unveiling Hidden Electronic Mail Addresses – Legal Methods Explored</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart/"><u>[New] 2024 Approved The Artisan’s Touch Skillfully Applying Face-Centric Motion Blur Using Picsart</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-wavemaster-precision-touchpad-drivers-download-and-compatibility-for-windows-users/"><u>ASUS WaveMaster Precision TouchPad Drivers: Download and Compatibility for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-your-weapon-in-agile-combat-a-comparative-analysis-of-trello-and-jira/"><u>Choosing Your Weapon in Agile Combat: A Comparative Analysis of Trello and Jira</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-your-tunes-anywhere-user-friendly-online-audio-editor-for-pc-and-mac-users/"><u>Convert Your Tunes Anywhere - User-Friendly Online Audio Editor for PC & Mac Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/descargar-e-convertir-archivos-flv-a-formatos-de-alto-rango-con-movavi-sin-coste/"><u>Descargar E Convertir Archivos FLV a Formatos De Alto Rango Con Movavi - Sin Coste</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-ai-interactions-with-top-5-techniques-for-superior-chatgpt-prompts/"><u>Elevate AI Interactions with Top 5 Techniques for Superior ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuito-riproduzione-in-mp3-di-file-opus-usando-movavi-converti-facilmente-ora/"><u>Gratuito Riproduzione in MP3 Di File Opus Usando Movavi - Converti Facilmente Ora!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-vivo-y36-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Vivo Y36</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-imovie-update-now-available-for-windows-users-official-202n4-version/"><u>Latest iMovie Update Now Available for Windows Users (Official) - 202N4 Version</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-fixes-for-a-common-problem-unblocking-netflix-streams-on-roku-tvs-and-sticks/"><u>Step-by-Step Fixes for a Common Problem: Unblocking Netflix Streams on Roku TVs & Sticks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/toutes-directions-convertissez-votre-fichier-dts-en-format-aac-sans-cout-gratuit-via-movavi/"><u>Toutes Directions: Convertissez Votre Fichier DTS en Format AAC Sans Coût - Gratuit via Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforme-seu-video-em-mov-livre-de-custo-e-facilmente-o-guia-util-do-movavi-para-a-migracao-m4v-online/"><u>Transforme Seu Vídeo Em MOV Livre De Custo E Facilmente: O Guia Útil Do Movavi Para a Migração M4V Online</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-from-still-to-stunning-how-to-add-the-ken-burns-effect-to-your-videos/"><u>Updated In 2024, From Still to Stunning How to Add the Ken Burns Effect to Your Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-your-steam-games-arent-working-on-windows-10-and-how-to-fix-them-quickly/"><u>Why Your Steam Games Aren't Working on Windows 10 and How to Fix Them Quickly</u></a></li>
 </ul></div>
 

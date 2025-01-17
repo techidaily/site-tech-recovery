@@ -1,7 +1,7 @@
 ---
 title: "Integrating Ubuntu Into macOS: A Step-by-Step Tutorial for Combining Linux and Xcode in One Smart Trick Insights"
-date: 2025-01-08T22:18:53.724Z
-updated: 2025-01-11T00:37:34.464Z
+date: 2025-01-13T18:10:10.265Z
+updated: 2025-01-16T20:45:41.890Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -39,6 +39,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -49,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -59,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,18 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-the-algorithm-boosting-instagram-engagement/"><u>2024 Approved Mastering the Algorithm Boosting Instagram Engagement</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/vating-viewers-with-youtubes-visual-polishing-for-2024/"><u>Captivating Viewers with Youtube's Visual Polishing for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-for-fixing-optical-drive-ejection-problems-on-your-computer/"><u>Expert Advice for Fixing Optical Drive Ejection Problems on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-top-tier-key-tracking-gadgets-dominating-2024/"><u>Explore the Top-Tier Key Tracking Gadgets Dominating 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/find-out-who-watches-your-youtube-content-strategies-inside/"><u>Find Out Who Watches Your YouTube Content - Strategies Inside</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/improving-your-gameplay-on-dragons-dogma-2-addressing-and-fixing-frame-rate-hurdles-and-fluctuations/"><u>Improving Your Gameplay on Dragon's Dogma 2: Addressing and Fixing Frame Rate Hurdles & Fluctuations</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphones-and-androids-face-off-determining-the-ideal-smartphone-for-you/"><u>IPhones and Androids Face-Off: Determining the Ideal Smartphone for You</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/rock-your-ears-8-amazing-free-music-apps-to-install-on-your-iphone-now/"><u>Rock Your Ears: 8 Amazing Free Music Apps to Install on Your iPhone Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-logitech-keyboard-wont-connect-with-windows-10/"><u>Troubleshooting Steps When Logitech Keyboard Won’t Connect with Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-issues-with-call-functionality-on-your-android-device/"><u>Ultimate Guide: Resolving Issues with Call Functionality on Your Android Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/warzone-black-screen-troubleshooting-guide-updated-techniques/"><u>Warzone Black Screen Troubleshooting Guide - Updated Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-video-enregistrez-votre-video-avec-camera-et-audio-en-une-touche-sur-windows/"><u>WinX Video: Enregistrez Votre Vidéo Avec Caméra Et Audio en Une Touche Sur Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-modern-filmmakers-guide-for-computer-mac-and-mobile/"><u>[New] 2024 Approved The Modern Filmmaker's Guide for Computer, Mac & Mobile</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unfreeze-non-playing-youtube-tweets-chrome/"><u>[New] Unfreeze Non-Playing YouTube Tweets Chrome</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavim4bwma/"><u>簡単に行う！Movaviを使用して無料でオンラインM4BファイルをWMAに変更する方法</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/adoring-apple-innovations-yet-loyal-to-my-trusty-android-device/"><u>Adoring Apple Innovations Yet Loyal to My Trusty Android Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/boost-windows-graphical-output-with-latest-intel-driver-update/"><u>Boost Windows' Graphical Output with Latest Intel Driver Update</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971642348-canon-pixma-ts3322-obtain-new-driver-version-now/"><u>Canon PIXMA TS3322 - Obtain New Driver Version Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-your-images-to-movies-instantly-affordable-gif-to-mov-tool-by-moovavi/"><u>Convert Your Images to Movies Instantly - AFFORDABLE GIF to MOV Tool by Moovavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/estrategias-simplificadas-para-reducir-videos-descubra-como-usar-movavi/"><u>Estrategias Simplificadas Para Reducir Vídeos: Descubra Cómo Usar Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g23-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G23 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-on-how-to-produce-engaging-videos-for-youtube-as-a-newbie/"><u>Step-by-Step Instructions on How to Produce Engaging Videos for YouTube as a Newbie</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trasforma-i-file-mef-in-jpeg-senza-costi-con-il-servizio-web-di-movavi/"><u>Trasforma I File MEF in JPEG Senza Costi Con Il Servizio Web Di Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/zaklady-virtualni-kamery-obs-v-aplikacich-rozsireny-pruvodce-zacitlivejsi-technologii-2024/"><u>Základy Virtuální Kamery OBS v Aplikacích: Rozšířený Průvodce Začítlivější Technologii 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/zooming-into-aesthetics-a-visual-effects-handbook-for-meetings-for-2024/"><u>Zooming Into Aesthetics A Visual Effects Handbook for Meetings for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Securely Archive Your Essential eBook Collection From VitalSource
-date: 2024-08-20T11:20:20.506Z
-updated: 2024-08-21T11:20:20.506Z
+date: 2025-01-13T04:37:04.302Z
+updated: 2025-01-16T19:10:59.786Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8c1f2c53836ffd296ae56332.jpg
@@ -9,15 +9,21 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 
 ## How to Securely Archive Your Essential eBook Collection From VitalSource
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Back up VitalSource Bookshelf eBooks
 
 Posted by [Iris Yan](https://www.facebook.com/iris.yan.16718) on 1/8/2019 9:00:15 AM.
 
 4.9 [(2 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 VitalSource Bookshelf is one of the most widely used etextbook platform around the world. Why it is so popular among students? One of the most improtant reason is that VitalSource is co-founded by major textbooks publishers Cengage, McGraw-hill, Pearson, MacMillan, and John Wiley & Sons, and integrated with learning manage system at over 100 institutions and colleges. It claims itself contains 90 percent of the core books used in higher education, and priced at 70% lower than the print versions. It is true that you can always get the book you want at a much more affordable rate at VitalSource than other vendors from the student’s comments. As there are so many students purchasing or renting digital textbooks from VitalSource, backing up VitalSource Bookshelf eBooks becomes the major concern. 
 
@@ -41,9 +47,6 @@ Many VitalSource users complain that they do not want to read the eBook with the
 
 For the better reading and studying experience, we really should back up VitalSource eBooks. Now you must be curious how we can back up VitalSource eBooks. In the following part, I will guide you how to back up VitalSource eBooks step by step.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Back up VitalSource eBooks?
 
 Just like other eBook vendors, VitalSource also employs very strict DRM scheme to protect their books. That’s why many people have downloaded VitalSource eBooks, but still need to read them with VitalSource Bookshelf. To back up VitalSource Bookshelf eBooks, we need to remove the DRM from VitalSource eBooks and convert the VitalSource vbk to PDF/EPUB. You can achieve the both goals with only one software—[Epubor VitalSource Downloader](https://tools.techidaily.com/epubor/products/). As the best **VitalSource DRM Removal**, it can not only strip DRM from VitalSource eBooks, but also **convert VBK to PDF/EPUB**.
@@ -58,27 +61,26 @@ Updated 2/18/2019: Epubor Vitalsource Downloader is not available for downloadin
 
 ![VitalSource bookshelf](http://www.epubor.com/images/uppic/vitalsource-bookshelf.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Click the Book cover to download the Book you want to back up. There is a processing bar at the top center to show you how many pages are in the queue for downloading. 
 
 ![downloading vitalsource ebooks](http://www.epubor.com/images/uppic/downloading-vitalsource-ebook.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Please wait patiently! Once the downloading is finished, a new message “Download File Succeeded!”. 
 
 ![download succeeded](http://www.epubor.com/images/uppic/download-file-succeeded-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Click “ok” button, the folder stored the downloaded VitalSource eBooks will pop up. 
 
 ![downloads- location-vitalsource](http://www.epubor.com/images/uppic/downloads- location-vitalsource.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 To be mentioned, the downloaded VitalSource eBooks is DRM-FREE PDF/EPUB file, not the DRM-protected VBK file. The downloaded process combines the DRM Removal with the eBook conversion. With only 1 click, you can remove the DRM from VitalSource eBooks and download VitalSource VBK to PDF/ePUB. 
 
 Now you get the DRM-free PDF/EPUB file stored at your computer so that you can read it any time with any PDF/EPUB supported reader apps or eReaders. Here you can see that I am reading my VitalSource eBooks with ADE.
@@ -86,8 +88,9 @@ Now you get the DRM-free PDF/EPUB file stored at your computer so that you can r
 ![downloading vitalsource ebooks](http://www.epubor.com/images/uppic/reading-vbk-with-ADE.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If you still have books purchased from other eBook vendors like Amazon, Kobo, Nook & Google Play, here is the solution to [back up eBooks](https://tools.techidaily.com/epubor/products/).
 
 Related reading
@@ -97,9 +100,6 @@ Related reading
 
 ![author](http://www.epubor.com/images/uppic/iris.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 [Iris Yan](https://www.facebook.com/iris.yan.16718) has been a passionate member of Epubor since 2017\. Her mission is to enhance your ebook reading experience by sharing insightful tips and tricks. Join her on a journey towards reading excellence today!
 
 SHARING IS GREAT!
@@ -107,8 +107,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 2 Comments
 
@@ -156,8 +154,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +161,23 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-the-visual-appeal-of-your-video-credits/"><u>[New] 2024 Approved Elevate the Visual Appeal of Your Video Credits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-send-a-snap-from-memoriescamera-roll-on-snapchat-for-2024/"><u>[New] How to Send a Snap From Memories/Camera Roll on Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-rock-your-facebook-profile-add-pin-play-and-manage-music-iphone-and-android-for-2024/"><u>[New] Rock Your Facebook Profile Add, Pin, Play, & Manage Music (iPhone & Android) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-extract-and-save-video-previews-free-and-easy/"><u>[Updated] 2024 Approved Extract and Save Video Previews, Free & Easy</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/begin-your-secure-backup-journey-absolutely-no-charge-with-aomei-database-backupper/"><u>Begin Your Secure Backup Journey - Absolutely No Charge with AOMEI Database Backupper!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-8-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 8 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-engagement-a-step-by-step-for-commenting-with-gifs-on-instagram/"><u>Elevate Your Engagement: A Step-by-Step for Commenting with GIFs on Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/essential-igtv-picks-for-a-creative-edge/"><u>Essential IGTV Picks for a Creative Edge</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-scoop-on-nothing-phone-3-anticipated-launch-timeline-cost-estimates-and-specs-revealed/"><u>Inside Scoop on Nothing Phone 3: Anticipated Launch Timeline, Cost Estimates, and Specs Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-netflix-for-kid-approved-masterpieces-top-picks-for-your-next-family-movie-night/"><u>Navigating Netflix for Kid-Approved Masterpieces: Top Picks for Your Next Family Movie Night</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/spotlight-on-app-interfaces-triller-vs-tiktok-deep-dive-max-156-chars/"><u>Spotlight on App Interfaces Triller Vs. TikTok Deep Dive (Max 156 Chars)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-modifying-your-posts-after-sharing-on-instagram/"><u>Step-by-Step Guide: Modifying Your Posts After Sharing on Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essentials-of-bing-how-microsofts-search-engine-works-and-compares-to-google/"><u>The Essentials of Bing: How Microsoft's Search Engine Works and Compares to Google</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-wlanapidll-effective-solutions-and-tips/"><u>Troubleshooting the Missing 'WLANAPI.DLL': Effective Solutions and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turning-off-your-iphone-15-propro-max-step-by-step-instructions/"><u>Turning Off Your iPhone 15 Pro/Pro Max – Step-by-Step Instructions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-guide-to-selecting-a-superior-virtual-reality-headset-mobility-focused-or-connection-centric/"><u>Your Guide to Selecting a Superior Virtual Reality Headset Mobility-Focused or Connection-Centric?</u></a></li>
+</ul></div>
 

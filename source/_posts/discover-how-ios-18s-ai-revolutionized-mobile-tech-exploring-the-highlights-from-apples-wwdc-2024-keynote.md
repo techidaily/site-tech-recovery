@@ -1,7 +1,7 @@
 ---
 title: "Discover How iOS 18'S AI Revolutionized Mobile Tech: Exploring the Highlights From Apple's WWDC 2024 Keynote"
-date: 2024-12-11T18:03:29.554Z
-updated: 2024-12-17T18:07:55.310Z
+date: 2025-01-09T23:38:03.202Z
+updated: 2025-01-16T22:35:31.233Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Reputation botched by a software rollout
@@ -64,6 +64,10 @@ The Sonos S2 firmware, which requires additional memory and relies more on cloud
 
 It's not hard to imagine that [Play:3, Play:1, Play:5 Gen2, and Sub Gen1 speakers](https://support.sonos.com/en-us/article/sonos-app-version-compatibility) that have been in the wild for more than 10 years will become obsolete in the next year or so when Sonos introduces a revised S2 or S3 firmware. These speakers will likely need to be run [on legacy networks and controlled separately](https://support.sonos.com/en-us/article/set-up-separate-s1-and-s2-sonos-systems), like the S1 components were when Sonos initially rolled out S2 in August 2020.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A lack of competitors
 
 While many users like myself are looking for a clear migration path to a competitor, no true alternatives to Sonos exist. Neither [Amazon Echo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fb%2F%3Fie%3DUTF8%26node%3D9818047011%26hvadid%3D467435459503%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D12063768966126113887%26hvpone%3D%26hvptwo%3D%26hvqmt%3De%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9011891%26hvtargid%3Dkwd-50712656950%26ref%3Dpd%5Fsl%5Fijuevad4z%5Fe%26www.amazon.com%2Fdp%2FB07XKF5RM3%3Ftag%3Dgooghydr-20%26hvadid%3D467435459503%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D12063768966126113887%26hvpone%3D%26hvptwo%3D%26hvqmt%3De%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9011891%26hvtargid%3Dkwd-50712656950%26ref%3Dpd%5Fsl%5F2g7cb1h5ze%5Fe%26gclid%3DCj0KCQjw-uK0BhC0ARIsANQtgGN0ThJnnXE7wtYeCxiGIl5czneMT%5FsjULx2rJ86YnnFx2KqPCbNjZ8aAjIfEALw%5FwcB%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caf79af40-ba0a-4fc8-bf8a-369938c64f6e%7Cdtp&dtb=1) nor [Google Nest Audio](https://store.google.com/us/product/nest%5Faudio?pli=1&hl=en-US) provides comparable multiroom audio or surround sound with their current smart speakers. Apple's [HomePod](https://www.apple.com/homepod/) is an excellent solution for a bedroom or a small living room with a two-speaker setup paired with an [Apple TV](https://www.zdnet.com/home-and-office/home-entertainment/tvos-18-will-enhance-the-dialogue-on-your-apple-tv-to-help-you-better-hear-it/), but the technology doesn't offer multiroom or surround sound.
@@ -84,12 +88,16 @@ Apple has the resources to make this move, and now is the right time for HomePod
 
 [As reported](https://www.macrumors.com/2024/07/04/leak-confirms-apples-work-on-home-accessory/) in _MacRumors_, a connected "accessory" for Apple TV and HomePod powered by the yet-to-be-released A18 processor (coming in the [iPhone 16](https://www.zdnet.com/article/i-upgrade-my-iphone-every-year-but-iphone-16-worries-me-heres-why/)) may bring the highly awaited Apple Intelligence features to the home entertainment space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Transforming Apple Music with AI
 
 A set-top box, whether an updated Apple TV or a centralized processor unit for Apple TV and HomePod, could be the central control unit for a multiroom and surround sound audio system. In addition to providing the expected [artificial intelligence](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) (AI) features of a more intelligent Siri and orchestrating home automation functions, the unit could transform Apple Music into a highly personalized and interactive experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Personalized music experiences
@@ -104,17 +112,9 @@ With interactive music discovery, you could converse with Siri to explore new mu
 
 Social and collaborative features could facilitate the creation of collaborative playlists with friends and family, allowing real-time voting on songs and interactive chats about playlist content. Personalized messages generated by the new Apple Intelligence-powered Siri could help with custom recommendations for friends based on shared listening habits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Smart home integration
 
 Smart home integration could allow voice-controlled music management across HomePod and other devices, setting up multiroom audio experiences with personalized settings for different rooms and family members. Event-based playlists could be automatically generated for scheduled events, syncing with other Apple devices to create immersive audio experiences tailored to specific activities.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Learning and adaptation
 
@@ -123,7 +123,7 @@ The AI's adaptive learning capabilities could continuously refine music recommen
 **Also: [LG TVs are getting a free audio upgrade that Apple users will absolutely love](https://www.zdnet.com/home-and-office/home-entertainment/lg-tvs-are-getting-a-free-audio-upgrade-that-apple-users-will-absolutely-love/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Sonos cooked, and can Apple step in?
@@ -160,19 +160,15 @@ The recent missteps by Sonos have left a void in the multiroom audio market, pre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-the-art-of-audio-blending-in-audacity/"><u>[New] 2024 Approved Mastering the Art of Audio Blending in Audacity</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-live-with-google-meet-youtube-broadcasting-steps/"><u>[New] Go Live with Google Meet YouTube Broadcasting Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726226977142-jpeg-movavi/"><u>簡単で迅速なJPEGファイルの無料オンライン変換 - Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-guide-transforming-pal-dvds-to-compatible-ntsc-via-top-rated-video-software-tools/"><u>DIY Guide: Transforming PAL DVDs to Compatible NTSC via Top-Rated Video Software Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ejecutando-seleccion-de-regiones-para-screenshots-en-windows-11-como-comenzar/"><u>Ejecutando Selección De Regiones Para Screenshots en Windows 11 - Cómo Comenzar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-mp3-to-webm-online-converter-by-movavi-effortless-audio-file-conversion/"><u>Free MP3-to-WebM Online Converter by Movavi: Effortless Audio File Conversion</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-online-omzettingen-van-amv-bestandjes-het-beste-beheer-programma-movavi/"><u>Gratis Online Omzettingen Van AMV-Bestandjes: Het Beste Beheer Programma - Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unleash-the-potential-of-video-marketing-on-facebook/"><u>In 2024, Unleash the Potential of Video Marketing on Facebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/internet-cemiyetinde-soylenceki-videoden-ses-cikarma-asagidaki-2-yaklasim/"><u>İnternet Cemiyeti'nde Söylenceki Video'den Ses Çıkarma - Aşağıdaki 2 Yaklaşım</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-installing-latest-wifi-driver-updates-for-windows-10-and-11/"><u>Step-by-Step Tutorial on Installing Latest WiFi Driver Updates for Windows 10 and 11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-best-liked-ae-templates-for-2024/"><u>The Ultimate Guide to Best-Liked AE Templates for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-resolving-missing-binkw32dll-errors/"><u>Troubleshooting Steps for Resolving Missing binkw32.dll Errors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-film-for-a-friendly-fb-coverspace/"><u>[New] 2024 Approved Film for a Friendly FB Coverspace</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-downloadsave-instagram-reels-video-in-2-ways/"><u>[Updated] In 2024, How to Download/Save Instagram Reels Video in 2 Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-unveils-new-media-player-software-as-itunes-bids-farewell-on-windows-platform-detailed-coverage-by-zdnet/"><u>Apple Unveils New Media Player Software as iTunes Bids Farewell on Windows Platform - Detailed Coverage by ZDNet</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/complete-guide-safeguarding-your-data-easy-steps-to-backup-windows-10-pre-upgrade-to-windows-11/"><u>Complete Guide: Safeguarding Your Data - Easy Steps to Backup Windows 10 Pre-Upgrade to Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fix-guide-when-netflix-struggles-with-playing-titles-correctly/"><u>Easy Fix Guide: When Netflix Struggles with Playing Titles Correctly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-unmatched-entertainment-with-apples-latest-innovation-the-vision-pro-your-ultimate-devices/"><u>Experience Unmatched Entertainment with Apple's Latest Innovation: The Vision Pro - Your Ultimate Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-magsafe-wallet-picks-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top-Rated MagSafe Wallet Picks - Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unbeatable-may-2024-promotions-on-atandt-mobile-plans-zdnets-top-picks/"><u>Unbeatable May 2024 Promotions on AT&T Mobile Plans | ZDNet's Top Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-rcs-technology-a-complete-guide/"><u>Understanding RCS Technology: A Complete Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Green Myths and Realities Surrounding Electric Vehicles
-date: 2024-08-19T15:22:35.624Z
-updated: 2024-08-20T15:22:35.624Z
+date: 2025-01-15T21:18:46.105Z
+updated: 2025-01-17T04:34:32.628Z
 categories:
   - BestProducts
 description: This Article Describes The Green Myths and Realities Surrounding Electric Vehicles
@@ -29,9 +29,6 @@ thumbnail: https://www.lifewire.com/thmb/vcmXbHunp9JwyRSTiPWFvmsHQ2Y=/400x300/fi
 
  Hybrid EVs, of course, can contribute plenty of emissions since most hybrids use some sort of fossil-fuel and electric combination for power, despite the fact those emissions can ultimately be less than those of gasoline powered cars. Still, even when those issues are factored in, EVs that run strictly on battery power seem to come out on top from a green perspective.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  How Green Is an EV in General? 
 
  Overall, EVs are pretty green. It's a little tricky to compare them to cars that burn fossil fuels but not impossible.
@@ -59,17 +56,17 @@ Bailey Mariner
  Given the fact that the average gasoline-powered vehicle generates those 6 tons of emissions on average annually, that still gives both EVs the edge when it comes to saving the planet.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Some People Say Electric Vehicles are a Green Dream 
 
  Even if electric vehicles do produce fewer carbon dioxide emissions than gasoline counterparts, the story isn’t all wine and roses. EVs are still cleaner than conventional vehicles, no matter how you lay out the deck, but there are some drawbacks for naysayers to call them just a green dream. Three key arguments give them their ammunition.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Electric Vehicle Production Generates Higher Emissions 
 
  It’s true that electric vehicles use some very special materials in their construction. Rare earth metals are required to build batteries, electric motors, and the electronics to control it all. Extracting cobalt, lithium, and neodymium is responsible for soil and water pollution. The miners of those materials, which sometimes include children, often go without basic protections. 
@@ -77,8 +74,9 @@ The powerful video editing program for your Windows PC</a>
  On the flip side, new processes and technology are in constant development, reducing the materials required or using them more efficiently. Responsible company policies are reducing the impact on man and planet day by day.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Electric Vehicles are Hard to Recycle 
 
  Particularly in the electronics sector, recycling has always been a challenge, technologically and economically. Electric vehicle manufacturing practices and end-of-life recycling issues is only making things worse. 
@@ -88,8 +86,9 @@ The powerful video editing program for your Windows PC</a>
 [  Can EV Batteries be Replaced or Upgraded? ](https://www.lifewire.com/can-ev-batteries-be-replaced-or-upgraded-5201827) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Some Electric Vehicles Generate Higher Emissions 
 
  Depending on the vehicle, it’s possible the least-efficient electric vehicle on the highest-emissions grid could produce carbon dioxide emissions that might indeed be higher than their conventional or hybrid counterparts. Some hybrid electric vehicles, too, could be a source of higher emissions for the same reasons. 
@@ -101,8 +100,9 @@ The powerful video editing program for your Windows PC</a>
 [  The Electric Grid Is Actually Cleaner Than You Think ](https://www.lifewire.com/the-electric-grid-is-actually-cleaner-than-you-think-5202010) 
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Can Electric Vehicles Save the Planet? 
 
  Yes, electric vehicles can help save the planet, but only in the same way that eating a salad can help someone lose weight. Just like a balanced diet and exercise are critical to a healthy lifestyle, electric vehicles are just one important part of a broader approach to a healthy planet, right down to its inhabitants, no matter how many legs they have. 
@@ -123,8 +123,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +130,18 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-ensuring-authenticity-of-your-youtube-account/"><u>[New] 2024 Approved Ensuring Authenticity of Your YouTube Account</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-10-best-free-passport-photo-maker-online-and-desktop/"><u>[Updated] 10 Best Free Passport Photo Maker Online and Desktop</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-2023-top-6-facebook-lite-video-downloaders/"><u>[Updated] 2024 Approved 2023 | Top 6 Facebook Lite Video Downloaders</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ac1st16dll-error-fixes-how-to-recover-or-prevent-it-from-disappearing/"><u>Ac1st16.dll Error Fixes - How to Recover or Prevent It From Disappearing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/app-downloads-face-off-analyzing-the-pros-and-cons-of-the-ios-app-store-and-google-play-store/"><u>App Downloads Face-Off: Analyzing the Pros and Cons of the IOS App Store & Google Play Store</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/budget-friendly-home-cinema-kits-starting-your-journey-to-a-cinematic-paradise/"><u>Budget-Friendly Home Cinema Kits: Starting Your Journey to a Cinematic Paradise</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cutting-edge-budget-friendly-xr-glasses-offer-superior-performance-compared-to-expensive-apple-vision-pro-and-meta-quest-models-revealed-by-zdnet/"><u>Cutting-Edge, Budget-Friendly XR Glasses Offer Superior Performance Compared to Expensive Apple Vision Pro and Meta Quest Models - Revealed by ZDNET</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-new-apple-iphone-se-balancing-functionality-with-affordability/"><u>Evaluating the New Apple iPhone SE - Balancing Functionality with Affordability</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/star-trek-movie-marathon-how-to-experience-them-chronologically/"><u>Star Trek Movie Marathon: How to Experience Them Chronologically</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-role-of-cas-latencies-in-determining-pc-speed-and-efficiency/"><u>The Role of CAS Latencies in Determining PC Speed and Efficiency</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-nikon-video-editing-software-how-to-edit-nikon-video-files-for-2024/"><u>Updated Nikon Video Editing Software How to Edit Nikon Video Files for 2024</u></a></li>
+</ul></div>
 

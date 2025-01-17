@@ -1,7 +1,7 @@
 ---
 title: Pixel Watch Series 3 Unveiled? Anticipated Costs & Launch Timeline Revealed!
-date: 2024-08-19T15:19:58.159Z
-updated: 2024-08-20T15:19:58.159Z
+date: 2025-01-10T00:44:29.764Z
+updated: 2025-01-16T22:19:38.696Z
 categories:
   - BestProducts
 description: This Article Describes Pixel Watch Series 3 Unveiled? Anticipated Costs & Launch Timeline Revealed!
@@ -28,6 +28,10 @@ In This Article
 * **Price** : $2,000
 * **Specs** : Clamshell form factor, small outer screen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Foldable iPhone Be Released?
 
  Jeff Pu, an analyst at Haitong International Securities,[says Apple's first flip phone could come out](https://www.forbes.com/sites/ewanspence/2024/05/09/apple-folding-iphone-ipad-macbook-release-date/?sh=3862dfed1e98) in 2026\. This is backed up by a[2024 report from The Information](https://www.theinformation.com/articles/apple-moves-forward-with-foldable-iphone) and the Taiwanese newspaper_United Daily News_ which,[according to Patently Apple](https://www.patentlyapple.com/2024/02/a-new-supply-chain-report-claims-that-apples-foldable-iphone-project-is-still-in-the-works-with-vision-pro-team-members-now.html) , reports that part of the[Vision Pro](https://www.lifewire.com/apple-vr-headset-news-and-rumors-6744818) team is working on the foldable iPhone project with the intention of a 2026-2027 launch.
@@ -42,6 +46,10 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -50,9 +58,6 @@ Patent US8929085B2.
 
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
@@ -69,23 +74,22 @@ We don’t expect a foldable iPhone until at least 2026.
 
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 iPhone Fold concept.
 
 Michal Dufka
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Features
 
  Over the years, as phones have gotten larger, we’ve enjoyed more screen real estate for things like reading, watching movies, playing games, and multitasking. A foldable phone is perfect for these activities.
@@ -99,8 +103,9 @@ Michal Dufka
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Specs and Hardware
 
  So how will the iPhone Flip work? It’s anyone’s guess, but there are a few options: one large, foldable screen like the Galaxy Fold; two separate screens that fold over a purposefully visible hinge like the[Surface Duo](https://www.lifewire.com/microsoft-surface-duo-review-5113055) ; or_three_ screens—two regular ones and a third for when the device is in its folded position.
@@ -125,9 +130,6 @@ Michal Dufka
 
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -138,14 +140,11 @@ Michal Dufka
 
 [Sony Foldable Phone: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/sony-foldable-phone-7553435)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +153,21 @@ Michal Dufka
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-backtrack-innovation-box/"><u>[New] 2024 Approved Backtrack Innovation Box</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-innovative-ways-to-convey-your-story-through-videos/"><u>[New] Innovative Ways to Convey Your Story Through Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-crafting-a-celebrity-online-presence-nine-strategies-for-social-media-success/"><u>[Updated] Crafting a Celebrity Online Presence Nine Strategies for Social Media Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-hyperprospects-top-laptops-for-elite-video-editors-in-4k-for-2024/"><u>[Updated] HyperProspects Top Laptops for Elite Video Editors in 4K for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-understanding-and-using-the-telegram-application/"><u>A Comprehensive Guide to Understanding and Using the Telegram Application</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/enhancing-digital-campaigns-through-innovative-analytic-tools-beyond-traditional-cookies/"><u>Enhancing Digital Campaigns Through Innovative Analytic Tools – Beyond Traditional Cookies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-pick-the-best-gaming-pc-important-criteria-every-player-should-check/"><u>How to Pick the Best Gaming PC: Important Criteria Every Player Should Check</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-gt-5-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme GT 5 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-essential-vr-devices-for-drone-enthusiasts/"><u>In 2024, Essential VR Devices for Drone Enthusiasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insight-into-facebook-understanding-its-beginnings-appeal-factors-and-core-components/"><u>Insight Into Facebook: Understanding Its Beginnings, Appeal Factors, and Core Components</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-factory-resetting-your-dell-computer/"><u>Step-by-Step Guide: Factory Resetting Your Dell Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-gaming-consoles-of-2024/"><u>The Best Gaming Consoles of 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-rated-dvd-ripper-software-for-pc-windows-10-and-11-2024-edition/"><u>Top Rated DVD Ripper Software for PC (Windows 10 & 11) - 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-secured-login-information-tips-for-finding-mac-passwords/"><u>Unlocking Secured Login Information: Tips for Finding Mac Passwords</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 11 Must-Have Windows & macOS Applications and Tools - Insights From ZDNet
-date: 2024-12-02T05:42:55.070Z
-updated: 2024-12-05T05:52:19.046Z
+date: 2025-01-14T00:58:08.281Z
+updated: 2025-01-17T00:29:33.373Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -41,6 +41,10 @@ Show less
 [View now at Microsoft](https://microsoft-us.evyy.net/c/159047/434427/3327?u=https://www.microsoft.com/en-us/microsoft-365/business//&subid1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&sharedId=zdnet)
 
 ## Microsoft 365 apps for Business
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It's not just a bundle anymore
 
@@ -100,6 +104,10 @@ Show less
 
 ## Quicken Home and Business
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### I hate it, but I use it
 
 A gazillion years ago, a famous household brand sold a lot of mouthwash with ads whose tagline went something like: "You hate the taste, but you use it twice a day." That, to me, is the perfect description of Quicken for Windows, which is occasionally infuriating to use, comes with a steep learning curve, and includes a virtual guarantee that you will run into some terribly annoying bug roughly once a quarter. Despite all that, it's better than any of the alternatives. I know. I've tried them all.
@@ -108,21 +116,17 @@ The good news is that Quicken's support staff is responsive and knowledgeable, a
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Browser and extensions
 
 Show less 
 
 [View now at Microsoft Edge](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https://www.microsoft.com/edge)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Edge (Chromium)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
 
@@ -137,7 +141,7 @@ Show less
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1Password
@@ -171,14 +175,10 @@ Show less
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Spotify Music
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### No music app is perfect, but Spotify is best all around
 
@@ -192,11 +192,11 @@ Show less
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
 
-## VLC Media Player
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## VLC Media Player
 
 ### Free, open source, handles every format imaginable
 
@@ -209,13 +209,13 @@ Show less
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MediaMonkey
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A Swiss Army knife for digital media
@@ -256,21 +256,22 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-digital-doppelganger-designs-sketching-an-animated-self/"><u>[New] Digital Doppelganger Designs Sketching an Animated Self</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-legal-steps-for-overcoming-a-youtube-copyright-strike/"><u>[Updated] Legal Steps for Overcoming a YouTube Copyright Strike</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-from-novice-to-viral-video-top-30-anime-inspiration-ideas/"><u>2024 Approved From Novice to Viral Video Top 30 Anime Inspiration Ideas</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/compact-and-budget-friendly-exploring-the-features-of-the-nintendo-switch-lite/"><u>Compact & Budget-Friendly: Exploring the Features of the Nintendo Switch Lite</u></a></li>
-<li><a href="https://fox-links.techidaily.com/enhance-video-impact-two-tiktok-techniques-for-2024/"><u>Enhance Video Impact Two TikTok Techniques for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/exploring-hardware-factors-that-determine-pc-boot-up-and-run-speed-with-tips-by-yl-computing-yl-software/"><u>Exploring Hardware Factors That Determine PC Boot-Up and Run Speed with Tips by YL Computing | YL Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-ready-for-ios-18-features-release-timing-and-cost-free-access-today/"><u>Get Ready for IOS 18: Features, Release Timing, and Cost-Free Access Today</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ipados-2023-update-unveiled-find-out-when-it-drops-no-charge-for-users-and-the-latest-upgrades/"><u>IPadOS 2023 Update Unveiled! Find Out When It Drops, No Charge for Users & The Latest Upgrades</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/macbook-air-multitasking-made-easy-the-ultimate-split-screen-setup/"><u>MacBook Air Multitasking Made Easy: The Ultimate Split Screen Setup</u></a></li>
-<li><a href="https://win-superb.techidaily.com/navigating-microsofts-copilot-balancing-user-support-and-marketing-strategies-expert-analysis-by-zdnet/"><u>Navigating Microsoft's Copilot: Balancing User Support and Marketing Strategies | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reducing-dependency-on-large-scale-tech-providers-insights-from-microsoft-service-failures/"><u>Reducing Dependency on Large-Scale Tech Providers: Insights From Microsoft Service Failures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/splurge-smarter-unveiling-top-quality-tech-treasures-at-wallet-friendly-rates/"><u>Splurge Smarter: Unveiling Top Quality Tech Treasures at Wallet-Friendly Rates</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-connecting-devices-to-your-bose-soundlink-speaker/"><u>Step-by-Step Tutorial: Connecting Devices to Your Bose SoundLink Speaker</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wireless-mastery-how-to-pair-airpods-with-your-hewlett-packard-computer-like-a-pro/"><u>Wireless Mastery: How to Pair AirPods with Your Hewlett-Packard Computer Like a Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illuminating-path-to-stellar-android-video-quality/"><u>[New] Illuminating Path to Stellar Android Video Quality</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elevate-video-quality-with-vlcs-high-resolution-webcam-recording/"><u>[New] In 2024, Elevate Video Quality with VLC's High-Resolution Webcam Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ultimate-guide-to-use-video-enhancer-22/"><u>[Updated] 2024 Approved Ultimate Guide To Use Video Enhancer 2.2</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-achieving-youtube-mastery-with-effective-use-of-creator-studio-tools/"><u>[Updated] Achieving YouTube Mastery with Effective Use of Creator Studio Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-i-found-liquid-inside-my-iphones-charger-port-what-can-i-do-expert-solutions-unveiled/"><u>1. 'I Found Liquid Inside My iPhone's Charger Port: What Can I Do?' Expert Solutions Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beginners-blueprint-for-configuring-your-new-ipad-insights/"><u>Beginner's Blueprint for Configuring Your New iPad: Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/buying-apple-vision-pro-simplified-insider-tips-for-perfect-face-scans-and-ordering-success-techadvice/"><u>Buying Apple Vision Pro Simplified: Insider Tips for Perfect Face Scans and Ordering Success | TechAdvice</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/comparative-guide-to-pt-button-usage-europe-and-brazil/"><u>Comparative Guide to PT Button Usage, Europe and Brazil</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-charging-and-temperature-control-discover-how-to-keep-your-iphoneipadmac-fresh-with-zdnets-top-3-in-1-magsafe-dock/"><u>Effortless Charging & Temperature Control: Discover How to Keep Your iPhone/iPad/Mac Fresh with ZDNet's Top 3-in-1 MagSafe Dock!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-top-screen-changers-for-vivid-virtual-imagery/"><u>In 2024, Top Screen Changers for Vivid Virtual Imagery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-efficiency-on-macos-using-speedy-shortcut-actions-insider-tips-and-tricks-from-zdnet/"><u>Maximize Efficiency on macOS Using Speedy Shortcut Actions - Insider Tips & Tricks From ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-newest-ipad-9th-generation-at-a-steal-only-250-post-apple-launch-check-out-now-on-zdnet/"><u>Secure Your Newest iPad (9Th Generation) at a Steal - Only $250 Post-Apple Launch! Check Out Now on ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-upgrading-to-current-targus-displaylink-drivers-on-win-1187/"><u>Step-by-Step Tutorial: Upgrading to Current Targus DisplayLink Drivers on Win 11/8/7</u></a></li>
+<li><a href="https://win11.techidaily.com/top-6-windows-11-compatible-android-apps-worth-your-time/"><u>Top 6 Windows 11 Compatible Android Apps Worth Your Time</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-protectors-for-iphone-16-and-pro-models-comprehensive-review-by-tech-gurus-zdnet/"><u>Top-Rated Protectors for iPhone 16 & Pro Models : Comprehensive Review by Tech Gurus - ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-choosing-the-perfect-ipad-pro-case-in-202email-protected-thoroughly-reviewed-and-recommended-toms-hardware/"><u>Ultimate Guide to Choosing the Perfect iPad Pro Case in 202([Email Protected]) - Thoroughly Reviewed and Recommended | Tom's Hardware</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/windows-11-outlook-backup-made-easy/"><u>Windows 11 Outlook Backup Made Easy</u></a></li>
 </ul></div>
 

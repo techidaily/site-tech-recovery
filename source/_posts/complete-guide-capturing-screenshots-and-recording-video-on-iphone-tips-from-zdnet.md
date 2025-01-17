@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots and Recording Video on iPhone - Tips From ZDNet"
-date: 2025-01-04T23:56:56.701Z
-updated: 2025-01-11T06:25:29.604Z
+date: 2025-01-12T17:47:06.210Z
+updated: 2025-01-17T04:48:48.329Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Whether you're trying to demonstrate a bug to a tech support rep or you're demon
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to screen record on any iPhone
@@ -42,7 +42,7 @@ This is the Screen Recording option we'll be adding to Control Center
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
@@ -66,7 +66,7 @@ While recording, your Screen Recording button will look like this (minus the red
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Begin screen recording
@@ -78,6 +78,10 @@ While recording is active, the Screen Recording button in Control Center will tu
 Your clock will look like this as long as Screen Recording is active.
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 5: Record
 
@@ -97,10 +101,6 @@ In both cases, the recording you just produced will immediately be saved to your
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
@@ -114,7 +114,7 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How can I share my captured video?
@@ -153,19 +153,18 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-leading-the-charge-top-10-gaming-bloggers-on-tiktok-for-2024/"><u>[New] Leading The Charge Top 10 Gaming Bloggers on TikTok for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-preserving-your-playlist-perfection-in-cross-services/"><u>[New] The Art of Preserving Your Playlist Perfection in Cross Services</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-advice-for-embedding-youtube-playlists-with-ease/"><u>[Updated] 2024 Approved Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-speedy-views-on-vimeo-how/"><u>[Updated] 2024 Approved Speedy Views on Vimeo How?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/core-concepts-of-story-making-for-2024/"><u>Core Concepts of Story Making for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/critical-selection-of-best-screen-recorders-android/"><u>Critical Selection of Best Screen Recorders (Android)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-unite-multiple-spotify-playlists-into-a-single-collection/"><u>Easy Steps to Unite Multiple Spotify Playlists Into a Single Collection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-the-error-when-your-system-cant-find-normalizdll/"><u>Fixing the Error: When Your System Can’t Find Normaliz.dll</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-combine-multiple-jpegs-into-one-pdf/"><u>How to Combine Multiple JPEGs Into One PDF</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722890451545-is-your-zoom-experience-compromised-by-user-error-lets-find-out/"><u>Is Your Zoom Experience Compromised by User Error? Let's Find Out</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/mobile-optimierung-mcdows-erweitert-mit-abbyy-ocr/"><u>Mobile-Optimierung: McDows Erweitert Mit ABBYY OCR</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-in-economical-4k-adventure-cameras-akasos-ek7000/"><u>The Ultimate in Economical 4K Adventure Cameras: AKASO's EK7000</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trouble-accessing-roblox-game-crash-or-connection-errors-at-play/"><u>Trouble Accessing Roblox – Game Crash or Connection Errors at Play?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-repairing-missing-or-not-found-d3dx924dll-errors-in-your-system/"><u>Troubleshooting Tips: Repairing Missing or Not Found d3dx9_24.dll Errors in Your System</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/afarichrome-youtube-on-the-move-autoplay-options-for-2024/"><u>[New] Safari/Chrome YouTube On-the-Move AutoPlay Options for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-guide-to-affordable-cloud-space-best-of-the-20-for-2024/"><u>[New] The Ultimate Guide to Affordable Cloud Space Best of the 20 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-the-maze-mastering-inverted-visual-lookups-in-instagram-photos/"><u>[Updated] Navigating the Maze Mastering Inverted Visual Lookups in Instagram Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-2023-fb-live-stream-mp4-conversion-tool/"><u>2024 Approved 2023 FB Live Stream MP4 Conversion Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-maximizing-image-excellence-zero-price-tag/"><u>2024 Approved Maximizing Image Excellence, Zero Price Tag</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprender-las-condiciones-de-entrega-y-reembolso-de-movavi-para-compras-seguras/"><u>Comprender Las Condiciones De Entrega Y Reembolso De Movavi Para Compras Seguras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-essential-oculus-rift-adventures-for-gamers/"><u>In 2024, Essential Oculus Rift Adventures for Gamers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-igniting-virality-with-captivating-fb-giveaway-campaigns/"><u>In 2024, Igniting Virality with Captivating FB Giveaway Campaigns</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/meilleur-editeur-video-pour-macos-logiciel-de-montage-video-avec-interface-intuitive-et-outils-complets-movavi/"><u>Meilleur Éditeur Vidéo Pour macOS : Logiciel De Montage Vidéo Avec Interface Intuitive Et Outils Complets - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/passez-a-movavi-video-suite-payez-avec-confiance-et-beneficiez-de-remises-exceptionnelles/"><u>Passez À Movavi Video Suite - Payez Avec Confiance Et Bénéficiez De Remises Exceptionnelles !</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-retro-arc-of-gaming-shading-techniques-for-ancient-artifacts/"><u>The Retro Arc of Gaming: Shading Techniques for Ancient Artifacts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformar-archivos-ogm-a-ogg-sin-gastos-guia-paso-a-paso-para-usar-el-servicio-en-linea-de-movavi-gratis/"><u>Transformar Archivos OGM a OGG Sin Gastos: Guía Paso a Paso Para Usar El Servicio en Línea De Movavi Gratis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mp4-and-m4b-movavi/"><u>ストリーミング可能な無料オンライン MP4 & M4B コンバーター - Movavi簡単使用ガイド</u></a></li>
 </ul></div>
 

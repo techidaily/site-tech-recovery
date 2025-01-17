@@ -1,7 +1,7 @@
 ---
 title: "IOS 18: A Step-by-Step Guide to Tailoring the Control Center on Your iPhone - ZDNet"
-date: 2024-12-13T18:15:29.029Z
-updated: 2024-12-17T17:14:10.599Z
+date: 2025-01-14T23:24:09.314Z
+updated: 2025-01-17T03:24:12.034Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -55,7 +55,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -65,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,24 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-engagement-strategies-for-video-thumbnail-design/"><u>[New] Maximizing Engagement Strategies for Video Thumbnail Design</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-pioneering-filmmakers-unite-leveraging-screen-and-webcam-capture-with-vimeo-for-2024/"><u>[New] Pioneering Filmmakers Unite Leveraging Screen & Webcam Capture with Vimeo for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-pinnacle-of-immersion-highest-rated-oculus-headsets-for-2024/"><u>[New] The Pinnacle of Immersion Highest-Rated Oculus Headsets for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mememorph-machine-for-2024/"><u>[Updated] MemeMorph Machine for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mov-to-wav-movavi/"><u>「オンラインで無料のMOV to WAVビデオコンバータ - Movaviより安価選択肢」</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-ironborn-chimes-expertly-selected-spots-for-tts-downloads/"><u>2024 Approved Ironborn Chimes Expertly Selected Spots for TTS Downloads</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-redefining-visual-storytelling-adding-and-altering-twitter-video-thumbnails/"><u>2024 Approved Redefining Visual Storytelling Adding and Altering Twitter Video Thumbnails</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-motorola-moto-g23-frp-bypass-by-drfone-android/"><u>About Motorola Moto G23 FRP Bypass</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-facile-et-gratuite-des-fichiers-3gp-a-wma-avec-loutil-en-ligne-de-movavi/"><u>Conversion Facile Et Gratuite Des Fichiers 3GP À WMA Avec L'outil en Ligne De Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convert-flv-file-to-m4a-format-free-online-converter-by-movavi/"><u>Convert FLV File to M4A Format - Free Online Converter by Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convierte-facilmente-tus-audiolibros-m4b-a-formato-m4a-sin-costo-gratis-online/"><u>Convierte Fácilmente Tus Audiolibros M4B a Formato M4A Sin Costo - Gratis Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effektiv-movavi-mac-prosesserer-full-formatet-konvertering-fra-avi-mp4-flv-med-perfekt-kompatibilitet/"><u>Effektiv Movavi Mac Prosesserer - Full-Formatet Konvertering Fra AVI, MP4, FLV Med Perfekt Kompatibilitet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuita-conversao-de-arquivos-pcx-para-web-ferramenta-online-do-movavi/"><u>Gratuita Conversão De Arquivos PCX Para Web: Ferramenta Online Do Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-restore-macbook-screen-capture-functionality-top-11-remedies-explored/"><u>How to Restore Macbook Screen Capture Functionality - Top 11 Remedies Explored</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-reimagined-realities-augmented-wisdom-for-todays-world/"><u>In 2024, Reimagined Realities Augmented Wisdom for Today's World</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-dampening-aerial-drone-vibration-artifacts/"><u>In 2024, Strategies for Dampening Aerial Drone Vibration Artifacts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/section-4a-advanced-topic-the-impact-of-organizational-culture-on-innovation/"><u>Section 4A: Advanced Topic - The Impact of Organizational Culture on Innovation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-iphone-15-plus-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on iPhone 15 Plus</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-gratis-screen-capture-tools-fur-windows-7-eine-auswahl/"><u>Top Gratis Screen Capture Tools Für Windows 7 - Eine Auswahl</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-personalized-gift-boxes-unlocked-the-best-online-shopping-spots/"><u>[New] Personalized Gift Boxes Unlocked The Best Online Shopping Spots</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-thinkers-playground-top-10-mind-bending-rooms-for-2024/"><u>[Updated] Thinkers' Playground Top 10 Mind-Bending Rooms for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-spectacular-gratis-switch-gaming-tools/"><u>2024 Approved Spectacular Gratis Switch Gaming Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ideal-ipad-models-for-children-in-202n-a-ranking/"><u>Discover the Ideal iPad Models for Children in 202N - A Ranking</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-presidents-holiday-discount-alert-grab-a-cut-priced-macbook-pro-equipped-with-powerful-m3-pro-chip-from-zdnet-for-200-less/"><u>Exclusive President’s Holiday Discount Alert! Grab a Cut-Priced MacBook Pro Equipped with Powerful M3 Pro Chip From ZDNet for $200 Less!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-stuttering-problems-in-halo-infinite-a-comprehensive-guide/"><u>How to Fix Stuttering Problems in Halo Infinite – A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-infinix-hot-40-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Infinix Hot 40 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/latest-innovations-in-subtitle-technology-whats-coming-next/"><u>Latest Innovations in Subtitle Technology: What's Coming Next?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/passare-da-flac-a-wma-online-senza-costi-effettoconvertitore-facile-e-gratuito/"><u>Passare Da FLAC a WMA Online Senza Costi - EffettoConvertitore Facile E Gratuito</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-motorola-moto-e13-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Motorola Moto E13</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-15-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-tablets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Tablets - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgrade-or-not-expert-advice-on-choosing-the-iphone-16-perspectives-by-zdnet-editors/"><u>Upgrade or Not? Expert Advice on Choosing the iPhone 16 - Perspectives by ZDNet Editors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Activating Push Alerts: Setting Up Slack App Notifications on Apple Watch - Tutorial"
-date: 2025-01-07T13:28:58.795Z
-updated: 2025-01-11T11:39:16.980Z
+date: 2025-01-11T22:41:22.091Z
+updated: 2025-01-16T22:11:06.450Z
 tags:
   - apple
 categories:
@@ -44,16 +44,12 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -62,16 +58,12 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -107,7 +99,7 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -134,11 +126,19 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,22 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-solutions.techidaily.com/best-fixes-for-smoothing-out-the-gameplay-of-resident-evil-village-eliminating-pc-lag/"><u>Best Fixes For Smoothing Out the Gameplay of Resident Evil Village: Eliminating PC Lag</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convertissez-des-chansons-mp3-sans-frais-grace-a-loutil-de-conversion-enligne-de-movavi-facile-efficace-gratuit/"><u>Convertissez Des Chansons MP3 Sans Frais Grâce À L'outil De Conversion Enligne De Movavi – Facile, Efficace, Gratuit</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defying-disaster-triumphantly-tackling-detroit-become-human-on-a-desktop-device/"><u>Defying Disaster: Triumphantly Tackling Detroit: Become Human on a Desktop Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-no-power-situations-in-roku-televisions/"><u>Diagnosing and Repairing No-Power Situations in Roku Televisions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-spots-to-get-your-favorite-songs-online/"><u>Discover the Best Free Spots to Get Your Favorite Songs Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-feasibility-of-operating-multiple-channels-within-youtubes-guidelines/"><u>Exploring the Feasibility Of Operating Multiple Channels Within YouTube's Guidelines</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-6-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 6 Display? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-at-the-forefront-elite-vr-creators/"><u>In 2024, At The Forefront Elite VR Creators</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/05681873-in-2024-free-end-credits-maker-the-1-video-closers-guide/"><u>In 2024, Free End Credits Maker - The #1 Video Closers Guide!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-ordering-an-uber-a-smart-money-saving-choice-compared-to-taxi-services/"><u>Is Ordering an Uber a Smart Money-Saving Choice Compared to Taxi Services?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-wayback-machine-a-comprehensive-tutorial-on-archiving-web-pages/"><u>Mastering the Wayback Machine: A Comprehensive Tutorial on Archiving Web Pages</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-poco-m6-pro-4g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Poco M6 Pro 4G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simplify-streaming-expert-techniques-for-linking-a-firestick-remote/"><u>Simplify Streaming: Expert Techniques for Linking a Firestick Remote</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-gradual-sound-escalation-auditions-guide-to-fades-for-2024/"><u>The Gradual Sound Escalation Audition’s Guide to Fades for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-green-myths-and-realities-surrounding-electric-vehicles/"><u>The Green Myths and Realities Surrounding Electric Vehicles</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-coming-with-ios-eighteen-release-timeline-pricing-info-free-essential-features-and-latest-news/"><u>What's Coming with iOS Eighteen? Release Timeline, Pricing Info (Free), Essential Features, and Latest News</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-effortlessly-post-tiktok-videos-on-twitter/"><u>[Updated] Effortlessly Post TikTok Videos on Twitter</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-srt-essentials-decoded-for-easy-understanding/"><u>2024 Approved SRT Essentials Decoded for Easy Understanding</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cambie-sus-archivos-gif-por-mp4-sin-costo-usando-la-herramienta-de-conversion-online-de-movavi/"><u>Cambie Sus Archivos GIF Por MP4 Sin Costo Usando La Herramienta De Conversión Online De Movavi.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comment-transformer-un-fichier-webm-en-format-ogg-gratuitement-via-movavi-online/"><u>Comment Transformer Un Fichier WebM en Format Ogg Gratuitement via Movavi Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/como-convertir-tus-discos-dvd-a-archivos-avi-con-garantia-de-alta-fidelidad-desde-la-comodidad-de-tu-hogar/"><u>Cómo Convertir Tus Discos DVD a Archivos AVI Con Garantía De Alta Fidelidad Desde La Comodidad De Tu Hogar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/crea-mp4-da-file-avi-online-e-gratuitamente-con-movavi/"><u>Crea MP4 Da File AVI Online E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y78t-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y78t Through Google Earth?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/meta-quest-3-leaps-ahead-with-built-in-ai-features-outpacing-apples-vision-pro-your-enablement-tutorial-on-zdnet/"><u>Meta Quest 3 Leaps Ahead with Built-In AI Features, Outpacing Apple's Vision Pro - Your Enablement Tutorial on ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-filmbearbetare-100-oppen-for-egenhandel-affarstillfallen-i-sverige/"><u>Movavi Filmbearbetare, 100% Öppen För Egenhandel: Affärstillfällen I Sverige</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavis-web-based-tool-for-no-cost-conversion-of-dng-files-into-jpg-pictures/"><u>Movavi's Web-Based Tool for No-Cost Conversion of DNG Files Into JPG Pictures</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-professional-grade-video-stabilization-secrets-in-fcpx-revealed/"><u>New In 2024, Professional-Grade Video Stabilization Secrets in FCPX Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-gratuit-transformare-ape-aac-con-movavi-converternet/"><u>Online Gratuit - Transformare APE-AAC Con Movavi Converternet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-gratistudio-fur-die-umwandlung-von-aiff-ins-format-flac-mit-movavi/"><u>Online-Gratistudio Für Die Umwandlung Von AIFF Ins Format FLAC Mit Movavi</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/probleme-beim-ausstieg-von-onedrive-auf-windows-nativen-systemen-losungswege-mit-vier-strategien/"><u>Probleme Beim Ausstieg Von OneDrive Auf Windows Nativen Systemen - Lösungswege Mit Vier Strategien</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-refreshing-your-macs-wifi-and-bluetooth-connections/"><u>Step-by-Step Guide: Refreshing Your Mac's WiFi and Bluetooth Connections</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-overwatch-captivating-cooperative-fires-and-adrenaline-pumping-matchups/"><u>The Ultimate Guide to Overwatch: Captivating Cooperative Fires and Adrenaline-Pumping Matchups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-ogv-videos-into-webm-streaming-on-demand-with-movavis-free-tool/"><u>Transform OGV Videos Into WebM Streaming on Demand with Movavi's Free Tool</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/troubleshooting-a-fuzzy-screen-expert-advice-from-yl-computing-and-yl-software/"><u>Troubleshooting a Fuzzy Screen: Expert Advice From YL Computing & YL Software</u></a></li>
 </ul></div>
 

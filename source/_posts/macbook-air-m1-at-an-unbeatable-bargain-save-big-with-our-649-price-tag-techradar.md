@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air M1 at an Unbeatable Bargain: Save Big with Our $649 Price Tag! | TechRadar"
-date: 2025-01-04T12:03:38.069Z
-updated: 2025-01-11T00:09:55.468Z
+date: 2025-01-13T02:11:05.097Z
+updated: 2025-01-16T19:59:40.219Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,22 +81,22 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-preserving-your-periscope-content-a-detailed-process/"><u>[New] In 2024, Preserving Your Periscope Content A Detailed Process</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-mastering-the-art-of-preview-premiere-pro-edition/"><u>[Updated] 2024 Approved Mastering the Art of Preview Premiere Pro Edition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-tamil-tunes-steps-for-ringtones-and-editing-songs-as-alerts/"><u>[Updated] In 2024, Tamil Tunes Steps for Ringtones & Editing Songs as Alerts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitters-taste-test-10-momentous-videos-for-2024/"><u>[Updated] Twitter's Taste Test 10 Momentous Videos for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-email-services-with-advanced-security-features-to-protect-you-online/"><u>Best Email Services with Advanced Security Features to Protect You Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-viewing-all-of-taylor-swifts-films-sequentially/"><u>Complete Guide: Viewing All of Taylor Swift's Films Sequentially</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discovering-your-vehicles-secret-audio-access-codes-a-step-by-step-guide/"><u>Discovering Your Vehicle's Secret Audio Access Codes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-future-of-vr-with-meta-quest-3-lite-price-forecasts-release-insights-and-speculations-unveiled/"><u>Explore the Future of VR with Meta Quest 3 Lite: Price Forecasts, Release Insights, and Speculations Unveiled</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-officejet-3830-driver-download-guide-easy-setup-on-windows-computers/"><u>HP OfficeJet 3830 Driver Download Guide: Easy Setup on Windows Computers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-google-pixel-8-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Google Pixel 8 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/keep-it-private-with-webex-how-to-apply-background-blur-for-secure-meetings/"><u>Keep It Private with Webex: How to Apply Background Blur for Secure Meetings</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-your-snaps-windows-strategies-for-sticky-notes/"><u>Secure Your Snaps: Windows Strategies for Sticky Notes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722861528221-six-outstanding-independent-offline-word-decoder-utilities-your-guide-to-choosing-the-best/"><u>Six Outstanding Independent Offline Word Decoder Utilities - Your Guide to Choosing the Best!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-essential-pick-top-5-iphone-gps-tools-for-seamless-traveling/"><u>The Essential Pick: Top 5 iPhone GPS Tools for Seamless Traveling</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-honor-90-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Honor 90 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-mobile-network-operators-a-comprehensive-guide/"><u>Understanding Mobile Network Operators: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-techniques-for-successful-photo-background-alteration-on-fb/"><u>[New] 2024 Approved Techniques for Successful Photo Background Alteration on FB</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-augmented-reality-and-vr-navigating-2023s-content-on-android-for-2024/"><u>[New] Augmented Reality & VR Navigating 2023'S Content on Android for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-revealing-reasons-why-no-videos-pop-up-on-fb-feed-for-2024/"><u>[New] Revealing Reasons Why No Videos Pop Up on FB Feed for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-journey-through-creative-commons-a-users-guide/"><u>[Updated] 2024 Approved The Journey Through Creative Commons A User's Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movaviwav/"><u>「Movaviで簡単な無料オンラインWAVファイル変換方法」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028286638-dvd/"><u>懐かしいディスクのトラブルシューティング: DVDや古いビデオが再生不能になったときの解決策</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comment-choisir-le-meilleur-logiciel-de-sous-titrage-pour-vos-clips-video-en-2er-mois-2024/"><u>Comment Choisir Le Meilleur Logiciel De Sous-Titrage Pour Vos Clips Vidéo en 2Er Mois 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-analysis-of-iphone-n-series-smart-purchase-strategies-experts/"><u>Complete Analysis of iPhone N-Series - Smart Purchase Strategies Experts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/craft-crisp-composites-online-with-top-frameer-tools/"><u>Craft Crisp Composites Online with Top Frameer Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/descarga-gratuita-para-convertir-archivos-rmvb-a-mpeg-rapida-y-facil-con-movavi/"><u>Descarga Gratuita Para Convertir Archivos RMVB a MPEG Rápida Y Fácil Con Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuito-conversor-para-formatos-mpeg-e-mp4-com-suporte-3gpp-online-pelo-movavi/"><u>Gratuito Conversor Para Formatos MPEG E MP4 Com Suporte 3GPP - Online Pelo Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/instantly-switch-your-dpx-photos-to-tiff-files-at-no-cost-using-our-web-tool/"><u>Instantly Switch Your DPX Photos to TIFF Files at No Cost Using Our Web Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/libera-tu-multimedia-transformacion-gratuita-swf-a-mkv-en-linea-mediante-movavi/"><u>Libera Tu Multimedia: Transformación Gratuita SWF a MKV en Línea Mediante Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/melhores-ferramentas-livres-para-adicionar-legendas-as-suas-videos-on-line-uma-visao-geral/"><u>Melhores Ferramentas Livres Para Adicionar Legendas Às Suas Vídeos On-Line: Uma Visão Geral</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-media-converter-free-secure-platform-for-transforming-flv-to-wmv-and-other-formats-on-the-go/"><u>Movavi Media Converter - Free, Secure Platform for Transforming FLV to WMV and Other Formats On-the-Go</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavis-complimentary-web-service-convert-audio-from-m4a-to-wma-file-type-easily/"><u>Movavi's Complimentary Web Service: Convert Audio From M4A to WMA File Type Easily</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-role-of-workspace-dynamics-in-employee-output-for-2024/"><u>The Role of Workspace Dynamics in Employee Output for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet
-date: 2025-01-04T20:48:50.280Z
-updated: 2025-01-11T04:04:39.199Z
+date: 2025-01-10T18:38:26.953Z
+updated: 2025-01-16T22:29:10.501Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,21 +120,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-guide-unraveling-ios-screen-capture-magic/"><u>[New] 2024 Approved Essential Guide Unraveling IO's Screen Capture Magic</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/winxvideoai4k8k/"><u>以WinXVideoAI提高图片分辨率并回复为4K、8K或更高</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-gt-10-pro-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on GT 10 Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-for-accessing-windows-11-safe-mode-when-f8-shortcut-doesnt-work-as-expected/"><u>Comprehensive Fixes for Accessing Windows 11 Safe Mode When F8 Shortcut Doesn't Work as Expected</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-eradicating-iphones-viruses-proven-techniques/"><u>Comprehensive Tutorial: Eradicating iPhones' Viruses - Proven Techniques</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/conversion-rate-optimization-improving-failed-conversions/"><u>Conversion Rate Optimization: Improving Failed Conversions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-solutions-to-speed-up-your-sluggish-pc/"><u>Easy Solutions to Speed Up Your Sluggish PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-excessive-cpu-use-by-the-windows-modules-installer-in-windows-10-environments/"><u>Effective Solutions for Excessive CPU Use by the Windows Modules Installer in Windows 10 Environments</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-transition-how-to-convert-network-settings-from-public-to-private-in-windows-11/"><u>Effortless Transition: How to Convert Network Settings From Public to Private in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortlessly-connect-your-printer-to-laptop-both-wireless-and-cable-methods-covered/"><u>Effortlessly Connect Your Printer to Laptop - Both Wireless and Cable Methods Covered</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-asus-rog-phone-7-ultimate-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Asus ROG Phone 7 Ultimate</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-s23-ultra-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy S23 Ultra Phone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/sql-datenbank-migration-wie-sie-ihre-daten-auf-ein-anderes-speichermedium-ubertragen/"><u>SQL-Datenbank Migration: Wie Sie Ihre Daten Auf Ein Anderes Speichermedium Übertragen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-activating-and-using-a-vpn-app-on-an-ipad-for-enhanced-privacy/"><u>Step-by-Step Tutorial: Activating and Using a VPN App on an iPad for Enhanced Privacy</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-m4r-wav/"><u>무료 Movavi M4R-WAV 교체 - 웹에서 이미지 나무 통신을 위한 더 나은 오디오 형식 선택</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevate-your-pc-best-8-video-capture-tools-for-windows-10/"><u>[New] 2024 Approved Elevate Your PC Best 8 Video Capture Tools for Windows 10</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-how-to-turn-on-or-off-comments-on-youtube/"><u>[New] 2024 Approved How to Turn on or Off Comments on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-quick-start-to-recording-iphone-memos/"><u>[New] In 2024, Quick Start to Recording iPhone Memos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-speed-up-your-iphone-photography-with-time-lapses/"><u>[New] In 2024, Speed Up Your iPhone Photography with Time-Lapses</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-art-of-profit-from-20-second-videography-a-guide-for-creators/"><u>[New] In 2024, The Art of Profit From 20-Second Videography A Guide for Creators</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/end-apple-musics-auto-play-feature-a-comprehensive-guide/"><u>End Apple Music's Auto-Play Feature: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-check-a-macbooks-temperature/"><u>How to Check a MacBook's Temperature</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/multiple-image-uploads-on-facebook-a-step-by-step-guide/"><u>Multiple Image Uploads on Facebook: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/power-tools-mastering-the-art-of-taking-screenshots-in-windows-11/"><u>Power Tools: Mastering the Art of Taking Screenshots in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sequencing-your-viewing-the-ultimate-guide-to-watching-all-of-taylor-swifts-films/"><u>Sequencing Your Viewing: The Ultimate Guide to Watching All of Taylor Swift's Films</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tunetinker-tweaking-the-audio-map/"><u>TuneTinker Tweaking the Audio Map</u></a></li>
+<li><a href="https://driver-error.techidaily.com/understanding-and-resolving-blue-screen-error-0x0000007e-on-your-windows-7-machine/"><u>Understanding and Resolving Blue Screen Error 0X0000007E on Your Windows 7 Machine</u></a></li>
 </ul></div>
 

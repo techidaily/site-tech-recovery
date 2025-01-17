@@ -1,7 +1,7 @@
 ---
 title: Identifying and Locating Hidden AirTags Around You - Insights From ZDNet
-date: 2025-01-07T04:08:23.378Z
-updated: 2025-01-11T02:25:59.508Z
+date: 2025-01-09T16:13:46.809Z
+updated: 2025-01-16T18:43:48.257Z
 tags:
   - apple
 categories:
@@ -18,6 +18,10 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-compatible-with-apples-ios-18-and-which-ones-arent/)
@@ -33,6 +37,10 @@ The only things you'll need to make this work are a running instance of MacOS (w
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
@@ -46,7 +54,7 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Pages for iCloud Drive
@@ -56,10 +64,6 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 **Figure 2**: Enabling Pages for iCloud Drive collaboration.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
 
@@ -71,10 +75,6 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -84,7 +84,7 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
@@ -106,7 +106,7 @@ Make sure to configure both the Who Can Access and Permission options. Here, you
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stop sharing
@@ -149,19 +149,18 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-melodic-mix-audio-meets-images-online/"><u>[New] 2024 Approved Melodic Mix Audio Meets Images Online</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-top-10-androidios-weddings-ultimate-countdown-timer-apps/"><u>[New] Top 10 Android/iOS Weddings Ultimate Countdown Timer Apps</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mp34-aac/"><u>最適なMP3ファイル変換サイトトップ4 - AACからの効率的転送方法</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bebop-unfurled-in-flight-form-the-secondary-parrot-review/"><u>Bebop Unfurled in Flight Form – The Secondary Parrot Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/determining-the-ideal-speed-for-your-personal-computer-a-comprehensive-guide/"><u>Determining the Ideal Speed for Your Personal Computer: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elite-selection-top-5-personal-item-trackers/"><u>Elite Selection: Top 5 Personal Item Trackers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/insta-marketing-dynamo-crafting-winning-strategies-with-videos-on-social-media/"><u>Insta-Marketing Dynamo Crafting Winning Strategies with Videos on Social Media</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/live-streaming-with-manycam-top-choice-in-virtual-webcam-and-broadcasting-apps/"><u>Live Streaming with ManyCam: Top Choice in Virtual Webcam and Broadcasting Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/no-more-wi-fi-struggles-easy-tips-for-restoring-ipad-internet-connection/"><u>No More Wi-Fi Struggles: Easy Tips for Restoring iPad Internet Connection</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-shadows-masterful-techniques-for-addressing-rainbow-six-sieges-screen-colour-disruption-on-computers/"><u>Overcoming Shadows: Masterful Techniques for Addressing Rainbow Six Siege's Screen Colour Disruption on Computers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-the-ocidll-not-detected-problem/"><u>Step-by-Step Guide: Correcting the 'Oci.Dll Not Detected' Problem</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-and-correcting-the-missing-pdhdll-file-mistake/"><u>Understanding and Correcting the Missing pdh.dll File Mistake</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-premier-range-of-keys-and-fobs-identifiers/"><u>Unveiling the Premier Range of Keys & Fobs Identifiers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/bes-updated-strategy-for-content-creators/"><u>YouTube's Updated Strategy for Content Creators</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-breakthrough-tactic-unleash-mac-with-apple-watch/"><u>[New] Breakthrough Tactic Unleash Mac with Apple Watch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-insta-to-tik-connection/"><u>[New] Navigating the Insta-to-Tik Connection</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-cutting-edge-gaming-earpieces-for-youtubers-for-2024/"><u>[Updated] The Cutting-Edge Gaming Earpieces for YouTubers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unveiling-the-premium-cost-free-screen-recording-tools-for-2024/"><u>[Updated] Unveiling the Premium, Cost-Free Screen Recording Tools for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-in-one-video-solutions-by-movavi-seamless-screen-camera-and-audio-recording-for-professionals/"><u>All-in-One Video Solutions by Movavi: Seamless Screen, Camera & Audio Recording for Professionals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertir-archivo-flv-a-formato-m4a-de-forma-gratuita-online-con-conversor-video/"><u>Convertir Archivo FLV a Formato M4A De Forma Gratuita Online Con Conversor Video</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-transformer-vos-idees-en-multimedia-facilement-grace-a-ses-outils-logiciels-de-creation/"><u>Movavi - Transformer Vos Idées en Multimédia Facilement Grâce À Ses Outils Logiciels De Création</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/optimal-selection-strategies-for-sony-xperia-mobile-compatibility-software/"><u>Optimal Selection Strategies for Sony Xperia Mobile Compatibility Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production/"><u>SDR Vs. HDR The Superiority of High Dynamic Range in Video Production</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/skjermbilde-med-lydopptagelse-under-windows-njunten-veien-til-4-forskjellige-metoder/"><u>Skjermbilde Med Lydopptagelse Under Windows Njunten - Veien Til 4 Forskjellige Metoder</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/take-to-the-skies-outdoors-in-depth-look-at-the-blade-blh4100-120-r-ready-to-fly-helicopter/"><u>Take to the Skies Outdoors: In-Depth Look at the Blade BLH4100 120 R Ready-to-Fly Helicopter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-shortcuts-a-guide-to-reversing-non-responsive-keystrokes-in-windows-os/"><u>Unlock the Power of Shortcuts! A Guide to Reversing Non-Responsive Keystrokes in Windows OS</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/zwei-moglichkeiten-mit-einem-usb-laufwerk-bootende-windows-10-startup/"><u>Zwei Möglichkeiten, Mit Einem USB-Laufwerk Bootende Windows 10 Startup</u></a></li>
 </ul></div>
 

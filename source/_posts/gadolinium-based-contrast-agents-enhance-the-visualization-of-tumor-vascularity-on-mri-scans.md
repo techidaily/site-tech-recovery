@@ -1,7 +1,7 @@
 ---
 title: Gadolinium-Based Contrast Agents Enhance the Visualization of Tumor Vascularity on MRI Scans.
-date: 2025-01-07T05:25:52.244Z
-updated: 2025-01-11T09:46:00.768Z
+date: 2025-01-14T19:22:31.888Z
+updated: 2025-01-16T22:47:51.904Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,21 +129,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-enhancing-facebook-traffic-with-innovative-video-techniques-for-2024/"><u>[New] Enhancing Facebook Traffic with Innovative Video Techniques for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-pinnacle-ios-solutions-the-best-ps2-game-emulators-for-2024/"><u>[Updated] Pinnacle IOS Solutions The Best PS2 Game Emulators for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-watch-series-7-ultra-unveiled-release-dates-pricing-and-latest-rumored-features-revealed/"><u>Apple Watch Series 7 (Ultra) Unveiled: Release Dates, Pricing, and Latest Rumored Features Revealed!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-iphone-visual-quality-selective-photo-and-video-tools-for-2024/"><u>Boost iPhone Visual Quality Selective Photo and Video Tools for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-infinix-hot-40i-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Hot 40i in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-and-fix-mingwm10dll-errors-on-windows-systems/"><u>How To Correctly Address and Fix Mingwm10.dll Errors on Windows Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-c51-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme C51 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-multi-speaker-setup-link-several-bluetooth-audio-devices-together/"><u>Mastering Multi-Speaker Setup: Link Several Bluetooth Audio Devices Together</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-no-alert-syndrome-comprehensive-guide-with-20plus-solutions-for-iphones/"><u>Overcome No-Alert Syndrome: Comprehensive Guide with 20+ Solutions for iPhones</u></a></li>
-<li><a href="https://fox-http.techidaily.com/precise-procedure-for-fusing-gopro-footage-into-comprehensive-video-spheres/"><u>Precise Procedure for Fusing GoPro Footage Into Comprehensive Video Spheres</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-walkthrough-how-to-conquer-pokemon-unite-on-pc/"><u>Step-by-Step Walkthrough: How to Conquer Pokémon Unite on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-level-of-virtual-experience-sony-vr-headset-forthcoming-release-insights-cost-estimates-and-in-depth-tech-details/"><u>The Next Level of Virtual Experience: Sony VR Headset - Forthcoming Release Insights, Cost Estimates, and In-Depth Tech Details</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-5-compatible-screen-mirroring-applications-for-your-windows-11-pc/"><u>Top 5 Compatible Screen Mirroring Applications for Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-when-you-encounter-missing-dciman32dll-errors/"><u>Troubleshooting Steps When You Encounter Missing dciman32.dll Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tune-in-for-exhilarating-mens-ncaa-hoops-action-from-march-madness-frenzy-to-glory-at-the-final-four/"><u>Tune in for Exhilarating Men's NCAA Hoops Action - From March Madness Frenzy to Glory at the Final Four!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-elite-corporate-space-for-secure-storage/"><u>[New] In 2024, Elite Corporate Space for Secure Storage</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-leverage-online-platform-features-to-spread-your-music/"><u>[New] In 2024, Leverage Online Platform Features to Spread Your Music</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-through-the-best-of-iphones-virtual-reality-games/"><u>2024 Approved Navigate Through The Best of iPhone's Virtual Reality Games</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-12-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 12</u></a></li>
+<li><a href="https://facebook.techidaily.com/improving-loading-performance-of-facebook-alertsposts/"><u>Improving Loading Performance of Facebook Alerts/Posts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/melhores-ferramentas-de-edicao-de-videos-para-sistemas-operacionais-windows-no-ano-de-2-surveys/"><u>Melhores Ferramentas De Edição De Vídeos Para Sistemas Operacionais Windows No Ano De 2 Surveys</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-mov-to-m4r-file-converter-by-movavi-quick-and-easy-upload-method-no-cost-involved/"><u>Online MOV to M4R File Converter by Movavi - Quick & Easy Upload Method, No Cost Involved</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefining-phones-role-in-windows-11-networking/"><u>Redefining Phones' Role in Windows 11 Networking</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-m34-5g-video-recovery-recover-deleted-videos-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-video/"><u>Samsung Galaxy M34 5G Video Recovery - Recover Deleted Videos from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-effective-screen-recording-with-tunefab-for-2024/"><u>The Ultimate Guide to Effective Screen Recording with Tunefab for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformer-un-fichier-dpx-en-gif-gratuitement-en-ligne-avec-convertpix/"><u>Transformer Un Fichier DPX en GIF Gratuitement en Ligne Avec Convertpix</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-amazon-prime-subtitle-issues-a-step-by-step-guide/"><u>Troubleshooting Amazon Prime Subtitle Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-rolling-shutter-phenomenon-explained-a-complete-movavi-walkthrough/"><u>Ultimate Rolling Shutter Phenomenon Explained - A Complete Movavi Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wmv-to-aac-on/"><u>WMV to AAC 무료 변환 소프트웨어: Onラインでの 가장 유용한 도구</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ogv/"><u>자동 OGV 영상을 무료 원위 프리커스로 변환하는 방법</u></a></li>
 </ul></div>
 

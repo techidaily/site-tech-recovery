@@ -1,7 +1,7 @@
 ---
 title: "Essential iPad Hacks & Configurations: A Must-Know Guide for Beginners & Experts - Discover Secrets"
-date: 2025-01-05T16:40:45.328Z
-updated: 2025-01-10T17:31:12.915Z
+date: 2025-01-12T00:52:02.190Z
+updated: 2025-01-16T21:50:14.944Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
 
@@ -59,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
@@ -73,6 +69,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **Also:** [**The best iPad models: Expert tested**](https://www.zdnet.com/article/best-ipad/)
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
 
@@ -92,10 +92,6 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
@@ -103,7 +99,7 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
@@ -120,6 +116,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -128,6 +128,10 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Tweak the Control Center
 
 Max Buondonno/ZDNET
@@ -135,10 +139,6 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,18 +180,15 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-five-hd-recording-cards-switch-edition/"><u>[New] In 2024, Top Five HD Recording Cards, Switch Edition</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-savor-the-spectacle-best-practices-for-cooking-channel-titling/"><u>[Updated] Savor the Spectacle Best Practices for Cooking Channel Titling</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-restoring-defaults-in-your-macs-network-configurations/"><u>Complete Guide: Restoring Defaults in Your Mac's Network Configurations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-repairing-problems-when-tiktok-isnt-working-properly/"><u>Expert Advice on Repairing Problems When TikTok Isn’t Working Properly.</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphones-prime-camera-utilities/"><u>IPhone's Prime Camera Utilities</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-and-understanding-how-to-use-imessage-on-your-computer/"><u>Navigating and Understanding How to Use iMessage on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-physxloaderdll-error-a-comprehensive-guide/"><u>Solving PhysXLoader.dll Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sony-afeela-unveiling-the-rumored-specifications-projected-launch-date-and-potential-pricing-stay-informed/"><u>Sony AFEELA: Unveiling the Rumored Specifications, Projected Launch Date & Potential Pricing – Stay Informed!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-repair-for-photo-8-windows-version-a-step-by-step-ordering-process/"><u>Stellar Repair for Photo 8 Windows Version: A Step-by-Step Ordering Process</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tech-rumors-the-next-gen-irobot-for-your-home-release-date-and-price-guesswork/"><u>Tech Rumors: The Next-Gen iRobot for Your Home - Release Date & Price Guesswork</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-digital-symphony-blizzard-and-microsoft-harmonize-gaming-and-ai-mastery-podcast-exploration/"><u>The Digital Symphony: Blizzard and Microsoft Harmonize Gaming & AI Mastery [Podcast Exploration]</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-your-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Hub: Your Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-streamsmart-beyond-the-dacast-shell/"><u>[Updated] StreamSmart Beyond the DaCast Shell</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-reno-8t-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Reno 8T 5G Fingerprint Lock</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/curating-relevant-skills-list/"><u>Curating Relevant Skills List</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/find-your-dream-apartment-with-these-10-must-visit-sites/"><u>Find Your Dream Apartment with These 10 Must-Visit Sites</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-spring-festivities-translated-for-unity/"><u>Global Spring Festivities Translated for Unity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-address-and-repair-mscorwksdll-errors-in-windows-operating-systems/"><u>How to Address and Repair mscorwks.dll Errors in Windows Operating Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photo-zoom-pro-7-the-image-resizer/"><u>In 2024, Photo Zoom Pro 7- the Image Resizer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/on-campus-or-road-tripping-discover-how-to-make-the-most-out-of-your-roku-device/"><u>On Campus or Road Tripping? Discover How to Make the Most Out of Your Roku Device</u></a></li>
+<li><a href="https://win11.techidaily.com/proactive-windows-care-self-updates-plus-gpu-switching-routine/"><u>Proactive Windows Care: Self-Updates + GPU Switching Routine</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-premium-servers-racks-and-enclosures/"><u>Ultimate Guide to Premium Servers Racks & Enclosures</u></a></li>
 </ul></div>
 

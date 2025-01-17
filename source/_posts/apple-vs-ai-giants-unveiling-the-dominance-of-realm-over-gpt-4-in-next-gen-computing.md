@@ -1,7 +1,7 @@
 ---
 title: "Apple vs AI Giants: Unveiling the Dominance of RealM Over GPT-4 in Next-Gen Computing"
-date: 2024-11-27T22:43:21.776Z
-updated: 2024-12-05T09:47:47.268Z
+date: 2025-01-12T22:26:17.842Z
+updated: 2025-01-16T18:00:18.700Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ What do I believe Apple needs to reveal -- or, at least, set in motion -- this m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Develop a clear on-device strategy for generative AI and invest in AI-driven developer tools
 
 Apple needs a robust strategy for integrating [gen AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) across its devices. Embedding a small language model into MacOS, iOS, iPadOS, and VisionOS will enable real-time processing, improved responsiveness, and increased privacy by keeping more data on-device. Apple should also provide robust APIs to seamlessly utilize on-device, edge, and cloud processing for natural language understanding and computer vision tasks. 
@@ -53,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
@@ -69,7 +65,7 @@ Providing private or family-specific AI instances would further enhance privacy 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
@@ -86,10 +82,6 @@ Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet
 
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
 
 To meet the growing demand for fast application response times, I believe Apple should consider using AI-accelerated edge devices capable of handling complex AI tasks locally. This would help reduce latency and improve overall performance. Apple's vertically integrated supply chain will likely involve AI servers powered by M2 Ultra and M4 chips, especially within its data centers. This setup would ensure seamless integration with Apple's software and provide greater control over performance and security. Localized processing can be enabled by placing these devices strategically in regional and metropolitan data centers, reducing the reliance on internet bandwidth.
@@ -97,6 +89,10 @@ To meet the growing demand for fast application response times, I believe Apple 
 **Also: [AI at the edge: 5G and the Internet of Things see fast times ahead](https://www.zdnet.com/article/ai-at-the-edge-fast-times-ahead-for-5g-and-the-internet-of-things/)**
 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enhance proactive assistance and personalization
 
@@ -109,7 +105,7 @@ AI can enhance contextual awareness by integrating with sensors and data sources
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
@@ -127,6 +123,10 @@ For Apple TV, AI could improve content discovery by recommending shows based on 
 Leveraging AI to enhance HomeKit's capabilities is essential, especially since HomeKit isn't a market leader in home automation. AI can offer smarter home automation by predicting user behavior to automate lights, thermostat settings, and security systems. 
 
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
 
@@ -170,22 +170,20 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-netflixs-video-playback-controls/"><u>2024 Approved Navigating Netflix's Video Playback Controls</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/aquatic-adventures-and-iphones-is-the-iphone-13-built-to-withstand-water/"><u>Aquatic Adventures and iPhones: Is the iPhone 13 Built to Withstand Water?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/chromebooks-voice-alteration-guide-the-leading-online-text-to-speech-apps/"><u>Chromebook's Voice Alteration Guide The Leading Online Text-to-Speech Apps</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/como-salvaguardar-su-sistema-en-windows-7-antes-de-migrar-a-windows-11-un-tutorial-detallado/"><u>Cómo Salvaguardar Su Sistema en Windows 7 Antes De Migrar a Windows 11: Un Tutorial Detallado</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/debunking-myths-how-environmentally-friendly-are-evs-really/"><u>Debunking Myths: How Environmentally Friendly Are EVs Really?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dive-into-advanced-ai-access-and-master-openais-freshly-launched-gpt-store/"><u>Dive Into Advanced AI: Access and Master OpenAI's Freshly Launched GPT Store</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-the-frustrating-504-gateway-time-out-error-a-detailed-walkthrough/"><u>Fixing the Frustrating 504 Gateway Time-Out Error: A Detailed Walkthrough</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-highest-quality-action-capturing-methods/"><u>In 2024, Highest Quality Action Capturing Methods</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/macos-15-sequoia-discover-when-its-releasing-and-check-out-its-amazing-new-capabilities/"><u>MacOS 15 (Sequoia): Discover When It's Releasing & Check Out Its Amazing New Capabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-ios-shortcuts-the-ultimate-guide-with-18-must-know-tricks/"><u>Mastering iOS Shortcuts: The Ultimate Guide with 18 Must-Know Tricks</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/501899-9780307557834-medicine-for-the-earth/"><u>Medicine for the Earth | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fix-guide-what-to-do-when-samsung-tvs-apps-fail-to-start/"><u>Quick Fix Guide: What to Do When Samsung TV's Apps Fail to Start</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tech-savvy-bookworms-rejoice-dive-into-a-sea-of-laptops-phones-and-literary-treasures/"><u>Tech-Savvy Bookworms Rejoice: Dive Into a Sea of Laptops, Phones & Literary Treasures</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-11-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-solving-issues-with-unresponsive-computer-keys/"><u>Troubleshooting Steps: Solving Issues with Unresponsive Computer Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-full-control-of-windows-key-using-these-tips/"><u>Unlock Full Control of Windows Key Using These Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-tv-viewing-watching-fb-videos-directly/"><u>[New] 2024 Approved Maximizing TV Viewing Watching FB Videos Directly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-vision-pro-now-on-amazon-grab-it-for-an-uncommon-200-off-before-prices-soar-again-insight-from-zdnet/"><u>Apple Vision Pro Now on Amazon: Grab It for an Uncommon $200 Off Before Prices Soar Again! – Insight From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/backyard-broadband-solutions-unleashed-a-detailed-look-at-netgears-orbi-rbs50y/"><u>Backyard Broadband Solutions Unleashed - A Detailed Look at Netgear's Orbi RBS50Y</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-sites-enhanced-user-experience-and-data-management/"><u>Cookiebot-Enabled Sites: Enhanced User Experience & Data Management</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-apples-latest-charismatic-gadgets-released-silently-last-week-insights/"><u>Discover Apple’s Latest Charismatic Gadgets Released Silently Last Week - Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-hassle-free-charging-on-the-go-with-the-dual-purpose-magsafe-and-qi2-compatible-travel-charger/"><u>Experience Hassle-Free Charging on the Go with the Dual-Purpose MagSafe and Qi2 Compatible Travel Charger</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-holo-health-interventions/"><u>In 2024, Holo-Health Interventions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-motorola-razr-40-ultra-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Motorola Razr 40 Ultra to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/labor-day-deal-alert-score-a-massive-700-off-on-the-newest-202e-pad-pro-check-out-the-details-on-zdnet/"><u>Labor Day Deal Alert: Score a Massive $700 Off on the Newest 202E Pad Pro! Check Out the Details on ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167966376-master-all-6-ps5-startup-techniques-now/"><u>Master All 6 Ps5 Startup Techniques Now!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-vsdc-video-editor-for-mac-not-working-try-these-alternatives/"><u>New VSDC Video Editor for Mac Not Working? Try These Alternatives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/public-bathroom-diagnostics-how-one-mans-trip-leads-to-innovative-health-assessments-zdnet/"><u>Public Bathroom Diagnostics: How One Man's Trip Leads to Innovative Health Assessments | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rethinking-your-purchase-the-case-against-upgrading-to-iphone-16-why-consider-other-options/"><u>Rethinking Your Purchase: The Case Against Upgrading to iPhone 16. Why Consider Other Options?</u></a></li>
+<li><a href="https://games-able.techidaily.com/rom-localization-made-simple-language-patch-guide/"><u>Rom Localization Made Simple: Language Patch Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgrade-or-stay-comparing-iphone-15-and-iphone-16-essentials-for-apples-latest-base-version-expert-insights-from-zdnet/"><u>Upgrade or Stay? Comparing iPhone 15 and iPhone 16 Essentials for Apple's Latest Base Version | Expert Insights From ZDNET</u></a></li>
 </ul></div>
 

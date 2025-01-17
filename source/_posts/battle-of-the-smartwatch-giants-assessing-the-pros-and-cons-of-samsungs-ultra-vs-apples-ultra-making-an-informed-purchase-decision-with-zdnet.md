@@ -1,7 +1,7 @@
 ---
 title: "Battle of the Smartwatch Giants: Assessing the Pros and Cons of Samsung's Ultra Vs. Apple's Ultra – Making an Informed Purchase Decision with ZDNET"
-date: 2025-01-07T09:48:10.034Z
-updated: 2025-01-10T21:10:18.788Z
+date: 2025-01-14T00:01:35.420Z
+updated: 2025-01-16T22:48:18.048Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -33,7 +33,7 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -97,7 +97,7 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,7 +111,7 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,22 +148,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-optimal-chuckle-inducing-layout-for-2024/"><u>[Updated] Optimal Chuckle-Inducing Layout for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-swift-cinematic-skills-the-quickest-5-diy-hacks-for-success/"><u>[Updated] Swift Cinematic Skills The Quickest 5 DIY Hacks for Success</u></a></li>
-<li><a href="https://driver-error.techidaily.com/address-realtek-lan-problem-post-windows-10-upgrade/"><u>Address Realtek LAN Problem Post-Windows 10 Upgrade</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-your-newest-iphones-a-comprehensive-guide-for-iphone-15-pro-and-pro-max/"><u>Disabling Your Newest iPhones: A Comprehensive Guide for iPhone 15 Pro & Pro Max</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-fixes-swapping-out-a-phones-protective-glass-panel-easily/"><u>DIY Fixes: Swapping Out a Phone's Protective Glass Panel Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/google-maps-mastery-tracking-down-electric-car-chargers-with-ease/"><u>Google Maps Mastery: Tracking Down Electric Car Chargers With Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/home-theater-fun-step-by-step-process-for-streaming-3d-content-on-fandango/"><u>Home Theater Fun: Step-by-Step Process for Streaming 3D Content on Fandango</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-address-and-solve-missing-dynamic-link-library-files-in-windows/"><u>How to Address and Solve Missing Dynamic Link Library Files in Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphoneipad-cloud-woes-uncover-the-9-most-frequent-icloud-problems-and-their-fixes/"><u>IPhone/iPad Cloud Woes? Uncover the 9 Most Frequent iCloud Problems and Their Fixes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/leading-laughs-ultimate-meme-creation-apps-for-2024/"><u>Leading Laughs Ultimate Meme Creation Apps for 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-essential-audio-setups-for-personalized-mobile-soundscapes/"><u>New In 2024, Essential Audio Setups for Personalized Mobile Soundscapes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/rediscovering-the-joy-of-communication-at-50plus-with-a-new-language/"><u>Rediscovering the Joy of Communication at 50+ with a New Language</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-basics-of-biometrics-explained-what-you-need-to-know/"><u>The Basics of Biometrics Explained - What You Need to Know</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-ultimate-guide-to-cutting-edge-computer-components/"><u>Tom's Ultimate Guide to Cutting-Edge Computer Components</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-setting-up-microsoft-office-suite-on-windows-and-mac/"><u>Ultimate Guide: Setting Up Microsoft Office Suite on Windows and Mac</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-stop-your-surface-pros-screen-from-shaking-and-flickering/"><u>Ultimate Guide: Stop Your Surface Pro's Screen From Shaking & Flickering</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/yl-computings-guide-top-techniques-for-fixing-damaged-scanner-cables/"><u>YL Computing's Guide: Top Techniques for Fixing Damaged Scanner Cables</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-master-video-cutting-and-splicing-with-vimeo-for-free/"><u>[New] 2024 Approved Master Video Cutting & Splicing with Vimeo, for Free</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-elevate-iphone-visuals-select-camera-extensions-for-quality-for-2024/"><u>[New] Elevate iPhone Visuals Select Camera Extensions for Quality for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-a-year-in-the-market-top-15-finance-videos/"><u>[New] In 2024, A Year in the Market Top 15 Finance Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-selection-of-mac-clipping-tools/"><u>[New] In 2024, The Ultimate Selection of Mac Clipping Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726223898815-rmvb-mp4-movavi/"><u>網上自由改變 RMVB檔案成 MP4格式 - 來看 Movavi 導航器</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rides-high-with-well-crafted-youtube-shorts-for-2024/"><u>Cash Rides High with Well-Crafted YouTube Shorts for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/converta-seus-videos-avi-com-excelencia-em-um-clique-solucoes-facilmente-navegaveis-pela-web-do-movavi/"><u>Converta Seus Vídeos AVI Com Excelência Em Um Clique – Soluções Facilmente Navegáveis Pela Web Do Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-xs-max-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone XS Max Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-toshiba-printercopier-drivers-for-windows-systems/"><u>Get the Latest Toshiba Printer/Copier Drivers for Windows Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-insights-on-engaging-top-tier-visual-storytellers/"><u>In 2024, Insights on Engaging Top-Tier Visual Storytellers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-download-converter-de-ogv-para-gif-sem-custo-ferramenta-online-livre/"><u>Movavi: Download Converter De OGV Para GIF Sem Custo - Ferramenta Online Livre</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavijpeg-tga/"><u>Movavi的無料網站轉成JPEG格式 - TGA轉換解決方案</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/youtube-mjpeg-mkv-movavi/"><u>무료 사용에 호의합니다! YouTube를 MJPEG로 제공하는 MKV 변환: Movavi 가이드</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights by ZDNet"
-date: 2025-01-06T08:22:39.660Z
-updated: 2025-01-10T22:05:45.581Z
+date: 2025-01-12T17:40:24.673Z
+updated: 2025-01-17T02:18:38.345Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ Beyond that, Apple's lineup seems pretty strong, from the [M3 MacBook Air system
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **The 'Naughty' list**
 
 Don't buy these devices:
@@ -62,10 +58,6 @@ Don't buy these devices:
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
 ## **The 'Nice' list**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
 
@@ -84,7 +76,7 @@ Kerry Wan/ZDNET
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
@@ -116,7 +108,7 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
@@ -134,6 +126,10 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -148,6 +144,10 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -171,7 +171,7 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple AirTag**
@@ -214,22 +214,18 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-poll-power-players-quintessential-politic-games/"><u>[New] 2024 Approved Poll Power Players Quintessential Politic Games</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-elite-lockpicking-games-for-thrill-seekers/"><u>2024 Approved Elite Lockpicking Games for Thrill Seekers</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719576236146-boost-your-career-with-croatian-skills-explore-these-7-benefits/"><u>Boost Your Career with Croatian Skills – Explore These 7 Benefits!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/diving-into-3d-worlds-iphones-approach-to-vr-viewing-for-2024/"><u>Diving Into 3D Worlds IPhone's Approach to VR Viewing for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-digital-liberation-unlocking-your-kobo-books-without-drm/"><u>Effortless Digital Liberation: Unlocking Your Kobo Books Without DRM</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-setup-quick-guide-to-installing-your-essential-apps/"><u>Effortless Setup: Quick Guide to Installing Your Essential Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enabling-automatic-screen-rotation-on-your-kindle-fire-device-a-step-by-step-guide/"><u>Enabling Automatic Screen Rotation on Your Kindle Fire Device: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enabling-kindles-read-anywhere-feature-tips-for-adding-the-mobile-app-to-your-devices/"><u>Enabling Kindle's Read Anywhere Feature: Tips for Adding the Mobile App to Your Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-guide-understanding-the-11-most-popular-audiobook-file-types/"><u>Essential Guide: Understanding the 11 Most Popular Audiobook File Types</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-conversion-from-cbr-format-to-epub-a-step-by-step-guide/"><u>Free Conversion From CBR Format to EPUB: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/grasping-the-functionality-of-airborne-robotics-for-2024/"><u>Grasping the Functionality of Airborne Robotics for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-bypass-epub-drm-restrictions-effectively-and-safely/"><u>How to Bypass ePub DRM Restrictions Effectively and Safely</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ipad-users-rejoice-adobes-ade-app-is-finally-here-get-your-free-download-today/"><u>IPad Users Rejoice! Adobe's ADE App Is Finally Here – Get Your Free Download Today</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-geforce-x0001-problem-codes-on-w10w11-systems/"><u>Remedying GeForce X0001 Problem Codes on W10/W11 Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sensory-storytelling-crafting-engaging-food-videos/"><u>Sensory Storytelling Crafting Engaging Food Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategic-approaches-to-ai-assistance-in-professional-writing-services/"><u>Strategic Approaches to AI Assistance in Professional Writing Services</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssential-tactics-for-youtube-success-in-25-ways-for-2024/"><u>[New] Essential Tactics for YouTube Success in 25 Ways for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ultimate-guide-unpacking-the-secrets-of-du-recorder/"><u>2024 Approved Ultimate Guide Unpacking the Secrets of Du Recorder</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transform-rmvb-files-to-mp4-format-with-movavi/"><u>Free Online Conversion: Transform RMVB Files to MP4 Format with Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-verbeterde-konvertor-van-bmp-naar-jpeg-online-veilig-en-efficient-met-movavi/"><u>Gratuit Verbeterde Konvertor Van BMP Naar JPEG: Online Veilig en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterclass-comprehensive-overview-of-dji-phantom-4/"><u>In 2024, Masterclass Comprehensive Overview of DJI Phantom 4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726220809867-movavi/"><u>Movavi 유럽에서 무제한 제공 - 이미지, 영상 및 비디오 편집 기술</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movaviwav3gp/"><u>Movaviで簡単な方法：WAVからフリーオンラインの3GPへの変換</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movaviwmvmkv/"><u>Movaviの専用フリーウェブベースでのWMVからMKVへのコンバートツール</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/moveavis-no-cost-tool-easily-convert-flv-videos-into-avi-online/"><u>Moveavi's No-Cost Tool: Easily Convert FLV Videos Into AVI Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-headset-challenges-in-your-xbox-series-xs-experience/"><u>Overcoming Headset Challenges in Your Xbox Series X/S Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-a18-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo A18 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/tout-sur-la-recuperation-de-donnees-a-partir-dun-disque-non-formate-guide-detaille/"><u>Tout Sur La Récupération De Données À Partir D'un Disque Non Formaté - Guide Détaillé</u></a></li>
 </ul></div>
 

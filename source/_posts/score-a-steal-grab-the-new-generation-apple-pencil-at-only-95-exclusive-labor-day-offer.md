@@ -1,7 +1,7 @@
 ---
 title: "Score a Steal: Grab the New Generation Apple Pencil at Only $95 - Exclusive Labor Day Offer"
-date: 2024-12-01T12:43:37.202Z
-updated: 2024-12-05T11:03:36.792Z
+date: 2025-01-16T00:12:41.086Z
+updated: 2025-01-17T01:28:25.991Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,14 +71,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-securely-steering-towards-the-one-million-view-mark-on-youtube/"><u>[New] 2024 Approved Securely Steering Towards the One-Million View Mark on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-achieving-flawless-fb-live-via-zoom-streaming-for-2024/"><u>[New] Achieving Flawless FB Live via Zoom Streaming for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-pioneers-of-prose-and-plot-the-worlds-best-top-8/"><u>[New] Pioneers of Prose and Plot The World's Best (Top 8)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-revolutionizing-podcast-titles-leading-10-ai-generators/"><u>[Updated] 2024 Approved Revolutionizing Podcast Titles Leading 10 AI Generators</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722876134020-are-wi-fi-mesh-networks-a-smart-choice-lets-explore/"><u>Are Wi-Fi Mesh Networks a Smart Choice? Let's Explore.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-no-cost-driver-refreshment-tools-for-july-2024/"><u>Discover the Best No-Cost Driver Refreshment Tools for July 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722896323072-iphone-silence-issue-heres-what-you-need-to-know-and-quick-fixes/"><u>IPhone Silence Issue? Here’s What You Need to Know & Quick Fixes!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-updating-your-chromecast-device/"><u>Step-by-Step Guide: Updating Your Chromecast Device</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/unlock-potential-in-your-screen-recording-with-obs/"><u>Unlock Potential in Your Screen Recording with OBS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-cutting-edge-approaches-to-crafting-top-fb-cover-videos/"><u>[New] 2024 Approved Cutting-Edge Approaches to Crafting Top FB Cover Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-optimizing-vimeo-video-speed-rates/"><u>[New] Optimizing Vimeo Video Speed Rates</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-text-techniques-top-10-video-enhancers/"><u>[Updated] Text Techniques Top 10 Video Enhancers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/affordable-long-lasting-power-discover-why-the-iphone-14-plus-is-your-best-value-pick/"><u>Affordable Long-Lasting Power: Discover Why the IPhone 14 Plus Is Your Best Value Pick</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bluetroid-sound-interruption-solve-it-easily-and-fast/"><u>Bluetroid Sound Interruption? Solve It Easily and Fast!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cross-platform-icloud-photo-sharing-how-to-enable-it-on-iphone-pc-and-android/"><u>Cross-Platform iCloud Photo Sharing - How to Enable It on iPhone, PC, and Android</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-how-a-349-ipad-stole-the-show-at-apples-free-spirited-launch-insights/"><u>Discover How a $349 iPad Stole the Show at Apple's Free-Spirited Launch - Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-review-discovering-superior-alternatives-the-top-non-apple-non-tile-wallet-airtag/"><u>Expert Review: Discovering Superior Alternatives - The Top Non-Apple, Non-Tile Wallet AirTag</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ready-to-be-amazed-unveiling-the-groundbreaking-capabilities-of-iphone-16-you-cant-miss-gadgetguru-insights/"><u>Get Ready to Be Amazed: Unveiling the Groundbreaking Capabilities of iPhone 16 You Can't Miss | GadgetGuru Insights</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-v-purse-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor V Purse Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-7-plus-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 7 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-wireless-power-solutions-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Wireless Power Solutions - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

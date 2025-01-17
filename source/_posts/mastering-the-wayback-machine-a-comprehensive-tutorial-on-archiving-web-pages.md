@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Wayback Machine: A Comprehensive Tutorial on Archiving Web Pages"
-date: 2024-08-19T15:22:36.857Z
-updated: 2024-08-20T15:22:36.857Z
+date: 2025-01-12T16:59:31.598Z
+updated: 2025-01-17T01:04:49.430Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering the Wayback Machine: A Comprehensive Tutorial on Archiving Web Pages"
@@ -21,8 +21,18 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 1. Craft **Blaze Powder** with a**Blaze Rod** .  
 ![Craft Blaze Powder with a Blaze Rod.](https://www.lifewire.com/thmb/qSMCUF6bbvZMVtIw7PWru7OxLnk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-17cf8c053f0a43a7ad87853eab45ff92.jpg)
 2. Make a**Crafting Table** with 4 wood planks. Any type of plank (**Warped Planks** , **Crimson Planks** , etc.) will do.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Make a Crafting Table with 4 wood planks.](https://www.lifewire.com/thmb/FrhprZpyD-UmvnQ8_WU_j2ywbTM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2b6becda954b4f6ca22144303a9d7a30.jpg)
 3. Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.](https://www.lifewire.com/thmb/_KMBsLRFlAKz_Vsv7IDm4NPdlsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-7747868208ee4f78a3588c8c7f34ed57.jpg)
 4. Craft a **Brewing Stand** . Put**1** **Blaze Rod** in the middle of the top row, then put **3 Cobblestones** in the middle row.  
 ![Put 1 Blaze Rod in the middle of the top row, then put 3 Cobblestones in the middle row.](https://www.lifewire.com/thmb/xhvaykHAzNU4zphBdJKIhTqT72A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-ca12414471df435c88e8e25d694c853e.jpg)
@@ -33,10 +43,24 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 7. Put a **Water Bottle** in one of the three boxes at the bottom of the brewing menu.  
 ![Add the Water Bottle to one of the three boxes at the bottom of the brewing menu.](https://www.lifewire.com/thmb/XN8yw9gjspE70SuTZBbP7LahfTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-483d26234f9a46d49dcc4cb51bdc1556.jpg)  
  Make up-to three potions at once by putting Water Bottles in the other bottom boxes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Put**1 Nether Wart** in the box at the top of the brewing menu.  
 ![Put 1 Nether Wart in the box at the top of the brewing menu.](https://www.lifewire.com/thmb/MjgshJ6DqtRW1P8bW7GvdnTRDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-7bb3bff99f2d4daebf1c93c83857ae01.jpg)
 9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Awkward Potion Recipe  
 
@@ -48,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 * 1 Water Bottle  
 * 1 Nether Wart  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Does an Awkward Potion Do in Minecraft?  
 
  The Awkward Potion is an essential base ingredient for many other potions. Here's a list of what you can make with an Awkward Potion.  
@@ -88,8 +109,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +116,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-best-of-breed-exceptional-cardboard-vr-gaming-experienits/"><u>[Updated] Best of Breed Exceptional Cardboard VR Gaming Experienits</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-youtubing-green-magic-ideas-that-come-to-life/"><u>[Updated] In 2024, Youtubing Green Magic – Ideas That Come to Life</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-macro-mastery-tips-for-clear-detail-focused-photos/"><u>[Updated] IPhone Macro Mastery Tips for Clear, Detail-Focused Photos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/advanced-insights-into-gesture-based-user-input/"><u>Advanced Insights Into Gesture-Based User Input</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crafty-tech-jokes-for-ios-enthusiasts-funny-ideas-for-playing-pranks-with-ipod-iphone-and-ipad/"><u>Crafty Tech Jokes for iOS Enthusiasts: Funny Ideas for Playing Pranks with iPod, iPhone & iPad</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-smartphone-applications-for-simplifying-your-painting-endeavors-at-home/"><u>Discover the Best Smartphone Applications for Simplifying Your Painting Endeavors at Home</u></a></li>
+<li><a href="https://common-error.techidaily.com/dormant-devices-down-windows-1110-woes/"><u>Dormant Devices Down: Windows 11/10 Woes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide/"><u>In 2024, How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-2024s-fresh-collection-of-standard-user-passwords-for-d-link-devices/"><u>July 2024'S Fresh Collection of Standard User Passwords for D-Link Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-troubleshooting-deciphering-and-fixing-the-notorious-code-10-errors/"><u>Navigating Through Troubleshooting: Deciphering and Fixing the Notorious Code 10 Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-server-communication-breakdown-the-ultimate-fix-for-502-errors/"><u>Resolving Server Communication Breakdown: The Ultimate Fix for 502 Errors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-to-setting-up-morpheus-addon-in-kodi-with-matrix-support/"><u>Step-by-Step Guide to Setting Up Morpheus Addon in Kodi with Matrix Support</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-integrating-apple-homepod-into-your-tv-setup/"><u>Step-by-Step Tutorial on Integrating Apple HomePod Into Your TV Setup</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-platform-question-whos-the-best-vimeo-or-youtubeplusdailymotion/"><u>The Ultimate Platform Question Who's the Best - Vimeo or YouTube+Dailymotion?</u></a></li>
+</ul></div>
 

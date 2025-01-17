@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights From ZDNet"
-date: 2025-01-06T07:32:38.478Z
-updated: 2025-01-10T16:23:33.629Z
+date: 2025-01-14T03:03:56.247Z
+updated: 2025-01-17T04:21:59.253Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8fc6b51a-545c-47ed-9fa6-87cbc8d2712f%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,21 +62,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-high-speed-window-pictorial-interface/"><u>[New] In 2024, High-Speed Window Pictorial Interface</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-smirk-sculptor-image-maker/"><u>[Updated] Smirk Sculptor Image Maker</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024s-best-practices-to-reduce-network-delays-and-boost-gaming-performance/"><u>2024'S Best Practices to Reduce Network Delays and Boost Gaming Performance</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/best-free-backup-solutions-reviewed-aomei-backupper-tops-the-list-for-easy-to-use-data-protection/"><u>Best Free Backup Solutions Reviewed - AOMEI Backupper Tops the List for Easy-to-Use Data Protection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808129084-how-to-resolve-windows-update-issues-unstick-and-revive/"><u>How to Resolve Windows Update Issues: Unstick and Revive</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-set-up-smooth-transitions-youtube-content-playback-on-facebook/"><u>In 2024, How to Set Up Smooth Transitions YouTube Content Playback on Facebook</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/losungsansatze-fur-das-problem-onedrive-synchronisation-ist-ausstehend-entdecken-sie-drei-effektive-strategien/"><u>Lösungsansätze Für Das Problem: OneDrive-Synchronisation Ist Ausstehend - Entdecken Sie Drei Effektive Strategien</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808318828-top-game-torrents-at-a-glance-navigating-the-best-free-downloading-portals/"><u>Top Game Torrents at a Glance: Navigating the Best Free Downloading Portals.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-vmware-advanced-keyboard-drivers-installation-guide-and-overview/"><u>Understanding the VMware Advanced Keyboard Drivers: Installation Guide & Overview</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-advanced-startup-in-windows-11-easy-methods-revealed/"><u>Unlock the Power of Advanced Startup in Windows 11: Easy Methods Revealed!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unpacking-the-revision-strategy-behind-samsungs-new-galaxy-s21-model/"><u>Unpacking the Revision Strategy Behind Samsung's New Galaxy S21 Model</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unseen-no-more-enable-access-to-seagate-external-drives-on-windows-10-systems/"><u>Unseen No More: Enable Access to Seagate External Drives on Windows 10 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808245571-use-alarms-in-windows-10-quite-easy/"><u>Use Alarms in Windows 10. Quite Easy</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/youtube-for-educators-maximizing-its-classroom-potential/"><u>YouTube for Educators Maximizing Its Classroom Potential</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-groundbreaking-open-source-software-for-modern-video-conferencing-for-2024/"><u>[New] Groundbreaking Open Source Software for Modern Video Conferencing for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-engage-viewers-with-an-effortless-youtube-animated-subscribe-button-using-filmora/"><u>[Updated] In 2024, Engage Viewers with an Effortless YouTube Animated Subscribe Button Using Filmora</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-essential-free-cloud-services-with-massive-1tb-space-included/"><u>[Updated] In 2024, Essential Free Cloud Services with Massive 1TB Space Included</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-engaging-effectively-in-a-twitter-chat/"><u>A Step-by-Step Guide: Engaging Effectively in a Twitter Chat</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-motorola-edgeplus-2023-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-laptops-that-dont-charge-when-plugged-in-on-windows-11-systems/"><u>Effective Solutions for Laptops That Don't Charge When Plugged in on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-your-gaming-experience-easy-ssd-installation-for-the-playstation-5/"><u>Enhance Your Gaming Experience: Easy SSD Installation for the PlayStation 5</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expertly-selected-best-ios-mail-applications-our-preferred-choices/"><u>Expertly Selected Best iOS Mail Applications - Our Preferred Choices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-greatest-8-choices-for-additional-phone-numbers/"><u>Explore the Greatest 8 Choices for Additional Phone Numbers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-path-of-exile-server-disconnect-problems/"><u>How to Overcome Path of Exile Server Disconnect Problems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-from-amateur-to-pro-elevating-your-hdr-portrait-skills/"><u>In 2024, From Amateur to Pro Elevating Your HDR Portrait Skills</u></a></li>
+<li><a href="https://fox-links.techidaily.com/step-into-high-dynamic-range-the-complete-hdr-conversion-guide-for-2024/"><u>Step Into High Dynamic Range The Complete HDR Conversion Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-microsoft-word-files-failing-to-open-correctly/"><u>Troubleshooting Steps for Microsoft Word Files Failing to Open Correctly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-how-to-dislike-all-your-favorites-in-spotify-easily/"><u>Ultimate Tips: How to Dislike All Your Favorites in Spotify Easily</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-secrets-to-professional-sound-capture-in-audacity/"><u>Unveiling the Secrets to Professional Sound Capture in Audacity</u></a></li>
 </ul></div>
 

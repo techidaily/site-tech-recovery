@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2025-01-05T16:24:06.916Z
-updated: 2025-01-10T19:59:41.883Z
+date: 2025-01-10T16:59:51.560Z
+updated: 2025-01-17T02:02:02.089Z
 tags:
   - apple
 categories:
@@ -26,18 +26,18 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -49,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -61,7 +61,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -81,7 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -140,20 +140,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/hannel-boosting-strategies-effortless-sponsorship-securing-tips/"><u>[New] Channel Boosting Strategies Effortless Sponsorship Securing Tips</u></a></li>
-<li><a href="https://win-bits.techidaily.com/5aac5l2v5zyo57ui56uv546v5akd5lit5ogi5asn5yig6zmk5pah5lu255qe5oqa5ben/"><u>如何在终端环境中恢复删除文件的技巧</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-6-writing-apps-for-your-digital-diary/"><u>Discover the Best 6 Writing Apps for Your Digital Diary</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722881875859-discover-the-best-note-taking-tools-of-2024-our-expert-picks/"><u>Discover the Best Note-Taking Tools of 2024 - Our Expert Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easily-identify-your-macbook-model-number-with-these-simple-steps/"><u>Easily Identify Your MacBook Model Number with These Simple Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-black-screen-issues-in-hitman-3-comprehensive-pc-troubleshooting-guide/"><u>Fixing 'Black Screen' Issues in Hitman 3: Comprehensive PC Troubleshooting Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/gps-tracking-and-health-apps-boost-motivation-in-the-fitbit-versa-3/"><u>GPS Tracking & Health Apps Boost Motivation in the Fitbit Versa 3</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersive-editing-unveiling-the-top-15-cine-luts-for-action-cam-for-2024/"><u>Immersive Editing Unveiling the Top 15 Cine LUTs for Action Cam for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-g2-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo G2 Phone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-through-srt-freeze-in-adobe-premiere-projects/"><u>Navigating Through SRT Freeze in Adobe Premiere Projects</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-drive-error-quick-fix-for-windows-device/"><u>No-Drive Error: Quick Fix for Windows Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-troubleshooting-for-windows-code-28-errors/"><u>Step-by-Step Troubleshooting for Windows Code 28 Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-logistics-of-operating-multiple-channels-on-the-youtube-platform/"><u>The Logistics of Operating Multiple Channels on the YouTube Platform</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/updated-linksys-standard-login-credentials-for-july-2024-complete-list/"><u>Updated Linksys Standard Login Credentials for July 2024 - Complete List</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-next-level-editing-on-windows-top-videography-suites-revealed/"><u>[New] Next-Level Editing on Windows Top Videography Suites Revealed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reassessing-the-updates-to-sonys-s6500-bdhd-player/"><u>[Updated] Reassessing the Updates to Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-attention-stirrer-supreme/"><u>2024 Approved Attention Stirrer Supreme</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-rated-apps-for-taking-screenshots-in-windows-8/"><u>2024 Approved Top-Rated Apps for Taking Screenshots in Windows 8</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726225817943-mp3wav-movavi/"><u>免費移動MP3到WAV - 使用Movavi 音頻轉換工具在線上進行</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mp4webm-movavi/"><u>網路直接無成本地轉換MP4成WEBM格式 - 使用 Movavi 上傳圖片</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertir-wtv-a-mpeg-online-de-forma-gratuita-con-movavi/"><u>Convertir WTV a MPEG Online De Forma Gratuita Con Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/creating-your-own-youtube-intro-with-movavi-a-step-by-step-guide/"><u>Creating Your Own YouTube Intro with Movavi - A Step by Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-everything-you-need-to-know-about-netflixs-top-tier-streaming-platform/"><u>Exploring Everything You Need to Know About Netflix's Top-Tier Streaming Platform</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/peace-and-power-the-10-greatest-yoga-channels-online/"><u>Find Peace & Power The 10 Greatest Yoga Channels Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-dpx-image-transformation-services-by-movavi/"><u>Free Online DPX Image Transformation Services by MOVAVI</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-online-ts-videoconverter-naar-mp4-professioneel-snel-en-efficient-met-movavi/"><u>Gratis Online Ts-Videoconverter Naar Mp4: Professioneel Snel en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/premier-networks-for-your-personalized-watchlist-for-2024/"><u>Premier Networks for Your Personalized Watchlist for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smoothly-blending-scenes-with-premieres-transitions-for-2024/"><u>Smoothly Blending Scenes with Premiere's Transitions for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformar-archivos-raw-en-imagenes-jpg-gratuitas-con-movavi/"><u>Transformar Archivos RAW en Imágenes JPG Gratuitas Con Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unravel-gamers-secrets-a-hands-on-exploration-of-philips-49-oled-monitor-with-a-curved-design/"><u>Unravel Gamers' Secrets: A Hands-On Exploration of Philips' 49 OLED Monitor with a Curved Design</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726225555863-mkv-aac-movavi/"><u>영구제 MKV을 AAC으로 바꾸기 - Movavi 서비스</u></a></li>
 </ul></div>
 

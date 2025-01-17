@@ -1,7 +1,7 @@
 ---
 title: Dealing with a Blank Screen? Resolve Your Xbox One 'No Signal' Problem Today!
-date: 2024-08-19T15:21:58.187Z
-updated: 2024-08-20T15:21:58.187Z
+date: 2025-01-11T03:16:27.457Z
+updated: 2025-01-16T23:50:02.242Z
 categories:
   - BestProducts
 description: This Article Describes Dealing with a Blank Screen? Resolve Your Xbox One 'No Signal' Problem Today!
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/ZC3UAocYJtK4Pf_BXY2Cem3UPKM=/400x300/fi
 
  This article explains how to use Mac's built-in Preview app to color-code your folders to any hue in the rainbow, or even replace the default folder icons with your own images. If that's too complicated, you can also accomplish the same task much faster with a premium app from the[App Store](https://www.lifewire.com/using-mac-app-store-4171845) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ways to Customize Folder Colors on Mac
 
  Folders in[macOS](https://www.lifewire.com/what-is-macos-4691239) are all a pleasant shade of blue, which can lead to a sea of sameness on your desktop that eventually becomes difficult to navigate. If you have a few important ones you want to keep track of, you can change folder color on Mac without too much trouble.
@@ -29,8 +33,9 @@ thumbnail: https://www.lifewire.com/thmb/ZC3UAocYJtK4Pf_BXY2Cem3UPKM=/400x300/fi
 * **Use a premium app like Folder Color** : This method requires a premium app like Folder Color, which you can buy from the App Store. It automates the process and makes it easier.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Folder Color on Mac Using Preview
 
  Using the Preview app, you can customize the color of any folder. This is a multi-step process that's complicated enough that you will probably have to refer to this guide the first couple times you do it, but it isn't difficult.
@@ -42,47 +47,43 @@ thumbnail: https://www.lifewire.com/thmb/ZC3UAocYJtK4Pf_BXY2Cem3UPKM=/400x300/fi
 3. Click the**folder icon** in the upper left of the folder info window so that it is highlighted.  
 ![A screenshot of the folder info box on macOS.](https://www.lifewire.com/thmb/3dEqd1G-bbtDdiGsMpSUPtPn-sA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ChangeFolderColoronMac-annotated-bf971c3eafea41448cee2071f8520c6e.jpg)
 4. Click**Edit** in the menu bar near the top left of the screen and select**Copy** from the drop down menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A screenshot of copying an icon on macOS.](https://www.lifewire.com/thmb/4puIgoAvE_ObPrZ4A1_Ht2wNxyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ChangeFolderColoronMac-annotated-30f95819009f4d888881324def4972cb.jpg)
 5. Locate and open the**Preview** app.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot of the Applications folder on macOS.](https://www.lifewire.com/thmb/QLXtd-veloVkY8ge5HI9PdIVlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ChangeFolderColoronMac-annotated-8465f773aeb74caa9b1dbc0525a419ef.jpg)
 6. With Preview open, click**File** in the menu bar.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The File menu in the Preview app on macOS.](https://www.lifewire.com/thmb/qiZ22LU6m8SiaCUJcNrGLv6kQfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-ChangeFolderColoronMac-annotated-3092277a9357429fa325ccba6b0cb43f.jpg)
 7. Select**New from Clipboard** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![New from Clipboard menu item selected in the Preview app on macOS.](https://www.lifewire.com/thmb/jt8ez5osO5KQwiJ5sJdYieKWXTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A7-ChangeFolderColoronMac-annotated-9876657f8d3f41399b918e61bfb39023.jpg)
 8. Select the**Markup tool** (looks like the tip of a pencil).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Markup tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/l3BVxdPgJm5W8koZRv2XglMO_Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A8-ChangeFolderColoronMac-annotated-0249c263cdfc438b89827e3df055280d.jpg)
 9. Select the**Adjust Color** icon, which looks like three sliders or a prism with light passing through it.  
 ![The Adjust color tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/TMySW-VtU7UNm-ziPdu5TA9ECjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A9-ChangeFolderColoronMac-annotated-13601116017d42e89eb5c1ac3b9a7d59.jpg)
 10. In the Adjust Color window, adjust the**Tint** ,**Saturation** ,**Tempurature** , and**Sepia** sliders to get a color you want, and then close the window.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![A screenshot of Tint slider in Preview app on macOS.](https://www.lifewire.com/thmb/WmhDBeevux4zXDNtHs9-i4BqrBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A10-ChangeFolderColoronMac-annotated-1e5ee4342431465a953da0717e62b70f.jpg)  
  Want more options? You can paste the folder icon into any image-editing software you have.
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 11. Select the colored folder, and press**Command+C** to copy it.  
 ![A screenshot of copying from Preview on macOS.](https://www.lifewire.com/thmb/ldf1VkMQPfhuL1qS5bP9aKcyjos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-003a69e747f84b01a9b4ad148b9071cf.jpg)
 12. Return to the Folder Info box from earlier. If you have closed it, get it back by right-clicking the folder you are trying to customize.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 13. Click the folder in the Folder Info box, and press**Command+V** .  
 ![A screenshot of a customized folder color on macOS.](https://www.lifewire.com/thmb/VI5EKewsKE1LGj0OEbsL44ijJnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-ChangeFolderColoronMac-annotation-5bd8b4aff78648508db5492dbe49a580.jpg)
 14. You can now close the Folder Info box, and your folder will have the new color. If you want, you can repeat this process to customize as many folders as you like.
@@ -130,8 +131,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +138,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-hulu-recording-across-windows-mac-and-mobile-devices/"><u>[New] 2024 Approved Mastering Hulu Recording Across Windows, Mac, and Mobile Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-understanding-the-metaverse-6-compelling-realities-unveiled/"><u>[New] 2024 Approved Understanding the Metaverse 6 Compelling Realities Unveiled</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/erfecting-your-presence-mastery-of-title-and-tag-use-on-youtube/"><u>[New] Perfecting Your Presence Mastery of Title and Tag Use on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-eradicating-screen-clutter-for-seamless-zoom-and-meet-sessions/"><u>[Updated] 2024 Approved Eradicating Screen Clutter for Seamless Zoom & Meet Sessions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-iphone-gps-tracking-apps-our-expert-picks/"><u>Discover the Best iPhone GPS Tracking Apps: Our Expert Picks!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-qbittorrent-torrents-from-freezing-up/"><u>Effective Solutions for Preventing qBittorrent Torrents From Freezing Up</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-look-at-how-t-mobile-operates-seamless-domestic-roaming-for-customers/"><u>Inside Look at How T-Mobile Operates Seamless Domestic Roaming for Customers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/location-illusions-a-step-by-step-guide-to-changing-your-phones-coordinates/"><u>Location Illusions: A Step-by-Step Guide to Changing Your Phone's Coordinates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-child-online-security-the-best-8-tools-for-parents/"><u>Navigating Child Online Security: The Best 8 Tools for Parents</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-animate-your-world-8-must-try-video-animation-apps-for-mobile-for-2024/"><u>New Animate Your World 8 Must-Try Video Animation Apps for Mobile for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-cut-trim-and-edit-10-free-online-video-trimmers-2023-reviews-for-2024/"><u>New Cut, Trim, and Edit 10 Free Online Video Trimmers (2023 Reviews) for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-essential-process-of-modifying-your-online-community-background-for-2024/"><u>The Essential Process of Modifying Your Online Community Background for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-t-mobiles-home-network-roaming-features/"><u>Understanding T-Mobile's Home Network Roaming Features</u></a></li>
+</ul></div>
 

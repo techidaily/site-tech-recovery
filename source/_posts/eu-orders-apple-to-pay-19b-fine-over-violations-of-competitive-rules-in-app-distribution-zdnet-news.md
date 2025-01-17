@@ -1,7 +1,7 @@
 ---
 title: EU Orders Apple to Pay €1.9B Fine Over Violations of Competitive Rules in App Distribution | ZDNET News
-date: 2025-01-08T13:24:51.437Z
-updated: 2025-01-11T00:52:50.254Z
+date: 2025-01-16T03:49:42.766Z
+updated: 2025-01-17T00:45:17.120Z
 tags:
   - apple
 categories:
@@ -85,24 +85,28 @@ This fine is another notch in the EU's belt to level European competition among 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-transformative-ways-to-document-facetime-interactions/"><u>[Updated] 2024 Approved Transformative Ways to Document FaceTime Interactions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-essential-recommendations-for-maximum-data-keep-for-2024/"><u>[Updated] Essential Recommendations for Maximum Data Keep for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-secrets-unveiled-the-ultimate-strategies-for-saving-disco-livestreams-for-2024/"><u>[Updated] Secrets Unveiled The Ultimate Strategies for Saving Disco Livestreams for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-magic-in-home-lighting-a-budget-friendly-alternative-to-philips-hue/"><u>Affordable Magic in Home Lighting - A Budget-Friendly Alternative to Philips Hue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-navigating-chat-features-within-mozilla-thunderbird/"><u>Expert Advice: Navigating Chat Features Within Mozilla Thunderbird</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-not-found-errors-with-mss32dll-easily-explained/"><u>Fixing 'Not Found' Errors with mss32.dll Easily Explained</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-by-step-transferring-snapshots-from-social-platform-to-device/"><u>In 2024, Step-by-Step Transferring Snapshots From Social Platform to Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-command-prompt-a-cross-platform-guide-from-windows-7-to-11/"><u>Mastering Command Prompt: A Cross-Platform Guide From Windows 7 to 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/meaning-behind-invisible-user-presence/"><u>Meaning Behind Invisible User Presence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/optimize-your-rest-with-these-5-apple-watch-sleep-management-apps/"><u>Optimize Your Rest with These 5 Apple Watch Sleep Management Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-steps-to-prep-your-amazon-echo-dot-for-initial-configuration/"><u>Quick Steps to Prep Your Amazon Echo Dot for Initial Configuration</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-a-dell-wireless-keyboard-expert-tips-for-restoring-connection-and-responsiveness/"><u>Reviving a Dell Wireless Keyboard: Expert Tips for Restoring Connection and Responsiveness</u></a></li>
-<li><a href="https://driver-install.techidaily.com/troubleshoot-hp-printer-jetpro400-windows-issues/"><u>Troubleshoot: HP Printer JetPro400 Windows Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-of-psvr2-find-out-its-launch-date-price-tag-and-cutting-edge-specs/"><u>Unlock the Secrets of PSVR2 - Find Out Its Launch Date, Price Tag & Cutting-Edge Specs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-chatgpt-how-does-this-advanced-language-model-work/"><u>Unveiling ChatGPT: How Does This Advanced Language Model Work?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ultimate-guide-top-8-tripods-for-4k-video-enthusiasts/"><u>[New] Ultimate Guide Top 8 Tripods for 4K Video Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-compile-the-best-6-leading-apps-for-fb-lite-video-downloads/"><u>[Updated] In 2024, Compile the Best 6 Leading Apps for FB Lite Video Downloads</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-gt-neo-5-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme GT Neo 5 Activity | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-getting-fcp-on-the-house-simple-steps/"><u>2024 Approved Getting FCP on the House - Simple Steps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-your-fb-profile-top-tips-for-impressive-biographies/"><u>2024 Approved Mastering Your FB Profile Top Tips for Impressive Biographies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/capturando-apenas-parte-da-tela-em-computadores-com-windows-11/"><u>Capturando Apenas Parte Da Tela Em Computadores Com Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comment-rendre-une-image-plus-claire-a-laide-du-correcteur-photographique-de-movavi/"><u>Comment Rendre Une Image Plus Claire À L'aide Du Correcteur Photographique De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comment-sauvegarder-une-conference-sur-zoom-skype-et-autres-logiciels-de-videoconference/"><u>Comment Sauvegarder Une Conférence Sur Zoom, Skype Et Autres Logiciels De Vidéoconférence ?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/converter-gratuito-online-per-trasformare-file-snd-in-mp3-movavi/"><u>Converter Gratuito Online per Trasformare File SND in MP3 - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-converter-transform-cr2-files-into-tiff-format-with-ease/"><u>Free Online Converter: Transform CR2 Files Into TIFF Format with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gekonvertige-gratis-mp3-naar-3gp3g2-met-online-tool-movavi/"><u>Gekonvertige Gratis MP3 Naar 3GP/3G2 Met Online Tool - Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/master-the-art-of-browsing-and-playing-fb-videos-via-appletv-for-2024/"><u>Master the Art of Browsing and Playing FB Videos via AppleTV for 2024</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/solution-detaillee-a-lerreur-dacces-aux-volumes-instantanes-dans-windows-1078/"><u>Solution Détaillée À L’erreur D’accès Aux Volumes Instantanés Dans Windows 10/7/8</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/streamline-your-audio-content-with-googles-tools/"><u>Streamline Your Audio Content with Google’s Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transcode-un-fichier-mpeg-en-format-wmv-gratuitement-en-ligne-tutoriels-de-movavi/"><u>Transcode Un Fichier MPEG en Format WMV Gratuitement en Ligne - Tutoriels De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformacion-gratuita-de-archivos-ogg-a-formato-ogv-online-con-movavi/"><u>Transformación Gratuita De Archivos OGG a Formato OGV Online Con Movavi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-pro-level-iphone-landscape-tips-for-2024/"><u>Unlocking the Secrets Pro-Level iPhone Landscape Tips for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726223710510-mp3mov-movavi/"><u>바인드로 MP3/MOV 애드어를 모방하고 오픈 소스 영상 바이트솜 교체 도구: Movavi 되뇨</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Making New Friends with These 5 Essential Apps
-date: 2024-08-19T15:22:47.846Z
-updated: 2024-08-20T15:22:47.846Z
+date: 2025-01-11T16:42:17.901Z
+updated: 2025-01-16T21:18:48.550Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Making New Friends with These 5 Essential Apps
@@ -21,33 +21,40 @@ thumbnail: https://www.lifewire.com/thmb/77BipcJZrae21SY3cS0Y-3lVGvw=/540x405/fi
 
 [Samsung Unpacked](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fglobal%2Fgalaxy%2Fevents%2Funpacked%2F) is a marketing and launch event Samsung holds regularly to introduce new products. There are typically multiple Unpacked events each year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Next Samsung Unpacked Take Place?
 
  We don't have details for the next Samsung Unpacked event, but we think it will be in January 2025\. It will likely focus on the company's flagship Galaxy phones.
 
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### July 2024 Unpacked Event
 
  The following products were announced at the July 2024 Unpacked event.
@@ -67,8 +74,9 @@ thumbnail: https://www.lifewire.com/thmb/77BipcJZrae21SY3cS0Y-3lVGvw=/540x405/fi
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest Samsung News
 
  While you can always read the[latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest about Samsung.
@@ -85,8 +93,6 @@ thumbnail: https://www.lifewire.com/thmb/77BipcJZrae21SY3cS0Y-3lVGvw=/540x405/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +100,17 @@ thumbnail: https://www.lifewire.com/thmb/77BipcJZrae21SY3cS0Y-3lVGvw=/540x405/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-the-best-video-aspect-ratio-experience/"><u>[New] Crafting the Best Video Aspect Ratio Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-essentials-of-xbox-live-recording/"><u>[New] The Essentials of Xbox Live Recording</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-captivating-clips-incorporating-text-deformation-artistry/"><u>[Updated] Captivating Clips Incorporating Text Deformation Artistry</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-secure-your-travel-documentation-instant-free-passport-image-generation-tool-for-2024/"><u>[Updated] Secure Your Travel Documentation Instant FREE Passport Image Generation Tool for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-digital-to-analog-converters-dac-necessity-or-not-for-your-devices/"><u>Decoding Digital-to-Analog Converters (DAC): Necessity or Not for Your Devices?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-printer-to-computer-file-transfer-tutorial-for-effortless-printing-solutions/"><u>DIY Printer-to-Computer File Transfer Tutorial for Effortless Printing Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminate-interference-a-step-by-step-guide-to-fixing-noisy-outputs-from-the-arctiaudio-7-in-windows-environments/"><u>Eliminate Interference: A Step-by-Step Guide to Fixing Noisy Outputs From the ArctiAudio 7 in Windows Environments</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-decoding-the-secrets-of-highly-successful-youtube-shorts-templates/"><u>In 2024, Decoding the Secrets of Highly Successful YouTube Shorts Templates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-pipe-worlds-a-selection-of-the-superior-six-mario-games-on-pc/"><u>Navigating the Pipe Worlds: A Selection of the Superior Six Mario Games on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-uninterruptible-power-supply-ups-systems/"><u>Top-Rated Uninterruptible Power Supply (UPS) Systems</u></a></li>
+</ul></div>
 

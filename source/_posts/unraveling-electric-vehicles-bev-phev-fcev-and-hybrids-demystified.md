@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Electric Vehicles: BEV, PHEV, FCEV & Hybrids Demystified"
-date: 2024-08-19T15:22:44.361Z
-updated: 2024-08-20T15:22:44.361Z
+date: 2025-01-14T20:33:04.845Z
+updated: 2025-01-17T00:13:30.054Z
 categories:
   - BestProducts
 description: "This Article Describes Unraveling Electric Vehicles: BEV, PHEV, FCEV & Hybrids Demystified"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
  Electric vehicles come in a wide array of flavors, from all-electric battery electric vehicles (BEV) to gasoline-reliant hybrid-electric vehicles (HEV), with a whole rainbow of variations between. Some electric vehicles even rely on fuel cells or gasoline generators to provide electricity instead of powerful battery banks.
 
  The unifying factor is that every electric vehicle includes an electric motor to drive the vehicle, either alone or in concert with a gasoline-reliant internal combustion engine (ICE). While all of these vehicles use electricity in one way or another, only battery electric vehicles are pure EVs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Basic Breakdown 
 
@@ -33,6 +37,10 @@ Julie Bang
 
 ![Close Up Of Electric Motor In Engine Bay Of Electric Car](https://www.lifewire.com/thmb/ffwwoE4gDDdyP2WtPjkGPtd0ffQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/EVenginecloseup_mokeybusinessimages_iStock_GettyImagesPlus-44213dd675b54cf9851b2d793638aa74.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Close up of electric motor. 
 
 monkeybusinessimages/iStock/Getty Images Plus
@@ -43,9 +51,6 @@ monkeybusinessimages/iStock/Getty Images Plus
 
  Since BEVs have to be plugged in, and charging can take a long time without a fast charging station, it’s only natural to be concerned about range. BEV range has increased a lot in recent years though, with some driving up to 400 miles on a single charge. Even the most affordable BEVs provide around 100 miles on a charge though, making them well-suited to city driving and moderate commutes. Longer trips can require some pre-planning depending on the range of the BEV, but charging stations are widely available in most areas.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Hybrid Electric Vehicles (HEV) 
 
  The reason that the term EV gets applied to vehicles that aren’t, strictly speaking, pure electric vehicles is that hybrid electrics were the first to reach the mainstream. These hybrid electric vehicles are a lot like traditional gas-powered vehicles with similar drivetrains, except they include both an electric motor and an internal combustion engine (ICE).
@@ -54,9 +59,6 @@ monkeybusinessimages/iStock/Getty Images Plus
 
 ![A hybrid car engine.](https://www.lifewire.com/thmb/uVPkl2cTlSiqQLXZPZWImBUQd1o=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Hybridcarengine_cipango27_istock_GettyImagesPlus-cf4ab821bf0046169f1cb7bd2fa1982c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 A hybrid car engine. 
 
 cipango27/iStock/Getty Images Plus
@@ -66,6 +68,10 @@ cipango27/iStock/Getty Images Plus
  When not in use, the electric motor in an HEV will typically work in reverse, effectively generating electricity to charge the batteries instead of pulling power out to move the vehicle. This can effectively extend the range of an HEV and help reduce emissions. However, HEVs typically still produce about two thirds of the carbon emissions of vehicles that rely solely on a gas-powered ICE.
 
  The main benefit of an HEV is convenience. From the perspective of the driver, an HEV is no different from an ICE vehicle. You still fill it up with gas like a traditional ICE vehicle, and the electric part takes place under the hood and out of sight with no input from the driver. The downside is that they still burn fossil fuel and still produce a significant amount of carbon emissions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Plug-in Hybrids (PHEV): Parallel and Series 
 
@@ -79,9 +85,6 @@ cipango27/iStock/Getty Images Plus
 
 ![Close up of plug-in hybrid port of an Hybrid Electric Vehicle (PHEV).](https://www.lifewire.com/thmb/UZwtFdgGMf7WVcSLy44woscGk-A=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/PHEVpluginport_Boy_Anupong_Moment_Getty-663b083340fb44b5a8105fd74beffb53.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  Close up of the plug-in/gas port of an Hybrid Electric Vehicle (PHEV). 
 
 Boy\_Anupong/Moment/Getty
@@ -95,9 +98,9 @@ Boy\_Anupong/Moment/Getty
  When an EREV is run in all-electric mode, without the gas generator running, they produce no tailpipe emissions, just like BEVs. However, they do produce carbon emissions whenever the gas generator is running. The catch is that the all-electric range typically tops out at around 80 miles, with some models providing even less.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fuel Cell Electric Vehicles 
 
  Fuel cell technology is intriguing, because it generates electricity without carbon emissions. There have been a number of different fuel cell technologies over the years, but the FCEVs that are available today all rely on a reaction between hydrogen and oxygen. Fuel cells are charged with hydrogen, which then reacts with oxygen to generate electricity as needed. The electricity powers an electric motor, similar to the way batteries power electric motors in BEVs, and the only byproducts are water vapor and warm air.
@@ -107,8 +110,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![HydroGen 3 Fuel Cell Minivan Engine](https://www.lifewire.com/thmb/YWfDVNWTFGaPJrWOCm7GpOvXtrM=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Fuelcellengine_Arctic-Images_TheImageBankUnreleased-1e096669f0f5453ba1c4c5e997679dbc.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  HydroGen 3 Fuel Cell Minivan Engine. 
 
 Arctic-Images/The Image Bank Unreleased
@@ -117,9 +121,6 @@ Arctic-Images/The Image Bank Unreleased
 
  For example, if you lived near fuel stations in Los Angeles, you couldn’t take a weekend trip to Las Vegas. While the travel distance of about 240 miles might be inside your range, you wouldn’t be able to fuel up before heading home. Even if your FCEV had a range of 366 miles, you’d run out of hydrogen somewhere in the desert on your return trip. To safely make the same trip, a long range BEV could simply charge up before the return trip, while a shorter range BEV could stop at charging stations along the way.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why Are There So Many Types of EVs? 
 
  Electric vehicle technology has been around for over 200 years, but it only came back into focus and started evolving rapidly in the last couple decades.
@@ -154,8 +155,6 @@ Arctic-Images/The Image Bank Unreleased
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +162,22 @@ Arctic-Images/The Image Bank Unreleased
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-pushing-boundaries-with-iphones-motion-blur-capabilities/"><u>[New] Pushing Boundaries with iPhone’s Motion-Blur Capabilities</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-common-issues-in-youtube-shorts/"><u>[Updated] 2024 Approved Mastering Common Issues in YouTube Shorts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-building-a-brand-in-the-metaverse-ecosystem/"><u>[Updated] Building a Brand in the Metaverse Ecosystem</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-future-of-fb-ads-whats-a-must-try-in-2024/"><u>[Updated] Future of FB Ads – What’s a Must-Try, In 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/access-your-iphone-owners-handbook-a-comprehensive-list-of-download-sources-per-model/"><u>Access Your iPhone Owner's Handbook: A Comprehensive List of Download Sources Per Model</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhanced-audio-experience-top-5-game-headsets-for-streaming-for-2024/"><u>Enhanced Audio Experience Top 5 Game Headsets for Streaming for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-to-reset-and-reboot-your-iphone-15-smoothly/"><u>Expert Strategies to Reset and Reboot Your iPhone 15 Smoothly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-evolution-a-journey-through-apples-ios-versions-from-10-to-180/"><u>Exploring the Evolution: A Journey Through Apple's iOS Versions From 1.0 to 18.0</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-unlock-hacks-how-to-regain-entry-without-the-password/"><u>IPad Unlock Hacks: How to Regain Entry Without the Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-attracting-followers-on-instagram-with-these-proven-techniques/"><u>Master the Art of Attracting Followers on Instagram with These Proven Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-instagram-video-soundtracking-techniques/"><u>Mastering the Art of Instagram Video Soundtracking Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-fixing-skypes-unresponsive-video-feature-in-windows-10/"><u>Quick Solutions for Fixing Skype's Unresponsive Video Feature in Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/restoring-precision-in-your-view-a-step-by-step-process-for-fixing-misaligned-horizontal-line-displays-on-monitors/"><u>Restoring Precision in Your View: A Step-by-Step Process for Fixing Misaligned Horizontal Line Displays on Monitors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-ranking-apple-band-options-thoroughly-evaluated-by-pros-on-zdnet/"><u>Top-Ranking Apple Band Options - Thoroughly Evaluated by Pros on ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ate-guide-7-prime-free-video-tag-extractors/"><u>Ultimate Guide 7 Prime Free Video Tag Extractors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "What's Next for Google Pixel: Projecting Cost, Launch Dates & New Hardware Specs in Focus"
-date: 2024-08-19T15:20:15.376Z
-updated: 2024-08-20T15:20:15.376Z
+date: 2025-01-12T19:51:38.346Z
+updated: 2025-01-16T22:42:53.033Z
 categories:
   - BestProducts
 description: "This Article Describes What's Next for Google Pixel: Projecting Cost, Launch Dates & New Hardware Specs in Focus"
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/749c8b13fba53b16e3cca7c517e32ea283379a232
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Price Rumors
 
  We haven't seen any rumors or leaks about what the Pixel 9 will cost. For now, we'll assume pricing will match that of the Pixel 8 lineup. However, with the addition of an XL model, we're really only able to take a guess.
@@ -41,9 +45,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro XL** \- $1,199
 * **Pixel 9 Pro Fold** \- $1,799
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
@@ -51,8 +52,9 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google Pixel 9 Features
 
  The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
@@ -63,8 +65,9 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
@@ -83,14 +86,15 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Cameras
 
  This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 MySmartPrice
 
@@ -98,14 +102,15 @@ MySmartPrice
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -115,9 +120,6 @@ MySmartPrice
 
  There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## The Latest News About the Google Pixel 9
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Below are stories about Google devices specifically.
@@ -126,14 +128,11 @@ MySmartPrice
 
 [Surprise: Google's Find My May Be More Private Than Apple's](https://www.lifewire.com/google-find-my-device-better-than-apple-8629920)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +141,20 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ideal-emulation-tools-to-relive-sonys-playstation-experience/"><u>[New] 2024 Approved Ideal Emulation Tools to Relive Sony's PlayStation Experience</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-pic-tastic-top-20-ideas-to-energize-your-feed/"><u>[New] Pic-Tastic! Top 20 Ideas to Energize Your Feed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-premier-ios-choices-for-superior-video-experience-for-2024/"><u>[New] Premier iOS Choices for Superior Video Experience for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-accelerated-sound-adjustment-apps-overview/"><u>2024 Approved Accelerated Sound Adjustment Apps Overview</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-insiders-guide-to-mobile-screen-capture-in-snapchat/"><u>2024 Approved The Insider’s Guide to Mobile Screen Capture in Snapchat</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-sound-quality-with-direct-download-of-msi-windows-compatible-driver-packages/"><u>Enhance Sound Quality with Direct Download of MSI Windows-Compatible Driver Packages</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-smart-8-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Smart 8 Pro Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-create-a-safe-email-haven-on-gmail-by-learning-the-whitelist-method/"><u>How to Create a Safe Email Haven on Gmail by Learning the Whitelist Method</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-msvbvm50dll-not-found-or-missing-errors/"><u>How to Fix 'Msvbvm50.dll Not Found or Missing' Errors</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-f5-pro-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco F5 Pro 5G Phone that is Locked?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-links-re305-a-detailed-assessment-of-the-ac1200-wireless-repeater-and-its-performance/"><u>TP-Link's RE305: A Detailed Assessment of the AC1200 Wireless Repeater and Its Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-msvcr80dll-error-messages-solutions-for-your-computer-woes/"><u>Troubleshooting MSVCR80.dll Error Messages - Solutions for Your Computer Woes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-administrator-secrets-changing-passwords-for-other-users-instruction/"><u>Windows Administrator Secrets: Changing Passwords for Other Users Instruction</u></a></li>
+</ul></div>
 

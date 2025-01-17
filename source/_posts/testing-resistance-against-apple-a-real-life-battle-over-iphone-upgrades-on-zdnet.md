@@ -1,7 +1,7 @@
 ---
 title: "Testing Resistance Against Apple: A Real-Life Battle Over iPhone Upgrades on ZDNet"
-date: 2024-11-28T16:40:05.044Z
-updated: 2024-12-05T05:47:18.768Z
+date: 2025-01-10T01:42:38.125Z
+updated: 2025-01-16T20:55:06.415Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ So what could Apple tell me now that would make me instantly conclude I need an 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's the camera, stupid
@@ -67,7 +67,7 @@ Next Apple offers: "Get more room to zoom with a 2x Telephoto. It's like having 
 On which subject, we move to Apple's next tease: "If your subject is a person, dog, or cat, iPhone 15 lets you quickly capture the shot and turn it into a portrait later." This makes it sound like it's a feature only for people, dogs, and cats. Which, again, is nice but is it worth the upgrade?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## And it's the movies
@@ -89,7 +89,7 @@ Apple explains: "Longer battery life lets you watch up to 3 more hours of video 
 That's the thing when people buy phones. They prefer actual results. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy into the dynamism?
@@ -150,20 +150,17 @@ Perhaps that one will have something about it that I just can't resist. I can wa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-balancing-work-and-leisure-enhancing-podcast-listening/"><u>[New] Balancing Work and Leisure Enhancing Podcast Listening</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-tiktok-shadowban-how-to-get-unshadowbanned-on-tiktok-for-2024/"><u>[New] TikTok Shadowban How to Get Unshadowbanned on Tiktok for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-optimize-twitter-tweets-for-hd-viewing/"><u>[Updated] 2024 Approved Optimize Twitter Tweets for HD Viewing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-unleash-creativity-top-free-video-opener-tools/"><u>2024 Approved Unleash Creativity Top Free Video Opener Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/addressing-the-absent-jvmdll-methods-to-correct-file-missing-issues/"><u>Addressing the Absent JVM.DLL: Methods to Correct File Missing Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cracking-the-code-accessing-hidden-wi-fi-credentials-within-your-windows-11-pc/"><u>Cracking the Code: Accessing Hidden Wi-Fi Credentials Within Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-stellar-presentations-with-the-power-of-chatgpt-ai/"><u>Crafting Stellar Presentations with the Power of ChatGPT AI</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-disable-suggested-posts-and-improve-your-instagram-experience/"><u>Guide to Disable 'Suggested Posts' And Improve Your Instagram Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-taking-flight-iphone-hdr-techniques-for-professional-results/"><u>In 2024, Taking Flight IPhone HDR Techniques for Professional Results</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-delayed-sms-issues-top-9-solutions-for-lagging-iphones/"><u>Solving Delayed SMS Issues: Top 9 Solutions for Lagging iPhones</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-overcome-windows-memory-errors/"><u>Steps to Overcome Windows Memory Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tech-buzz-unraveling-the-price-tag-release-schedule-and-technical-specs-of-teslas-upcoming-robotaxi/"><u>Tech Buzz: Unraveling the Price Tag, Release Schedule & Technical Specs of Tesla's Upcoming Robotaxi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-choosing-and-purchasing-the-perfect-television-for-your-living-room/"><u>The Ultimate Guide: Choosing and Purchasing the Perfect Television for Your Living Room</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-itel-p40-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Itel P40 for Parents | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/xbox-one-image-capture-techniques-a-beginners-guide/"><u>Xbox One Image Capture Techniques - A Beginner's Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sculpt-visual-jokes-adobe-memes-guide/"><u>[Updated] Sculpt Visual Jokes Adobe Memes Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazons-must-have-bargains-of-august-2e-sourced-directly-for-maximum-value/"><u>Amazon's Must-Have Bargains of August 2E, Sourced Directly for Maximum Value!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experts-roundup-the-ultimate-guide-to-choosing-a-premium-stylus-tablet-in-2021-insights/"><u>Experts Roundup: The Ultimate Guide to Choosing a Premium Stylus Tablet in 202([[1]] | Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-android-to-iphone-the-top-3-iphone-16-features-that-might-just-change-my-mind-zdnet/"><u>From Android to iPhone: The Top 3 iPhone 16 Features That Might Just Change My Mind | ZDNET</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-picsart-shield-invisible-smile-vanished-gaze/"><u>In 2024, Picsart Shield Invisible Smile, Vanished Gaze</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-updated-driver-software-for-brother-mfc-j480dw-to-enhance-printing-on-windows-operating-systems/"><u>Install Updated Driver Software for Brother MFC-J480DW to Enhance Printing on Windows Operating Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/patching-up-overwatchs-graphic-mishaps-drivers-revised/"><u>Patching Up Overwatch's Graphic Mishaps – Drivers Revised</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/regional-guide-how-to-securely-store-your-drivers-license-in-apple-wallet-on-iphone/"><u>Regional Guide: How to Securely Store Your Driver's License in Apple Wallet on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-of-the-best-yts-premier-unboxing-sites-for-2024/"><u>The Best of the Best YT's Premier Unboxing Sites for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-game-changer-gear-on-youtube-for-2024/"><u>The Ultimate Game Changer - Gear on YouTube for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-23-labor-day-sale-bargains-for-laptops-exclusive-offers-linger-on-now/"><u>Top 23 Labor Day Sale Bargains for Laptops: Exclusive Offers Linger On Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-smart-tablets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Smart Tablets - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

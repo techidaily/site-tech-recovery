@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Converting Your Kindle KF8 Book to PDF, Mobi & ePub Formats Using Calibre"
-date: 2024-08-20T11:21:03.847Z
-updated: 2024-08-21T11:21:03.847Z
+date: 2025-01-10T04:11:48.168Z
+updated: 2025-01-17T03:56:28.104Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b71585737d9811b8df3523624.jpg
@@ -15,9 +15,11 @@ Posted by [Amy Lopez](https://shorturl.at/bmsEO) on 8/17/2024 8:16:07 PM.
 
 4.5 [(52 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [](https://twitter.com/intent/tweet?) 
 
@@ -37,6 +39,10 @@ Great news for Calibre users! The latest version of the DeDRM plugin now support
 * [1\. How to Convert Kindle KFX to EPUB/PDF/Mobi with Calibre](https://tools.techidaily.com/epubor/products/)
 * [2\. How to Convert Kindle KFX to EPUB/PDF/Mobi without Installing Plugins](https://tools.techidaily.com/epubor/products/)
 * [3\. Calibre or Epubor Ultimate](https://tools.techidaily.com/epubor/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to Convert Kindle KFX to EPUB/PDF/Mobi with Calibre
 
@@ -68,15 +74,27 @@ And the DeDRM plugin will be displayed under File type.
 
 ![dedrm location](http://www.epubor.com/images/uppic/dedrm-location.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The KFX Input plugin will be displayed under 'Conversion input'. 
 
 ![kfx input plugin](http://www.epubor.com/images/uppic/calibre-kfx-plugin.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4Add Kindle KFX books to Calibre by clicking **Add books** in the tool bar. 
 
  You need to download KFX books with Kindle for PC/Mac or Kindle e-ink Reader first, then add KFX books from 'My Kindle Content' folder or the Kindle's Document folder to Calibre manually. The book will be decrypted soon after you add it to Calibre library.
 
 ![convert books1](http://www.epubor.com/images/uppic/convert-books1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The KFX books downloaded with Kindle for PC/Mac will be saved in .azw format. 
 
@@ -98,13 +116,14 @@ Click **Convert books** in the tool bar and choose EPUB/Mobi/PDF/AZW3/TXT/DOCX..
 
 ![convert kfx to pdf with calibre](http://www.epubor.com/images/uppic/convert-kfx-to-pdf-with-calibre.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The book will have two formats for you to choose from after the conversion.
 
 ![converted epub file calibre](http://www.epubor.com/images/uppic/converted-epub-file-calibre.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How to Convert Kindle KFX to EPUB/PDF/Mobi without Installing Plugins
 
 [Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/) is a powerful tool designed to effortlessly remove DRM protection from Kindle books while offering seamless conversion capabilities for ebooks into various formats such as EPUB, PDF, MOBI, AZW3, DOCX, and TXT.
@@ -132,8 +151,9 @@ Launch Epubor Ultimate, your Kindle books, downloaded via Kindle for PC, will be
 ![epubor decrypt kfx](http://www.epubor.com/images/uppic/epubor-decrypt-kfx.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Ultimate Solution**: If you own a Kindle e-ink device, you can download your Kindle books through the ['Download & Transfer via USB'](https://tools.techidaily.com/epubor/products/) option on the Amazon website. This method provides AZW3 files, which can be decrypted using Epubor Ultimate.
 
 Step 4Convert Kindle Books to EPUB/PDF/AZW3/MOBI/TXT
@@ -150,21 +170,12 @@ For more intuitive instructions, here is a video tutorial:
 
 **![convert kcr to pdf](https://www.epubor.com/images/uppic/convert-kindle-successfully-2023-android-mac.png)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Calibre VS. Epubor Ultimate
 
 Calibre is an open source freeware ebook library manager. It is the best tool around for keeping track of your ebooks. The DeDRM plugin for Calibre provides a free way to remove DRM from your Kindle and Adobe DRM ebooks. Though Epubor Ultimate is a paid software, it has absolute advantage over Calibre. First of all, you don't have to download the DeDRM plugins and the KFX Conversion Input Plugin. This could be a pain in the ass if you are a tech newbie. Second, Epubor Ultimate supports removing DRM from KFX books downloaded from Kindle e-Ink Reader. Third, Epubor Ultimate can automatically detect all of your downloaded Kindle books, so you don't need to add your downloaded KFX books to the software manually. 
 
 In a word, Calibre is not as easy as Epubor Ultimate, it's a little difficult to handle for some people who is not skillful. Epubor Ultimate can definitely save you a lot of trouble by converting DRMed books to Mobi/ePub/PDF... So it totally worths your money. And if you are not satisfied with Epubor software, you can get your money back within 30 days after you place the order.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 When comparing Calibre and Epubor Ultimate, both tools have their own advantages. However, Epubor Ultimate is more efficient and convenient for removing DRM from KFX books and converting them to other ebook formats. If you are not tech-savvy, we strongly recommend using Epubor Ultimate, as it allows you to solve the problem smoothly. 
@@ -181,9 +192,6 @@ Suggested reading
 
 ![author](http://www.epubor.com/images/uppic/Hillary.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 [Amy Lopez](https://shorturl.at/bmsEO) crafts informative articles on eBooks and eReaders, uncovering optimal methods to enhance your eBook reading experience, and eagerly shares her findings with you.
 
 SHARING IS GREAT!
@@ -191,8 +199,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 52 Comments
 
@@ -842,8 +848,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -851,4 +855,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-digital-rights-unexpected-content-take-downs/"><u>[New] 2024 Approved Digital Rights Unexpected Content Take-Downs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-editors-secret-best-free-premiere-pro-resources-for-2024/"><u>[New] Top Editors' Secret Best FREE Premiere Pro Resources for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-techniques-for-crafting-dynamic-video-edits/"><u>[Updated] Advanced Techniques for Crafting Dynamic Video Edits</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-highlighting-the-leading-10-shadowy-story-viewers-for-2024/"><u>[Updated] Highlighting the Leading 10 Shadowy Story Viewers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-banishing-the-darkness-tips-for-a-bright-screen-on-obs/"><u>[Updated] In 2024, Banishing the Darkness Tips for a Bright Screen on OBS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-seventh-selection-of-aquatic-cameras-for-2024/"><u>[Updated] The Ultimate Seventh Selection of Aquatic Cameras for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accelerate-your-workflow-mastering-swift-application-launches-with-keyboard-commands-in-windows-11/"><u>Accelerate Your Workflow: Mastering Swift Application Launches with Keyboard Commands in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/compatibility-woes-why-some-older-cpus-cant-run-windows-11-effectively/"><u>Compatibility Woes: Why Some Older CPUs Can't Run Windows 11 Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connecting-your-ps5-dualsense-controller-to-windows-11-a-step-by-step-guide/"><u>Connecting Your PS5 DualSense Controller to Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-comedy-mastering-kinemaster/"><u>Crafting Comedy Mastering KineMaster</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-great-free-substitutes-for-adobe-creative-suite-on-pc-download-affinity-photo-and-illustrator-today/"><u>Discover GREAT FREE Substitutes for Adobe Creative Suite on PC: Download Affinity Photo & Illustrator Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-10-crucial-safety-protocols-endorsed-by-tech-departments-for-user-protection/"><u>Expert Advice: 10 Crucial Safety Protocols Endorsed by Tech Departments for User Protection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/my-journey-towards-a-fully-integrated-smart-house-on-prime-day/"><u>My Journey Towards a Fully-Integrated Smart House on Prime Day</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/power-and-performance-unleashed-the-ultimate-look-at-the-lenovo-thinkpad-z16-gen-2-featuring-amd-technology/"><u>Power and Performance Unleashed: The Ultimate Look at the Lenovo ThinkPad Z16 Gen 2 Featuring AMD Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-refreshing-your-windows-pcs-sound-card-driver/"><u>Step-by-Step Guide: Refreshing Your Windows PC's Sound Card Driver</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-overcoming-atomic-heart-crash-when-you-hit-play/"><u>Troubleshooting: Overcoming 'Atomic Heart' Crash When You Hit Play</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Poco X6 Pro | Dr.fone</u></a></li>
+</ul></div>
 

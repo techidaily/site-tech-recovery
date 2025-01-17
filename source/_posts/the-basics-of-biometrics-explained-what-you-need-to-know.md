@@ -1,7 +1,7 @@
 ---
 title: The Basics of Biometrics Explained - What You Need to Know
-date: 2024-08-19T15:23:56.187Z
-updated: 2024-08-20T15:23:56.187Z
+date: 2025-01-15T20:37:02.161Z
+updated: 2025-01-16T16:22:28.822Z
 categories:
   - BestProducts
 description: This Article Describes The Basics of Biometrics Explained - What You Need to Know
@@ -29,6 +29,10 @@ Close
 
 ![Eye overlaid with a computer-generated retina scanner](https://www.lifewire.com/thmb/PbK4vRFrhiDsli6CECK91rgASfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/eyeretinascanner-30543474ba0340338d038bab9442da7f.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Anthony Lee / Getty Images 
 
  Compared with so called_token-based_ (e.g. keys, ID cards, driver’s licences) and_knowledge-based_ (e.g. PIN codes, passwords) methods of access control, biometric traits are far more difficult to hack, steal, or fake.
@@ -40,8 +44,9 @@ Close
  However, the collection, storage, and handling of biometric data (particularly with regards to consumer tech) often brings up concerns about personal privacy, security, and identity protection.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Biometric Types and Screening Characteristics 
 
  There are a number of biometric characteristics in use today, each with different means of collection, measurement, evaluation, and application. Physiological characteristics used in biometrics relate to the_shape and/or composition_ of the body. Some examples are (but not limited to):
@@ -74,15 +79,17 @@ Close
  These factors also help determine if one biometric solution may be better to apply in a situation than another. But cost and the overall collection process are also considered. For example, fingerprint and face scanners are small, inexpensive, fast, and easy to implement into mobile devices. This is why smartphones feature those instead of hardware for analyzing body odor or vein geometry!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Biometrics Work in Everyday Life 
 
 ![A thumb in the process of recording a print with black ink](https://www.lifewire.com/thmb/lb87r1wJMdq1q8wkKjYUpAyKYsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680792625-5a0f120547c2660037ff8cdf.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Law enforcement agencies regularly collect fingerprints to help establish crime scenes and identify individuals.  MAURO FERMARIELLO/SCIENCE PHOTO LIBRARY / Getty Images 
 
  Biometric identification/authentication starts with the collection process. This requires sensors designed for capturing specific biometric data. Many iPhone owners may be familiar with setting up[ Touch ID](https://www.lifewire.com/what-is-touch-id-4586807) , where they have to place fingers on the Touch ID sensor over and over and over again.
@@ -105,16 +112,14 @@ Close
 
  Matching involves a scoring process that calculates degrees of similarity, errors (e.g. imperfections from the collection process), natural variances (i.e. some human characteristics can experience subtle changes over time), and more. If a score passes the minimum mark for matching, then the system succeeds at identifying/authenticating the individual.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Biometric Identification vs. Authentication (Verification) 
 
 ![A close up of hands holding smartphones using biometric access for mobile banking apps](https://www.lifewire.com/thmb/tRyYGEDb1mQpT__SniNb5GInrbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-657174560-5a0f125f89eacc0037a6bbc6.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Fingerprint scanners are a growing type of security feature to be incorporated in mobile devices.  mediaphotos / Getty Images 
 
  When it comes to biometrics, the terms ‘identification’ and ‘authentication’ are often confused with one another. However, each one is really asking a slightly different yet distinct question.
@@ -154,8 +159,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +166,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-your-youtube-comments-on-various-devices/"><u>[New] In 2024, Discovering Your YouTube Comments on Various Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-taking-screenshot-on-windows-1187/"><u>[Updated] 2024 Approved Taking Screenshot on Windows 11/8/7</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-strategically-showcasing-achievements/"><u>[Updated] In 2024, Strategically Showcasing Achievements</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-the-meanings-behind-your-ps4-controllers-light-signals-blue-white-red-and-orange/"><u>Deciphering the Meanings Behind Your PS4 Controller's Light Signals: Blue, White, Red & Orange</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dive-into-hardware-with-toms-technology-corner/"><u>Dive Into Hardware with Tom's Technology Corner</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-customize-your-finder-view-on-apple-devices/"><u>Easy Steps to Customize Your Finder View on Apple Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/handling-chatgpts-review-system-failures-techniques-to-ensure-smooth-operation/"><u>Handling ChatGPT's Review System Failures: Techniques to Ensure Smooth Operation</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-itel-p55t-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Itel P55T to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-communication-top-free-online-tools-for-learning-sign-language-uncover-16-picks/"><u>Master the Art of Communication: Top Free Online Tools for Learning Sign Language – Uncover 16 Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-zlibdll-error-a-comprehensive-guide/"><u>Resolving 'Zlib.dll' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-reattaching-a-detached-key-from-your-laptops-keyboard/"><u>Step-by-Step Guide: Reattaching a Detached Key From Your Laptop's Keyboard</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-true-distinctions-between-macs-and-pcs/"><u>Unveiling the True Distinctions Between Macs and PCs</u></a></li>
+</ul></div>
 

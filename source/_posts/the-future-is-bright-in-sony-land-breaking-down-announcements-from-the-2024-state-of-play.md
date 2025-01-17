@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Bright in Sony Land: Breaking Down Announcements From the 2024 State of Play"
-date: 2024-08-20T11:24:15.533Z
-updated: 2024-08-21T11:24:15.533Z
+date: 2025-01-14T17:04:10.740Z
+updated: 2025-01-17T04:32:20.470Z
 categories:
   - BestProducts
 description: "This Article Describes The Future Is Bright in Sony Land: Breaking Down Announcements From the 2024 State of Play"
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 
  This article explains how to show the Mac Finder Path Bar. Information in this article applies to macOS Catalina (10.15) through OS X (10.5) Leopard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the Finder Path Bar
 
  The Finder Path Bar is disabled by default, but it only takes a few seconds to enable it.
@@ -29,13 +33,14 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 3. The Path Bar displays at the bottom of all your Finder windows showing the path to any file or folder you choose.  
 ![Path Bar at bottom of Finder window](https://www.lifewire.com/thmb/gbXg4tnHLHCs1fJYTDgWyaog8vQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-use-macs-hidden-finder-path-bar-2260868-bfdde3c3e82b4222972d05afbe604e6c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the Finder Path Bar?
 
  The Finder Path Bar is a small pane located at the bottom of a[Finder window](https://www.lifewire.com/use-mac-finder-2260739) , just below where files and folders are listed. The Path Bar shows you the path from the folder you're currently viewing to the top of the file system. To put it another way, it shows you the path you created when you clicked through the Finder to get to the current folder.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## How to Turn Off the Finder Path Bar
 
  If you decide you prefer the more minimalistic Finder window, you can turn the Path Bar off just as quickly as you turned it on.
@@ -45,9 +50,14 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 ![Hide Path Bar selected in Finder View menu](https://www.lifewire.com/thmb/6TcHzm-tbM5wrShNj4W63rNiBLQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-use-macs-hidden-finder-path-bar-2260868-4a4198e2ffef4e8bbe0352fa791bbe2e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Path Bar disappears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Other Uses of the Finder Path Bar
 
@@ -59,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 * Truncated folder names often show up in the Path Bar. You can expand the Finder window to see the folders' full names, but that doesn't work well if you have a lot of truncated folder names in the Path Bar. A better method is to place your cursor over a folder with a truncated name. After a second or two, the folder expands to show its full name.
 * The Path Bar also works when you're performing a[Finder search](https://www.lifewire.com/use-spotlight-keyword-searches-to-find-files-2260809) . When the results of a search are displayed in the Finder, you can discover where an item is stored by selecting the item in the search results and then glancing at the Path Bar.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Additional Ways to Show the Path
 
  The Path Bar is handy, but there are other ways to display the path to an item. One method is to[add the Path icon to the Finder's toolbar](https://www.lifewire.com/customize-finder-toolbar-2260859) by selecting**View** in the Finder menu bar and choosing**Customize Toolbar** .
@@ -69,17 +76,15 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 ![Customize Toolbar chosen from Finder View menu](https://www.lifewire.com/thmb/85T2ZFHx5DifChRTc-RY-crMIzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-use-macs-hidden-finder-path-bar-2260868-5029e6be5ffb4a7e8d878b81376c7b6b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Drag the**Path** icon to the top of the Finder window.
 
 ![The Path icon applied to the top of the Finder](https://www.lifewire.com/thmb/sXjTsuUVrBaufWskUszQkAeKP-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-use-macs-hidden-finder-path-bar-2260868-dcd2a4bce60941beb1735c254c59d8fd.jpg)
 
  The Path icon displays the path to the currently selected item much as the Path Bar does. The difference is that the Path Bar shows the path in a horizontal format, while the Path icon uses a vertical format. The other difference is that the Path button only displays the path when the button is clicked.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Display the Full Pathname
 
  The final method for showing the path to an item within a Finder window makes use of the Finder's title bar[and its proxy icon](https://www.lifewire.com/finders-icon-view-options-2260725) . The Finder's proxy icon can already display a path. All you need to do is right-click the icon. This path uses a series of icons to show the path to the current Finder window. However, with[a bit of Terminal magic](https://www.lifewire.com/mac-terminal-commands-4774997) , you can change the Finder's title bar and its proxy icon to display the true pathname, not a bunch of icons. For example, if you have a Finder window open on your Downloads folder, the standard proxy icon is a folder icon with the name "Downloads." After using this Terminal trick, the Finder instead displays a small folder icon followed by /Users/YourUserName/Downloads.
@@ -97,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 
  The Finder restarts, after which any Finder window displays the long pathname to the current location of a folder.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Turn Off the Display of the Full Pathname
 
  If you decide you don't like the Finder always displaying the long pathname, you can turn the feature off with the following Terminal commands:
@@ -140,8 +142,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +149,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-camstudio-live-streaming-and-screen-capturing-review/"><u>[New] 2024 Approved CamStudio Live Streaming & Screen Capturing Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-detailed-review-all-about-gecatas-recording-mechanism/"><u>[New] In 2024, Detailed Review All About Gecata's Recording Mechanism</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-integrating-your-apple-tv-and-social-media-watch-facebook-now/"><u>2024 Approved Integrating Your Apple TV & Social Media Watch Facebook Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-at-your-service-harnessing-the-power-of-chabt-gpt-in-professional-settings/"><u>AI at Your Service: Harnessing the Power of Chabt GPT in Professional Settings</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/discounted-access-for-singapores-small-businesses-deploy-microsoft-copilot-efficiently/"><u>Discounted Access for Singapore's Small Businesses: Deploy Microsoft Copilot Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-remedies-for-microsofts-directxdirectinputdll-error-fixes/"><u>Effective Remedies for Microsoft's directx/directinput.dll Error Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-picks-leading-ups-battery-solutions-of-ebrary-2024/"><u>Expert Picks: Leading UPS Battery Solutions of Ebrary 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-how-to-unlink-gadgets-from-google-home-networks/"><u>Expert Tips on How to Unlink Gadgets From Google Home Networks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-zero-5g-2023-turbo-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Zero 5G 2023 Turbo Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/is-sns-hdr-the-best-for-your-hdr-needs-insights/"><u>Is SNS HDR the Best for Your HDR Needs? Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-visual-impact-how-to-ensure-your-image-fills-the-screen-on-instagram/"><u>Maximizing Visual Impact: How To Ensure Your Image Fills the Screen on Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-a-nintendo-switch-online-hiccup-you-or-the-network-at-fault/"><u>Navigating a Nintendo Switch Online Hiccup: You or the Network at Fault?</u></a></li>
+<li><a href="https://win-webster.techidaily.com/staying-ahead-with-acronis-true-images-cloning-capabilities-an-in-depth-opgelost-analysis/"><u>Staying Ahead with Acronis True Image's Cloning Capabilities: An In-Depth Opgelost Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-customizing-your-email-signature-on-godaddys-webmail/"><u>Step-by-Step Guide: Customizing Your Email Signature on Godaddy's Webmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-resolution-for-the-notorious-netflix-ui-800-3-error/"><u>Step-by-Step Resolution for the Notorious Netflix UI-800-3 Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-cognitive-features-embedded-in-android-systems/"><u>Understanding the Cognitive Features Embedded in Android Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-infinite-riches-with-like-a-dragon-the-complete-guide-for-pc-players/"><u>Unlock Infinite Riches with 'Like A Dragon': The Complete Guide for PC Players</u></a></li>
+</ul></div>
 

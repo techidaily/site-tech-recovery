@@ -1,7 +1,7 @@
 ---
 title: "Top 10 VisionOS Enhancements: The Exciting Possibilities We Hope Apple Unveils at the Upcoming WWDC"
-date: 2024-12-02T10:11:38.150Z
-updated: 2024-12-05T07:59:24.909Z
+date: 2025-01-14T20:38:00.073Z
+updated: 2025-01-16T19:48:25.715Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/aughter-lane-navigating-to-the-top-15-funny-youtubers-for-2024/"><u>[New] Laughter Lane Navigating to the Top 15 Funny YouTubers for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-from-ordinary-to-extraordinary-the-roadmap-to-likes-on-tiktok-unboxes/"><u>[Updated] From Ordinary to Extraordinary The Roadmap to Likes on TikTok Unboxes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-reality-beyond-exploring-vrs-contemporary-state-and-implications/"><u>[Updated] Reality Beyond Exploring VR's Contemporary State and Implications</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seamlessly-add-music-to-inshot-on-mobile-devices/"><u>[Updated] Seamlessly Add Music to InShot on Mobile Devices</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieving-optimal-ark-isle-of-carnage-speed-a-players-guide-to-fps-boosting-on-desktops/"><u>Achieving Optimal ARK: Isle of Carnage Speed: A Player's Guide to FPS Boosting on Desktops</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-on-disabling-the-ai-assistant-copilot-from-windows-11/"><u>Complete Tutorial on Disabling the AI Assistant, Copilot, From Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-performing-a-full-reboot-on-any-ipad-model/"><u>Comprehensive Guide: Performing a Full Reboot on Any iPad Model</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-edge-computers-optimal-machines-for-media-creation/"><u>Cutting-Edge Computers Optimal Machines for Media Creation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/escaping-gmail-here-are-the-top-8-alternatives-to-consider/"><u>Escaping Gmail? Here Are the Top 8 Alternatives to Consider</u></a></li>
-<li><a href="https://extra-information.techidaily.com/getting-started-free-videography-templates/"><u>Getting Started Free Videography Templates</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-switching-your-iphones-geographic-settings-with-ease/"><u>Guide: Switching Your iPhone's Geographic Settings with Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/home-audio-system-essentials-a-step-by-step-guide-for-newcomers/"><u>Home Audio System Essentials: A Step-by-Step Guide for Newcomers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-msodll-file-not-detected-errors-on-your-computer/"><u>How to Fix 'mso.dll' File Not Detected Errors on Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-sync-your-fortnite-identities-into-one-account-expert-advice/"><u>How To Sync Your Fortnite Identities Into One Account – Expert Advice</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/latest-zoom-enhancements-updating-the-application-on-pc-and-mac-systems/"><u>Latest Zoom Enhancements: Updating the Application on PC and Mac Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tutorial-mastering-game-downloads-for-your-meta-quest-vr-headset/"><u>Tutorial: Mastering Game Downloads for Your Meta Quest VR Headset</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrading-your-epson-wf-7720-the-ultimate-guide-to-installing-latest-printer-drivers-in-windows/"><u>Upgrading Your Epson WF-7720: The Ultimate Guide to Installing Latest Printer Drivers in Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/your-iphone-home-key-stuck-or-broken-try-out-these-5-rapid-remedies/"><u>Your IPhone Home Key Stuck or Broken? Try Out These 5 Rapid Remedies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-days-for-launching-a-podcast/"><u>2024 Approved Ideal Days for Launching a Podcast</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/77040896-2024-approved-tap-into-endless-creativity-our-compilation-of-over-50-free-advertising-masterpieces/"><u>2024 Approved Tap Into Endless Creativity – Our Compilation of over 50 FREE Advertising Masterpieces</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-unveils-revolutionary-in-house-ai-image-creator-magic-on-your-device-say-goodbye-to-dall-e/"><u>Apple Unveils Revolutionary In-House AI Image Creator - Magic on Your Device, Say Goodbye to DALL-E!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-insights-on-macos-sonoma-version-144-bugs-and-fixes-pre-update-techinsight/"><u>Essential Insights on MacOS Sonoma Version 14.4 Bugs & Fixes Pre-Update | TechInsight</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-p55-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-honor-play-7t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Honor Play 7T Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/movavis-latest-leap-in-video-editing-a-close-review-on-the-2024-version/"><u>Movavi’s Latest Leap in Video Editing – A Close Review on the 2024 Version</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ready-to-pre-order-the-apple-vision-pro-key-factors-to-consider-before-making-your-decision-insights-from-zdnet/"><u>Ready to Pre-Order the Apple Vision Pro? Key Factors to Consider Before Making Your Decision - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-regains-lead-in-global-smartphone-shipments-surpassing-apple-emerging-competitor-closes-the-gap/"><u>Samsung Regains Lead in Global Smartphone Shipments, Surpassing Apple: Emerging Competitor Closes the Gap</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-apple-vision-pro-with-a-vpn-a-step-by-step-tutorial-and-benefits-explanation-techguides/"><u>Secure Your Apple Vision Pro with a VPN: A Step-by-Step Tutorial & Benefits Explanation | TechGuides</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996198874-the-mystery-of-missing-la-noire-pc-version-is-solved-start-playing-today/"><u>The Mystery of Missing L.A. Noire PC Version Is Solved - Start Playing Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-ipad-gadgets-and-peripherals-2023-essentials-techradar/"><u>Top-Ranking iPad Gadgets and Peripherals: 2023 Essentials | TechRadar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity on Mac: Crafting Customized Focus Modes in macOS Monterey to Dodge Distractions | ZDNET Insights"
-date: 2025-01-06T10:05:09.904Z
-updated: 2025-01-11T10:23:08.755Z
+date: 2025-01-12T17:34:16.711Z
+updated: 2025-01-16T23:19:13.241Z
 tags:
   - apple
 categories:
@@ -26,19 +26,15 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -49,7 +45,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -61,7 +57,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -80,6 +76,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,16 +140,17 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-tricks-for-non-engagement-with-edgenuity-video-content/"><u>[New] Tricks for Non-Engagement with Edgenuity Video Content</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-prestigious-directory-free-visuals-hubs-galore-online-for-2024/"><u>[Updated] Prestigious Directory FREE Visuals Hubs Galore Online for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bridging-gaming-generations-playing-ps4-games-on-a-sony-ps5/"><u>Bridging Gaming Generations: Playing PS4 Games on a Sony PS5</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722894280241-discover-7-kid-friendly-online-gaming-options-today/"><u>Discover 7 Kid-Friendly Online Gaming Options Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-aspects-to-think-about-for-the-perfect-fitness-device-choice/"><u>Essential Aspects to Think About for the Perfect Fitness Device Choice</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Itel P55? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-zte-nubia-flip-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your ZTE Nubia Flip 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/instructions-on-disabling-and-deleting-windows-reserved-partition/"><u>Instructions on Disabling and Deleting Windows Reserved Partition</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-legal-to-screen-record-youtube-videos/"><u>Is It Legal to Screen Record YouTube Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-13-best-free-pdf-editor-tools-august-2024-a-comprehensive-guide/"><u>Top 13 Best Free PDF Editor Tools (August 2024): A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/est-practices-in-youtube-keyword-selection/"><u>[New] Best Practices in YouTube Keyword Selection</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/lean-soundscape-youtube-audio-enhancement-guide-for-2024/"><u>[New] Clean Soundscape YouTube Audio Enhancement Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-to-ioss-best-psp-gaming-tools/"><u>[New] The Ultimate Guide to iOS's Best PSP Gaming Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-efficient-live-gaming-broadcasting-on-xbox-for-2024/"><u>[Updated] Efficient Live Gaming Broadcasting on Xbox for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-comprehensive-guide-to-perfecting-facetime-call-screen-captures/"><u>[Updated] In 2024, Comprehensive Guide to Perfecting FaceTime Call Screen Captures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-the-new-apple-m3-pro-and-max-chipsets-insights-for-savvy-shoppers/"><u>Comprehensive Guide to the New Apple M3, Pro, and Max Chipsets: Insights for Savvy Shoppers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-improvements-for-android-how-it-can-surpass-ios-as-the-preferred-mobile-os-zdnet-insights/"><u>Essential Improvements for Android: How It Can Surpass iOS as the Preferred Mobile OS (ZDNet Insights)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-how-to-effortlessly-migrate-your-whatsapp-messages-and-contacts-from-an-android-phone-to-an-iphone/"><u>Guide: How to Effortlessly Migrate Your WhatsApp Messages and Contacts From an Android Phone to an iPhone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-tecno-spark-go-2023-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Tecno Spark Go (2023) Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tech-insight-how-apple-is-advancing-ai-based-domestic-bots-showcasing-two-innovative-creations-the-verge/"><u>Tech Insight: How Apple Is Advancing AI-Based Domestic Bots, Showcasing Two Innovative Creations | The Verge</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-amazon-offers-in-september-2024-exclusive-insights/"><u>Top Amazon Offers in September 2024 - Exclusive Insights</u></a></li>
 </ul></div>
 

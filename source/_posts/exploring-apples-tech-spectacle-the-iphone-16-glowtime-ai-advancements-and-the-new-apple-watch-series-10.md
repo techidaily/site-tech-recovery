@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Tech Spectacle: The iPhone 16 'Glowtime', AI Advancements, and the New Apple Watch Series 10"
-date: 2025-01-06T12:52:15.206Z
-updated: 2025-01-10T22:39:09.864Z
+date: 2025-01-11T21:25:57.909Z
+updated: 2025-01-16T22:07:12.711Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you didn't get to tune in or want a detailed summary of the announcements, ke
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
@@ -65,7 +65,7 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -89,7 +89,7 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -117,7 +117,7 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -135,7 +135,7 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -184,20 +184,22 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-a-new-dimension-understanding-the-innovations-in-hp-envy-27-monitor/"><u>[New] A New Dimension Understanding the Innovations in HP Envy 27 Monitor</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-travel-through-time-on-instagram-the-reverse-video-guide-for-2024/"><u>[New] Travel Through Time on Instagram The Reverse Video Guide for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-full-examination-hero4-black-designs/"><u>[Updated] Full Examination Hero4 Black Designs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategy-to-erase-all-correspondences-via-gmails-handy-mobile-app/"><u>Comprehensive Strategy to Erase All Correspondences via Gmail's Handy Mobile App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-instagram-everything-you-need-to-know-about-the-popular-app/"><u>Exploring Instagram: Everything You Need to Know About the Popular App</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-stand-out-in-snapchat-spotlight-for-2024/"><u>How to Stand Out in Snapchat Spotlight for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-excellent-audio-capture-on-demand/"><u>In 2024, Excellent Audio Capture on Demand</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-hp-officejet-4655-dri-software-for-smooth-operation-free-downloads-available/"><u>Latest HP OfficeJet 4655 Dri Software for Smooth Operation: Free Downloads Available</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/making-your-canon-printers-wi-fi-life-easier/"><u>Making Your Canon Printer's Wi-Fi Life Easier</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-image-uploads-on-instagram-for-2024/"><u>Mastering Image Uploads on Instagram for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pc-gamers-handbook-for-becoming-a-pro-in-pokemon-unite/"><u>PC Gamer's Handbook for Becoming a Pro in Pokémon Unite</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/secure-your-kids-online-experience-limiting-youtube-usage-on-an-ipad/"><u>Secure Your Kids' Online Experience: Limiting YouTube Usage on an iPad</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-basics-of-dts-play-fi-technology-explained/"><u>The Basics of DTS Play-Fi Technology Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-future-of-android-awaits-download-android-16-for-free-insights-into-release-timing-estimated-costs-and-advanced-features/"><u>The Future of Android Awaits: Download Android 16 for Free - Insights Into Release Timing, Estimated Costs & Advanced Features!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-accelerating-the-playback-of-instagram-videos-tips/"><u>[New] 2024 Approved Accelerating the Playback of Instagram Videos (Tips)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-hds-radiance-reviewed-does-it-merit-the-hdr-label-for-2024/"><u>[Updated] HD's Radiance Reviewed Does It Merit the HDR Label for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-premier-collectors-list-top-shorts-for-free-online/"><u>[Updated] In 2024, Premier Collector's List Top Shorts for FREE Online</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-creative-loss-unexpectedly-banished-vid/"><u>2024 Approved Creative Loss Unexpectedly Banished Vid</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/audio-normalization-software-optimize-your-sound-quality-on-windows/"><u>Audio Normalization Software: Optimize Your Sound Quality on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparative-review-choosing-between-the-apple-watch-series-9-and-fitbit-charge-6/"><u>Comparative Review: Choosing Between the Apple Watch Series 9 & Fitbit Charge 6</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-gratuita-da-m4v-a-mov-in-streaming-live-utilizzo-di-movavi-converter-online/"><u>Conversion Gratuita Da M4V a MOV in Streaming Live - Utilizzo Di Movavi Converter Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726222561213-f4v-mp3-movavi/"><u>F4V 프리미엄 아이포드를 MP3로 바꾸기: 무료 원구성 온라인 도구 - Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-incompatibility-making-all-iphone-accessories-work-together-smoothly/"><u>Fixing Incompatibility: Making All iPhone Accessories Work Together Smoothly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transform-mov-files-into-m4v-format-with-easy-steps/"><u>Free Online Conversion: Transform MOV Files Into M4V Format with Easy Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transforming-3gp-videos-into-mjpeg-format-with-movavi/"><u>Free Online Conversion: Transforming 3GP Videos Into MJPEG Format with Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-honor-x9b-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Honor X9b</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-visualizing-sim-life-masterful-tactics-for-accurate-gameplay-recording-in-sims-4/"><u>In 2024, Visualizing Sim Life Masterful Tactics for Accurate Gameplay Recording in Sims 4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/real-time-video-sketching-with-movavi-live-draw-over-recorded-footage/"><u>Real-Time Video Sketching with Movavi - Live Draw Over Recorded Footage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformer-un-fichier-flac-en-fichier-wav-gratuitement-en-ligne-convertisseur-audio-video-rapide/"><u>Transformer Un Fichier FLAC en Fichier WAV Gratuitement en Ligne - Convertisseur Audio Vidéo Rapide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-your-raspberry-pis-full-potential-with-the-latest-glorious-64-bit-operating-system-installation-guide-cnet-reviews/"><u>Unleash Your Raspberry Pi's Full Potential with the Latest 'Glorious' 64-Bit Operating System Installation Guide | CNET Reviews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726223590556-m4a-m4r-movavi/"><u>무료 인터넷에서 쉬운 M4A, M4R 교리 - Movavi 구독하기</u></a></li>
 </ul></div>
 

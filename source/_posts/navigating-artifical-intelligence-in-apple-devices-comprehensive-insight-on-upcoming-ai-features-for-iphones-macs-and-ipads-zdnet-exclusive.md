@@ -1,7 +1,7 @@
 ---
 title: "Navigating Artifical Intelligence in Apple Devices: Comprehensive Insight on Upcoming AI Features for iPhones, Macs & iPads | ZDNET Exclusive"
-date: 2025-01-09T13:25:26.994Z
-updated: 2025-01-10T20:35:13.300Z
+date: 2025-01-15T02:57:52.053Z
+updated: 2025-01-16T23:35:45.436Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Apple Intelligence?
 
 Apple
@@ -41,7 +37,7 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -64,7 +60,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -83,6 +79,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -96,7 +96,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -110,10 +110,6 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -154,6 +150,10 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -210,18 +210,17 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-discovering-the-finest-mac-screen-capture-software/"><u>[New] In 2024, Discovering the Finest Mac Screen Capture Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solved-how-to-configure-vpn-on-android-quickly-and-easily/"><u>[SOLVED] How to Configure VPN on Android | Quickly & Easily!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-insert-youtube-links-for-an-engaging-ppt-experience-for-2024/"><u>[Updated] How to Insert YouTube Links for an Engaging PPT Experience for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-failure-to-launch-in-cd-projekt-reds-witcher-3-wild-hunt/"><u>Diagnosing and Fixing Failure to Launch in CD Projekt Red's Witcher 3: Wild Hunt</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-and-troubleshoot-f1-2020-game-stability-issues-on-windows-pcs/"><u>Fix & Troubleshoot: F1 2020 Game Stability Issues on Windows PCs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-hasty-habits-presentation-file-recording/"><u>In 2024, Hasty Habits Presentation File Recording</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-noise-cancellation-made-easy-a-beginners-guide-to-fcpx-audio-enhancement/"><u>New Noise Cancellation Made Easy A Beginners Guide to FCPX Audio Enhancement</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protect-yourself-from-deception-comprehensive-guide-to-detecting-and-avoiding-phishing-emails/"><u>Protect Yourself From Deception: Comprehensive Guide to Detecting & Avoiding Phishing Emails</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-excessive-cpu-consumption-by-antivirus-processes-on-modern-windows-operating-systems/"><u>Resolving Excessive CPU Consumption by Antivirus Processes on Modern Windows Operating Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revitalize-your-pc-the-simplest-guide-to-refreshing-windows-11/"><u>Revitalize Your PC: The Simplest Guide to Refreshing Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-configuring-remote-desktop-access-on-windows-10/"><u>Step-by-Step Guide to Configuring Remote Desktop Access on Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-renaming-your-account-in-windows-1-10/"><u>Step-by-Step Guide: Renaming Your Account in Windows 1지 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solutions-for-black-screen-issues-in-fortnite-on-windows/"><u>Troubleshooting and Solutions for Black Screen Issues in Fortnite on Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-troubleshooting-sudden-facebook-live-hiccups/"><u>[New] 2024 Approved Troubleshooting Sudden Facebook Live Hiccups</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-voice-customization-made-easy/"><u>[New] Instagram Voice Customization Made Easy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-the-art-of-activating-and-deactivating-pip-in-ios-browsers/"><u>[New] Master the Art of Activating and Deactivating PIP in iOS Browsers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-charting-your-course-building-plays-on-youtube-for-2024/"><u>[Updated] Charting Your Course Building Plays on YouTube for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-slomo-recording-tool-assessment-guide/"><u>[Updated] The Ultimate SloMo Recording Tool Assessment Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-hoe-mic-recordings-from-mp3-to-wav-on-windows-11-10-8-and-7/"><u>Convert Hoe Mic Recordings From MP3 to WAV on Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-your-gif-images-to-ebgp-format-for-free-using-the-movavi-online-tool/"><u>Convert Your GIF Images to ebGp Format for Free Using the Movavi Online Tool!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertissez-un-fichier-mov-en-format-m4v-gratuitement-en-ligne-avec-moovavi/"><u>Convertissez Un Fichier MOV en Format M4V Gratuitement en Ligne Avec Moovavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/flacweb-movavi/"><u>FLAC形式の音声ファイルを簡単にWeb上で無料変換: Movaviソリューション</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/premiere-pro-performance-optimization-tips-for-a-faster-workflow-for-2024/"><u>Premiere Pro Performance Optimization Tips for a Faster Workflow for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-y02t-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo Y02T FRP</u></a></li>
 </ul></div>
 

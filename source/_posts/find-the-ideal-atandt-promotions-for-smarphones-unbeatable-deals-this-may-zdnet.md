@@ -1,7 +1,7 @@
 ---
 title: Find the Ideal AT&T Promotions for Smarphones – Unbeatable Deals This May | ZDNET
-date: 2025-01-04T04:46:50.285Z
-updated: 2025-01-11T12:14:32.143Z
+date: 2025-01-14T00:31:40.611Z
+updated: 2025-01-17T01:04:49.629Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ Pros
 Cons 
 * Cellular connectivity is additional cost
 * Expensive
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple iPad Mini 6th Generation
 
@@ -108,10 +112,6 @@ Cons
 
 ## Boox Tab Mini C
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best small tablet for note-taking
 
 Boox is an e-reader and drawing tablet with a vivid color display, so your e-book's illustrations will pop as you read, and so will your color-coordinated notes. Speaking of which, the note-taking templates on the Tab Mini C are handy. Whether you're a student taking Cornell-style notes, a desk job employee making an hourly plan for your day, a musician crafting a piece of sheet music, or a historian drafting a timeline, the Tab Mini C offers a template for that. 
@@ -141,6 +141,10 @@ Cons
 
 ## Amazon Kindle 11th generation
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best small tablet for reading
 
 The upgraded 11th-generation Kindle offers 16GB of storage instead of 8GB, 300ppi instead of 167ppi, six weeks of battery life instead of four weeks, and charging via USB-C instead of micro-USB. 
@@ -169,14 +173,10 @@ Pros
 Cons 
 * Performance could be better
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Tab A7 Lite
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Samsung small tablet
@@ -190,6 +190,10 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 **Samsung Galaxy Tab A7 Lite tech specs: Display**: 8.7-inch, 1340x800 display | **Processor**: MediaTek MT8768N | **Storage**: 32GB or 64GB | **Colors**: Gray | **Cameras**: 2MP front and 8MP rear | **Weight**: 0.81lbs | **Dimensions**: 8.37 x 4.91 x 0.31 inches | **Connections**: 3.5mm headphone jack, USB-C | **Battery:** 10 to 12 hours
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best small tablet?
 
@@ -215,6 +219,10 @@ It really depends on what size tablet you're looking for, which operating system
 | Amazon Kindle                               | A small and portable tablet designed for reading with dark mode and six weeks of battery life. Its 300ppi is the same display as the Kindle Paperwhite and the Kindle Oasis.                                                                                                             |
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best small tablets:
 
 We know there are a lot of tablets and tablet sizes to choose from, but ultimately, these were the determining factors in our top picks. 
@@ -225,7 +233,7 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test tablets
@@ -240,19 +248,11 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What brand of tablet is best?
 
@@ -261,6 +261,10 @@ Tablets made by Apple, Samsung, and Microsoft are the best-made tablets in terms
 Keep in mind in certain cases (Apple, Samsung), you can pair your other devices with the tablet. In the case of Apple tablets, you can log in using your Apple ID to access the same apps, pictures, and more from your phone on your iPad. 
 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are mini Android tablets worth it?
 
@@ -271,10 +275,6 @@ Their lightweight body and compact design make them perfect traveling companions
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,18 +322,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/choosing-your-ideal-portable-gaming-machine-top-picks-and-reviews/"><u>Choosing Your Ideal Portable Gaming Machine: Top Picks and Reviews</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/concealing-your-tracks-a-guide-to-private-browsing-across-chrome-edge-firefox-safari-opera/"><u>Concealing Your Tracks: A Guide to Private Browsing Across Chrome, Edge, Firefox, Safari, Opera</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/error-404-webpage-unavailable-what-to-do-next/"><u>Error 404: Webpage Unavailable – What To Do Next</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-s25-ultra-unveiled-get-ready-for-release-date-and-price-all-you-need-to-know-about-the-latest-leaks/"><u>Samsung Galaxy S25 Ultra Unveiled! Get Ready for Release Date & Price - All You Need to Know About the Latest Leaks</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/speak-simply-top-10-software-solutions-to-streamline-your-voice-recordings-for-2024/"><u>Speak Simply Top 10 Software Solutions to Streamline Your Voice Recordings for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-quintessential-guide-to-the-best-6-food-journaling-applications-available-today/"><u>The Quintessential Guide to the Best 6 Food Journaling Applications Available Today</u></a></li>
-<li><a href="https://win-superb.techidaily.com/top-5-ultimate-tools-for-effortless-photo-watermark-elimination/"><u>Top 5 Ultimate Tools for Effortless Photo Watermark Elimination</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-7-standing-desks-of-2023-ultimate-comfort-and-productivity-insights/"><u>Top 7 Standing Desks of 202^3: Ultimate Comfort and Productivity – Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-your-surface-pros-wi-fi-connection-issues/"><u>Troubleshooting Your Surface Pro's Wi-Fi Connection Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-discover-these-12-free-movie-streaming-platforms/"><u>Ultimate Guide: Discover These 12 Free Movie Streaming Platforms</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/unlocking-ease-of-use-navigating-to-the-control-panel-in-windows-10-by-yl-computing/"><u>Unlocking Ease of Use: Navigating to the Control Panel in Windows 10 by YL Computing</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-is-a-ghost-in-online-chatting/"><u>What Is a 'Ghost' In Online Chatting?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/apex-1-written-by-assistant/"><u>Apex 1 Written by Assistant</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquer-language-barriers-with-mondlys-advanced-usage/"><u>Conquer Language Barriers with Mondly's Advanced Usage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-unlocking-the-potential-of-picture-in-picture-mode-on-your-android-device/"><u>Easy Steps: Unlocking the Potential of Picture-in-Picture Mode on Your Android Device</u></a></li>
+<li><a href="https://win-great.techidaily.com/essential-strategies-for-successful-vmware-data-retrieval-an-in-depth-tutorial/"><u>Essential Strategies for Successful VMware Data Retrieval: An In-Depth Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-code-39-errors/"><u>How to Fix Code 39 Errors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nokia-c22mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nokia C22Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-master-your-images-top-10-pixlr-hacks-revealed/"><u>In 2024, Master Your Images Top 10 Pixlr Hacks Revealed</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1726226844920-movavi-video-suite/"><u>Movavi Video Suite: 신규 구매 정기 보고서</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/natural-landscapes-essential-templates-to-improve-your-film-craft-for-2024/"><u>Natural Landscapes Essential Templates to Improve Your Film Craft for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-design-cartoon-images-with-the-best-tools/"><u>New 2024 Approved Design Cartoon Images With the Best Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/student-savings-strike-up-your-pathway-to-cheaper-streaming-with-spotify-offers/"><u>Student Savings Strike Up: Your Pathway to Cheaper Streaming with Spotify Offers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-of-apple-unfolds-key-takeawaders-from-the-worldwide-developers-conference-2025/"><u>The Future of Apple Unfolds: Key Takeawaders From the Worldwide Developers Conference 2025</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-movie-selections-of-lifewire-perfect-films-to-watch-immediately/"><u>Top Movie Selections of Lifewire: Perfect Films to Watch Immediately</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-solutions-for-when-safari-stops-functioning-on-an-iphone/"><u>Top Solutions for When Safari Stops Functioning on an iPhone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Unplanned Buy: How I Ended Up Snagging Apple's Newest $17 USB-C EarPods During Amazon's Prime Day - Insights"
-date: 2024-12-04T01:40:53.911Z
-updated: 2024-12-04T22:14:03.578Z
+date: 2025-01-11T17:23:51.444Z
+updated: 2025-01-17T02:51:07.922Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Secondly, the microphone quality on Apple's wired EarPods is some of the best I'
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07954c1a-32c2-42e1-801d-d6490068090c%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,17 +71,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-from-basics-to-advanced-a-polarr-photo-editor-journey/"><u>[New] In 2024, From Basics to Advanced A Polarr Photo Editor Journey</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-picture-perfection-picart-guide-to-pristine-image-editing/"><u>[New] Picture Perfection PicArt Guide to Pristine Image Editing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-swiftly-secure-screen-shots-on-windows-for-2024/"><u>[New] Swiftly Secure Screen Shots on Windows for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unveiling-the-top-8-beginner-friendly-cameras-35mm-to-pands-for-2024/"><u>[Updated] Unveiling the Top 8 Beginner-Friendly Cameras (35Mm to P&S) for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/customize-your-iphone-for-different-geographic-area/"><u>Customize Your iPhone for Different Geographic Area</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/demystifying-the-408-http-status-code-why-it-happens-and-how-to-correctly-address-it/"><u>Demystifying the 408 HTTP Status Code: Why It Happens and How to Correctly Address It</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/emotional-resilience-with-the-newest-5-chatbot-tools/"><u>Emotional Resilience with the Newest 5 Chatbot Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-our-selection-of-top-7-note-taking-tools-on-apples-tablets-ipads-and-ipad-pro/"><u>Explore Our Selection of Top 7 Note-Taking Tools on Apple's Tablets: IPads and iPad Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-pair-a-samsung-remote-to-a-tv/"><u>How to Pair a Samsung Remote to a TV</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-cybersecurity-quandary-of-rapidly-advancing-ai/"><u>The Cybersecurity Quandary of Rapidly Advancing AI</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-vivo-s17t-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo S17t Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-postmycam-seeking-top-notch-alternatives-for-2024/"><u>[Updated] PostMyCam Seeking Top-Notch Alternatives for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-indispensable-ios-16-tools-a-step-by-step-guide-based-on-zdnets-insights/"><u>Discover the Indispensable iOS 16 Tools: A Step-by-Step Guide Based on ZDNet's Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dyson-unveils-ontrac-wireless-a-challenger-to-apples-airpods-pro-and-max-tech-insights-on-zdnet/"><u>Dyson Unveils OnTrac Wireless: A Challenger to Apple's AirPods Pro & Max - Tech Insights on ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/insight-into-autopilot-mode-discovering-the-reason-behind-self-starting-windows-11-systems/"><u>Insight Into Autopilot Mode: Discovering the Reason Behind Self-Starting Windows 11 Systems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-best-free-mpeg-video-stitching-software/"><u>New The Best Free MPEG Video Stitching Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/reverse-viewing-crafts-creative-youtube-video-methods-for-2024/"><u>Reverse Viewing Crafts Creative Youtube Video Methods for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-anker-super-bright-luminous-torch-robust-and-dependable-lighting-solution/"><u>Review of the Anker Super Bright Luminous Torch - Robust and Dependable Lighting Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/safely-patch-and-enhance-with-the-latest-macos-14er-release-update-without-worry-zdnet/"><u>Safely Patch and Enhance with the Latest macOS 14.er Release - Update Without Worry | ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/switched-from-high-end-vr-devices-to-budget-friendly-xr-glasses-a-game-changer-zdnet-insights/"><u>Switched From High-End VR Devices to Budget-Friendly XR Glasses – A Game Changer! | ZDNET Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 11? | Dr.fone</u></a></li>
 </ul></div>
 

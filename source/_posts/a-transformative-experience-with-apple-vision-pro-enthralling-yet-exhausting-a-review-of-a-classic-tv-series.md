@@ -1,7 +1,7 @@
 ---
 title: "A Transformative Experience with Apple Vision Pro: Enthralling Yet Exhausting - A Review of a Classic TV Series"
-date: 2025-01-06T00:49:58.999Z
-updated: 2025-01-10T21:53:43.073Z
+date: 2025-01-11T20:07:56.391Z
+updated: 2025-01-17T00:38:24.137Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ I've been wanting to rewatch the entire four seasons of _For All Mankind_, the a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Apple TV+ on the Vision Pro
@@ -84,17 +84,9 @@ It wasn't distracting enough for me to stop the show, but it was one of those an
 
 And yet, watching the show was incredible in that environment. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The reality of virtual reality
 
 But it wasn't all vintage 1969 Corvette Stingrays and Apollo 11\. There were some problems. The first was audio… 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. AirPods ala mode
 
@@ -128,6 +120,10 @@ So, yes, you can turn on noise cancellation. I just didn't know how to do it on 
 
 Just because I love you folks and want to give you the complete story, I later forced myself to watch the second episode of some of the best TV ever made, on what is probably the most intense giant TV screen I've ever watched. And yeah, both the AirPods Pro and AirPods Max worked just fine. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Eyestrain and itchy itch
 
 I watched the first 20 minutes of the show in entertainment center bliss, but then my eyes started to hurt and my face (the part inside the headset) started to itch. 
@@ -135,6 +131,10 @@ I watched the first 20 minutes of the show in entertainment center bliss, but th
 I made sure to close and blink my eyes throughout the viewing experience, but by about 40 minutes in, I found myself alternately wishing the show was over and enthralled by how awesome the video was. 
 
 To alleviate the itching, I stopped the video a few times, loosened the headset, and scratch it. That's a bit of an immersion killer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. No coffee for you
 
@@ -146,10 +146,6 @@ I wound up drinking my coffee through a straw, but that was also a bit of a prob
 
 After trying this once, I waited until the times I needed to scratch itches to take sips. Not ideal. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Jumpy-jump, flail, flail
 
 There's supposed to be a people detection feature in the Vision Pro that opens a bit of a portal if someone walks up to you and stands in front of you. But when my wife reached across the couch with an insistent tap, there was no such warning. 
@@ -158,21 +154,25 @@ It wasn't as much that it was startling. It was more that it took some coordinat
 
 I'm sure it looked ridiculous to her, and I know it was somewhat stressful to me. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Oh, my furrowed brow
 
 I did notice brow pain while watching, but the entertainment experience was so enthralling that I put up with it. After finishing the show and safely stowing the Vision Pro, I noticed that my brow, where the Vision Pro apparently transferred most of its pressure, really hurt. 
 
 To be fair, it's not a terrible level of hurt, like when you stub your toe. But it's painful enough that it's worth remarking about. The pain went away after about ten minutes. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. In VR, nobody can hear you stream
 
 I can confirm the sense of isolation some [Vision Pro reviewers have reported](https://www.zdnet.com/article/i-tried-apple-vision-pro-for-a-weekend-and-here-are-my-3-biggest-takeaways/#:~:text=3.%20It%27s%20lonely%20in%20the%20spatial%20computing%20world). To be fair, I was purposely going for the isolation, because I didn't want to be involved in my wife's Zoom meeting. 
 
 But when my pup came over, I could feel him and pet him, but he couldn't look at my face and I couldn't see him. It wasn't a terrible moment, because he has prodigious lap-sitting skills, but I wanted to look back at his little face and couldn't. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Is it worth it?
 
@@ -228,18 +228,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-online-video-beats-to-your-phones-ringtones-a-simple-guide/"><u>[New] From Online Video Beats to Your Phone's Ringtones A Simple Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-piceditorpro-assessment-complete-review-for-2024/"><u>[New] PicEditorPro Assessment – Complete Review for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-quintessential-quest-for-stories-worlds-best-1-8-schools/"><u>2024 Approved The Quintessential Quest for Stories – World's Best #1-#8 Schools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/4k-uxga-reality-check-detailed-review-of-asus-mg28uq-for-2024/"><u>4K UXGA Reality Check - Detailed Review of ASUS MG28UQ for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/takes-to-avoid-as-a-new-youtuber/"><u>8 Mistakes to Avoid as a New Youtuber</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-cord-clutter-simultaneous-playthrough-of-videos-for-2024/"><u>Cut the Cord Clutter Simultaneous Playthrough of Videos for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/micromobility-insights-keep-abreast-with-dates-emerging-stories-and-industry-whispers/"><u>Micromobility Insights: Keep Abreast with Dates, Emerging Stories & Industry Whispers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-se-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-high-cpu-consumption-issues-in-windows-11-a-comprehensive-guide/"><u>Resolving High CPU Consumption Issues in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-secure-socket-layer-discrepancies-in-microsoft-windows/"><u>Resolving Secure Socket Layer Discrepancies in Microsoft Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-issue-of-non-detected-seagate-portable-hard-drive-in-windows-11-systems/"><u>Resolving the Issue of Non-Detected Seagate Portable Hard Drive in Windows 11 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reviving-your-msi-webcam-expert-tips-and-techniques/"><u>Reviving Your MSI Webcam: Expert Tips and Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-guide-for-building-a-windows-7-installer-keyboard-with-a-usb-stick/"><u>Seamless Guide for Building a Windows 7 Installer Keyboard with a USB Stick</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-performance-with-pro-windows-10-skills/"><u>[New] Maximizing Performance with Pro Windows 10 Skills</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ultimate-clearer-eliminate-backgrounds-effectively/"><u>[Updated] In 2024, Ultimate Clearer Eliminate Backgrounds Effectively</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-master-youtube-sound-playback-variations/"><u>[Updated] Master YouTube Sound Playback Variations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamlessly-integrate-apple-podcasts-into-your-routine/"><u>2024 Approved Seamlessly Integrate Apple Podcasts Into Your Routine</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/vobwavmovavi/"><u>線上免費VOB檔改成WAV聲音格式，簡介Movavi的錄音工具</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-gratuit-de-la-musique-wma-vers-le-format-mp4-avec-movavi-facile-et-rapide/"><u>Conversion Gratuit De La Musique WMA Vers Le Format MP4 Avec Movavi - Facile Et Rapide !</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-the-perfection-of-hp-envy-27s-design/"><u>Decoding the Perfection of HP Envy 27'S Design</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eficientemente-editar-tus-videos-en-youtube-guia-completa-con-el-editor-de-videos-movavi/"><u>Eficientemente Editar Tus Vídeos en Youtube: Guía Completa Con El Editor De Videos Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-et-precis-top-des-edits-photographiques-ai-integrez-lia-dans-votre-retouche/"><u>Gratuit Et Précis : Top Des Edits Photographiques AI - Intégrez L'IA Dans Votre Retouche</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-360-video-editors-how-to-upload-360-video-to-youtube/"><u>In 2024, 360 Video Editors How to Upload 360 Video to YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/live-streaming-the-champions-league-a-comprehensive-guide/"><u>Live Streaming the Champions League: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trasforma-i-tuoi-file-swf-in-formato-m4v-gratuitamente-con-movavi-guida-rapida/"><u>Trasforma I Tuoi File SWF in Formato M4V Gratuitamente Con Movavi - Guida Rapida</u></a></li>
 </ul></div>
 

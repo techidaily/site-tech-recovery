@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Acquiring Digital Images of Your PC's Visual Output
-date: 2024-08-19T15:23:38.683Z
-updated: 2024-08-20T15:23:38.683Z
+date: 2025-01-09T21:45:37.722Z
+updated: 2025-01-17T03:37:20.190Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to Acquiring Digital Images of Your PC's Visual Output
@@ -14,11 +14,19 @@ thumbnail: https://www.lifewire.com/thmb/Kr_enTExa4ettZUHqG6ZXL5Kpg4=/400x300/fi
 
  After a certain time of inactivity, a Mail.com account will be closed and deleted: any emails in it not backed-up elsewhere are irreversibly lost. You don't need to send messages from a Mail.com account to keep it, of course, or receive emails even; logging into the address and account is enough.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Know When Your Mail.com Account Will Expire From Inactivity
 
  A Mail.com account will close automatically—and emails in it will be deleted after six months of inactivity. That period is subject to change. In the past, the period was 12 months. You need to check the current terms of agreement for Mail.com. The inactivity clause is under 2\. Term and Termination, clause 2.4.
 
  If you use the Premium Service from Mail.com, you are not subject to the inactivity termination for the period for which you are paid. However, your account will revert to a free account if you don't stay current on your payments or renewals. That may happen if the credit card you've stored for automatic renewals has expired or been reissued, and you may have ignored notifications about it. You can easily get into a vicious circle of not checking your Mail.com account or other accounts you have associated with it. When that happens, you may never see the warning about your account reverting to the free version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Can You Keep Your Mail.com Account Active?
 
@@ -29,8 +37,9 @@ thumbnail: https://www.lifewire.com/thmb/Kr_enTExa4ettZUHqG6ZXL5Kpg4=/400x300/fi
  If you set up the account simply to have an email address you can use for identification purposes, such as to have multiple[X (formerly Twitter)](https://www.lifewire.com/what-exactly-is-twitter-2483331) accounts, it can be easy to forget to keep your Mail.com account active. You will need to set up a reminder to log in every few months.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Deleting Your Account at Mail.com
 
  You can choose to delete your Mail.com account yourself using their My Account menu. Select My Account from the Home screen. It is the icon that looks like a person's head and shoulders, near the bottom of the left-hand menu.
@@ -57,8 +66,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -66,4 +73,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-bridging-the-web-with-instagram-a-url-tutorial/"><u>[New] 2024 Approved Bridging the Web with Instagram A URL Tutorial</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-visual-impact-maximization-the-finest-15-cine-luts-for-gopro-cam/"><u>[New] Visual Impact Maximization The Finest 15 Cine LUTs for Gopro Cam</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-deciphering-the-meanings-behind-facebooks-status-symbols-a-closer-look-at-the-blues-for-2024/"><u>[Updated] Deciphering the Meanings Behind Facebook's Status Symbols A Closer Look at the Blues for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ultimate-guide-to-camstudio-recording-and-capturing/"><u>2024 Approved Ultimate Guide to CamStudio Recording and Capturing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/addressing-how-to-repair-zlibdll-not-located-bugs-efficiently/"><u>Addressing How to Repair 'zlib.dll Not Located' Bugs Efficiently</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-protection-in-depth-review-of-the-procase-budget-friendly-laptop-case-for-macbook-pro-13/"><u>Affordable Protection: In-Depth Review of the ProCase Budget-Friendly Laptop Case for MacBook Pro 13</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipating-the-arrival-of-apple-watch-series-x-insights-into-price-release-schedule-and-specs/"><u>Anticipating the Arrival of Apple Watch Series X – Insights Into Price, Release Schedule, and Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatgpt-plus-is-it-the-right-choice-for-you-uncover-5-compelling-benefits/"><u>ChatGPT Plus: Is It the Right Choice for You? Uncover 5 Compelling Benefits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-ac1st16dll-errors-a-comprehensive-solution/"><u>Fixing Ac1st16.dll Errors – A Comprehensive Solution</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-asus-rog-phone-7-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Asus ROG Phone 7 with Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-seamless-integration-transferring-snapchat-images-directly/"><u>In 2024, Seamless Integration Transferring Snapchat Images Directly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ios-18-arrives-dive-into-release-timing-free-installation-cost-enhanced-functionality-and-fresh-updates/"><u>IOS 18 Arrives: Dive Into Release Timing, Free Installation Cost, Enhanced Functionality & Fresh Updates</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-free-method-for-seamless-conversion-from-wav-to-m4a-audio-format/"><u>The Ultimate Free Method for Seamless Conversion From WAV to M4A Audio Format</u></a></li>
+</ul></div>
 

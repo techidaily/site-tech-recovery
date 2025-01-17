@@ -1,7 +1,7 @@
 ---
 title: Secure & Style - The Best iPhone SE Case Collection of 2022 to Shield and Enhance | PCMag
-date: 2024-12-03T01:43:23.480Z
-updated: 2024-12-05T01:12:23.608Z
+date: 2025-01-10T01:23:00.964Z
+updated: 2025-01-16T23:20:53.318Z
 tags:
   - apple
 categories:
@@ -81,10 +81,6 @@ Cons
 * Comes unattached upon harsh impact
 * Can only hold 2 cards comfortably
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Clckr MagSafe phone holder and wallet
 
 ### Best MagSafe wallet for durability
@@ -118,10 +114,6 @@ Cons
 * Limited color options
 
 ## Satechi Magnetic Wallet Stand
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best MagSafe Wallet with an ID slot
 
@@ -157,7 +149,7 @@ Cons
 * Can be a little tricky to get cards in and out in certain situations
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Moft Snap on Phone Stand and Wallet
@@ -196,6 +188,10 @@ Cons
 
 ## Casetify Snappy Leather MagSafe Wallet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best MagSafe wallet for fun color or customization
 
 Casetify offers a basic yet sleek MagSafe wallet for storing your cards with easy access. The wallet features built-in RFID technology to protect your card information, a card port on the back, and is made from 50% recycled materials. 
@@ -226,10 +222,14 @@ Cons
 * Bulkier
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR HaloLock wallet
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best MagSafe wallet for a traditional wallet feel
 
@@ -261,10 +261,6 @@ Cons
 * A little bulky
 
 ## Pelican magnetic wallet and card holder
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best MagSafe wallet for keeping items secure
 
@@ -315,7 +311,7 @@ ZDNET considered all those factors along with budget and use case to make select
 | Pelican Magnetic wallet and card holder | To keep your cards and cash secure.                                                            |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best MagSafe wallet for you:
@@ -329,7 +325,7 @@ We chose these MagSafe wallets through a mix of hands-on testing, carefully cura
 * **Occasion**: Like your phone case, any accessory you affix to your phone becomes an extension of your personality. Consider the type of design or color you'd like (especially if your wallet will become a mainstay of your cell), and consider how you'll be using a phone wallet. Is it for everyday use? Special occasions? Events here and there? Narrowing down how you want to use your wallet can help you ultimately set a budget and decide on necessary features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these MagSafe wallets?
@@ -349,12 +345,16 @@ The iPhone 12, iPhone 12 Pro, iPhone 13, iPhone 13 Pro, iPhone 14, iPhone 14 Pro
 Ideally, you should equip your phone with a [MagSafe phone case](https://www.apple.com/shop/product/MQU73ZM/A/iphone-14-silicone-case-with-magsafe-canary-yellow?tag=zdnet-deals-20), which also helps to protect your phone if you're looking to add a MagSafe wallet. You can find MagSafe phone cases at Apple, or other retailers like Amazon and Best Buy. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I know if my phone is MagSafe?
 
 The iPhone 12 through iPhone 15 models (minus the Mini) feature MagSafe technology. If you're not sure what type of iPhone you have, go to **Settings > General >** **About,** and you'll see what model your phone is. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does RFID mean?
 
@@ -366,15 +366,15 @@ There are devices that can read information contained in a wireless device or "t
 
 No. MagSafe wallets will not damage your cards or make them unusable, though bending, breaking, chipping, and normal wear and tear can occur just as with traditional wallets. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other MagSafe wallets we've tested
 
 Although we've gone hands-on with the products on our list, there are tons of other MagSafe wallet options available on the market. Here are a few alternatives that we've tested which offer strong magnetic grip and great card storage. 
 
 [Best MagSafe wallet for Apple lovers Apple's iPhone FineWoven Wallet with MagSafe Absolutely no one is shocked that the original proprietor of MagSafe technology has also created its own MagSafe wallet, and the latest version even integrates Apple's Find My NFC tracking feature. According to ZDNET's Jason Cipriani, who tested the discontinued leather version, it looks "identical to the original version," with quality materials, fine stitching, and room for three cards, and it magnetically snaps on your phone the same way. This iteration of Apple's flagship wallet is made of FineWoven material, the same being used in the brand's FineWoven cases. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-FineWoven-Wallet-MagSafe%2Fdp%2FB0CHWWMDXR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C63f79876-0ea6-4d50-bf81-e163abbbd967%7Cdtp&dtb=1)[Best MagSafe cardholder Casetify Snappy cardholder and stand This MagSafe cardholder and stand combo did not rank higher in this list is because it only holds one card and isn't really a wallet. However, I love this MagSafe accessory. The stand is easy to flip up, the magnet is strong, my card is secure, the designs are fun, and accessing the card is simple. I tested this for several days during my NJ/NYC commute where it stored my NJ Transit card, and swiping my card was a seamless task. If you're a one-card type or need something for select occasions, I highly recommend this cardholder. View at Casetify](https://www.casetify.com/gadgets/snappy-cardholder-stand?DG=Accessories&D%5FAccessories=Snappy+Cardholder+Stand)[Best simple MagSafe wallet Case Mate MagSafe Wallet The Case Mate wallet is another classic MagSafe design. It can hold up to three cards and cash, though it's not the most convenient for storing bills. It also has a notch for easy access to your cards. When I tested this wallet last month during my commute, it operated as expected and on par with other wallets of a similar design. It comes in a classic tan color as well as four other options, including a sparkly design. View at Case-mate](https://casemate.kxyi.net/c/159047/595064/9781?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fcase-mate.com%2Fproducts%2Fmagsafe-card-holder-sparkle%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best tracking wallet alternative ESR Geo MagSafe Wallet The Geo Wallet is ESR's flagship tracking wallet, which also uses Apple's Find My technology to ensure you can always find your MagSafe wallet. It holds up to three cards, and like the Journey EZMO and LOC8 wallets, it also doubles as a stand. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Magnetic-Functionality-Compatible-Adjustable%2Fdp%2FB0BY8RQC2R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C63f79876-0ea6-4d50-bf81-e163abbbd967%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other MagSafe wallets to consider
 
@@ -422,22 +422,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-your-content-earning-through-evaluative-endeavors-online/"><u>[Updated] 2024 Approved Channel Your Content Earning Through Evaluative Endeavors Online</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-apple-iphone-6-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-unknown-power-ups-in-chatgpt-to-supercharge-your-tasks/"><u>5 Unknown Power-Ups in ChatGPT to Supercharge Your Tasks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-complete-walkthrough-of-the-how-to-train-your-dragon-movies-watch-them-in-order/"><u>A Complete Walkthrough of the How to Train Your Dragon Movies - Watch Them in Order!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/breaking-into-your-ipad-strategies-for-no-passcode-entry/"><u>Breaking Into Your iPad: Strategies for No-Passcode Entry</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-correct-zlibdll-errors-on-your-pc/"><u>Effective Solutions to Correct zlib.dll Errors on Your PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/efficient-methods-to-turn-off-the-ai-companion-copilot-in-windows-11/"><u>Efficient Methods to Turn Off the AI Companion, Copilot, in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-dealing-with-missing-advapi32dll-errors-in-windows/"><u>Expert Advice on Dealing with Missing Advapi32.dll Errors in Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/hdcp-glitches-unraveled-diagnosis-and-remedies-for-screen-issues/"><u>HDCP Glitches Unraveled: Diagnosis & Remedies for Screen Issues</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-action-screen-recorder-review/"><u>In 2024, Action Screen Recorder Review</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209866729-9780938001812-inception/"><u>Inception | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/neo-qled-vs-oled-diving-deep-into-television-display-technologies/"><u>Neo QLED Vs. OLED: Diving Deep Into Television Display Technologies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-issues-with-a-non-functional-microsoft-edge-browser/"><u>Resolving Issues with a Non-Functional Microsoft Edge Browser</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamping-the-basics-customizing-windows-11-for-you/"><u>Revamping the Basics: Customizing Windows 11 for You</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/secrets-to-optimize-gopro-camera-energy-consumption/"><u>Secrets to Optimize GoPro Camera Energy Consumption</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-call-issues-on-your-android-device/"><u>Troubleshooting Tips: Resolving Call Issues on Your Android Device</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-scouting-the-finest-cameras-for-twitch-broadcast-success/"><u>[New] Scouting the Finest Cameras for Twitch Broadcast Success</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-av-and-acoustic-creatives-top-5-online-leaders-roundup/"><u>[Updated] Av & Acoustic Creatives Top 5 Online Leaders' Roundup</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-tips-to-improve-visual-integrity-while-watching-youtube-content/"><u>[Updated] Tips to Improve Visual Integrity While Watching YouTube Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/202-similar-problem-for-the-united-states-audience/"><u>【無限可能】202 # Similar Problem for the United States Audience:</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-how-your-apple-macbook-gets-an-exclusive-update-unveiling-top-macos-15-enhancements-zdnets-guide/"><u>Discover How Your Apple MacBook Gets an Exclusive Update: Unveiling Top MacOS 15 Enhancements – ZDNet's Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/earn-a-150-apple-gift-card-when-buying-your-next-mac-or-ipad-for-education-zdnet/"><u>Earn a $150 Apple Gift Card When Buying Your Next Mac or iPad for Education | ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-the-latest-broadcom-bluetooth-driver-software-on-windows-11-8-or-7/"><u>Getting the Latest Broadcom Bluetooth Driver Software on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y28-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y28 5G Phone?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ios-18-unleashed-a-step-by-step-guide-to-personalizing-your-iphone-control-center-insights-from-zdnet/"><u>IOS 18 Unleashed: A Step-by-Step Guide to Personalizing Your iPhone Control Center - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-ipad-pro-protection-covers-comprehensive-analysis-and-ratings/"><u>Top-Rated iPad Pro Protection Covers - Comprehensive Analysis & Ratings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/zdnet-exclusive-review-why-the-new-ipad-air-and-its-powerful-m2-processor-is-the-ideal-choice-for-modern-users/"><u>ZDNet Exclusive Review: Why the New iPad Air and Its Powerful M2 Processor Is the Ideal Choice for Modern Users</u></a></li>
 </ul></div>
 

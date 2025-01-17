@@ -1,7 +1,7 @@
 ---
 title: 'Portal' Game on PlayStation - Release Timeline, Cost Estimates, Technical Info & Shopping Destinations Detailed!
-date: 2024-08-19T15:20:03.786Z
-updated: 2024-08-20T15:20:03.786Z
+date: 2025-01-15T03:57:23.485Z
+updated: 2025-01-16T18:02:43.293Z
 categories:
   - BestProducts
 description: This Article Describes 'Portal' Game on PlayStation - Release Timeline, Cost Estimates, Technical Info & Shopping Destinations Detailed!
@@ -21,24 +21,26 @@ In This Article
 
  A new Google TV streaming device appears to be in the works. The so-called Google TV Streamer will likely function much like the[Chromecast](https://www.lifewire.com/guide-to-chromecast-2438213) , but that's where their likeness ends. This device loses the dongle form factor and includes a redesigned remote with a customizable button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Google TV Streamer Be Released?
 
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
 August 13 is our best guess.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Google TV Streamer Price Rumors
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
@@ -48,13 +50,15 @@ August 13 is our best guess.
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9to5Google
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google TV Streamer Specs & Features
 
  In the picture above, you can see that, apart from the remote, this device looks nothing like the Chromecast with Google TV. Otherwise, we think it will work exactly like a Chromecast, letting you stream music and videos from online services and cast media to it from other devices.
@@ -70,13 +74,11 @@ August 13 is our best guess.
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9to5Google
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Latest News About the Google TV Streamer
 
  You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.
@@ -87,14 +89,11 @@ August 13 is our best guess.
 
 [Chromecast vs. Roku: Which Streaming Device Is Better?](https://www.lifewire.com/chromecast-vs-roku-4580492)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,4 +102,17 @@ August 13 is our best guess.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-sponsor-opportunities-via-famebit-methods/"><u>[New] Unlocking YouTube Sponsor Opportunities via FameBit Methods</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-integral-youtube-conduct-framework/"><u>[Updated] 2024 Approved Integral YouTube Conduct Framework</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-fallouts-multi-media-journey/"><u>Embark on Fallout’s Multi-Media Journey</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enable-or-disable-network-finding-feature-on-windows-10-a-comprehensive-guide/"><u>Enable or Disable Network Finding Feature on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-and-disabling-network-discovery-on-your-windows-10-pc-a-step-by-step-guide/"><u>Enabling and Disabling Network Discovery on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-key-disparities-between-macs-and-pcs-a-thorough-insight/"><u>Exploring Key Disparities Between Macs and PCs: A Thorough Insight</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-premium-gigabyte-sound-card-drivers/"><u>Free Download: Premium Gigabyte Sound Card Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-disabled-taskbar-icon-clicks/"><u>Solutions for Disabled Taskbar Icon Clicks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/star-wars-battlefront-ii-update-navigating-and-correcting-error-code-327-hassles-for-gamers/"><u>Star Wars Battlefront II Update: Navigating and Correcting Error Code 327 Hassles for Gamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-issues-with-your-instagram-story-not-uploading/"><u>Troubleshooting Tips: Resolving Issues with Your Instagram Story Not Uploading</u></a></li>
+</ul></div>
 

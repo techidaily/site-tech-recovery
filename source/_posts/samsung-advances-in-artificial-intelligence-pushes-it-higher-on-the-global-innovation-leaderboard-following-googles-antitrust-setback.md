@@ -1,7 +1,7 @@
 ---
 title: Samsung Advances in Artificial Intelligence Pushes It Higher on the Global Innovation Leaderboard Following Google's Antitrust Setback
-date: 2024-10-28T08:34:08.447Z
-updated: 2024-10-31T03:01:13.933Z
+date: 2025-01-15T01:37:17.362Z
+updated: 2025-01-16T23:43:14.176Z
 tags:
   - apple
 categories:
@@ -60,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,13 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -108,10 +105,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -135,6 +129,10 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -153,10 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -168,10 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,20 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-scrutinizing-the-functionality-of-pixelrecorder-12/"><u>[New] Scrutinizing the Functionality of PixelRecorder 12</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-nikons-challenge-to-gopro-hero-black-in-video-realm-for-2024/"><u>[Updated] Nikon's Challenge to GoPro HERO Black in Video Realm for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-a-chronicle-of-the-most-popular-reddit-threads-ever/"><u>2024 Approved A Chronicle of the Most Popular Reddit Threads Ever</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-practices-for-screen-recording-phones/"><u>2024 Approved Best Practices for Screen Recording Phones</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-gifs-your-step-by-step-meme-making-journey/"><u>2024 Approved Mastering GIFs Your Step-by-Step Meme Making Journey</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-hottest-lgbtplus-flicks-on-netflix-july-2024-edition/"><u>Discover the Hottest LGBT+ Flicks on Netflix (July 2024 Edition)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-entertainment-setup-your-guide-to-watching-hulu-on-an-lg-smart-screen/"><u>Effortless Entertainment Setup: Your Guide to Watching Hulu on an LG Smart Screen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-toolwiz-visual-mastery-a-comprehensive-review/"><u>In 2024, Toolwiz Visual Mastery - A Comprehensive Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-languages-like-a-pro-with-our-curated-list-of-top-noffline-translator-applications/"><u>Navigate Languages Like a Pro With Our Curated List of Top nOffline Translator Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-the-internet-to-retrieve-an-individuals-email-safely/"><u>Navigate the Internet to Retrieve an Individual's Email Safely</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/perfecting-imovie-posts-on-vimeo-for-enhanced-viewership-for-2024/"><u>Perfecting iMovie Posts on Vimeo for Enhanced Viewership for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-nutrition-tracking-apps-you-should-try-today/"><u>Top 6 Nutrition Tracking Apps You Should Try Today</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/wave-off-your-insta-footprint-complete-guide-to-permanent-delete-for-2024/"><u>Wave Off Your Insta Footprint Complete Guide to Permanent Delete for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722884714968-whats-next-anticipated-details-for-the-new-google-pixel-tab-coming-soon/"><u>What's Next? Anticipated Details for The New Google Pixel Tab Coming Soon</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-essential-list-of-the-best-free-utilities-for-quick-and-easy-software-removal-top-15-edition/"><u>Your Essential List of the Best Free Utilities for Quick and Easy Software Removal, Top 15 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-in-depth-analysis-and-methods-with-morphvox-sound-alteration/"><u>[New] 2024 Approved In-Depth Analysis and Methods with MorphVOX Sound Alteration</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-essentials-of-animated-visual-communication/"><u>2024 Approved Essentials of Animated Visual Communication</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-from-snap-to-stunning-photo-editing-secrets/"><u>2024 Approved From Snap to Stunning Photo Editing Secrets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-efficiency-expert-advice-on-key-productivity-apps-and-strategies-for-streamlining-your-daily-tasks-zdnet/"><u>Boosting Efficiency: Expert Advice on Key Productivity Apps & Strategies for Streamlining Your Daily Tasks | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-best-apple-smart-speaker-a-comprehensive-comparison-between-homepod-and-homepod-mini/"><u>Choosing the Best Apple Smart Speaker: A Comprehensive Comparison Between HomePod and HomePod Mini</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/easy-to-follow-steps-for-android-video-capture/"><u>Easy-to-Follow Steps for Android Video Capture</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-with-ease-selecting-the-top-5-iphone-gps-navigation-tools/"><u>Explore with Ease: Selecting the Top 5 iPhone GPS Navigation Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-economical-sky-craftsmen-top-5-budget-friendly-drones/"><u>In 2024, Economical Sky Craftsmen Top 5 Budget-Friendly Drones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-the-process-to-secure-your-portion-of-the-25-million-apple-family-sharing-settlement/"><u>Navigate the Process to Secure Your Portion of the $25 Million Apple Family Sharing Settlement</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-sideloading-on-ios-devices-understanding-apples-fee-structure-and-app-approval-process/"><u>Navigating Sideloading on iOS Devices: Understanding Apple's Fee Structure & App Approval Process</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/risk-alert-apple-watch-owners-advised-to-avoid-fake-and-non-certified-chargers-insights/"><u>Risk Alert: Apple Watch Owners Advised to Avoid Fake and Non-Certified Chargers - Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/seamless-audio-visual-synchronization-in-premiere-pro-for-2024/"><u>Seamless Audio-Visual Synchronization in Premiere Pro for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/sharing-knowledge-via-instagrams-hyperlink-haven/"><u>Sharing Knowledge via Instagram's Hyperlink Haven</u></a></li>
 </ul></div>
 

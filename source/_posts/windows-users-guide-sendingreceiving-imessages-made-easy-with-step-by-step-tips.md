@@ -1,7 +1,7 @@
 ---
 title: "Windows Users' Guide: Sending/Receiving iMessages Made Easy with Step-by-Step Tips"
-date: 2024-12-15T19:15:06.230Z
-updated: 2024-12-17T17:35:41.741Z
+date: 2025-01-14T21:50:49.536Z
+updated: 2025-01-16T17:51:41.874Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -62,10 +66,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -82,10 +82,6 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -93,7 +89,7 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -101,10 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -114,6 +106,10 @@ Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install Intel Unison
 
 To use Intel Unison, download and install the app from [the Microsoft Store](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26).
@@ -121,6 +117,10 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -133,6 +133,10 @@ You'll then be asked to grant the app access to your contacts, photo library, de
 At the next screen on your phone, tap the button for "Scan QR code." Scan the code in the Unison screen on your PC. Confirm the text string that appears on the screen. Your phone and PC should tell you that the pairing was successful. Tap Get Started in the iPhone app.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Launch the Windows Unison app
 
@@ -151,10 +155,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,20 +192,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-exploring-advanced-techniques-in-video-thumbnail-creation-for-2024/"><u>[New] Exploring Advanced Techniques in Video Thumbnail Creation for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-windows-10-for-beginners-trim-videos-like-a-pro/"><u>[New] In 2024, Windows 10 for Beginners Trim Videos Like a Pro</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/androids-ultimate-sky-archive-sentries-2-written-by-a-user-not-an-ai-model-for-2024/"><u>Android's Ultimate Sky Archive Sentries (2 Written by a User, Not an AI Model for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/as-we-approach-the-upper-limit-without-reaching-it-for-x-plus-y-plus-z-20-we-could-have-4-7-9-which-is-one-example-all-permutations-of-these-numbers-are-als27/"><u>As We Approach the Upper Limit without Reaching It, for X + Y + Z = 20, We Could Have (4, 7, 9), Which Is One Example; All Permutations of These Numbers Are Also Possible.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/como-convertir-archivos-raw-en-imagenes-bmp-por-internet-sin-costo-con-la-herramienta-de-conversion-gratuita-de-movavi/"><u>Cómo Convertir Archivos RAW en Imágenes BMP Por Internet Sin Costo Con La Herramienta De Conversión Gratuita De Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/converti-filmato-mov-su-mp4-o-mkv-conversione-video-online-libera-di-movavi/"><u>Converti Filmato MOV Su MP4 O MKV - Conversione Video Online Libera Di Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/converting-mswm-video-files-into-multiple-formats-mp4-avi-wmv-steps/"><u>Converting MSWM Video Files Into Multiple Formats: MP4, AVI, WMV Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/create-gifs-from-dpx-files-at-no-cost-using-the-web-effortless-editing-made-simple/"><u>Create GIFs From DPX Files at No Cost Using the Web - Effortless Editing Made Simple</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-omzetten-van-m4v-bestandjes-veilige-professioneel-ontwikkelde-opsluiting-movavi/"><u>Gratis Omzetten Van M4V-Bestandjes: Veilige, Professioneel Ontwikkelde Opsluiting - Movavi</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-apple-iphone-6-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From Apple iPhone 6? 5 Tips You Must Know</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-usb-malfunctions-a-comprehensive-guide-to-correcting-descriptor-request-failed-notifications/"><u>Resolving USB Malfunctions: A Comprehensive Guide to Correcting 'Descriptor Request Failed' Notifications</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simplified-installation-of-samsung-m2070fw-driver/"><u>Simplified Installation of Samsung M2070FW Driver</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-19-compressores-de-video-mais-populares-e-gratuitos-para-computador-funcionamento-on-line-e-off-lin/"><u>Top 19 Compressores De Vídeo Mais Populares E Gratuitos Para Computador - Funcionamento On-Line E Off-Lin</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-effective-strategies-for-enhancing-chatgpt-conversations/"><u>Top 7 Effective Strategies for Enhancing ChatGPT Conversations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-ogv-to-webm-online-tool/"><u>오그비드/위블미로 바꾸기 - FREE OGV to WebM Online Tool</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ptimizing-youtube-auditory-experience-for-viewers-for-2024/"><u>[New] Optimizing YouTube Auditory Experience for Viewers for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-xstudio-procedures-reviewed-complete-overview/"><u>[New] XStudio Procedures Reviewed Complete Overview</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-optimizing-content-sharing-from-twitters-to-snaps/"><u>[Updated] 2024 Approved Optimizing Content Sharing From Twitters to Snaps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-inside-look-why-this-apple-store-workers-experience-with-vision-pro-will-make-you-fall-in-love/"><u>1. Inside Look: Why This Apple Store Worker's Experience with Vision Pro Will Make You Fall in Love</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-podcast-downloading-essentials-a-complete-walkthrough/"><u>2024 Approved IPhone Podcast Downloading Essentials A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-six-benefits-of-owning-an-apple-watch-expert-advice-zdnet/"><u>Discover the Ultimate Six Benefits of Owning an Apple Watch, Expert Advice | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-enhancements-required-for-apple-vision-pros-successful-integration-into-the-corporate-world-insights/"><u>Essential Enhancements Required for Apple Vision Pro's Successful Integration Into the Corporate World: Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-handle-fluid-discovered-within-iphone-charging-port-explore-both-effective-approaches-now/"><u>How to Handle Fluid Discovered Within iPhone Charging Port - Explore Both Effective Approaches Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-xiaomi-redmi-note-12-pro-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-all-about-triller-diverging-from-standard-tiktok-experience/"><u>In 2024, All About Triller Diverging From Standard TikTok Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-12-pro-max-5-ways-to-get-into-a-locked-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 12 Pro Max? 5 Ways to get into a Locked Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-second-life-poised-for-a-comeback-in-the-dawn-of-metaversal-worlds/"><u>Is Second Life Poised for a Comeback in the Dawn of Metaversal Worlds?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/professionelle-hdd-zu-ssd-klonierung-mit-topkloner-software/"><u>Professionelle HDD Zu SSD Klonierung Mit Topkloner-Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/save-big-with-exclusive-july-2amo-laptop-bargains-spotted-by-zdnet/"><u>Save Big with Exclusive July 2Amo Laptop Bargains | Spotted by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1727794616435-seamless-transfer-of-images-from-google-photos-to-icloud-a-step-by-step-guide/"><u>Seamless Transfer of Images From Google Photos to iCloud - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamlined-content-creation-with-ios-18-on-iphone-14-insights-from-a-users-perspective/"><u>Streamlined Content Creation with iOS 18 on iPhone 14: Insights From a User's Perspective</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-mac-models-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Mac Models : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-compact-tablets-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Compact Tablets : In-Depth Analysis & Reviews by Tech Experts - ZDNet</u></a></li>
 </ul></div>
 

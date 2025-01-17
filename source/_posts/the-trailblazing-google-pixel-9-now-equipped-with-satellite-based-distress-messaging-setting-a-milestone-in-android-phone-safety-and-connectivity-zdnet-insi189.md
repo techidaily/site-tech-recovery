@@ -1,7 +1,7 @@
 ---
 title: "The Trailblazing Google Pixel 9: Now Equipped with Satellite-Based Distress Messaging, Setting a Milestone in Android Phone Safety and Connectivity | ZDNET Insights"
-date: 2025-01-04T10:25:15.323Z
-updated: 2025-01-11T00:55:59.062Z
+date: 2025-01-14T00:32:48.528Z
+updated: 2025-01-16T21:03:15.275Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,12 +49,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -65,7 +69,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -74,10 +78,6 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,18 +122,21 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-narrative-basics-explanation/"><u>[New] 2024 Approved Narrative Basics Explanation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-next-gen-of-visual-perfection-a-review-of-eizos-cg318-4k/"><u>[New] 2024 Approved The Next Gen of Visual Perfection A Review of EIZO's CG318-4K</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-complete-untapped-potential-of-dji-phantom-4/"><u>[Updated] In 2024, The Complete Untapped Potential of DJI Phantom 4</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-skype-capture-manual-unveiling-the-best-free-and-paid-practices-windowsmac-for-2024/"><u>[Updated] Skype Capture Manual Unveiling the Best Free and Paid Practices (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boosting-your-zoom-meetings-chromebook-edition/"><u>Boosting Your Zoom Meetings Chromebook Edition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-language-ai-like-microsofts-phi-help-with-math-equations/"><u>Can Language AI Like Microsoft's Phi Help with Math Equations?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722888727799-dells-best-kept-academic-secret-how-students-can-save-big-with-exclusive-offers/"><u>Dell's Best-Kept Academic Secret: How Students Can Save Big with Exclusive Offers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-expedite-excitement-fast-video-on-android/"><u>In 2024, Expedite Excitement Fast Video on Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-unpacking-rar-archives-on-macos/"><u>Step-by-Step Guide to Unpacking RAR Archives on macOS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-essential-guide-to-enjoying-endless-tunes-with-our-selection-of-7-premium-free-music-apps/"><u>The Essential Guide to Enjoying Endless Tunes with Our Selection of 7 Premium-Free Music Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-users-manual-to-observing-and-understanding-data-utilization/"><u>The User's Manual to Observing and Understanding Data Utilization</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-htc-u23-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from HTC U23 Pro to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-why-minecraft-fails-to-start-on-windows-solutions-inside/"><u>Troubleshooting Guide: Why Minecraft Fails to Start on Windows - Solutions Inside</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-art-of-preservation-digitizing-and-safeguarding-faded-family-memories/"><u>[New] The Art of Preservation Digitizing & Safeguarding Faded Family Memories</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-crafting-melodies-turn-any-tiktok-sound-into-phone-alerts-for-2024/"><u>[Updated] Crafting Melodies Turn Any TikTok Sound Into Phone Alerts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-understanding-facebooks-video-privacy-settings/"><u>[Updated] Understanding Facebook's Video Privacy Settings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-fresh-concepts-for-youtube-channels-inspiration-at-its-peak/"><u>2024 Approved Fresh Concepts for YouTube Channels Inspiration at Its Peak</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mov-wmv-movavi/"><u>免費在線MOV WMV轉換 - 經由Movavi簡化流程</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726225118370-mp4gifmovavi/"><u>免費在線MP4與GIF之間的轉換：運用Movavi技術</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1727788944820-choosing-the-right-apple-tablet-ipad-pro-vs-ipad-air-find-your-perfect-match/"><u>Choosing the Right Apple Tablet: IPad Pro Vs. IPad Air - Find Your Perfect Match!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/como-convertir-archivos-wmv-en-formatos-asf-gratis-online-usando-el-servicio-de-movavi-video-editor/"><u>Cómo Convertir Archivos WMV en Formatos ASF Gratis Online Usando El Servicio De Movavi Video Editor</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-your-avi-files-for-free-using-movavis-web-service/"><u>Convert Your AVI Files for Free Using Movavi's Web Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/crea-file-mp4-da-3gpp-online-e-liberamente-con-movavi-trasformazione-gratuita/"><u>Crea File MP4 Da 3GPP Online E Liberamente Con Movavi - Trasformazione Gratuita</u></a></li>
+<li><a href="https://howto.techidaily.com/google-pixel-7a-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Pixel 7a Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-3gp-naar-swf-konvertor-efficient-online-werkvorm-zorgvuldig-gemaakt-door-movavi/"><u>Gratis 3GP Naar Swf Konvertor: Efficiënt Online Werkvorm - Zorgvuldig Gemaakt Door Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-6s-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 6s Plus Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-guide-capturing-screenshots-and-videos-on-an-asus-computer/"><u>Simple Guide: Capturing Screenshots and Videos on an ASUS Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-durable-and-sturdy-laptops-insights-from-zdnet/"><u>Top Durable and Sturdy Laptops - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tga-png-movavi/"><u>온라인 TGA 포지탱크에서 PNG로의 자원 절약 – 모바비(Movavi)</u></a></li>
 </ul></div>
 

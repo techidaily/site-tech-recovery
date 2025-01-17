@@ -1,7 +1,7 @@
 ---
 title: Sneak Peek at the Next Big Thing - The Samsung Galaxy Super Ultra 2023 Edition's Release Date, Pricing Rumors & Full Feature List Revealed
-date: 2024-08-20T11:24:02.528Z
-updated: 2024-08-21T11:24:02.528Z
+date: 2025-01-13T19:04:44.440Z
+updated: 2025-01-16T19:30:06.280Z
 categories:
   - BestProducts
 description: This Article Describes Sneak Peek at the Next Big Thing - The Samsung Galaxy Super Ultra 2023 Edition's Release Date, Pricing Rumors & Full Feature List Revealed
@@ -22,17 +22,22 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 
  Samsung's next flagship phone is scheduled to arrive early next year. We've collected all the rumors about the Galaxy S25 Ultra so you can decide whether to wait for it or stick with the[latest phone in the Galaxy lineup](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Samsung Galaxy S25 Ultra Be Released?
 
  The Galaxy S25 Ultra release date hasn't been revealed yet, but we're watching for it in early 2025\. This is when Samsung typically releases new Galaxy S series phones, so this is essentially already confirmed. It will arrive next to the[S25 and S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
  The Galaxy S25 Ultra will likely be available in January or February 2025.  
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Ultra Price Rumors
 
  We hate to say it, but this phone will probably be a little more expensive than the[S24 Ultra](https://www.lifewire.com/samsung-galaxy-s24-ultra-review-8548896) . And that's a bummer because this is the highest-end phone from the set, so it's already priced above the other options.
@@ -49,16 +54,14 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Samsung Galaxy 25 Ultra pre-orders will start following the phone's announcement at the[Samsung Unpacked](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) event in early 2025\. It should last around two weeks before the phone becomes available. We'll provide the link at that time.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung Galaxy S25 Ultra Features
 
  When a new phone rolls out, one of the main things that gets a makeover is its operating system. The Galaxy S25 Ultra is expected to hit shelves with Android 15 and[One UI](https://www.lifewire.com/what-is-samsung-one-ui-4178405) 7.
@@ -70,8 +73,9 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 [What Is a Large Language Model?](https://www.lifewire.com/large-language-model-7724669)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung Galaxy S25 Ultra Specs and Hardware
 
  A Samsung fan shared some disappointing news about the S25 Ultra on X: it seems it will keep the same battery size and charging speeds as previous Ultra models. If this turns out to be true, it means the phone will still charge at 45W with a wire, 15W wirelessly, and 4.5W reverse wireless charging. And, naturally, it'll stick with the same 5000 mAh battery.
@@ -93,8 +97,9 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 [Ice Universe suggests the Galaxy S25 Ultra will maintain its 200MP main camera and 50MP 5x camera](https://www.notebookcheck.net/Samsung-Galaxy-S25-Ultra-Upgraded-ultrawide-and-3x-cameras-hinted-by-fresh-leak.841616.0.html) while upgrading the ultrawide and 3x cameras to 50MP each. Upgrading the 3x camera from the current 10MP sensor could enhance low-light performance and hybrid zoom quality.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Samsung Galaxy S25 Ultra
 
  You [get more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more on Android and Samsung.
@@ -111,8 +116,6 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +123,23 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-demystifying-toolwizs-tools-for-modern-photo-editors-for-2024/"><u>[Updated] Demystifying Toolwiz's Tools for Modern Photo Editors for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-analyzing-instagram-de-followings/"><u>2024 Approved Analyzing Instagram De-Followings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-streamlined-video-grabber-your-free-downloader-companion/"><u>2024 Approved Streamlined Video Grabber Your Free Downloader Companion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/add-personalized-typefaces-to-your-iphone-with-this-simple-tutorial/"><u>Add Personalized Typefaces to Your iPhone with This Simple Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/determining-if-microsoft-teams-downtime-affects-you-or-its-a-local-problem/"><u>Determining If Microsoft Teams Downtime Affects You or It's a Local Problem</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-leveraging-the-power-of-telnet-on-windows-devices/"><u>Expert Tips for Leveraging the Power of Telnet on Windows Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-maintaining-your-hdtv-a-clean-screen-process/"><u>Expert Tips on Maintaining Your HDTV - A Clean Screen Process</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/hp-notebook-users-handbook-mastering-the-art-of-taking-perfect-screengrabs/"><u>HP Notebook Users' Handbook: Mastering the Art of Taking Perfect Screengrabs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/immersion-countdown-top-5-samsung-gear-vr-games/"><u>Immersion Countdown - Top 5 Samsung Gear VR Games</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-motorola-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Motorola Unlock Without Password</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-unleash-your-creativity-top-rated-vignette-apps-for-iphone-and-android/"><u>New Unleash Your Creativity Top-Rated Vignette Apps for iPhone and Android</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-visual-issues-restoring-color-accuracy-and-flat-images-on-your-desktop-display/"><u>Overcoming Visual Issues: Restoring Color Accuracy & Flat Images on Your Desktop Display</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/premium-edits-software-roundup-leading-windows-edition-for-2024/"><u>Premium Edits Software Roundup Leading Windows Edition for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-6-journaling-applications-to-enhance-your-productivity/"><u>The Best 6 Journaling Applications to Enhance Your Productivity</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-lag-in-battlefield-5-proven-strategies-for-ultimate-flow/"><u>Winning Against Lag in Battlefield 5 - Proven Strategies for Ultimate Flow</u></a></li>
+</ul></div>
 

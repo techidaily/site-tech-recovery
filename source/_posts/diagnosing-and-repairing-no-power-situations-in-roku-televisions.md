@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing No-Power Situations in Roku Televisions
-date: 2024-08-19T15:22:40.872Z
-updated: 2024-08-20T15:22:40.872Z
+date: 2025-01-12T19:43:39.408Z
+updated: 2025-01-17T00:32:43.430Z
 categories:
   - BestProducts
 description: This Article Describes Diagnosing and Repairing No-Power Situations in Roku Televisions
@@ -10,12 +10,21 @@ thumbnail: https://www.lifewire.com/thmb/g8U9WIQba-BU5ZQmzcfGc4DBlWM=/400x300/fi
 ---
 
 ## Navigating to Your Personalized Apple Support Session - Booking Tips Inside
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Using the Apple Store App is the easiest way to get in and get your device fixed at the Genius Bar.
 * You can also use the Apple Support app, which is a better option if you have several Apple devices.
 
  This article explains how to make an appointment using the Apple Store App. You can make an appointment for product demos, workshops, and (in most cases) repairs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Schedule an Appointment From the Apple Support App
 
@@ -34,8 +43,9 @@ thumbnail: https://www.lifewire.com/thmb/g8U9WIQba-BU5ZQmzcfGc4DBlWM=/400x300/fi
 ![The appointment calendar and Reserve button in the Apple Support app](https://www.lifewire.com/thmb/lDGmgwpBMuvG-sTPNN7bjiJtq60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Support-App-Appointment-03-d98a742dc0b547f990d2f5e7e8a30091.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using the Apple Store App to Make Appointments
 
  Another way to book an appointment is through the Apple Store app, but it has a few more steps.  
@@ -45,30 +55,27 @@ thumbnail: https://www.lifewire.com/thmb/g8U9WIQba-BU5ZQmzcfGc4DBlWM=/400x300/fi
 3. On the next screen, tap**Find a store** .  
 ![Profile pic, Reservations option, and Find a Store in the Apple Store app](https://www.lifewire.com/thmb/McTZyDh1dHEy4jPR7CZmGNKvI5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-01-9cacdcf93f3a41d3851b1a2cca991204.jpg)
 4. Search for your closest Apple Store, or select one under**Nearby Stores** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Choose**Make a reservation** under**Genius Bar** .
 6. You'll go to Apple's support website, where you can describe your problem in the box under**Tell us what's happening** .  
  If you have the Apple Support app on your phone, the Apple Store app will direct you there instead of the website.  
 ![A Store, the "Make a reservation" link, and the "Tell us what's happening" field in the Apple Store app](https://www.lifewire.com/thmb/ircG1uYJS77_UHCiiZH0GISmswg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-02-e508d0091eb04923ba10576b908d07ad.jpg)
 7. Depending on your device's issue, the app may ask you clarifying questions. Eventually, you'll see an option to**Schedule a repair** . Choose**Find a location** to continue.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 8. If you're signed in to your Apple ID on the Support site, you can choose one of your devices. You can also select**Continue without device** if you like, or enter a serial number.
 9. Find your Apple Store on the map.  
 ![Scheduling and device selection in the Apple Store app](https://www.lifewire.com/thmb/19JBK9MoG4FtpkecPBA_RsEyeJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Store-App-Appointment-03-9d185dce717b4f6eab42ca4d444f64da.jpg)
 10. Pick a day and time using the calculator and drop-down menu.
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 11. Optionally, enter your phone number if you want a representative from the Apple Store to call you. Tap**Continue** .
 12. Review your reservation date and time, and then select**Reserve now** to confirm.  
 ![Appointment scheduling in the Apple Store app](https://www.lifewire.com/thmb/0DQo_2TNcmLggPBm0e9UGISsEXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_make-apple-store-appointment-with-app-1999600-efc9e969642f4e5886401ca69a1eba64.jpg)
 13. Your appointment is set. You'll receive a confirmation at your email address (and by phone, if you entered it in Step 10).
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [How to Fix An iPhone That Won't Turn Off](https://www.lifewire.com/fix-iphone-wont-turn-of-4134989)
@@ -100,8 +107,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +114,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-aerial-artistry-mastering-the-craft-of-drone-video-editing-for-2024/"><u>[New] Aerial Artistry Mastering the Craft of Drone Video Editing for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-convert-your-streaming-top-free-video-to-audio-tools/"><u>[New] In 2024, Convert Your Streaming Top Free Video to Audio Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-capture-breathtaking-scenes-on-iphone-with-ease/"><u>[Updated] In 2024, Capture Breathtaking Scenes on iPhone with Ease</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-iphones-blueprint-for-extended-frame-mastery/"><u>2024 Approved IPhone's Blueprint for Extended Frame Mastery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722899078319-fix-slow-internet-resetting-network-parameters-on-your-mac-might-be-the-solution/"><u>Fix Slow Internet? Resetting Network Parameters on Your Mac Might Be the Solution</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-streaming-services-find-hindi-films-with-english-subs-online/"><u>Free Streaming Services: Find Hindi Films With English Subs Online!</u></a></li>
+<li><a href="https://fox-search.techidaily.com/problemlos-fehlende-daten-wiederherstellen-tipps-und-tricks-fur-windows-11-nutzer/"><u>Problemlos Fehlende Daten Wiederherstellen: Tipps Und Tricks Für Windows 11-Nutzer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-y100t-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo Y100t to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://discover-best.techidaily.com/seamless-microsoft-sharepoint-enhancement-advanced-document-analysis-through-ocr-technology-by-abbyy/"><u>Seamless Microsoft SharePoint Enhancement: Advanced Document Analysis Through OCR Technology by ABBYY</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sharing-your-favorite-tunes-a-guide-to-using-spotify-with-pals/"><u>Sharing Your Favorite Tunes: A Guide to Using Spotify with Pals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-monitoring-your-macbooks-heat-levels/"><u>Step-by-Step Guide: Monitoring Your MacBook's Heat Levels</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-corrupted-haldll-in-windows-xp-systems/"><u>Troubleshooting Steps for Corrupted Hal.dll in Windows XP Systems</u></a></li>
+</ul></div>
 

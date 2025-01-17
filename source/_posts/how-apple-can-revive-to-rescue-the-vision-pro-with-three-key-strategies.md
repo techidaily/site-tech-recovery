@@ -1,7 +1,7 @@
 ---
 title: How Apple Can Revive To Rescue the Vision Pro with Three Key Strategies
-date: 2024-12-03T05:36:38.482Z
-updated: 2024-12-05T09:52:29.796Z
+date: 2025-01-10T16:42:07.394Z
+updated: 2025-01-16T16:22:18.353Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How could Meta possibly beat Apple?
@@ -58,6 +58,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 During this time, the company focused on providing viable mixed reality and VR experiences, adding capabilities, better visuals, better cameras, improving the headsets overall, and constantly pushing to make the price viable for consumers. 
 
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  That old Apple magic
 
@@ -85,6 +89,10 @@ But that means that Apple has to stay the course. It can't lose patience, even i
 Bloomberg's Gurman believes Apple is more willing to kill products now than it has been in the past. His examples are Apple's [termination of its self-driving car program](https://www.zdnet.com/article/apple-just-killed-its-electric-car-project-shifting-focus-to-generative-ai/), killing off [a project to develop microLED screens](https://www.bloomberg.com/news/articles/2024-03-22/apple-scraps-plan-to-design-display-for-watch-in-house-cuts-jobs), and shutting down the [Pay Later finance program](https://www.zdnet.com/article/apple-kills-off-its-apple-pay-later-service-but-has-another-option-in-the-works/) before it got off the ground. 
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Think different?
 
@@ -121,7 +129,7 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
@@ -134,10 +142,6 @@ The eye tracking and hand gestures interface that are the primary means of opera
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Stay away from cable tethering
 
 It makes sense to tether the Vision Pro to a Mac for an ultra-wide display. You want zero latency and uninterrupted power. But beyond that, tethering is annoying. Nothing says "early concept prototype" more than having to carry a tethered battery in your back pocket. 
@@ -149,10 +153,6 @@ Just the absence of the Vision Pro battery and its tether to manage makes the Qu
 The idea that a future Vision device might need to be physically tethered to an iPhone to work would be a joy killer, especially when the Quest 3 doesn't have such an annoyance. 
 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
 
@@ -175,7 +175,7 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Looking towards the future
@@ -227,17 +227,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-exploring-the-depths-of-video-talks-on-youtube/"><u>[New] 2024 Approved Exploring the Depths of Video Talks on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/mirk-spotlights-showcasing-7-comedic-content-pieces-for-2024/"><u>[New] Smirk Spotlights Showcasing 7 Comedic Content Pieces for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-no-cost-voip-services-of-2024-effective-substitutes-for-skype/"><u>Best No-Cost VoIP Services of 2024: Effective Substitutes for Skype</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/capturing-moments-seamlessly-with-snap-and-meet-for-2024/"><u>Capturing Moments Seamlessly with Snap and Meet for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-seamlessly-share-gaming-experiences-on-the-sony-ps5-console/"><u>How to Seamlessly Share Gaming Experiences on the Sony PS5 Console</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-decoding-the-best-android-photography-software-is-picku-king/"><u>In 2024, Decoding the Best Android Photography Software - Is PickU King?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-live-stream-on-youtube-without-1000-subscribers-on-a-mobile/"><u>In 2024, Live Stream on YouTube without 1000 Subscribers on a Mobile</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagram-success-harness-the-power-of-ig-data/"><u>In 2024, Mastering Instagram Success Harness the Power of IG Data</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-12-best-free-voip-applications/"><u>Top 12 Best Free VoIP Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/whats-in-a-name-exploring-retweet-and-re-tweet/"><u>What's in a Name? Exploring 'Retweet' And 'Re-Tweet'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/zoom-quality-drop-understanding-the-real-cause/"><u>Zoom Quality Drop - Understanding the Real Cause</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-distinguishing-designs-effective-podcast-brand-identity/"><u>[New] Distinguishing Designs Effective Podcast Brand Identity</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-free-video-fiddling-unleash-potential-with-vimeo-editing/"><u>[New] Free Video Fiddling Unleash Potential with Vimeo Editing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-elevate-your-social-media-game-discover-the-best-5-youtube-promotion-strategies/"><u>[New] In 2024, Elevate Your Social Media Game Discover the Best 5 YouTube Promotion Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-apple-watchs-endurance-with-these-essential-battery-saving-tweaks-expert-tips/"><u>Boost Your Apple Watch's Endurance with These Essential Battery-Saving Tweaks - Expert Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/breaking-apple-hit-with-2-billion-euro-fine-by-european-union-over-anti-competitive-app-store-tactics-coverage/"><u>Breaking: Apple Hit with 2 Billion Euro Fine by European Union Over Anti-Competitive App Store Tactics | Coverage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-the-perfect-fit-a-comprehensive-guide-to-selecting-between-m1-and-m2-ipad-pro-models/"><u>Choosing the Perfect Fit: A Comprehensive Guide to Selecting Between M1 and M2 iPad Pro Models</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-detecting-and-eliminating-mobile-phone-spyware-insights/"><u>Effective Strategies for Detecting & Eliminating Mobile Phone Spyware - Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-your-iphone-experience-tailoring-the-control-center-for-ios-18-zdnet/"><u>Enhance Your iPhone Experience: Tailoring the Control Center for iOS 18 (ZDNet)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harmonious-audio-pathway-guidebook/"><u>Harmonious Audio Pathway Guidebook</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-14-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 14? Find the Best Solution Here</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-look-at-apples-new-ai-powered-m3-macbook-air-tech-for-everyone-has-finally-arrived-zdnet-insights/"><u>In-Depth Look at Apple's New AI-Powered M3 MacBook Air: Tech for Everyone Has Finally Arrived | ZDNET Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-craft-the-ultimate-guide-to-leveraging-macoss-premier-desktop-publishing-software/"><u>Mastering Craft: The Ultimate Guide to Leveraging MacOS's Premier Desktop Publishing Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/new-airpods-revolutionize-wireless-listening-experience-with-find-my-feature-and-modern-usb-c-connection-apple-exclusive-coverage/"><u>New AirPods Revolutionize Wireless Listening Experience with Find My Feature and Modern USB-C Connection | Apple Exclusive Coverage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-mastering-the-comeback-of-apples-vision-pro-insights-from-zdnet/"><u>Step-by-Step Guide: Mastering the Comeback of Apple's Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unbeatable-savings-alert-exclusive-best-buy-promotions-for-june-2024-revealed/"><u>Unbeatable Savings Alert: Exclusive Best Buy Promotions for June 2024 Revealed!</u></a></li>
 </ul></div>
 

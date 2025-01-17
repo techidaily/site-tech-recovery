@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Full Roster of Confirmed Games for PlayStation VR²: Comprehensive Listing Available Now"
-date: 2024-08-20T11:24:03.856Z
-updated: 2024-08-21T11:24:03.856Z
+date: 2025-01-13T03:21:46.108Z
+updated: 2025-01-17T04:27:41.910Z
 categories:
   - BestProducts
 description: "This Article Describes Unlock the Full Roster of Confirmed Games for PlayStation VR²: Comprehensive Listing Available Now"
@@ -197,6 +197,10 @@ These games have all been announced, but some may not be out yet.
 
 ![Star Wars: Tales from the Galaxy's Edge](https://www.lifewire.com/thmb/wImrJPdNMESOO7HTTYioC-CdpoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screenshot2024-05-08at9.14.00PM-aa05959a25e3416a99ba272e3408df35.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * _Startenders: Intergalactic Bartending_
 * _Stilt_
 * _Stride: Fates_
@@ -224,6 +228,10 @@ These games have all been announced, but some may not be out yet.
 * _Townsmen VR_
 
 ![Moss and Moss: Book II](https://www.lifewire.com/thmb/XHm_pq0PpO7m8zV3JrhsjJbTcvg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MossandMossBookII-85eab45d6e6a44b985478d1b2b0467f0.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * _Toy Trains_
 * _Train Chase_
@@ -270,15 +278,16 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 
 **Release Date** : March 2023
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Resident Evil: Village 
 
  Capcom did PSVR 2 owners a huge service by making the entirety of 2021's_Resident Evil: Village_ playable in virtual reality. This version features manual reloads, the ability to dual-wield weapons, and a new perspective on just how tall internet-favorite vampire Lady Dimitrescu is.
 
 **Release Date** : February 2023 (VR mode)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Phasmophobia 
 
  Console owners can finally play this previously PC-only title, in which you and up to three friends form a ghost-hunting team and explore a variety of cursed locations. Your goal is to investigate, identify the entities haunting the site, and then escape before the spirits add you to their ranks.
@@ -286,8 +295,9 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 **Release Date** : August 2023  
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Cosmodread 
 
  This rogue-like, space-based horror drops you into a huge, scary spaceship with a different layout every time you try. Your job is to escape to Earth, but all you have is a crossbow and a will to survive.
@@ -300,9 +310,6 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 
 ![Gran Turismo 7](https://www.lifewire.com/thmb/2IloMRqyYwZJGkYuG2qezVvq02E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gran-turismo-7-psvr2-screenshot-eyetracking-display-en-14feb23-8e143b334e9f46329010b96db4526f72.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 Polyphony Digital
 
 ###  Creed: Rise to Glory – Championship Edition 
@@ -324,14 +331,18 @@ Polyphony Digital
  While you don't have to do all the running yourself in this VR football game (that's what analog sticks are for), it will be up to you to block the defenders as you head for the end zone. This title prides itself on its passing physics, which will also exercise your arm.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Best PSVR 2 Games to Relax With 
 
  Your VR gaming time doesn't have to be non-stop action. Plenty of options are available that will help you unwind at the end of your day.
 
 ![Tetris Effect: Connected video game on Xbox One, Xbox Series X, PS4, PS5, and Windows PC.](https://www.lifewire.com/thmb/7roJV1mYBrPIndXhqDXNT8DVyhM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tetris-effect-cheats-codes-and-secrets-04-09ea72d3f9a04970859a00d6f72e798f.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Puzzling Places 
 
@@ -341,10 +352,6 @@ Polyphony Digital
 
 **Release Date** : December 2021
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ###  Tetris Effect: Connected 
 
  With this update, the legendary line-clearing game got a complete sensory overhaul, in which every move, flip, drop, and cleared line adds to the soundscape. It's also available "flat," but obviously the fully immersive musical world of_Tetris_ is the better way to play.
@@ -360,40 +367,40 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
 **Release Date** : February 2023
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Best PSVR 2 Action Games 
 
  PlayStation VR 2 owners who want to push their action skills should check out these games.
 
 ![Horizon: Call of the Mountain](https://www.lifewire.com/thmb/jD6wdUnV4hFDEByl5uWOt1b1YBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HorizonCalloftheMountain-702c4adc02cf4e5daf6e7de3702753f2.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ###  Horizon: Call of the Mountain 
 
  The_Horizon_ series tasks players with navigating a post-apocalyptic world filled with a bunch of dangerous, animal-themed robots. This VR entry tells a new story with more challenges, and you're still fighting cybernetic dinosaurs with a bow and arrow, so the spirit is still there.
 
 **Release Date** : February 2023
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  The Walking Dead: Saints & Sinners (series) 
 
  Both_The Walking Dead: Saints & Sinners_ and its cumbersomely titled follow-up,_The Walking Dead: Saints & Sinners – Chapter 2: Retribution,_ drop you into a zombie-filled New Orleans. You'll face various challenges as you try to survive the undead and just bad people as you battle for the soul of the city.
 
 **Release Date** : March 2023
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Resident Evil 4 
 
  While it's also a horror title in one of the most successful gaming franchises of all time,_Resident Evil 4_ turns up the action with hero Leon S. Kennedy's increased firepower, ability to parry a chainsaw with a knife, and knack for suplexing the undead. The VR edition of this previously flat game brings the battles, scares, and monsters into full 3D.
 
 **Release Date** : TBA
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Best PSVR 2 Games for Families 
 
@@ -404,13 +411,11 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
 ![Moss: Book II](https://www.lifewire.com/thmb/TGEAq5sFoTL_YrBre8udckU2X64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MossBook2-04fb9afd7f324c0c941778ea0926ede6.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Polyarc
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Moss and Moss: Book II 
 
  This fantasy series teams you up with Quill, a heroic mouse who goes on adventures. You'll help her solve puzzles and fight monsters along the way, and the whole story is fully narrated. It's whimsical and fun, and the mouse is so brave. I think these are some of the best all-around games for the PSVR 2, and I highly recommend them even if you aren't looking for a
@@ -456,8 +461,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -465,4 +468,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boost-traffic-with-these-essential-hashtags-for-youtube-gamers-for-2024/"><u>[New] Boost Traffic with These Essential Hashtags for YouTube Gamers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-editsuite-evaluation-detailed-article/"><u>[New] EditSuite Evaluation – Detailed Article</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-visualizing-google-meet-introduction-to-effects-and-filtering-for-2024/"><u>[New] Visualizing Google Meet Introduction to Effects & Filtering for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/amass-higher-views-with-powerful-youtube-tags-for-2024/"><u>Amass Higher Views with #Powerful YouTube Tags for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/easy-steps-to-convert-your-mtsavchd-files-to-a-diy-dvd-without-costs/"><u>Easy Steps to Convert Your MTS/AVCHD Files to a DIY DVD without Costs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-future-of-education-the-leading-8-apps-for-learners-in-prise/"><u>Explore the Future of Education: The Leading 8 Apps for Learners in Prise</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oneplus-nord-ce-3-lite-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your OnePlus Nord CE 3 Lite 5G Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-on-set-questions-answered-quickly/"><u>In 2024, On-Set Questions Answered Quickly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-voice-commands-enable-siri-to-translate-screen-words-for-you/"><u>Mastering Voice Commands: Enable Siri to Translate Screen Words for You</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-arma-3-malfunctions-effective-tips-and-techniques-for-a-seamless-gaming-session/"><u>Resolving ARMA 3 Malfunctions: Effective Tips & Techniques for a Seamless Gaming Session</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-top-reasons-why-electric-vehicles-outshine-their-gasoline-counterparts/"><u>The Top Reasons Why Electric Vehicles Outshine Their Gasoline Counterparts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-mastering-picture-in-picture-mode-on-android-devices/"><u>Ultimate Guide: Mastering Picture-in-Picture Mode on Android Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-how-bass-management-improves-your-listening-experience/"><u>Unveiling How Bass Management Improves Your Listening Experience</u></a></li>
+</ul></div>
 

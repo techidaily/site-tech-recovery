@@ -1,7 +1,7 @@
 ---
 title: How to Ensure Your MacBook Stays On When You Close the Cover
-date: 2024-08-19T15:20:30.781Z
-updated: 2024-08-20T15:20:30.781Z
+date: 2025-01-16T02:25:55.063Z
+updated: 2025-01-16T23:12:35.710Z
 categories:
   - BestProducts
 description: This Article Describes How to Ensure Your MacBook Stays On When You Close the Cover
@@ -15,6 +15,10 @@ thumbnail: https://www.lifewire.com/thmb/qOnmzUsqLM9HSPhPI2oKnrNPVZg=/400x300/fi
  You'll need to attempt fixes such as cleaning it, checking for updates, and removing potential problem apps to get your keyboard working again. Most of these fixes also work for MacBook Air keyboards.
 
  Apple's butterfly keyboards were such a problem; Apple had to issue a[Keyboard Service Program for the MacBook, MacBook Air, and MacBook Pro](https://support.apple.com/keyboard-service-program-for-mac-notebooks) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a MacBook Pro Keyboard That Isn't Working
 
@@ -46,6 +50,10 @@ thumbnail: https://www.lifewire.com/thmb/qOnmzUsqLM9HSPhPI2oKnrNPVZg=/400x300/fi
  Apple fixes some keyboard issues at no charge due to defects in the butterfly switch mechanisms, but customer support can tell you whether your MacBook is covered.
 
  Before you take your MacBook in for service, make sure to[back up the data on your Mac](https://www.lifewire.com/back-up-mac-to-external-hard-drive-with-time-machine-5069853) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes a MacBook Pro Keyboard to Stop Working?
 
@@ -92,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +107,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-bridging-the-gap-between-simple-to-high-tech-hdr-techniques/"><u>2024 Approved Bridging the Gap Between Simple to High-Tech HDR Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722883199172-all-you-need-to-know-about-samsungs-new-marvel-the-galaxy-z-fold-6-specs-and-release-insights/"><u>All You Need to Know About Samsung's New Marvel: The Galaxy Z Fold 6 Specs and Release Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-7-most-effective-wakeup-apps-for-your-smartphone/"><u>Discover the 7 Most Effective Wakeup Apps for Your Smartphone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rumored-details-of-the-next-apple-watch-model-x-expected-release-date-price-points-and-features/"><u>Rumored Details of the Next Apple Watch Model X: Expected Release Date, Price Points, and Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-what-to-do-if-your-amazon-firestick-remote-wont-work/"><u>Step-by-Step Solutions: What to Do If Your Amazon Firestick Remote Won't Work</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>Updated 2024 Approved A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-pc-video-dubbing-made-easy-top-software-options/"><u>Updated In 2024, PC Video Dubbing Made Easy Top Software Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-all-the-game-tonight-getting-fubotv-working-on-fire-stick/"><u>Watch All the Game Tonight! Getting FuboTV Working on Fire Stick</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4wmv-movavi/"><u>무료 MP4/WMV 파일 바이트 대비 전역 웹으로 자원 구조 변환 - Movavi</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->

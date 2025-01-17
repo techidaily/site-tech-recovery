@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Apple Watch's Battery: Top 8 Essential Setting Adjustments Revealed"
-date: 2025-01-07T22:57:43.279Z
-updated: 2025-01-11T01:41:47.743Z
+date: 2025-01-12T00:08:42.187Z
+updated: 2025-01-17T02:16:31.005Z
 tags:
   - apple
 categories:
@@ -36,15 +36,15 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
 
@@ -54,10 +54,6 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -65,6 +61,10 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -84,6 +84,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
@@ -91,7 +95,7 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
@@ -111,7 +115,7 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -119,10 +123,6 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,15 +165,18 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-audio-layers-for-professional-videography-premiere-pro-edition/"><u>[New] Audio Layers for Professional Videography Premiere Pro Edition</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-cloud-savvy-pinpointing-optimal-data-purchases-for-2024/"><u>[New] Cloud Savvy Pinpointing Optimal Data Purchases for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-elaborate-breakdown-straightforward-dynamic-range-for-2024/"><u>[New] Elaborate Breakdown Straightforward Dynamic Range for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-champion-of-open-source-media-playback-vlc-vs-mpc/"><u>In 2024, Unveiling the Champion of Open-Source Media Playback (VLC Vs. MPC)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/kb3197954-windows-11-updates-not-working-solved/"><u>KB3197954: Windows 11 Updates Not Working [Solved]</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-quick-shot-on-your-hp-laptopdesktop-top-two-hassle-free-techniques-unveiled/"><u>Mastering Quick Shot on Your HP Laptop/Desktop: Top Two Hassle-Free Techniques Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-image-conversion-to-gif-format/"><u>Mastering the Art of Image Conversion to GIF Format</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps4-quietness-dilemma-addressed-effortless-steps-for-enabling-sound-again/"><u>PS4 Quietness Dilemma Addressed: Effortless Steps for Enabling Sound Again</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-virtual-city-plan-facebooks-latest-feature-unveiled/"><u>The Virtual City Plan: Facebook’s Latest Feature Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/iphoneand20/"><u>スマホで楽しむ！iPhoneの人気動画ダウンロード&保存アプリトップ20(免費版・有料版)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-free-to-text-on-mac-30-apps-that-deserve-your-notice/"><u>[New] 2024 Approved Top Free to Text on Mac 30 Apps That Deserve Your Notice</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-tips-and-tricks-to-take-your-youtube-shorts-templates-to-the-next-level-for-2024/"><u>[New] 30 Tips & Tricks to Take Your YouTube Shorts Templates to the Next Level for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-sleek-superior-substantial-reviewing-the-asus-mg28uq-4k-display/"><u>[Updated] In 2024, Sleek, Superior, Substantial – Reviewing the ASUS MG28UQ 4K Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-boundaries-meta-quest-3-examined/"><u>Breaking Boundaries: Meta Quest 3 Examined</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995168707-deathloop-performance-hitches-solved-smooth-gaming-on-pc-guaranteed/"><u>Deathloop Performance Hitches Solved - Smooth Gaming on PC Guaranteed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-windows-code-28-essential-troubleshooting-steps-for-quick-fixes/"><u>Decoding Windows 'Code 28': Essential Troubleshooting Steps for Quick Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/find-your-perfect-match-with-our-selection-of-the-8-finest-free-html-editors-on-windows/"><u>Find Your Perfect Match with Our Selection of the 8 Finest Free HTML Editors on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-the-msvcr71dll-is-missing-error-in-windows-systems/"><u>How to Correctly Address the 'MSVCR71.dll Is Missing' Error in Windows Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/master-the-art-of-video-blurring-techniques-using-movavi-a-comprehensive-guide/"><u>Master the Art of Video Blurring Techniques Using Movavi: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-tech-trends-with-confidence-using-insights-from-toms-experts/"><u>Navigate Tech Trends With Confidence Using Insights From Tom's Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resolving-missing-msvcr8dll-error-messages-efficiently/"><u>Step-by-Step Guide: Resolving 'Missing MSVCR8_DLL' Error Messages Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-screengrabs-on-hp-computers/"><u>Step-by-Step Instructions for Screengrabs on HP Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-distinctions-between-augmented-reality-virtual-reality-mixed-reality-and-extended-reality/"><u>Understanding The Distinctions Between Augmented Reality, Virtual Reality, Mixed Reality, and Extended Reality</u></a></li>
 </ul></div>
 
