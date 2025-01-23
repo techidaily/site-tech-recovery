@@ -1,7 +1,7 @@
 ---
 title: "Unseen No More: Enable Access to Seagate External Drives on Windows 10 Systems"
-date: 2024-08-19T12:49:54.542Z
-updated: 2024-08-20T12:49:54.542Z
+date: 2025-01-19T07:09:15.254Z
+updated: 2025-01-23T07:30:36.727Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Change your user account name in Control Panel
 
  You can change a lot settings of Windows system through**Control Panel** , including changing your account name.
@@ -43,8 +47,18 @@ Here’s how:
 4. Double-click the account you want to change the user name.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25a6a563ded.png)
 5. Select**Change the account name** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bc4e8452a.jpg)
 6. Type the new name into the New account name box, then click**Change Name** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bcf06209d.jpg)
 
 You’ll then see your account shows with the new name.
@@ -68,15 +82,13 @@ Here’s how you can do that:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be8b0ca2a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 The new name is set successfully.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Change your user account name in Settings
 
  If you log in your Windows 10 computer with a**Microsoft account** , you can change your account name in Settings. Go with these following steps:
@@ -85,25 +97,22 @@ The new name is set successfully.
 2. Click**Accounts** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bf52c64f4.jpg)
 3. Click **Manage my Microsoft account** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c071b4eb6.jpg)
 4. On the open page, click the drop-down menu of**More options** under your Microsoft account. Then select**Edit Profile** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c0d63158a.jpg)
 5. Click**Edit name** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c10a51997.png)
 6. Type the new name into the box and enter the characters you see for verification. Then click**Save** .  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Please note that this will change the account name of your Microsoft account.
 
 The new account name of your Windows 10 computer is set successfully.
@@ -120,8 +129,6 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +136,22 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-does-youtube-work-after-a-video-is-uploaded/"><u>[New] 2024 Approved How Does YouTube Work After a Video Is Uploaded</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-elite-lineup-for-gamers-in-depth-speaker-analysis-and-testing-results/"><u>2024'S Elite Lineup for Gamers: In-Depth Speaker Analysis & Testing Results</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-functionality-behind-eco-friendly-electric-motorbikes/"><u>Decoding the Functionality Behind Eco-Friendly Electric Motorbikes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-correct-the-haldll-file-not-found-error-on-windows-xp/"><u>Effective Strategies to Correct the Hal.dll File Not Found Error on Windows XP</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhancing-user-experience-a-quick-how-to-for-youtube-cc-and-subtitles/"><u>Enhancing User Experience A Quick How-To for YouTube CC & Subtitles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuitamente-converti-i-file-opus-in-formato-flac-di-qualita-superior-con-movavi-online/"><u>Gratuitamente Converti I File Opus in Formato Flac Di Qualità Superior Con Movavi - OnLine!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-restore-and-replace-a-lost-wmvcoredll-file-easily/"><u>How to Restore and Replace a Lost Wmvcore.dll File Easily</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lenovos-latest-tablet-the-p1-1-pro-a-balanced-review-of-advantages-and-disadvantages/"><u>Lenovo's Latest Tablet, The P1 1 Pro: A Balanced Review of Advantages & Disadvantages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastery-of-fixing-the-system-critical-failure-error-a-comprehensive-guide-to-handling-blue-screen-28-stop-0x00000028-on-windows-computers/"><u>Mastery of Fixing the System Critical Failure Error: A Comprehensive Guide to Handling Blue Screen 28 (STOP 0X00000028) on Windows Computers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-crafting-compelling-lower-thirds-fcpx-essentials-for-2024/"><u>New Crafting Compelling Lower Thirds FCPX Essentials for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/skyrocket-your-storage-top-20-free-cloud-services-to-choose-from-1tbplus-for-2024/"><u>Skyrocket Your Storage - Top 20 Free Cloud Services to Choose From (1TB+) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-places-to-watch-movies-for-kids-without-spending-a-penny/"><u>The Best Places to Watch Movies for Kids Without Spending a Penny</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-your-samsung-galaxys-connection-error-with-this-simple-fix/"><u>Troubleshoot Your Samsung Galaxy's Connection Error with This Simple Fix</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-network-speed-the-distinctions-between-cat5-and-cat6-cabling/"><u>Understanding Network Speed: The Distinctions Between Cat5 and Cat6 Cabling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-european-unions-ai-regulation-impact-on-chatbot-technologies/"><u>Unveiling the European Union's AI Regulation: Impact on Chatbot Technologies</u></a></li>
+</ul></div>
 

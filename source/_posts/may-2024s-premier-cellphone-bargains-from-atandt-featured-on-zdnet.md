@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2025-01-11T01:09:30.731Z
-updated: 2025-01-16T18:01:20.529Z
+date: 2025-01-16T20:03:30.001Z
+updated: 2025-01-23T10:14:51.507Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best AT&T deals
@@ -121,7 +121,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -137,6 +137,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [Google Pixel 8 Pro, free with trade-in, free Pixel Watch 2 View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/google-pixel-8-pro.html)
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Accessory and service deals
 
@@ -163,29 +167,25 @@ When we made our selection for the best AT&T deals, we wanted to include options
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,22 +236,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-20-freepaid-luts-for-dji-mini-2air-2s-drone/"><u>[New] 20 Free/Paid LUTS for DJI Mini 2/Air 2S Drone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-content-game-perfectly-tailored-youtube-shorts-thumbnails/"><u>[New] 2024 Approved Elevate Your Content Game Perfectly Tailored YouTube Shorts Thumbnails</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-elevate-your-ios-experience-top-5-ps2-simulators/"><u>[New] 2024 Approved Elevate Your iOS Experience Top 5 PS2 Simulators</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-dinner-dramas-the-most-entertaining-food-moments-on-tiktok/"><u>[New] Dinner Dramas The Most Entertaining Food Moments on TikTok</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024deki-best-ucretsiz-videosatranma-programi-en-iyi-veri-guvenliginize-dair/"><u>2024'Deki Best Ücretsiz Videosatranma Programı - En Iyi Veri Güvenliğinize Dair</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024mkvtop6/"><u>2024年推薦の無料MKVプレーヤーTOP6:最高適合コンテンツで楽しむ</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-cross-platform-green-screen-applications-ideal-for-windows-android-and-iphone-users/"><u>Best Cross-Platform Green Screen Applications: Ideal for Windows, Android & iPhone Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/changer-une-image-jpg-en-format-bmp-sans-frais-movavi/"><u>Changer Une Image JPG en Format BMP Sans Frais - Movavi</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-change-mkv-files-into-m4v-format-with-ease/"><u>Free Online Conversion: Change MKV Files Into M4V Format with Ease</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-12-mini-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 12 mini Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-quick-guide-personalized-youtube-shorts-images-without-hassle/"><u>In 2024, Quick Guide Personalized YouTube Shorts Images Without Hassle</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/otimizacao-do-sistema-operacional-windows-10-para-melhor-experiencia-em-jogos-um-manual-completo/"><u>Otimização Do Sistema Operacional Windows 10 Para Melhor Experiência Em Jogos - Um Manual Completo</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/swf-to-m4v-online-free-converter-moveavi/"><u>SWF to M4V Online Free Converter - Moveavi</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-definitive-guide-to-audio-transitions-for-2024/"><u>The Definitive Guide to Audio Transitions for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-htc-u23-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-screen-recorder/"><u>무료 비용 절제: Movavi Screen Recorder 에서 화면 사진 재미롭게 캡처하세요</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210252959-9781101993064-becoming-aware/"><u>Becoming Aware | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-productivity-in-microsoft-teams-using-github-copilot-learn-how/"><u>Enhance Productivity in Microsoft Teams Using GitHub Copilot – Learn How!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-correcting-the-advrcntr2dll-absent-problem-with-nero-programs/"><u>Essential Tips for Correcting the 'AdvRcntr2.dll Absent' Problem with Nero Programs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-next-level-entertainment-on-the-latest-hitachi-ultra-hd-tvs-with-built-in-roku-streaming/"><u>Experience Next-Level Entertainment on the Latest Hitachi Ultra HD TVs with Built-In Roku Streaming</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-poco-f5-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Poco F5 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-12-pro-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 12 Pro Without a Home Button</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-early-career-overwhelm-tips-to-dodge-burnout-for-recent-university-alumni-advice-from-zdnet/"><u>Navigating Early Career Overwhelm: Tips to Dodge Burnout for Recent University Alumni - Advice From ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-day-windows-11-calendar-insights/"><u>Streamlining Your Day: Windows 11 Calendar Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-essential-pinterest-planning-applications/"><u>Top 5 Essential Pinterest Planning Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-keyboards-that-fail-to-register-keys-expert-solutions-for-common-issues/"><u>Troubleshooting Keyboards That Fail to Register Keys: Expert Solutions for Common Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-compatibility-playing-older-ps-games-on-newer-console/"><u>Understanding Compatibility: Playing Older PS Games on Newer Console</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights From ZDNet"
-date: 2025-01-14T03:03:56.247Z
-updated: 2025-01-17T04:21:59.253Z
+date: 2025-01-19T09:19:32.667Z
+updated: 2025-01-22T18:21:04.668Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8fc6b51a-545c-47ed-9fa6-87cbc8d2712f%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,20 +62,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-groundbreaking-open-source-software-for-modern-video-conferencing-for-2024/"><u>[New] Groundbreaking Open Source Software for Modern Video Conferencing for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-engage-viewers-with-an-effortless-youtube-animated-subscribe-button-using-filmora/"><u>[Updated] In 2024, Engage Viewers with an Effortless YouTube Animated Subscribe Button Using Filmora</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-essential-free-cloud-services-with-massive-1tb-space-included/"><u>[Updated] In 2024, Essential Free Cloud Services with Massive 1TB Space Included</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-engaging-effectively-in-a-twitter-chat/"><u>A Step-by-Step Guide: Engaging Effectively in a Twitter Chat</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-motorola-edgeplus-2023-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-laptops-that-dont-charge-when-plugged-in-on-windows-11-systems/"><u>Effective Solutions for Laptops That Don't Charge When Plugged in on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-your-gaming-experience-easy-ssd-installation-for-the-playstation-5/"><u>Enhance Your Gaming Experience: Easy SSD Installation for the PlayStation 5</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expertly-selected-best-ios-mail-applications-our-preferred-choices/"><u>Expertly Selected Best iOS Mail Applications - Our Preferred Choices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-greatest-8-choices-for-additional-phone-numbers/"><u>Explore the Greatest 8 Choices for Additional Phone Numbers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-overcome-path-of-exile-server-disconnect-problems/"><u>How to Overcome Path of Exile Server Disconnect Problems</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-from-amateur-to-pro-elevating-your-hdr-portrait-skills/"><u>In 2024, From Amateur to Pro Elevating Your HDR Portrait Skills</u></a></li>
-<li><a href="https://fox-links.techidaily.com/step-into-high-dynamic-range-the-complete-hdr-conversion-guide-for-2024/"><u>Step Into High Dynamic Range The Complete HDR Conversion Guide for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-microsoft-word-files-failing-to-open-correctly/"><u>Troubleshooting Steps for Microsoft Word Files Failing to Open Correctly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-how-to-dislike-all-your-favorites-in-spotify-easily/"><u>Ultimate Tips: How to Dislike All Your Favorites in Spotify Easily</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-the-secrets-to-professional-sound-capture-in-audacity/"><u>Unveiling the Secrets to Professional Sound Capture in Audacity</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-digital-compositing-with-kinemasters-gs-capabilities-for-2024/"><u>[New] Mastering Digital Compositing with KineMaster's GS Capabilities for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-edge-enhancements-in-windows-10-release/"><u>[New] The Edge Enhancements in Windows 10 Release</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ac1st16dll-error-heres-how-you-can-fix-it/"><u>ac1st16.dll Error? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-no-cost-voice-over-ip-applications-to-try-in-202/"><u>Best No-Cost Voice Over IP Applications to Try in 202#.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatgpt-plus-is-it-a-smart-investment-top-5-benefits-of-registering-now/"><u>ChatGPT Plus: Is It a Smart Investment? Top 5 Benefits of Registering Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-most-effective-free-cross-border-communication-apps-our-favorites/"><u>Discover the Most Effective Free Cross-Border Communication Apps (Our Favorites)</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-15-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 15 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-12-pro-max-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 12 Pro Max SIM Lock?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-a78-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo A78 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-videotoaudiotweeter-direct-output/"><u>In 2024, VideoToAudioTweeter Direct Output</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/need-to-retract-an-email-sent-through-microsoft-outlook-follow-these-easy-steps/"><u>Need to Retract an Email Sent Through Microsoft Outlook? Follow These Easy Steps!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/salvaging-silenced-chatgpt-tracks/"><u>Salvaging Silenced ChatGPT Tracks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/solve-video-playback-issues-fix-non-playable-mp4-files-on-windows-1011-macos-and-other-systems/"><u>Solve Video Playback Issues: Fix Non-Playable MP4 Files on Windows 10/11, macOS & Other Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-13-solutions-for-when-your-spotify-stops-playing-in-android-auto-mode/"><u>Top 13 Solutions for When Your Spotify Stops Playing in Android Auto Mode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722886510150-top-ipad-offers-and-discounts-shop-smart-today/"><u>Top iPad Offers and Discounts: Shop Smart Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-frozen-macbook-air-tips-and-solutions-for-smooth-operation/"><u>Troubleshooting Frozen MacBook Air - Tips & Solutions for Smooth Operation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-how-to-watch-spider-man-no-way-home-online/"><u>Ultimate Guide: How to Watch 'Spider-Man: No Way Home' Online</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/winxvideo-ai-androidios/"><u>WinxVideo AI: 최신 기능과 사용자 친화적인 인터페이스가 있는 Android/iOS에서 제대로 설치하세요</u></a></li>
 </ul></div>
 

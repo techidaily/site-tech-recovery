@@ -1,7 +1,7 @@
 ---
 title: "DIY Tech Help: How to Perform a Full System Clear on HP Laptops – A Step-by-Step Walkthrough"
-date: 2024-08-19T12:49:15.039Z
-updated: 2024-08-20T12:49:15.039Z
+date: 2025-01-19T08:46:23.346Z
+updated: 2025-01-22T19:46:20.297Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 
  Power on your laptop and TV (both with HDMI ports) and prepare an HDMI cable.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2
 
  Plug the HDMI cable into both your laptop’s and TV’s HDMI ports.
@@ -33,8 +30,9 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-38.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3
 
  Now you may see your TV with a blue screen showing a No signal message. Press the**INPUT** or**SOURCE** button on your TV remote. Then use the Arrow icon to choose**HDMI 1** on your TV screen.
@@ -42,16 +40,18 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-36.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Step 4
 
 Tada! You may see the same screen with your laptop on the TV.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if I couldn’t see the same screen with my laptop on the TV?
 
@@ -61,12 +61,13 @@ Tada! You may see the same screen with your laptop on the TV.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Display** when viewed by Large icons.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-30.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Adjust resolution** .
 
@@ -80,7 +81,15 @@ Tada! You may see the same screen with your laptop on the TV.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if there’s no sound from TV speakers?
 
@@ -92,23 +101,14 @@ In addition, set your HDMI audio output device as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Highlight your HDMI audio output device and click**Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **NOTE:** If you cannot see your HDMI audio output device, right-click on the blank area of and tick on**Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Still No Sound?
 
  If after all the settings above, there’s still no sound from your TV’s speakers, we highly recommend you update your HDMI audio output device driver. You can choose to download the latest driver from your device manufacturer’s website. However, it’s not as easy as it sounds. It needs you to find the correct driver and download it all manually.
@@ -118,6 +118,10 @@ In addition, set your HDMI audio output device as the default device.
  To update your drivers with Driver Easy, just click the **Scan Now** button, then when it lists the drivers you need to update, click **Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That’s all there is to it. Hopefully, you can enjoy the large screen now.
 
@@ -129,8 +133,6 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +140,24 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-expeditious-windows-file-audit-tactics/"><u>[Updated] 2024 Approved Expeditious Windows File Audit Tactics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-guide-utilizing-luts-in-ae/"><u>2024 Approved Essential Guide Utilizing LUTs in AE</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-optimal-mp4-to-fb-video-solution/"><u>2024 Approved Optimal MP4-to-FB Video Solution</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-freedom-of-filmmaking-top-android-video-editing-apps/"><u>2024 Approved The Freedom of Filmmaking Top Android Video Editing Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-to-overcome-ietmodextdll-malfunctions/"><u>Comprehensive Strategies to Overcome ietmodext.dll Malfunctions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-home-theater-explore-hitachis-new-range-of-ultra-hd-tvs-with-direct-roku-connectivity/"><u>Elevate Your Home Theater: Explore Hitachi's New Range of Ultra HD TVs with Direct Roku Connectivity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-utilizing-androids-swift-settings-shortcut-for-maximum-productivity/"><u>Expert Tips for Utilizing Android's Swift Settings Shortcut for Maximum Productivity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-a-comprehensive-guide-to-cost-free-and-shared-dns-providers-online/"><u>Explore a Comprehensive Guide to Cost-Free and Shared DNS Providers Online</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>In 2024, From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-x100-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo X100 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-visionary-voices-triumph-online/"><u>In 2024, Visionary Voices Triumph Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/manage-your-kins-agenda-efficiently-the-ultimate-list-of-7-family-friendly-calendar-applications/"><u>Manage Your Kin's Agenda Efficiently: The Ultimate List of 7 Family-Friendly Calendar Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-choosing-a-stylish-and-secure-smartphone-case/"><u>Mastering the Art of Choosing a Stylish & Secure Smartphone Case</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-locating-and-using-car-radio-passwords-for-enhanced-security/"><u>The Ultimate Guide to Locating and Using Car Radio Passwords for Enhanced Security</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-spotifys-soundtracks-into-downloadable-text-files/"><u>Transforming Spotify's Soundtracks Into Downloadable Text Files</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint/"><u>Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint</u></a></li>
+</ul></div>
 

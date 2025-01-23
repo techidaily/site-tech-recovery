@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Enhancing Performance for Smooth Gameplay in Assassin's Creed Valhalla"
-date: 2024-08-19T12:46:18.324Z
-updated: 2024-08-20T12:46:18.324Z
+date: 2025-01-16T08:15:37.567Z
+updated: 2025-01-22T17:12:40.133Z
 tags:
   - win11
   - win10
@@ -34,6 +34,11 @@ Having low FPS or significant FPS drops in Skyrim Special Edition? You’re not 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then type**powercfg.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-1.jpg)
 2. Select**High performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-2.jpg)
 
  If you still don’t see improvement in Skyrim FPS, proceed to the second fix below.
@@ -56,17 +61,15 @@ There are mainly two ways you can update your graphics driver:
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer to employ the changes. If the issue persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Modify the config file
 
  Many players suggested modifying certain values in the game’s configuration file will dramatically boost FPS in Skyrim. Follow the steps to see if that works for you.
@@ -75,22 +78,16 @@ There are mainly two ways you can update your graphics driver:
 2. Locate**bLockFramerate** and set its value to**0** . Then click**Ctrl** +**S** to save the file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/config-file-1.jpg)
 3. Go back to the Skyrim Special Edition folder and open the**SkyrimPrefs** file.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Find**iVsyncPresentInterval** , set it to**0** and save the file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/config-file-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  Once completed, launch Skyrim to test. If the FPS is not improved, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Roll back your AMD graphics driver
 
  AMD users reported the latest AMD graphics driver can trigger decreased performance in Skyrim. To see if that’s the cause, you could roll back your graphics driver to the previous version.
@@ -104,15 +101,21 @@ Here is the instruction:
 3. Launch DDU and select**GPU** and your**graphics card brand** on the main screen.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/clean-reinstall-driver-1.jpg)
 4. Click**Clean and restart** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/clean-reinstall-driver-2.jpg)
 5. Wait for the uninstalling process to complete. Then, reboot your PC to exit the safe mode.
 6. Go to the official support website of[AMD](https://www.amd.com/en/support) or[NVIDIA](https://www.nvidia.com/Download/index.aspx) to download the previous version of your graphics card driver.
 7. Open the downloaded file and follow the on-screen instructions to install the driver manually.
 
  Now see if the Skyrim FPS is raised. If not, try different versions until you find the one that renders the most stable Skyrim gameplay. Still no luck? Take a look at the last fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Install mods
 
@@ -133,8 +136,6 @@ Here is the instruction:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +143,17 @@ Here is the instruction:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-cross-platform-magic-joining-instagram-and-tiktok/"><u>[New] Cross-Platform Magic Joining Instagram and TikTok</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-complete-review-for-samsung-gear-360-camera/"><u>[Updated] Complete Review for Samsung Gear 360 Camera</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-enhanced-reality-gaming-top-10-pc-vr-players-for-virtual-adventures/"><u>[Updated] In 2024, Enhanced Reality Gaming Top 10 PC VR Players for Virtual Adventures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-setting-up-an-email-address-alias-on-gmail/"><u>A Step-by-Step Guide: Setting Up an Email Address Alias on Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/compatibility-guide-can-airpods-be-connected-to-the-nintendo-switch/"><u>Compatibility Guide: Can AirPods Be Connected to the Nintendo Switch?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guida-passo-passo-per-la-conversione-di-mp4-a-avi-metodo-facile-e-gratuito-in-un-click/"><u>Guida Passo-Passo per La Conversione Di MP4 a AVI - Metodo Facile E Gratuito in Un Click</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pc-velocity-essentials-finding-the-perfect-processing-speed/"><u>PC Velocity Essentials: Finding the Perfect Processing Speed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/social-media-success-how-to-swiftly-score-more-likes-and-followers-on-instagram/"><u>Social Media Success: How to Swiftly Score More Likes and Followers on Instagram</u></a></li>
+<li><a href="https://facebook.techidaily.com/step-by-step-guide-facebook-portals-video-chat-setup/"><u>Step-by-Step Guide: Facebook Portals' Video Chat Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-error-code-0x800f081f-on-your-net-framework-35-installation/"><u>Troubleshooting Guide: Overcoming Error Code 0X800F081F on Your .NET Framework 3.5 Installation</u></a></li>
+</ul></div>
 

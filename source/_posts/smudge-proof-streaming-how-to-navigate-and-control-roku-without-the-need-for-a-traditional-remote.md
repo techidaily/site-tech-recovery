@@ -1,7 +1,7 @@
 ---
 title: "Smudge-Proof Streaming: How to Navigate and Control Roku Without the Need for a Traditional Remote"
-date: 2024-08-19T15:17:32.249Z
-updated: 2024-08-20T15:17:32.249Z
+date: 2025-01-19T10:19:35.165Z
+updated: 2025-01-22T20:36:08.708Z
 categories:
   - BestProducts
 description: "This Article Describes Smudge-Proof Streaming: How to Navigate and Control Roku Without the Need for a Traditional Remote"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,8 +278,9 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -283,8 +292,9 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -313,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +330,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-rapid-review-windows-files-made-simple/"><u>[New] In 2024, Rapid Review Windows Files Made Simple</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-quick-guide-to-instagram-video-speed-up-mobiledesktop/"><u>[New] The Quick Guide to Instagram Video Speed-Up (Mobile/Desktop)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-vocal-variation-at-your-fingertips-free-software-to-transform-your-voice/"><u>[Updated] Vocal Variation at Your Fingertips Free Software to Transform Your Voice</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-unique-blend-of-fun-and-protection-the-ddpai-mini3-dashcam-reviewed/"><u>A Unique Blend of Fun and Protection: The DDpai Mini3 Dashcam Reviewed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-your-communication-with-8-superior-alternate-phone-number-app-options/"><u>Enhance Your Communication with 8 Superior Alternate Phone Number App Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-reset-a-samsung-tv/"><u>How to Reset a Samsung TV</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/netflix-party-how-to-start-a-shared-viewing-experience/"><u>Netflix Party: How to Start a Shared Viewing Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-game-lag-and-hitches-during-deathloop-gaming-sessions/"><u>Overcoming Game Lag and Hitches During Deathloop Gaming Sessions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resolving-ksuserdll-missing-and-unavailable-issues-on-your-computer/"><u>Step-by-Step Guide: Resolving ksuser.dll Missing and Unavailable Issues on Your Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-iphones-nightlight-settings-for-2024/"><u>Understanding iPhone's Nightlight Settings for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-system-settings-steps-to-bypass-or-modify-trustedinstaller-rights-in-windows-10/"><u>Unlocking System Settings: Steps to Bypass or Modify TrustedInstaller Rights in Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-we-know-so-far-about-the-new-google-pixel-release-anticipated-pricing-strategy-scheduled-arrival-and-rumored-specifications/"><u>What We Know So Far About the New Google Pixel Release: Anticipated Pricing Strategy, Scheduled Arrival & Rumored Specifications</u></a></li>
+</ul></div>
 

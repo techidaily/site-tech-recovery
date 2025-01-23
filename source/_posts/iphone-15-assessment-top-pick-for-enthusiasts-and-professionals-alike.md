@@ -1,7 +1,7 @@
 ---
 title: IPhone 15 Assessment - Top Pick for Enthusiasts and Professionals Alike!
-date: 2025-01-10T02:34:34.859Z
-updated: 2025-01-16T21:54:18.014Z
+date: 2025-01-16T09:59:40.314Z
+updated: 2025-01-22T17:47:38.327Z
 tags:
   - apple
 categories:
@@ -40,7 +40,7 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -50,7 +50,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -68,11 +68,19 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -129,7 +137,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -146,10 +154,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -165,10 +169,6 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,20 +204,19 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-20-greatest-sandbox-experiences-ever-made/"><u>[New] 20 Greatest Sandbox Experiences Ever Made</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-vega-56-users-guide-to-finding-and-applying-driver-updates-for-enhanced-performance-in-windows-os/"><u>AMD Vega 56 User's Guide to Finding and Applying Driver Updates for Enhanced Performance in Windows OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-eliminating-the-suggest-next-function-on-instagram/"><u>Complete Guide: Eliminating the 'Suggest Next' Function on Instagram</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fix-for-when-your-system-cant-find-helperdll/"><u>Comprehensive Fix for When Your System Can't Find Helper.dll</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-repair-kernel32dll-errors-in-windows-systems/"><u>Effective Strategies to Repair Kernel32.dll Errors in Windows Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-common-glitches-a-users-handbook-for-successful-instagram-story-uploads/"><u>Overcoming Common Glitches: A User’s Handbook for Successful Instagram Story Uploads</u></a></li>
-<li><a href="https://discover-help.techidaily.com/reproduccion-de-contenido-av1-en-la-plataforma-plex-paso-a-paso-y-solucion-detallada/"><u>Reproducción De Contenido AV1 en La Plataforma Plex - Paso a Paso Y Solución Detallada</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-capturing-screen-images-on-your-desktop-computer/"><u>Step-by-Step Guide: Capturing Screen Images on Your Desktop Computer</u></a></li>
-<li><a href="https://win-superb.techidaily.com/step-by-step-guide-setting-up-block-level-incremental-backup-on-your-windows-pc/"><u>Step-by-Step Guide: Setting Up Block-Level Incremental Backup on Your Windows PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209868072-9780957619524-the-human-energy-system/"><u>The Human Energy System | Free Book</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/time-travel-on-fb-accessing-historical-posts-for-2024/"><u>Time Travel on FB Accessing Historical Posts for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-windows-11-search-issues-with-our-top-fixing-tips/"><u>Troubleshoot Windows 11 Search Issues with Our Top Fixing Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-trick-navigating-to-command-prompt-within-file-explorer-tabs/"><u>Ultimate Trick: Navigating to Command Prompt Within File Explorer Tabs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722886473783-understanding-the-502-bad-gateway-error-causes-and-solutions/"><u>Understanding the 502 Bad Gateway Error - Causes & Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-your-podcasts-rss-feed-a-step-by-step-guide/"><u>[New] Crafting Your Podcast's RSS Feed A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-guide-to-mastering-videos-with-vida/"><u>[Updated] 2024 Approved The Ultimate Guide to Mastering Videos with Vida</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-easy-steps-for-sharing-your-xbox-playtime/"><u>[Updated] In 2024, Easy Steps for Sharing Your Xbox Playtime</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-comment-combiner-plusieurs-fichier-mp4-en-un-seul-guide-complet/"><u>1. Comment Combiner Plusieurs Fichier MP4 en Un Seul : Guide Complet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-to-resolve-dbghelpdll-not-detected-mishaps/"><u>Comprehensive Strategies to Resolve 'Dbghelp.dll' Not Detected Mishaps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-remedies-for-crucial-bugs-affecting-modern-warfare-and-warzone-players/"><u>Effective Remedies for Crucial Bugs Affecting Modern Warfare & Warzone Players</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/future-of-home-entertainment-projected-costs-and-capabilities-of-the-next-google-tv-streamer-and-release-schedule-rumors/"><u>Future of Home Entertainment: Projected Costs and Capabilities of the Next Google TV Streamer & Release Schedule Rumors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-and-repair-windows-error-code-0x80070570/"><u>How to Correctly Address and Repair Windows Error Code 0X80070570</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-and-replace-missing-ftd2xxdll-dll-file/"><u>How to Recover and Replace Missing ftd2xx.dll DLL File</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-channel-personality-complimentary-youtube-graphics/"><u>In 2024, Channel Personality Complimentary YouTube Graphics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-finding-hidden-instagram-reels-youve-liked-before/"><u>Mastering the Art of Finding Hidden Instagram Reels You've Liked Before</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-saving-chatgpt-messages-incognito/"><u>The Art of Saving ChatGPT Messages Incognito</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-a-408-request-timeout-a-step-by-step-guide-for-resolution/"><u>Troubleshooting a 408 Request Timeout: A Step-by-Step Guide for Resolution</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-download-vllo-for-mac-and-uncover-its-competitors/"><u>Updated In 2024, Download VLLO for Mac and Uncover Its Competitors</u></a></li>
 </ul></div>
 

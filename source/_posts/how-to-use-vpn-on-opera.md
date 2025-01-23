@@ -1,7 +1,7 @@
 ---
 title: How to Use VPN on Opera
-date: 2024-08-19T12:48:45.189Z
-updated: 2024-08-20T12:48:45.189Z
+date: 2025-01-19T19:27:08.869Z
+updated: 2025-01-23T01:44:31.845Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Want to check the RAM on your Windows 10 computer or laptop? You’ve come to th
 
  There are two main types of RAM in the current market: DRAM (Dynamic Random Access Memory) and SRAM (Static Random Access Memory). Generally speaking, the more RAM your computer is, the faster it can run. If your computer is running slow to a crawl, one of the main causes can be the small RAM capacity that influences the system performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check how much RAM you have
 
 1. [**Check RAM via msinfo32.exe**](https://tools.techidaily.com/drivereasy/download/)
@@ -30,9 +34,6 @@ Want to check the RAM on your Windows 10 computer or laptop? You’ve come to th
 3. **[Check RAM in Control Panel](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Bonus Tip](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Check RAM via msinfo32.exe
 
  Since Windows 98, Microsoft includes a built-in tool called Microsoft System Information (msinfo32.exe), which enables you to gather information about your computer.Here’s how to use it:
@@ -43,22 +44,22 @@ Want to check the RAM on your Windows 10 computer or laptop? You’ve come to th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee1b7c7526.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) You can check your RAM in**Installed Physical Memory (RAM)** . You can also browse other system information from this window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2291df98.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you should be able to check your computer memory without problems!
 
  If this method doesn’t work for you, don’t worry. We have other solutions for you.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Check RAM via Task Manager
 
  You can also check your RAM on Windows 10 from Task Manager. To do so, follow the steps below:
@@ -69,12 +70,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee269376df.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Check RAM in Control Panel
 
  Control Panel is a powerful feature where you can check information and diagnose the issues in your Windows 10 computer.
@@ -83,13 +78,18 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2b7db7c5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) View Control Panel items**by category** , then click**System and Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2d98fe01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**View amount of RAM and processor speed** in the**System** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2f5a8a43.jpg)
@@ -127,8 +127,9 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee3fbf37a7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of the driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click**Update All** ).
@@ -139,9 +140,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee42b88cad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [memory](https://tools.techidaily.com/drivereasy/download/)
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -151,8 +149,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +156,21 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-tailoring-visual-quality-choose-aspect-ratios-wisely/"><u>[Updated] In 2024, Tailoring Visual Quality Choose Aspect Ratios Wisely</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipated-google-pixel-next-generation-estimated-costs-release-window-and-feature-insights/"><u>Anticipated Google Pixel Next Generation - Estimated Costs, Release Window & Feature Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-smart-speaker-companion-a-head-to-head-battle-between-alexa-and-google-assistant/"><u>Best Smart Speaker Companion: A Head-to-Head Battle Between Alexa and Google Assistant</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-switching-receivers-on-your-logitech-cordless-mouse-without-losing-connectivity/"><u>DIY: Switching Receivers on Your Logitech Cordless Mouse Without Losing Connectivity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-recommendations-the-highest-rated-18-video-recorders-now/"><u>Expert Recommendations The Highest-Rated 18 Video Recorders Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722902138416-get-the-scoop-on-android-16-free-download-info-launch-timeline-and-speculated-features/"><u>Get the Scoop on Android 16: Free Download Info, Launch Timeline & Speculated Features!</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oneplus-nord-ce-3-lite-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on OnePlus Nord CE 3 Lite 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y78-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y78 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ps3-gaming-reimagined-best-emulators-of-the-year-for-2024/"><u>PS3 Gaming Reimagined Best Emulators of the Year for 2024</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-xs-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XS Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-fixing-the-notorious-netflix-ui-80n-3-error-message/"><u>Step-by-Step Guide: Fixing the Notorious Netflix UI-80n-3 Error Message</u></a></li>
+<li><a href="https://win-community.techidaily.com/step-by-step-guide-unlocking-your-windows-firewall-settings-tips-from-yl-computing/"><u>Step-by-Step Guide: Unlocking Your Windows Firewall Settings - Tips From YL Computing</u></a></li>
+</ul></div>
 

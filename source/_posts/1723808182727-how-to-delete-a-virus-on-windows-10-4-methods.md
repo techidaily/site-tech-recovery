@@ -1,7 +1,7 @@
 ---
 title: How to Delete a Virus on Windows 10 - 4 Methods
-date: 2024-08-19T12:47:18.049Z
-updated: 2024-08-20T12:47:18.049Z
+date: 2025-01-17T01:36:43.602Z
+updated: 2025-01-23T10:02:43.744Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Choose the type of computer you use to connect with the wireless mouse.
 * [**Connect Bluetooth Wireless Mouse**](https://tools.techidaily.com/drivereasy/download/)
 * [**TIPS: my mouse is not working?**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1 Connect Wireless Mouse with USB Receiver
 
  Before you start, make sure your mouse has**power** .
@@ -37,6 +41,10 @@ Choose the type of computer you use to connect with the wireless mouse.
 **1)** Insert the wireless receiver into your computer’s USB port.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Turn on your mouse. The power button is usually at the bottom of the mouse. If you can’t find the On/Off button, please read the product’s instructions or ask the manufacturer customer service for help.
 
@@ -46,25 +54,24 @@ Choose the type of computer you use to connect with the wireless mouse.
 
 **4)** Move your mouse around to check the connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2 Connect Bluetooth Wireless Mouse  
 
 **1)** Turn on your mouse. The power button is usually at the bottom of the mouse. If you can’t find the On/Off button, read the product’s instructions or ask the manufacturer customer service for help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/logitech-m330-silent-plus-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Press the**Windows logo key** +**I** together and click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 **3)** Make sure the Bluetooth button is on. Otherwise you can’t add other device. Click the “**+** ” button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap5.jpg)
@@ -74,8 +81,9 @@ Choose the type of computer you use to connect with the wireless mouse.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Press the connection button on the mouse. It’s put in different position on different brands. You can check your mouse’s bottom and top to find it. If you can’t find the button, read the product’s instructions or ask the manufacturer’s customer service for help.
 
 **6)** Wait for your mouse’s name to appear on the Bluetooth window. When you see it, click it, your mouse will start connecting with PC.
@@ -100,9 +108,6 @@ Choose the type of computer you use to connect with the wireless mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap29.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** You can update drivers manually or automatically.
 
  Use the**Free** version, you can download and install drivers manually. Click[here](https://tools.techidaily.com/drivereasy/download/) to learn how.
@@ -114,6 +119,10 @@ Choose the type of computer you use to connect with the wireless mouse.
 **4)** Restart your computer, then move your mouse to check the connection.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Connect Wireless Mouse to Mac
 
@@ -128,23 +137,18 @@ Choose the type of computer you use to connect with the wireless mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 **2)** Turn on your mouse. The power button is usually at the bottom of the mouse. If you can’t find the On/Off button, read the product’s instructions or ask the manufacturer customer service for help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/logitech-m330-silent-plus-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Press your mouse’s “Connection” button. It’s put in different position on different brands. You can check your mouse’s bottom and top to find it. If you can’t find the button, read the instructions or ask the manufacturer’s customer service for help.
 
 **4)** Move your mouse around to check the connection.  
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2 Connect Bluetooth wireless mouse  
 
 **1)** Turn on your mouse. The power button is usually at the bottom of the mouse. If you can’t find the On/Off button, read the product’s instructions or ask the manufacturer customer service for help.
@@ -155,9 +159,6 @@ Choose the type of computer you use to connect with the wireless mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap8-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click**System Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap9-1.jpg)
@@ -166,16 +167,14 @@ Choose the type of computer you use to connect with the wireless mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap11-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Press the connection button on the mouse. It’s put in different position on different brands. You can check your mouse’s bottom and top to find it. If you can’t find the button, read the instructions or ask the manufacturer’s customer service for help.
 
 **6)** Wait for your mouse’s name to appear on the Bluetooth window. When you see it, your mouse has connected with Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### TIPS: my mouse is not working?  
 
 **1\.**  Check your mouse has power and make sure you turn on the mouse.
@@ -192,8 +191,6 @@ Choose the type of computer you use to connect with the wireless mouse.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +198,24 @@ Choose the type of computer you use to connect with the wireless mouse.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-delving-into-the-world-of-video-grading-styles/"><u>[New] 2024 Approved Delving Into the World of Video Grading Styles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-playful-escape-the-ultimate-relief-list/"><u>[New] In 2024, Playful Escape The Ultimate Relief List</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-no-expenses-the-ultimate-guide-to-16-top-tier-youtube-rippers-for-audios/"><u>[New] No Expenses The Ultimate Guide to 16 Top-Tier YouTube Rippers for Audios</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-stepping-into-a-new-digital-era-mastering-your-tiktok-handle-change-process-for-2024/"><u>[Updated] Stepping Into a New Digital Era Mastering Your TikTok Handle Change Process for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-htc-u23-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track HTC U23 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoiding-digital-clutter-tips-and-tricks-for-refreshing-your-former-name-network/"><u>Avoiding Digital Clutter: Tips and Tricks for Refreshing Your [Former Name] Network</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/banish-odd-greens-in-your-youtube-videos-using-mac-techniques-for-2024/"><u>Banish Odd Greens in Your YouTube Videos Using Mac Techniques for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/breaking-down-speculations-on-googles-upcoming-phone-the-expected-price-tag-launch-window-and-device-capabilities/"><u>Breaking Down Speculations on Google's Upcoming Phone - The Expected Price Tag, Launch Window & Device Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-guide-synching-a-subwoofer-to-your-samsung-soundbar-unit-perfectly/"><u>DIY Guide: Synching a Subwoofer to Your Samsung Soundbar Unit Perfectly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/evaluating-the-value-of-installing-a-wi-fi-mesh-network-in-residential-areas/"><u>Evaluating the Value of Installing a Wi-Fi Mesh Network in Residential Areas</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-adjust-mouse-settings-eliminating-acceleration-on-a-mac-computer/"><u>Guide to Adjust Mouse Settings: Eliminating Acceleration on a Mac Computer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trailblazing-the-future-of-3d-color-grading-tools/"><u>In 2024, Trailblazing the Future of 3D Color Grading Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-your-silent-airpods-expert-tips-on-executing-a-successful-reset/"><u>Reviving Your Silent AirPods: Expert Tips on Executing a Successful Reset</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-your-websites-504-gateway-timeout-problem/"><u>Step-by-Step Guide: Correcting Your Website's 504 Gateway Timeout Problem</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-visual-storytelling-in-your-instagram-highlight-images-for-2024/"><u>The Art of Visual Storytelling in Your Instagram Highlight Images for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-play-7t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/to-repeat-a-message-the-nuances-of-retweeting-vs-re-tweeting/"><u>To Repeat a Message: The Nuances of Retweeting Vs. Re-Tweeting</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Locating Personal Email Addresses Responsibly
-date: 2024-08-19T15:17:41.553Z
-updated: 2024-08-20T15:17:41.553Z
+date: 2025-01-20T02:41:42.417Z
+updated: 2025-01-22T20:03:34.364Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of Locating Personal Email Addresses Responsibly
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/D9r_EbdvWvhm2yJ6jbM0_fr8c4M=/400x300/fi
 
  Instructions in this article apply to Minecraft for all platforms including Windows, PS4, and Xbox One.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make an Awkward Potion in Minecraft
 
  Follow these steps to collect the materials and craft an Awkward Potion in Minecraft.  
@@ -21,16 +25,36 @@ thumbnail: https://www.lifewire.com/thmb/D9r_EbdvWvhm2yJ6jbM0_fr8c4M=/400x300/fi
 1. Craft **Blaze Powder** with a**Blaze Rod** .  
 ![Craft Blaze Powder with a Blaze Rod.](https://www.lifewire.com/thmb/qSMCUF6bbvZMVtIw7PWru7OxLnk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-17cf8c053f0a43a7ad87853eab45ff92.jpg)
 2. Make a**Crafting Table** with 4 wood planks. Any type of plank (**Warped Planks** , **Crimson Planks** , etc.) will do.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Make a Crafting Table with 4 wood planks.](https://www.lifewire.com/thmb/FrhprZpyD-UmvnQ8_WU_j2ywbTM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2b6becda954b4f6ca22144303a9d7a30.jpg)
 3. Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.  
 ![Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.](https://www.lifewire.com/thmb/_KMBsLRFlAKz_Vsv7IDm4NPdlsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-7747868208ee4f78a3588c8c7f34ed57.jpg)
 4. Craft a **Brewing Stand** . Put**1** **Blaze Rod** in the middle of the top row, then put **3 Cobblestones** in the middle row.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Put 1 Blaze Rod in the middle of the top row, then put 3 Cobblestones in the middle row.](https://www.lifewire.com/thmb/xhvaykHAzNU4zphBdJKIhTqT72A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-ca12414471df435c88e8e25d694c853e.jpg)
 5. Place the **Brewing Stand** on the ground and interact with it to bring up the brewing menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Place the Brewing Stand on the ground and interact with it to bring up the brewing menu.](https://www.lifewire.com/thmb/YfgJEhKKlkc-7vyOQvB0NpYmHxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-76b8ca6ad2c04b3c95e6a7c15bb0f401.jpg)
 6. Add**1** **Blaze Powder** to the box in the upper-left corner of the brewing menu to activate the **Brewing Stand** .  
 ![Add 1 Blaze Powder to the box in the upper-left corner to activate the Brewing Stand.](https://www.lifewire.com/thmb/ePA5ABxVZJ_IXRMUbvCLECLQryw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-132e911c37704b818f71e52c2a4c2b6e.jpg)
 7. Put a **Water Bottle** in one of the three boxes at the bottom of the brewing menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Add the Water Bottle to one of the three boxes at the bottom of the brewing menu.](https://www.lifewire.com/thmb/XN8yw9gjspE70SuTZBbP7LahfTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-483d26234f9a46d49dcc4cb51bdc1556.jpg)  
  Make up-to three potions at once by putting Water Bottles in the other bottom boxes.
 8. Put**1 Nether Wart** in the box at the top of the brewing menu.  
@@ -48,10 +72,6 @@ thumbnail: https://www.lifewire.com/thmb/D9r_EbdvWvhm2yJ6jbM0_fr8c4M=/400x300/fi
 * 1 Water Bottle  
 * 1 Nether Wart  
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## What Does an Awkward Potion Do in Minecraft?  
 
  The Awkward Potion is an essential base ingredient for many other potions. Here's a list of what you can make with an Awkward Potion.  
@@ -89,8 +109,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +116,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-free-video-embedding-for-dynamic-online-articles/"><u>[New] 2024 Approved Free Video Embedding for Dynamic Online Articles</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-hololens-review-pioneering-virtual-spacecraft/"><u>[Updated] 2024 Approved HoloLens Review Pioneering Virtual Spacecraft</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-perpetual-screen-snapshot/"><u>[Updated] Perpetual Screen Snapshot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-buyers-checklist-selecting-a-high-quality-projector-that-meets-your-needs/"><u>A Buyer's Checklist: Selecting a High-Quality Projector That Meets Your Needs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-practices-for-file-retrieval-a-thorough-review-of-recuvas-capabilities-and-features/"><u>Best Practices for File Retrieval: A Thorough Review of Recuva's Capabilities and Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-personal-cooking-tutor-for-healthy-eating/"><u>ChatGPT as Your Personal Cooking Tutor for Healthy Eating</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatgpt-citations-made-easy-tips-for-proper-attribution/"><u>ChatGPT Citations Made Easy: Tips for Proper Attribution</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/dusks-descent-pre-pro-screen-transitions-for-2024/"><u>Dusk's Descent Pre-Pro Screen Transitions for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-digital-tv-signal-enhancement-with-effective-in-house-antennas/"><u>Master the Art of Digital TV Signal Enhancement with Effective In-House Antennas</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-a-step-by-step-guide-on-addressing-hulu-error-code-rununk13/"><u>Solving the Mystery: A Step-by-Step Guide on Addressing Hulu Error Code RUNUNK13</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-correct-error-messages-d3dx933dll-is-missing/"><u>Steps to Correct Error Messages: 'd3dx9_33.dll Is Missing'</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211439110--tarot-disassembled-guidebook/"><u>Tarot Disassembled Guidebook | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-choosing-top-cable-and-router-duos/"><u>The Ultimate Guide to Choosing Top Cable and Router Duos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-how-to-solve-opengl32dll-errors-effectively/"><u>Troubleshooting Tips: How To Solve OpenGL32.dll Errors Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncover-the-causes-and-solutions-to-avcodecdll-errors-that-keep-you-from-using-software-seamlessly/"><u>Uncover the Causes and Solutions to avcodec.dll Errors That Keep You From Using Software Seamlessly</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-mavericks-video-editor-how-to-edit-mp4-files-with-ease/"><u>Updated 2024 Approved Mavericks Video Editor How to Edit MP4 Files with Ease</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix Lenovo Easy Camera Not Working Issue on Windows 11
-date: 2024-08-19T12:45:54.081Z
-updated: 2024-08-20T12:45:54.081Z
+date: 2025-01-16T04:06:34.327Z
+updated: 2025-01-23T08:02:38.763Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Choose the type of computer you use to connect with the wireless mouse.
 * [**Connect Bluetooth Wireless Mouse**](https://tools.techidaily.com/drivereasy/download/)
 * [**TIPS: my mouse is not working?**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1 Connect Wireless Mouse with USB Receiver
 
  Before you start, make sure your mouse has**power** .
@@ -46,6 +50,10 @@ Choose the type of computer you use to connect with the wireless mouse.
 
 **4)** Move your mouse around to check the connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2 Connect Bluetooth Wireless Mouse  
 
 **1)** Turn on your mouse. The power button is usually at the bottom of the mouse. If you can’t find the On/Off button, read the product’s instructions or ask the manufacturer customer service for help.
@@ -53,18 +61,20 @@ Choose the type of computer you use to connect with the wireless mouse.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/logitech-m330-silent-plus-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Press the**Windows logo key** +**I** together and click**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Make sure the Bluetooth button is on. Otherwise you can’t add other device. Click the “**+** ” button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click**Bluetooth** .
 
@@ -95,8 +105,9 @@ Choose the type of computer you use to connect with the wireless mouse.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap29.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** You can update drivers manually or automatically.
 
  Use the**Free** version, you can download and install drivers manually. Click[here](https://tools.techidaily.com/drivereasy/download/) to learn how.
@@ -105,16 +116,10 @@ Choose the type of computer you use to connect with the wireless mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap33.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Restart your computer, then move your mouse to check the connection.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Connect Wireless Mouse to Mac
 
  According to different connecting technology, there are two types of wireless mouse. One uses advanced 2.4 GHz wireless connectivity with a tiny USB nano receiver, another type uses Bluetooth wireless technology. You can choose either link below according to your wireless mouse type to get information.
@@ -123,8 +128,9 @@ Choose the type of computer you use to connect with the wireless mouse.
 * [Connect Bluetooth Wireless Mouse](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1 Connect Wireless Mouse with USB Receiver  
 
 **1)** Insert the wireless receiver into your computer’s USB port.
@@ -145,16 +151,14 @@ Choose the type of computer you use to connect with the wireless mouse.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/logitech-m330-silent-plus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 **2)** Click the**Apple** menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap8-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click**System Preferences** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap9-1.jpg)
@@ -168,8 +172,9 @@ Choose the type of computer you use to connect with the wireless mouse.
 **6)** Wait for your mouse’s name to appear on the Bluetooth window. When you see it, your mouse has connected with Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### TIPS: my mouse is not working?  
 
 **1\.**  Check your mouse has power and make sure you turn on the mouse.
@@ -186,8 +191,6 @@ Choose the type of computer you use to connect with the wireless mouse.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +198,19 @@ Choose the type of computer you use to connect with the wireless mouse.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-compact-content-leading-5-services-to-compress-video-urls/"><u>[New] 2024 Approved Compact Content Leading 5 Services to Compress Video URLs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieve-flawless-audio-googles-uploading-system-for-2024/"><u>Achieve Flawless Audio Google's Uploading System for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/comparing-youtube-and-dailymotion-notable-contrasts-for-2024/"><u>Comparing YouTube and Dailymotion Notable Contrasts for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/embrace-cold-choosing-heated-backdrops-for-youtube/"><u>Embrace Cold Choosing Heated Backdrops for YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-poco-f5-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-a-black-screen-on-android-phones/"><u>How to Fix a Black Screen on Android Phones</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-realme-narzo-n55-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Unlock Verizon Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ate-away-from-bot-influenced-metrics-for-2024/"><u>Navigate Away From Bot-Influenced Metrics for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-msvcrt10dll-file-doesnt-exist-a-step-by-step-guide/"><u>Resolving 'msvcrt10.dll' File Doesn't Exist: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/restoring-functionality-a-guide-to-unstuck-or-dead-keys-on-macbook-pro/"><u>Restoring Functionality: A Guide to Unstuck or Dead Keys on MacBook Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sonys-latest-updates-and-breakthroughs-explore-the-new-releases/"><u>Sony's Latest Updates & Breakthroughs - Explore the New Releases!</u></a></li>
+</ul></div>
 

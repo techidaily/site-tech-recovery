@@ -1,7 +1,7 @@
 ---
 title: Three Simple Techniques to Block Unwanted Messages From Robocallers on Your iPhone - Insights
-date: 2025-01-12T22:48:05.625Z
-updated: 2025-01-16T16:45:59.669Z
+date: 2025-01-19T18:00:19.204Z
+updated: 2025-01-22T21:41:55.958Z
 tags:
   - apple
 categories:
@@ -26,16 +26,12 @@ The good news is that you can stop these text messages using a feature already i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to stop spam text messages on iPhone
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -45,6 +41,10 @@ Open the Settings app on your iPhone, scroll down until you can access Apps, and
 Tap on Messages to access the settings for your Messages app.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scroll until you find 'Filter Unknown Messages'
 
@@ -78,15 +78,7 @@ The message inbox will now default to show messages from people in your contact 
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I stop spam calls on iPhone?
 
@@ -113,7 +105,7 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I block a sender on my iPhone?
@@ -125,11 +117,19 @@ If you keep getting messages from the same sender after reporting them, you can 
 3. Tap on the Info button on the right.
 4. Select Block this caller.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why is the 'Filter Unknown Senders' option turned off?
 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -167,16 +167,20 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-comprehensive-look-editing-and-polishing-yt-videos-via-movie-maker/"><u>[New] In 2024, A Comprehensive Look Editing and Polishing YT Videos via Movie Maker</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-overview-of-atandts-data-roaming-structure-and-guidelines/"><u>Comprehensive Overview of AT&T's Data Roaming Structure and Guidelines</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-hidden-acoustic-gems-expertly-crafted-obs-sounds-without-recognition-using-movavi-software/"><u>Discover Hidden Acoustic Gems: Expertly Crafted OBS Sounds without Recognition Using Movavi Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/estrategias-efectivas-para-mantener-estable-la-camara-en-dispositivos-multiplataforma-windows-mac-smartphones-y-tablets/"><u>Estrategias Efectivas Para Mantener Estable La Cámara en Dispositivos Multiplataforma: Windows, Mac, Smartphones Y Tablets</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-get-quality-video-support-like-quicktime-evolving-past-catalina-your-best-alternatives-explored/"><u>How to Get Quality Video Support Like QuickTime Evolving Past Catalina – Your Best Alternatives Explored</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-a2-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo A2 for Free? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-first-timers-handbook-10-swift-insights-for-formerly-twitter-now-called-x-users/"><u>The First Timer’s Handbook: 10 Swift Insights for Formerly Twitter Now Called X Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-most-popular-imessage-games/"><u>Top 7 Most Popular iMessage Games</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-video-montages-on-mobile-devices-a-8-must-have-list/"><u>Top Video Montages on Mobile Devices A 8 Must-Have List</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-world-of-smartwatches-functions-and-features-explained/"><u>Unveiling the World of Smartwatches: Functions & Features Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cyberspace-celebs-top-youtube-personalities-by-views/"><u>[New] 2024 Approved Cyberspace Celebs Top YouTube Personalities by Views</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-social-synergy-blueprint-for-ig-and-tiktok-pairing-for-2024/"><u>[New] Social Synergy Blueprint for IG & TikTok Pairing for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-effortless-guide-to-designing-youtube-follow-links/"><u>[Updated] In 2024, Effortless Guide to Designing YouTube Follow Links</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-sculpt-satirical-scenes-with-giphy/"><u>2024 Approved Sculpt Satirical Scenes with Giphy</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/best-free-4k-media-players-top-picks-for-windows-11-and-macos-users/"><u>Best Free 4K Media Players: Top Picks for Windows 11 & macOS Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-s18-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo S18 is off? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience-online/"><u>Cookiebot-Driven Personalization: Enhancing User Experience Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detecting-imposter-network-requests-online-how-to-avoid-adding-fake-connections/"><u>Detecting Imposter Network Requests Online: How to Avoid Adding Fake Connections</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-closed-captions-in-amazon-prime-streaming/"><u>Disabling Closed Captions in Amazon Prime Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-mobile-photography-advanced-iphoneipad-lens-and-settings-adjustments/"><u>Mastering Mobile Photography: Advanced iPhone/iPad Lens and Settings Adjustments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/most-captivating-disneyplus-movie-selections-currently-streaming/"><u>Most Captivating Disney+ Movie Selections Currently Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/safeguarding-your-circle-methods-for-discerning-genuine-from-counterfeit-social-invites/"><u>Safeguarding Your Circle: Methods for Discerning Genuine From Counterfeit Social Invites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-at-the-samsung-galaxy-ring-pricing-strategies-expected-arrival-and-technical-specifications/"><u>Sneak Peek at the Samsung Galaxy Ring: Pricing Strategies, Expected Arrival & Technical Specifications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722030417409-unleash-ai-potential-with-personalized-premium-gpt-services/"><u>Unleash AI Potential with Personalized, Premium GPT Services</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/viewing-tips-access-and-enjoy-roku-channels-on-alternative-devices/"><u>Viewing Tips: Access and Enjoy Roku Channels on Alternative Devices</u></a></li>
 </ul></div>
 

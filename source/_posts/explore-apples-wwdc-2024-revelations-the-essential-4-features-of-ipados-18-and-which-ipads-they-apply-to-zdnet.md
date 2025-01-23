@@ -1,7 +1,7 @@
 ---
 title: "Explore Apple's WWDC 2024 Revelations: The Essential 4 Features of iPadOS 18 & Which iPads They Apply To | ZDNET"
-date: 2025-01-09T18:17:06.896Z
-updated: 2025-01-17T00:12:59.430Z
+date: 2025-01-16T20:50:05.611Z
+updated: 2025-01-23T08:02:23.087Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. AI all around
@@ -55,7 +55,7 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -65,7 +65,7 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -77,7 +77,7 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -87,7 +87,7 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -128,20 +128,24 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-elevate-your-brand-with-these-essential-fb-strategies-for-all-for-2024/"><u>[New] Elevate Your Brand with These Essential FB Strategies (for All) for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-digital-immersion-therapy-for-patients/"><u>[Updated] 2024 Approved Digital Immersion Therapy for Patients</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wavavi-movavi/"><u>免費網路直立WAV到AVI轉換 - 使用Movavi 影片編輯工具</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/rmvb-wmv-movavi/"><u>無限量 RMVB 到 WMV 自由转换 - 使用 Movavi 工具</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/capture-and-store-fb-conversations-best-methods-summarized-for-2024/"><u>Capture & Store FB Conversations - Best Methods Summarized for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/como-convertir-archivo-wmv-a-formato-mov-sin-costo-con-herramientas-en-linea-movavi/"><u>Cómo Convertir Archivo WMV a Formato MOV Sin Costo Con Herramientas en Línea - Movavi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dissecting-ustream-with-comparative-views/"><u>Dissecting Ustream with Comparative Views</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-and-convert-ogv-video-files-to-avi-for-free-today/"><u>Download and Convert OGV Video Files to AVI for Free Today!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-change-your-aac-files-into-high-quality-aiff-format-with-ease/"><u>Free Online Conversion: Change Your AAC Files Into High-Quality AIFF Format with Ease</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/germanys-heartbeat-top-25-authentic-phrases-for-immersion/"><u>Germany's Heartbeat: Top 25 Authentic Phrases for Immersion</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guia-paso-a-paso-para-cambiar-de-mp3-a-ogv-libremente-en-linea-usando-movavi-sin-gastos-involucrados/"><u>Guía Paso a Paso Para Cambiar De Mp3 a Ogv Libremente en Línea Usando Movavi: Sin Gastos Involucrados</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-pratique-comment-conversion-dun-fichier-ogg-en-mp3/"><u>Guide Pratique : Comment Conversion D'un Fichier Ogg en MP3</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-mejores-reproductores-swf-compatibles-con-windows-10-y-mac/"><u>Top 7 Mejores Reproductores SWF Compatibles Con Windows 10 Y Mac</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-audio-balancing-techniques/"><u>Updated Top Audio Balancing Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-laughing-lane-the-no-10-guide-to-memelore/"><u>[New] 2024 Approved Laughing Lane - The No. 10 Guide to Memelore</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-iphone-converter-top-6-free-applications-to-use/"><u>[New] The Ultimate iPhone Converter Top 6 Free Applications to Use</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-noise-reduction-for-videographers-best-freepriced-choices/"><u>[Updated] Noise Reduction for Videographers Best Free/Priced Choices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-top-10-most-accessible-costless-lut-tools-unveiled/"><u>[Updated] The Top 10 Most Accessible, Costless LUT Tools Unveiled</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-apple-podcast-listing-essentials/"><u>2024 Approved Apple Podcast Listing Essentials</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/change-your-flac-audio-tracks-into-high-quality-wav-files-for-free-using-movavis-online-conversion-platform/"><u>Change Your FLAC Audio Tracks Into High-Quality WAV Files for Free Using Movavi's Online Conversion Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminating-the-silence-techniques-to-get-your-iphone-ringing-correctly/"><u>Eliminating the Silence: Techniques to Get Your iPhone Ringing Correctly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-effortless-screen-captures-for-pc-users-free-guide/"><u>In 2024, Effortless Screen Captures for PC Users (Free Guide)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-a59-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo A59 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-there-a-widespread-playstation-network-interruption-or-am-i-the-only-one-facing-errors/"><u>Is There a Widespread PlayStation Network Interruption, or Am I the Only One Facing Errors?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-and-efficient-ways-to-solve-magic-mouse-touch-issues/"><u>Quick & Efficient Ways to Solve Magic Mouse Touch Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/realtek-asio-audio-device-driver-simple-installation-steps-for-windows-10-users/"><u>Realtek Asio Audio Device Driver | Simple Installation Steps for Windows 10 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-the-right-a-guide-to-accessing-trustedinstaller-in-windows-nul-11/"><u>Securing the Right: A Guide to Accessing TrustedInstaller in Windows Nul 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-on-customizing-your-inbox-with-gmails-rule-creation/"><u>The Ultimate How-To on Customizing Your Inbox with Gmail's Rule Creation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-17-websites-offering-free-ebooks-a-comprehensive-list/"><u>Top 17 Websites Offering Free eBooks: A Comprehensive List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-obtaining-the-correct-drivers-for-your-epson-xp-n400-printer-a-simple-how-to/"><u>Ultimate Guide to Obtaining the Correct Drivers for Your Epson XP N400 Printer: A Simple How-To</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-the-safest-email-services-online/"><u>Ultimate List of the Safest Email Services Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-to-locating-a-missing-or-forgotten-email-address-easily/"><u>Unlock the Secrets to Locating a Missing or Forgotten Email Address Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722895736091-your-checklist-for-selecting-the-perfect-smartwatch-unveiling-5-key-points-to-ponder/"><u>Your Checklist for Selecting the Perfect Smartwatch: Unveiling 5 Key Points to Ponder</u></a></li>
 </ul></div>
 

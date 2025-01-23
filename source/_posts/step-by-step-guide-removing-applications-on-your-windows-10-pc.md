@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing Applications on Your Windows 10 PC"
-date: 2024-08-19T12:47:10.306Z
-updated: 2024-08-20T12:47:10.306Z
+date: 2025-01-16T21:23:40.730Z
+updated: 2025-01-22T19:59:41.650Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 Microsoft regularly releases update packages to fix bugs and add new features. While updates can improve the system stability and increase PC performance, the slowness of the Windows update process can be really frustrating.
 
  If you’re stuck on the update screen for hours and the percentage number on the screen isn’t increasing at all, chances are the update process is stuck. And Windows says specifically “Getting Windows ready. Don’t turn off your computer”, so you might wonder what you should do next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can I Turn off My PC during Updates?
 
@@ -37,6 +41,10 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 4. **[Free up your hard drive space](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update device drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Run the Windows Update Troubleshooter
 
@@ -60,9 +68,6 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
  If the tool didn’t detect any issues, don’t worry! There are still 5 more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Disable third-party startups
 
  Some third-party applications may conflict with Windows update and cause disruptions to the process. To see if that’s the problem for you, follow the instructions below to disable auto startups on your PC:
@@ -71,22 +76,18 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-149.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click the**Startup** tab. Then, right-click the program you want to prevent it from opening on startup and select**Disable** .
 
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-148.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Fix 3: Restart the Windows Update service
 
  Errors might occur when the Windows Update service isn’t running correctly. Try restarting the Windows Update service to see if that fixes your issue:
@@ -95,16 +96,14 @@ The powerful video editing program for your Windows PC</a>
  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-17.jpg)
 2. **Type services.msc, then press the Enter key on your keyboard.**  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
 3. **Right-click the Windows Update and click Restart.**  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
 4. **Restart your PC to test the issue.**  
@@ -114,9 +113,6 @@ If your problem persists, then move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Free up your hard drive space
 
  Windows updates could take up a fair amount of disk space. If your PC is running low on free space, you might encounter issues when installing Windows updates.
@@ -133,13 +129,6 @@ If your problem persists, then move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 **2)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-151.png)
@@ -150,9 +139,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/uninstall-program.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  This could help free up lots of space if you have many unused programs on your computer.
 
 #### Free up your space with the Disk Cleanup tool
@@ -166,8 +152,9 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-154.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This can help you get rid of the temporary and unnecessary files and free up your hard drive space so that your computer can update faster.
 
 #### Defragment your hard drive
@@ -180,10 +167,11 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-156.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your device drivers
 
@@ -202,8 +190,9 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-158.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click the**Update button** next to the driver you want to update to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-157.png)
@@ -211,6 +200,10 @@ No advertising on the website.
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -234,9 +227,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
@@ -261,9 +251,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-161.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
@@ -273,13 +260,18 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Type**dism.exe /online /cleanup-image /restorehealth** , then press the**Enter** key on your keyboard.
 
  This could take several minutes. Wait for the DISM tool to update your system files automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Now, perform a Windows update to see if this fixed your problem.
 
@@ -294,8 +286,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -303,4 +293,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-smart-growth-metropolis-balancing-development-and-nature/"><u>[New] 2024 Approved Smart Growth Metropolis Balancing Development and Nature</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamlined-methods-for-documenting-overwatch-engagements-for-2024/"><u>[New] Streamlined Methods for Documenting Overwatch Engagements for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discords-premier-love-and-fun-sites/"><u>2024 Approved Discord's Premier Love and Fun Sites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-eyes-on-the-future-of-urban-mobility-sonys-afeela-car-revealed-prices-release-dates-and-features-uncovered/"><u>All Eyes on the Future of Urban Mobility: Sony's Afeela Car Revealed – Prices, Release Dates & Features Uncovered</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-fixing-504-timeout-errors-for-smoother-web-navigation/"><u>Diagnosing and Fixing 504 Timeout Errors for Smoother Web Navigation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-micro-photography-key-tips-for-filmmakers/"><u>Elevate Your Micro Photography Key Tips for Filmmakers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-play-to-replay-capturing-switch-games/"><u>From Play to Replay Capturing Switch Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-effortlessly-move-your-digital-album-collection-from-google-photos-to-apples-icloud/"><u>How to Effortlessly Move Your Digital Album Collection From Google Photos to Apple's iCloud</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-11-pro-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 11 Pro Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-windows-pc-audio-driver-issues-the-case-of-realteks-alc887-chip/"><u>Resolving Windows PC Audio Driver Issues: The Case of Realtek's ALC887 Chip</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-integration-managing-your-google-smart-speaker-through-a-windows-or-mac-computer-interface/"><u>Seamless Integration: Managing Your Google Smart Speaker Through a Windows or Mac Computer Interface</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-selection-of-the-top-8-tv-streaming-sites-to-watch-in-202/"><u>The Definitive Selection of the Top 8 TV Streaming Sites to Watch in 202</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-choosing-the-right-ipod-mount-for-your-macbook-2020-edition/"><u>The Ultimate Guide: Choosing the Right iPod Mount for Your MacBook (2020 Edition)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-what-to-do-when-you-encounter-a-dnssddll-error-message/"><u>Troubleshooting: What to Do When You Encounter a 'dnssd.dll' Error Message</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unleashing-the-power-of-artificial-intelligence-with-meta-on-instagram/"><u>Unleashing the Power of Artificial Intelligence with Meta on Instagram</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet
-date: 2025-01-10T23:42:13.138Z
-updated: 2025-01-16T18:03:38.185Z
+date: 2025-01-16T21:08:39.521Z
+updated: 2025-01-23T01:04:37.932Z
 tags:
   - apple
 categories:
@@ -28,10 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -40,10 +44,6 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -51,6 +51,10 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -65,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -77,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-subtlety-at-the-helm-lowering-sound-intensity-in-fl-studio-for-2024/"><u>[New] Subtlety at the Helm Lowering Sound Intensity in FL Studio for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-win-10s-top-10-video-cam-applications/"><u>[New] Win 10'S Top 10 Video Cam Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ai-movavi-aviogg/"><u>AIビデオファイルを自由に変換: オンラインでMovavi AVIからOGGへ</u></a></li>
-<li><a href="https://article-tips.techidaily.com/capturing-yesterdays-essence-your-path-from-pixel-to-playback-for-2024/"><u>Capturing Yesterday's Essence Your Path From Pixel to Playback for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comment-convertir-facilement-votre-fichier-rom-au-format-mp3-gratuitement-sur-la-plateforme-movavi/"><u>Comment Convertir Facilement Votre Fichier ROM Au Format MP3 Gratuitement Sur La Plateforme Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convert-mka-files-for-free-on-the-web-with-movavi-tools/"><u>Convert MKA Files for Free on the Web with Movavi Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/crea-tu-propio-archivo-de-video-con-formato-mkv-a-partir-de-un-audio-wav-online-gratis-movavi/"><u>Crea Tu Propio Archivo De Vídeo Con Formato MKV a Partir De Un Audio WAV Online Gratis - Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-setup-your-logitech-c92n-webcam-on-windows-11108/"><u>Download Updated Drivers: Setup Your Logitech C92n Webcam on Windows 11/10/8</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/e-necessario-obter-consentimento-para-filmagem-de-uma-pessoa-legalidades-explicadas/"><u>É Necessário Obter Consentimento Para Filmagem De Uma Pessoa? - Legalidades Explicadas</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-facile-pour-jouer-des-videos-mp4-dans-windows-1087-etapes-a-suivre-simples/"><u>Guide Facile Pour Jouer Des Vidéos MP4 Dans Windows 10/8/7 : Étapes À Suivre Simples !</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-samsung-galaxy-s23-ultra-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Samsung Galaxy S23 Ultra to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-p60-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Huawei P60 Phone without PIN</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-ultimate-guide-to-calculate-your-youtube-views-and-money/"><u>In 2024, Ultimate Guide to Calculate Your YouTube Views and Money.</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quick-guide-how-to-seamlessly-record-screens-with-audio-on-windows-and-mac/"><u>Quick Guide: How to Seamlessly Record Screens with Audio on Windows and Mac</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tga-para-bmp-converter-online-e-gratuitario-aprenda-com-a-fabrica-multimidia-movavi/"><u>TGA Para BMP Converter Online E Gratuitário - Aprenda Com a Fábrica Multimídia Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformar-imagens-png-em-arquivos-tiff-gratuitamente-no-movavi-instrucoes-passo-a-passo/"><u>Transformar Imagens PNG Em Arquivos TIFF Gratuitamente No Movavi - Instruções Passo a Passo</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-no-cost-dvd-ripper-applications-for-pc-and-mac-users/"><u>Ultimate List of No-Cost DVD Ripper Applications for PC and Mac Users</u></a></li>
-<li><a href="https://win11.techidaily.com/unshielding-windows-deactivating-defender-firewall/"><u>Unshielding Windows: Deactivating Defender Firewall</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-reassessing-manycam-search-for-a-top-contender-for-2024/"><u>[New] Reassessing ManyCam Search for a Top Contender for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-recommended-frame-rates-for-professional-slow-motion-videos-for-2024/"><u>[New] Recommended Frame Rates for Professional Slow-Motion Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sky-high-savings-on-storages-an-insider-look-at-free-and-premium-cloud-services/"><u>[New] Sky High Savings on Storages An Insider Look at Free & Premium Cloud Services</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-unique-gaming-screen-capture-applications-for-2024/"><u>[New] Top 10 Unique Gaming Screen Capture Applications for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beat-the-streets-essential-strategies-for-success-in-subway-surfers/"><u>Beat the Streets: Essential Strategies for Success in Subway Surfers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detailed-overview-of-every-game-unveiled-for-the-playstation-vr/"><u>Detailed Overview of Every Game Unveiled for the PlayStation VR²</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722888272655-download-iphones-owners-manuals-by-model-the-ultimate-resource-list-and-tutorial/"><u>Download iPhones' Owner's Manuals by Model - The Ultimate Resource List and Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/harry-potter-cinematic-journey-a-structured-viewing-schedule/"><u>Harry Potter Cinematic Journey: A Structured Viewing Schedule</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-14-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 14? Learn All 4 Methods</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/r-your-online-presence-the-ultimate-guide-to-effective-freefire-tags-for-2024/"><u>Master Your Online Presence The Ultimate Guide to Effective FreeFire Tags for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-a-guide-to-getting-robocop-rogue-city-running-on-windows-and-mac/"><u>Overcoming Launch Problems: A Guide to Getting RoboCop: Rogue City Running on Windows & Mac</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-live-chat-apps-to-try-with-shopify-for-2024/"><u>Updated Best Live Chat Apps To Try With Shopify for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Miracast Issues on Windows 11: A Step-by-Step Guide"
-date: 2024-08-19T12:49:03.335Z
-updated: 2024-08-20T12:49:03.335Z
+date: 2025-01-17T20:50:14.441Z
+updated: 2025-01-22T16:48:22.584Z
 tags:
   - win11
   - win10
@@ -32,13 +32,15 @@ Here’s how to check your DirectX version:
 1. On your keyboard, press**the**   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png)  , then copy & paste **dxdiag** into the box and click**dxdiag** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
 2. Check out your **DirectX version** in the first page of the report.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 2: Update DirectX
 
  Once you know that you are not running the latest DirectX, you can follow the steps below to update DirectX.
@@ -46,16 +48,14 @@ Here’s how to check your DirectX version:
  Since there is no stand-alone package of DirectX available in Windows 10, you can only update DirectX via Windows Update.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### On Windows 10
 
 1. On your keyboard, press**the**   **Windows logo key**  and type**check** . Then click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 2. Click**Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
@@ -65,21 +65,26 @@ Here’s how to check your DirectX version:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus tip: Update your device drivers to improve your gaming experience
 
  If you want to ensure the stability of your computer and have more immersive gaming experience, it’s important to keep your drivers up-to-date. There are two ways you can update your device drivers: manually or automatically. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -92,6 +97,10 @@ Here’s how to check your DirectX version:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
@@ -113,8 +122,6 @@ Here’s how to check your DirectX version:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +129,18 @@ Here’s how to check your DirectX version:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-vlc-and-mpc-debate-who-will-be-your-ultimate-free-video-ally/"><u>[New] In 2024, VLC and MPC Debate Who Will Be Your Ultimate Free Video Ally?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/iktok-and-youtube-shorts-comparison-for-individual-social-media-users/"><u>[New] TikTok & YouTube Shorts Comparison for Individual Social Media Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-reschedule-image-file-storage-from-mac/"><u>[Updated] Reschedule Image File Storage From Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/advanced-mac-recorder-with-superior-hd-and-sound-quality-for-2024/"><u>Advanced Mac Recorder with Superior HD and Sound Quality for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-access-pass-to-mens-ncaa-showdowns-march-madness-and-final-four-broadcast-extravaganza/"><u>All-Access Pass to Men’s NCAA Showdowns: March Madness and Final Four Broadcast Extravaganza!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copilot-standard-meets-pro-features-and-benefits-analysis/"><u>CoPilot Standard Meets Pro: Features & Benefits Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-ultimate-home-safety-navigate-through-our-choice-of-elite-video-door-knockers-2024-edition/"><u>Expert Picks for Ultimate Home Safety: Navigate Through Our Choice of Elite Video Door Knockers, 2024 Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-concoct-clever-caricatures/"><u>In 2024, Concoct Clever Caricatures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-facebooks-photo-database-with-ease-and-effectiveness/"><u>Navigating Facebook's Photo Database with Ease and Effectiveness</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-mac-issues-navigating-macos-startup-recovery-options/"><u>Quick Fixes for Mac Issues: Navigating macOS Startup Recovery Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-legacy-of-aim-what-was-aols-trailblazing-chat-application-all-about/"><u>Unveiling the Legacy of AIM: What Was AOL's Trailblazing Chat Application All About?</u></a></li>
+</ul></div>
 

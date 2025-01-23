@@ -1,7 +1,7 @@
 ---
 title: "Discovering Mac OS X Keychain Passwords: A Step-by-Step Guide"
-date: 2025-01-15T21:16:22.815Z
-updated: 2025-01-17T02:32:24.875Z
+date: 2025-01-20T16:04:51.782Z
+updated: 2025-01-22T19:27:19.553Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -27,7 +27,7 @@ I will start this out by reminding everyone that you should be using a password 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
@@ -39,7 +39,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -53,7 +53,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -70,10 +70,6 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -81,6 +77,10 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 **Figure 3**
 
 Creating a new password entry to be stored in the Keychain Access tool. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -113,16 +113,19 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-10-free-best-quicktime-mov-movie-editors/"><u>2024 Approved Top 10 Free Best QuickTime (MOV) Movie Editors</u></a></li>
-<li><a href="https://win-webster.techidaily.com/access-your-onedrive-files-anywhere-new-offline-feature-enables-rural-remote-accessibility-tech-insights/"><u>Access Your OneDrive Files Anywhere: New Offline Feature Enables Rural Remote Accessibility | Tech Insights</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/all-in-one-home-hub-on-wheels-exploring-the-latest-amazon-echo-show-10-third-generation/"><u>All-in-One Home Hub on Wheels – Exploring the Latest Amazon Echo Show 10 (Third Generation)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ceskoslovenske-pravidelnosti-top-20-konvertoru-videa-pro-windows-gratkovy-programovaci-oddil-bez-platu/"><u>Československé Pravidelnosti Top 20 Konvertorů Videa Pro Windows: Grátkový Programovací Oddíl Bez Platu</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cultural-chameleons-adapting-to-connect-across-boundaries/"><u>Cultural Chameleons: Adapting to Connect Across Boundaries</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ranking-the-top-value-video-resources-online/"><u>In 2024, Ranking the Top Value Video Resources Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-3gpp-m4a/"><u>Movavi: 가상 공간을 이용한 3GPP M4A 비주얼 자동화 - 무료</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-best-tablet-on-a-budget-a-comprehensive-review-of-the-102-inch-apple-ipad-8th-generation/"><u>The Best Tablet on a Budget? A Comprehensive Review of the 10.2-Inch Apple iPad 8Th Generation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformer-gratuitement-un-fichier-avi-en-format-flac-en-ligne-guerison-rapide-de-movavi/"><u>Transformer Gratuitement Un Fichier AVI en Format FLAC en Ligne - Guérison Rapide De Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tga-bmp/"><u>무료 인터넷 용인 - TGA 폴리스타일을 BMP으로 전환하기</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-a-trio-of-dimensions-differentiating-the-futures-tech-trio/"><u>[New] In 2024, A Trio of Dimensions Differentiating the Future's Tech Trio</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-combine-and-rotate-the-ultimate-guide-to-multimedia-editing-android/"><u>[Updated] 2024 Approved Combine & Rotate The Ultimate Guide to Multimedia Editing (Android)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-picks-for-the-modern-buyer-advanced-360cams/"><u>[Updated] In 2024, Top Picks for the Modern Buyer Advanced 360Cams</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoiding-phony-friend-requests-in-the-digital-realm-strategies-for-safety/"><u>Avoiding Phony Friend Requests in the Digital Realm: Strategies for Safety</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-ios-delights-join-apple-arcade-enthusiast-club/"><u>Dive Into iOS Delights: Join Apple Arcade Enthusiast Club</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722872668167-exploring-true-disparities-in-mac-vs-windows-computers-a-deep-dive/"><u>Exploring True Disparities in Mac Vs. Windows Computers - A Deep Dive</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-customizing-your-gmail-inbox-with-unique-sounds/"><u>Guide: Customizing Your Gmail Inbox with Unique Sounds</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-excel-2013-document-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to add your digital signature to Excel 2013 document</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-effective-storytelling-through-youtube-and-facebook/"><u>In 2024, Effective Storytelling Through YouTube and Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-for-mobile-mmo-enthusiasts-unveiled/"><u>Top Picks for Mobile MMO Enthusiasts Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-15-fantastic-free-uninstaller-programs-to-clean-your-system/"><u>Top Picks: 15 Fantastic Free Uninstaller Programs to Clean Your System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-to-fix-the-error-of-absent-libeay32dll-file/"><u>Troubleshooting Tips to Fix the Error of Absent Libeay32.dll File</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-solving-dota-2s-decreased-frame-rate-issues-in-windows-10-and-11/"><u>Troubleshooting: Solving Dota 2'S Decreased Frame Rate Issues in Windows 10 and 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-samsungs-plans-exclusive-insights-on-upcoming-releases-and-speculations/"><u>Unveiling Samsung's Plans - Exclusive Insights on Upcoming Releases & Speculations</u></a></li>
 </ul></div>
 

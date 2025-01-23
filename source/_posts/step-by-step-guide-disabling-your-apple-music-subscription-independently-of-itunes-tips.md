@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling Your Apple Music Subscription Independently of iTunes - Tips"
-date: 2025-01-10T21:34:16.847Z
-updated: 2025-01-17T02:33:29.012Z
+date: 2025-01-17T07:13:55.501Z
+updated: 2025-01-22T17:20:27.549Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -55,10 +59,6 @@ Microsoft added iPhone support to Phone Link in Windows 11 in early 2023\. To ma
 Next, confirm that you're running the latest version of Phone Link. To do this, open the Microsoft Store app from the Start menu and click the Library icon. Click the Get Updates button and allow all your installed apps to be updated, including Phone Link if necessary.
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
 
@@ -82,6 +82,10 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
@@ -93,6 +97,10 @@ Screenshot by Lance Whitney/ZDNET
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -106,10 +114,6 @@ Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install Intel Unison
 
 To use Intel Unison, download and install the app from [the Microsoft Store](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26).
@@ -117,6 +121,10 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -130,10 +138,6 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -145,10 +149,6 @@ Screenshot by Lance Whitney/ZDNET
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -192,20 +192,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-insightful-analysis-of-modern-human-interaction-systems/"><u>[New] In 2024, Insightful Analysis of Modern Human Interaction Systems</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-step-by-step-techniques-for-recording-team-conversations/"><u>[Updated] 2024 Approved Step-by-Step Techniques for Recording Team Conversations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>[Updated] Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/15-top-reliability-software-tools-for-your-business-complimentary-and-paid-options/"><u>15 Top Reliability Software Tools for Your Business : Complimentary and Paid Options</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-realme-c67-4g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Realme C67 4G by Name | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/communicating-with-ai-the-importance-of-courteous-language/"><u>Communicating With AI: The Importance of Courteous Language</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/desde-caf-a-ogg-sin-costo-alguno-descubra-la-herramienta-de-conversion-gratuita-de-movavi/"><u>Desde CAF a OGG Sin Costo Alguno: Descubra La Herramienta De Conversión Gratuita De Movavi</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/expert-endorsed-srs-conversions-for-macwin-users/"><u>Expert-Endorsed SRS Conversions for Mac/Win Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuit-konvertisseur-en-ligne-pour-transferer-des-fichiers-de-rmvb-vers-mp4-movavi/"><u>Gratuit Konvertisseur en Ligne Pour Transférer Des Fichiers De RMVB Vers MP4 - Movavi</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-x-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone X or iPad?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-trasforma-immagini-pef-in-png-senza-costi-conversione-on-line-gratuita/"><u>Movavi: Trasforma Immagini PEF in PNG Senza Costi - Conversione On-Line Gratuita</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/online-guide-converting-fb-videos-to-mp4-at-hd-resolutions-for-free/"><u>Online Guide Converting FB Videos to MP4 at HD Resolutions for Free</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/os-melhores-programas-de-edicao-de-gif-em-2024-descober-os-14-mais-inovadores/"><u>Os Melhores Programas De Edição De GIF Em 2024: Descober Os 14 Mais Inovadores</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/survey-facebook-video-proportions-for-2024/"><u>Survey Facebook Video Proportions for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-3-metodi-di-conversione-da-wma-a-mp3-piu-efficace/"><u>Top 3 Metodi Di Conversione Da WMA a MP3 Più Efficace</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rom-concept-to-creation-crafting-youtube-video-splits/"><u>[New] From Concept to Creation Crafting YouTube Video Splits</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-a-hit-list-youtubes-way-for-fans/"><u>[Updated] Crafting a Hit-List Youtube's Way for Fans</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-transformation-of-windows-10-landscape-for-2024/"><u>[Updated] The Transformation of Windows 10 Landscape for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-impart-rotational-luminosity-modification-in-photoshopping/"><u>2024 Approved Impart Rotational Luminosity Modification in Photoshopping</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-inshot-unveiled-assessing-its-edge-over-other-editors/"><u>2024 Approved InShot Unveiled Assessing Its Edge Over Other Editors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-budget-screen-grabber-for-smartphones-for-2024/"><u>Best Budget Screen Grabber for Smartphones for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/do-it-yourself-rescue-plan-what-to-do-when-your-iphone-or-ipod-gets-soaked/"><u>Do-It-Yourself Rescue Plan: What To Do When Your iPhone or iPod Gets Soaked</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/icloud-photography-unleashed-accessing-pics-on-apple-windows-and-android-systems/"><u>ICloud Photography Unleashed: Accessing Pics on Apple, Windows & Android Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ideal-family-movie-selection-on-netflix-for-young-audiences/"><u>Ideal Family Movie Selection on Netflix for Young Audiences</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/low-cost-pc-unlock-with-ideal-obs-settings/"><u>Low-Cost PC - Unlock with Ideal OBS Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resurrecting-blacked-out-android-phones-a-step-by-step-guide/"><u>Resurrecting Blacked-Out Android Phones: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-ring-overview-discover-price-points-expected-launch-timeline-and-key-features/"><u>Samsung Galaxy Ring Overview: Discover Price Points, Expected Launch Timeline & Key Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-problem-of-unsuccessful-start-up-in-mozilla-thunderbird-a-comprehensive-guide/"><u>Solving the Problem of Unsuccessful Start-Up in Mozilla Thunderbird: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-accessing-fubotv-content-via-fire-stick/"><u>Step-by-Step Tutorial: Accessing FuboTV Content via Fire Stick</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-f14-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy F14 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 

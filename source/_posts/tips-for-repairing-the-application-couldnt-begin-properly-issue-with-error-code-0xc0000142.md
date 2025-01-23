@@ -1,7 +1,7 @@
 ---
 title: Tips for Repairing the 'Application Couldn't Begin Properly' Issue with Error Code 0xC0000142
-date: 2024-08-19T12:47:15.799Z
-updated: 2024-08-20T12:47:15.799Z
+date: 2025-01-18T16:00:24.180Z
+updated: 2025-01-23T00:26:05.239Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 3. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 4. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Uninstall conflicted programs
 
  esrv.exe file belongs to Sony Cooperation, but this problem is not related to Sony. Instead, it has a lot to do with Intel Driver Update Utility. So, the first suggestion is for you to uninstall it from your system.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
  1) On your keyboard, press**Windows logo key** and**R** at the same time. Type**control panel** in the search box and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859ba2c280.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) View by**Category** , and then choose**Uninstall a program** under Programs category.
 
@@ -46,9 +54,17 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59785a45779ea.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Uninstall** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59785a795f699.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then wait for the uninstall to finish.
 
@@ -82,21 +98,12 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 3: Repair system files
 
  The**0xc0000142 Error** blue screen of death error may be related to system files. When the system files were broken or corrupted, it may cause a Blue screen issue.
@@ -120,11 +127,17 @@ There are 2 ways to solve it. Here’s how:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -136,12 +149,13 @@ There are 2 ways to solve it. Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  4) Restart your computer to check the blue screen issue is fixed or not.
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
@@ -160,9 +174,6 @@ There are 2 ways to solve it. Here’s how:
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -180,8 +191,6 @@ There are 2 ways to solve it. Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +198,26 @@ There are 2 ways to solve it. Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-imovie-hacks-for-unique-and-memorable-youtube-openers/"><u>[Updated] 2024 Approved IMovie Hacks for Unique and Memorable YouTube Openers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-auditory-storytelling-at-a-high-level/"><u>[Updated] Auditory Storytelling at a High Level</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-elevate-mobile-photographic-quality-accessory-selection-guide/"><u>[Updated] In 2024, Elevate Mobile Photographic Quality Accessory Selection Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-behind-the-scenes-insider-knowledge-for-youtube-video-production/"><u>2024 Approved Behind the Scenes Insider Knowledge for YouTube Video Production</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mobilizing-audience-engagement-igtv-and-fb-synchronization/"><u>2024 Approved Mobilizing Audience Engagement IGTV and FB Synchronization</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-what-everyone-needs-to-know-about-asmr-videos/"><u>2024 Approved What Everyone Needs to Know About ASMR Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/clearing-space-how-to-uninstall-programs-on-a-samsung-smart-television/"><u>Clearing Space: How to Uninstall Programs on a Samsung Smart Television</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-and-excellent-title-tag-creators-for-search-optimization-discover-the-best-of-them/"><u>Free & Excellent Title Tag Creators for Search Optimization - Discover the Best of Them!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-13-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 13 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-iphones-premier-videography-tools/"><u>In 2024, IPhone's Premier Videography Tools</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/schritt-fur-schritt-anleitung-zum-loschen-und-zurucksetzen-deines-iphones/"><u>Schritt-Für-Schritt-Anleitung Zum Löschen Und Zurücksetzen Deines iPhones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-solution-resolving-your-magic-mouses-tracking-issue/"><u>Simple Solution: Resolving Your Magic Mouse's Tracking Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-issue-reactivating-roku-closed-captions-that-wont-display/"><u>Solving the Issue: Reactivating Roku Closed Captions That Won't Display</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-fire-stick-with-a-mobile-hotspot/"><u>Step-by-Step Guide: Setting Up Your Fire Stick with a Mobile Hotspot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-method-for-identifying-your-macbooks-configuration-details/"><u>The Ultimate Method for Identifying Your MacBook's Configuration Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-ranking-of-cutting-edge-smart-glasses/"><u>The Ultimate Ranking of Cutting-Edge Smart Glasses</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-modifying-your-chromecasts-interface-image/"><u>The Ultimate Tutorial on Modifying Your Chromecast's Interface Image</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-essentials-a-guide-to-making-the-right-choice-when-purchasing-your-first-smartwatch/"><u>Top 5 Essentials: A Guide to Making the Right Choice When Purchasing Your First Smartwatch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-wi-fi-security-the-most-recent-linksys-default-password-compilation-for-july-2024/"><u>Unlocking Wi-Fi Security: The Most Recent Linksys Default Password Compilation for July 2024</u></a></li>
+</ul></div>
 

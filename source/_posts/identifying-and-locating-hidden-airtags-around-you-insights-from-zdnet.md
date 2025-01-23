@@ -1,7 +1,7 @@
 ---
 title: Identifying and Locating Hidden AirTags Around You - Insights From ZDNet
-date: 2025-01-09T16:13:46.809Z
-updated: 2025-01-16T18:43:48.257Z
+date: 2025-01-21T22:36:41.250Z
+updated: 2025-01-22T18:01:12.965Z
 tags:
   - apple
 categories:
@@ -18,10 +18,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-compatible-with-apples-ios-18-and-which-ones-arent/)
@@ -31,6 +27,10 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -38,12 +38,16 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -53,10 +57,6 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -64,6 +64,10 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 **Figure 2**: Enabling Pages for iCloud Drive collaboration.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
 
@@ -75,6 +79,10 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -82,10 +90,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -104,10 +108,6 @@ Image: Jack Wallen
 Make sure to configure both the Who Can Access and Permission options. Here, you also decide how to share the document with your collaborators. Choose Email, Messages, Copy Link, AirDrop, or Twitter. 
 
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Stop sharing
 
@@ -149,18 +149,15 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-breakthrough-tactic-unleash-mac-with-apple-watch/"><u>[New] Breakthrough Tactic Unleash Mac with Apple Watch</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-insta-to-tik-connection/"><u>[New] Navigating the Insta-to-Tik Connection</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-cutting-edge-gaming-earpieces-for-youtubers-for-2024/"><u>[Updated] The Cutting-Edge Gaming Earpieces for YouTubers for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unveiling-the-premium-cost-free-screen-recording-tools-for-2024/"><u>[Updated] Unveiling the Premium, Cost-Free Screen Recording Tools for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-in-one-video-solutions-by-movavi-seamless-screen-camera-and-audio-recording-for-professionals/"><u>All-in-One Video Solutions by Movavi: Seamless Screen, Camera & Audio Recording for Professionals</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convertir-archivo-flv-a-formato-m4a-de-forma-gratuita-online-con-conversor-video/"><u>Convertir Archivo FLV a Formato M4A De Forma Gratuita Online Con Conversor Video</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-transformer-vos-idees-en-multimedia-facilement-grace-a-ses-outils-logiciels-de-creation/"><u>Movavi - Transformer Vos Idées en Multimédia Facilement Grâce À Ses Outils Logiciels De Création</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/optimal-selection-strategies-for-sony-xperia-mobile-compatibility-software/"><u>Optimal Selection Strategies for Sony Xperia Mobile Compatibility Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production/"><u>SDR Vs. HDR The Superiority of High Dynamic Range in Video Production</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/skjermbilde-med-lydopptagelse-under-windows-njunten-veien-til-4-forskjellige-metoder/"><u>Skjermbilde Med Lydopptagelse Under Windows Njunten - Veien Til 4 Forskjellige Metoder</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/take-to-the-skies-outdoors-in-depth-look-at-the-blade-blh4100-120-r-ready-to-fly-helicopter/"><u>Take to the Skies Outdoors: In-Depth Look at the Blade BLH4100 120 R Ready-to-Fly Helicopter</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-the-power-of-shortcuts-a-guide-to-reversing-non-responsive-keystrokes-in-windows-os/"><u>Unlock the Power of Shortcuts! A Guide to Reversing Non-Responsive Keystrokes in Windows OS</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/zwei-moglichkeiten-mit-einem-usb-laufwerk-bootende-windows-10-startup/"><u>Zwei Möglichkeiten, Mit Einem USB-Laufwerk Bootende Windows 10 Startup</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-from-basics-to-expertise-3d-lut-creation/"><u>[Updated] From Basics to Expertise 3D LUT Creation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-direct-slideshow-content-into-video-realm/"><u>2024 Approved Direct Slideshow Content Into Video Realm</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-gopro-hero5-captured-life-review/"><u>2024 Approved GoPro Hero5 Captured Life Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nokia-c12-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-productivity-with-slack-a-comprehensive-workplace-strategy/"><u>Boost Your Productivity with Slack: A Comprehensive Workplace Strategy</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-11-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-communication-top-rated-free-alternatives-to-skype/"><u>Mastering Communication: Top-Rated Free Alternatives to Skype</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/strategies-to-find-out-whos-watching-your-youtube-clips/"><u>Strategies to Find Out Who's Watching Your YouTube Clips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-guide-to-the-newly-released-samsung-galaxy-watch-7-pricing-specs-and-release-updates/"><u>The Comprehensive Guide to the Newly Released Samsung Galaxy Watch #7 - Pricing, Specs and Release Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-any-game-on-these-fantastic-free-sports-streamers-of-2024/"><u>Watch Any Game on These Fantastic Free Sports Streamers of 2024</u></a></li>
 </ul></div>
 

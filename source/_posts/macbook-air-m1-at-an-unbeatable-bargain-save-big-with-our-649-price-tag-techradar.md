@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air M1 at an Unbeatable Bargain: Save Big with Our $649 Price Tag! | TechRadar"
-date: 2025-01-13T02:11:05.097Z
-updated: 2025-01-16T19:59:40.219Z
+date: 2025-01-20T03:28:49.990Z
+updated: 2025-01-23T06:06:33.358Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,22 +81,24 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-techniques-for-successful-photo-background-alteration-on-fb/"><u>[New] 2024 Approved Techniques for Successful Photo Background Alteration on FB</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-augmented-reality-and-vr-navigating-2023s-content-on-android-for-2024/"><u>[New] Augmented Reality & VR Navigating 2023'S Content on Android for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-revealing-reasons-why-no-videos-pop-up-on-fb-feed-for-2024/"><u>[New] Revealing Reasons Why No Videos Pop Up on FB Feed for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-journey-through-creative-commons-a-users-guide/"><u>[Updated] 2024 Approved The Journey Through Creative Commons A User's Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movaviwav/"><u>「Movaviで簡単な無料オンラインWAVファイル変換方法」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028286638-dvd/"><u>懐かしいディスクのトラブルシューティング: DVDや古いビデオが再生不能になったときの解決策</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comment-choisir-le-meilleur-logiciel-de-sous-titrage-pour-vos-clips-video-en-2er-mois-2024/"><u>Comment Choisir Le Meilleur Logiciel De Sous-Titrage Pour Vos Clips Vidéo en 2Er Mois 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-analysis-of-iphone-n-series-smart-purchase-strategies-experts/"><u>Complete Analysis of iPhone N-Series - Smart Purchase Strategies Experts</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/craft-crisp-composites-online-with-top-frameer-tools/"><u>Craft Crisp Composites Online with Top Frameer Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/descarga-gratuita-para-convertir-archivos-rmvb-a-mpeg-rapida-y-facil-con-movavi/"><u>Descarga Gratuita Para Convertir Archivos RMVB a MPEG Rápida Y Fácil Con Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuito-conversor-para-formatos-mpeg-e-mp4-com-suporte-3gpp-online-pelo-movavi/"><u>Gratuito Conversor Para Formatos MPEG E MP4 Com Suporte 3GPP - Online Pelo Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/instantly-switch-your-dpx-photos-to-tiff-files-at-no-cost-using-our-web-tool/"><u>Instantly Switch Your DPX Photos to TIFF Files at No Cost Using Our Web Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/libera-tu-multimedia-transformacion-gratuita-swf-a-mkv-en-linea-mediante-movavi/"><u>Libera Tu Multimedia: Transformación Gratuita SWF a MKV en Línea Mediante Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/melhores-ferramentas-livres-para-adicionar-legendas-as-suas-videos-on-line-uma-visao-geral/"><u>Melhores Ferramentas Livres Para Adicionar Legendas Às Suas Vídeos On-Line: Uma Visão Geral</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-media-converter-free-secure-platform-for-transforming-flv-to-wmv-and-other-formats-on-the-go/"><u>Movavi Media Converter - Free, Secure Platform for Transforming FLV to WMV and Other Formats On-the-Go</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavis-complimentary-web-service-convert-audio-from-m4a-to-wma-file-type-easily/"><u>Movavi's Complimentary Web Service: Convert Audio From M4A to WMA File Type Easily</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-role-of-workspace-dynamics-in-employee-output-for-2024/"><u>The Role of Workspace Dynamics in Employee Output for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-edu-top-ten-inspiring-educational-content-yt/"><u>[New] 2024 Approved Edu-Top Ten Inspiring Educational Content YT</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-lowdown-on-instagrams-video-time-frame/"><u>[Updated] 2024 Approved The Lowdown on Instagram's Video Time Frame</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-youtubes-high-income-leader-of-all-time/"><u>[Updated] In 2024, YouTube's High Income Leader of All Time</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-spend-guide-to-the-best-ae-template-hits/"><u>2024 Approved No-Spend Guide to the Best AE Template Hits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipated-samsung-galaxy-z-flip-7-unveiling-price-predictions-and-launch-timeline-revealed/"><u>Anticipated Samsung Galaxy Z Flip 7 Unveiling - Price Predictions & Launch Timeline Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/capturing-content-with-confidence-winning-strategies-for-igtv-acquisition/"><u>Capturing Content with Confidence Winning Strategies for IGTV Acquisition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-address-and-resolve-a-500-internal-server-issue/"><u>Effective Strategies to Address and Resolve a 500 Internal Server Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-techniques-for-amplifying-your-xtwitter-audience-and-retaining-engagement/"><u>Effective Techniques for Amplifying Your X/Twitter Audience and Retaining Engagement</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-7-aspects-to-review-when-selecting-the-perfect-smart-tv-for-your-home/"><u>Essential 7 Aspects to Review When Selecting the Perfect Smart TV for Your Home</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-a-powerful-64-bit-video-editor-windows-8and10-included-for-2024/"><u>Get a Powerful 64-Bit Video Editor (Windows 8&10 Included) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-x3daudiodll-not-found-error-effectively-a-detailed-walkthrough/"><u>How to Fix 'X3DAudio.dll' Not Found Error Effectively – A Detailed Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-built-in-tools-to-capture-your-screen-on-a-compaq-device/"><u>How to Use Built-In Tools to Capture Your Screen on a Compaq Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-domain-safelisting-on-apples-mac-os-x-mail-app/"><u>Mastering the Art of Domain Safelisting on Apple's Mac OS X Mail App</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/superior-photo-data-resurrector/"><u>Superior Photo Data Resurrector</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tech-hack-wiring-three-screens-to-one-computer-a-comprehensive-guide/"><u>Tech Hack: Wiring Three Screens to One Computer - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722898062354-transforming-your-dorm-into-a-movie-hub-with-no-wires-needed/"><u>Transforming Your Dorm Into a Movie Hub with No Wires Needed!</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated 2024 Approved A Brief Review of CapCut Translate With Alternative</u></a></li>
 </ul></div>
 

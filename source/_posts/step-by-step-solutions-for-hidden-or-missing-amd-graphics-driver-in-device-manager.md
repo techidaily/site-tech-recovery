@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Hidden or Missing AMD Graphics Driver in Device Manager
-date: 2024-08-19T12:47:58.722Z
-updated: 2024-08-20T12:47:58.722Z
+date: 2025-01-20T20:36:13.285Z
+updated: 2025-01-22T20:01:53.331Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 
 It’s really annoying to phone calls from spammers and telemarketers. **If you want to block those unwanted phone calls but don’t know how to do it, you’ve come to the right place!** In this post, we’ll show you how to block phone calls on your iPhone or Android phone. After reading it, you should be able to do it on your own quickly and easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## To block unwanted calls
 
  Both iOS and Android have the built-in feature that allows you to block a specific phone number. With this feature, you don’t have to download and install any third party phone call blocking apps on your phone.
@@ -25,6 +29,10 @@ What operating system is running on your phone?
 
 * [**iOS**](https://tools.techidaily.com/drivereasy/download/)
 * [**Android**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### iOS (iPhone users)
 
@@ -47,14 +55,14 @@ What operating system is running on your phone?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-669.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Tap**Edit** on the upper-tight corner,then tap**the minus icon** next to the phone number you want to unblock. Tap**Unblock** to unblock this phone number.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-iPhone-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Android
 
 #### To block unwanted calls in Android
@@ -67,8 +75,9 @@ What operating system is running on your phone?
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-Android-phone.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### To unblock phone numbers
 
 You can follow the steps below to unblock a phone number:
@@ -78,16 +87,13 @@ You can follow the steps below to unblock a phone number:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-681.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Tap**the delete icon** next to the phone number to unblock it. Then tap**UNBLOCK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-683.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hopefully, you find this post helpful. If you have any suggestions or questions, you’re more than welcome to leave us a comment below.
 
 * [Android](https://tools.techidaily.com/drivereasy/download/)
@@ -99,8 +105,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +112,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-art-of-memetic-mastery/"><u>[Updated] 2024 Approved The Art of Memetic Mastery</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-comparing-streams-vimeo-versus-youtube/"><u>[Updated] In 2024, Comparing Streams Vimeo Versus YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-illuminating-imagery-mastering-three-key-insta-hits/"><u>2024 Approved Illuminating Imagery Mastering Three Key Insta Hits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-brief-journey-into-the-past-the-origins-and-growth-of-electric-vehicle-technology/"><u>A Brief Journey Into the Past: The Origins and Growth of Electric Vehicle Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-repairing-haldll-errors-in-windows-xp-systems/"><u>A Comprehensive Guide to Repairing Hal.dll Errors in Windows XP Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/definitive-fix-for-escape-from-tarkov-stability-end-pc-game-crashes-once-and-for-all-with-these-steps/"><u>Definitive Fix for 'Escape From Tarkov' Stability: End PC Game Crashes Once & For All with These Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-solutions-to-fix-line-distortions-in-samsung-tvs/"><u>DIY Solutions to Fix Line Distortions in Samsung TVs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-error-messages-when-your-computer-cant-find-wininetdll/"><u>Fixing Error Messages When Your Computer Can’t Find Wininet.dll</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-suite-of-business-plugins-and-slide-show-ideas/"><u>In 2024, Comprehensive Suite of Business Plugins and Slide Show Ideas</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-deciding-the-best-skype-audio-capture-of-2023/"><u>In 2024, Deciding the Best Skype Audio Capture of 2023</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone SE (2020)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-htc-u23-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 HTC U23 Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-through-apples-latest-ipad-software-enhancements-the-ultimate-guide/"><u>Navigate Through Apple's Latest iPad Software Enhancements – The Ultimate Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-listings-photoplustune-recording-software-innovations-for-2024/"><u>Prime Listings Photo+Tune Recording Software Innovations for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smart-savings-for-screen-enthusiasts-top-picks-in-affordable-home-theaters/"><u>Smart Savings for Screen Enthusiasts: Top Picks in Affordable Home Theaters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-guide-to-achieving-cinematic-motion-with-camtasia/"><u>The Ultimate Guide to Achieving Cinematic Motion with Camtasia</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-rectifying-connectivity-issues-with-skype/"><u>The Ultimate Guide to Rectifying Connectivity Issues with Skype</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resetting-your-newx-sign-in-key/"><u>Ultimate Guide: Resetting Your NewX Sign-In Key</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-fixing-the-common-504-gateway-error-code/"><u>Understanding & Fixing the Common 504 Gateway Error Code</u></a></li>
+</ul></div>
 

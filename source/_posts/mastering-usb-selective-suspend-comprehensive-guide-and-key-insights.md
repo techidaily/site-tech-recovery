@@ -1,7 +1,7 @@
 ---
 title: "Mastering USB Selective Suspend: Comprehensive Guide & Key Insights"
-date: 2024-08-19T12:46:55.744Z
-updated: 2024-08-20T12:46:55.744Z
+date: 2025-01-20T01:57:58.987Z
+updated: 2025-01-23T05:08:15.135Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
  **Way 4:[Creating a supervised account in Chrome](https://tools.techidaily.com/drivereasy/download/)**
  **Way 5:[Installing a parental control software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1: Using the Restricted sites feature in your Chrome settings
 
  The most direct way to block a website is to add it to the Restricted sites in your Chrome. This way requires no extra extension or third-party software.
@@ -38,6 +42,10 @@ It’s easy to set:
 1) Open Chrome on your computer.
 
 2) Click the more options button ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1b8c9677c43.png) on the top right of Chrome. Then select Settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1b8c82821d1.png)
 
@@ -57,6 +65,10 @@ It’s easy to set:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1b8f45b754e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7）Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1b93f2949ed.jpg)
@@ -64,6 +76,10 @@ It’s easy to set:
  8) Clear you browsing data on Chrome, then restart Chrome. You can’t access the website you set then.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b44f5ac0ac.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:**  Next time when you want to access the websites you’ve blocked, enter this Restricted sites window through the same step 1) -5), then click the site in the Websites box, and **Remove** .
 
@@ -96,8 +112,9 @@ Please follow these:
 **Note:**  Next time when you want to access the websites you’ve blocked, open your hosts file through the same step 1) -3) and delete the number and website.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Way 3: Adding an blocking-website extension in Chrome
 
  Another popular way to block websites is to add an extension in Chrome. Here we will show you how to add one of the blocking-website extension — Block site:
@@ -110,19 +127,17 @@ Please follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b4ed6848e4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Enter **block**  in the search box. Then click **ADD TO CHROME**  next to **Block site** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b4f49327d1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click **Add extension**  to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b507d2c323.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Back on the extension page and click **F5**  to reload the site. Then click **Options**  under **Block site** .
 
@@ -137,18 +152,13 @@ Please follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b5209700a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:**  Next time when you want to access the websites you’ve blocked, go to the Options of Block site, click the delete icon ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b5336754c9.png) next to the site.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2b52e7b43b7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to keep your children surfing safely, the following Way 4 and Way 5 are your best choice to own parental control on your children’s accounts.
 
 ## Way 4: Creating a supervised account in Chrome
@@ -163,31 +173,30 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df0c32bf9a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click **ADD PERSON** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df148651d9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  4) On the **Add person**  page, you can set the name for your kid’s Google account, and his profile image. Then tick on   **Supervise the person to control and view the websites then visit from your Google account**  and choose your Google account from the drop-down menu. Click **Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df1d9d52ea.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click **<www.chrome.com/manage>**  to manage the account you set.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df37f1fe13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Choose the account you set before and then **Manage** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df47e9043b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df4a827b6b.jpg)
 
  7) Enter the domain or the website address into the box and click**OK** .
@@ -195,8 +204,9 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df5cc48f43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  8) Rerun Chrome, and log in your kid’s account, he can’t access the website now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2df6b52a641.jpg)
@@ -213,8 +223,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +230,21 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ilm-assembly-station/"><u>[New] Film Assembly Station</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-diy-digital-storytelling-making-moving-pictures-on-your-smartphone/"><u>[New] In 2024, DIY Digital Storytelling Making Moving Pictures on Your Smartphone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-navigating-metaverse-marketing-landscapes/"><u>[New] Navigating Metaverse Marketing Landscapes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-show-entry-on-apple-media/"><u>[Updated] Streamline Your Show Entry on Apple Media</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-8-camera-stands-for-ultra-hd-shooting/"><u>2024 Approved Optimal 8 Camera Stands for Ultra-HD Shooting</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-innovations-behind-samsungs-brand-new-mobile-devices/"><u>Discover the Innovations Behind Samsung's Brand New Mobile Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-our-picked-selection-of-six-best-non-internet-translation-gadgets/"><u>Exploring Our Picked Selection of Six Best Non-Internet Translation Gadgets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-a-stubborn-amazon-echo-a-comprehensive-guide-to-reactive-responses/"><u>Fixing a Stubborn Amazon Echo: A Comprehensive Guide to Reactive Responses</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-building-your-own-youtube-organization-toolkit-the-watch-later-way/"><u>In 2024, Building Your Own YouTube Organization Toolkit The Watch Later Way</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-internet-connection-league-of-legends-on-windows/"><u>Mastering Internet Connection: League of Legends on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-options-the-ultimate-guide-to-choosing-the-finest-non-rooted-auto-clicker-apps-on-android/"><u>Navigating Through Options: The Ultimate Guide to Choosing the Finest Non-Rooted Auto Clicker Apps on Android</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-art-of-hidden-web-trails-in-top-browsers-like-chrome-edge-firefox-safari-and-opera/"><u>The Art of Hidden Web Trails in Top Browsers Like Chrome, Edge, Firefox, Safari, and Opera</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-insights-into-apples-upcoming-event-dates-confirmed-rumored-innovations-and-more/"><u>Unlocking Insights Into Apple's Upcoming Event – Dates Confirmed, Rumored Innovations & More</u></a></li>
+</ul></div>
 

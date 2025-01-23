@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Updating Kodi in Minutes"
-date: 2024-08-19T12:47:32.141Z
-updated: 2024-08-20T12:47:32.141Z
+date: 2025-01-17T07:55:07.227Z
+updated: 2025-01-23T06:58:21.317Z
 tags:
   - win11
   - win10
@@ -39,18 +39,27 @@ Easy Steps for PS4 Remote Play Android devices !
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5d9991ede53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check the box to**Enable Remote Play** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5d99baced20.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then you can successfully enable the remote play feature in your PS4.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Step 2: Download the remote play app in your Android device**
 
  After setting up the PS4 setting, you’ll need to configure settings in your Android device. First of all you need to download the application, and then you further set up the connection after installing the application. Follow the instructions below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Configure the settings in your Android device
 
@@ -60,14 +69,8 @@ Then you can successfully enable the remote play feature in your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5d6be6294fc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Now your Android device is allowed to download and install applications without the Google Store.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### 2\. Download and install the remote play application in your Android device
 
 **Note** : Please make sure that your Android device is**4.2 and above** .
@@ -82,10 +85,6 @@ Then you can successfully enable the remote play feature in your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5d6a5c0e1b0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  4)**Sign into your PlayStation account** in the application, then it will connect automatically.
 
  After successfully connected, you can stream the screen on your PS4 to your Android phone now, and you can see the screen in different views by rotating your phone.
@@ -93,8 +92,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If you have a DualShock controller, and you would like to manage your PS4 screen on the Android device by the controller, keep on reading the next step to set it up.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Step 3: Connect the PS4 controller with your Android device**
 
  After successfully connecting your Android device with your PS4, you can actually play the PS4 games on your Android device now. However, **playing games with your controller can bring you more excellent gaming experience** than a small mobile device screen! Check the instructions below to connect your PS4 controller with your Android device.
@@ -116,13 +116,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5dae28187b1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Find the**Wireless Controller** on the Bluetooth page in**Available devices** , tap the device to**connect** . (If you don’t see your PS4 controller in the available device section,**refresh** the page to search for the**nearby devices** , and select your controller to connect when it comes up.)
 
  4) After connected successfully, you will see your controller in the**Paired devices** section, and you can now manage your Android device with your PS4 controller.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Connect your PS4 controller to your Android device by the USB cable
 
  You can also try to connect with a**USB OTG cable** without rooting your Android. First of all, you will need a **[USB OTG cable like this one](https://www.amazon.com/UGREEN-Adapter-Samsung-Controller-Android/dp/B00N9S9Z0G/?tag=easeware-lillianlai-20)**  , which you can buy it from the Internet, such as on Amazon (find one with reasonable price and good reviews). You can buy it with only several dollars. Then you can start to set it up.
@@ -148,8 +149,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +156,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-high-dynamic-range-potentials-via-luminance/"><u>[New] Exploring High Dynamic Range Potentials via Luminance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-nailing-instagram-aesthetics-tips-for-video-dimensions/"><u>[New] Nailing Instagram Aesthetics Tips for Video Dimensions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-peak-summit-in-virtual-landscapes-for-2024/"><u>[Updated] Peak Summit in Virtual Landscapes for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-error-code-0x80224200d-on-windows-updates-a-step-by-step-fix-for-users/"><u>Bypassing Error Code 0X802^24200d on Windows Updates: A Step-by-Step Fix for Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-home-charging-solutions-for-electric-vehicles/"><u>Comprehensive Guide to Home Charging Solutions for Electric Vehicles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-shaky-flickering-screens-on-the-surface-pro-device/"><u>Diagnosing and Repairing Shaky, Flickering Screens on the Surface Pro Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminating-lameencdll-problems-to-ensure-smooth-audio-processing-in-audacity/"><u>Eliminating lame_enc.dll Problems to Ensure Smooth Audio Processing in Audacity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-legacy-of-yahoo-messenger-understanding-its-demise-and-impact-on-communication/"><u>Exploring the Legacy of Yahoo! Messenger: Understanding Its Demise and Impact on Communication</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-casting-content-from-chromecast-to-amazon-fire-tv/"><u>Guide: Casting Content From Chromecast to Amazon Fire TV</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-your-sluggish-wi-fi-a-step-by-step-guide/"><u>Solving Your Sluggish Wi-Fi: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-top-ebook-and-literature-apps-for-voracious-readers/"><u>The Complete Guide to Top eBook and Literature Apps for Voracious Readers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-alternatives-to-sns-hdr-in-a-crowded-space-for-2024/"><u>Unveiling Alternatives to SNS HDR in a Crowded Space for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210164021-9781646286690-words-thoughts-imaginations-and-inspirational-reading/"><u>Words, Thoughts, Imaginations, and Inspirational Reading | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-guide-to-selecting-a-superior-virtual-reality-headset-mobility-focused-or-connection-centric/"><u>Your Guide to Selecting a Superior Virtual Reality Headset Mobility-Focused or Connection-Centric?</u></a></li>
+</ul></div>
 

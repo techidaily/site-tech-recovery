@@ -1,7 +1,7 @@
 ---
 title: "Decoding Patch Tuesday: A Guide to Microsoft's Monthly Security Updates"
-date: 2024-08-19T15:16:03.624Z
-updated: 2024-08-20T15:16:03.624Z
+date: 2025-01-16T16:42:31.740Z
+updated: 2025-01-22T20:28:52.539Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding Patch Tuesday: A Guide to Microsoft's Monthly Security Updates"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 ## Decoding Patch Tuesday: A Guide to Microsoft's Monthly Security Updates
 
 Close 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  What to Know
 
@@ -33,9 +37,6 @@ Close
 
  If you're currently using Windows 8.1 but have not yet applied the Windows 8.1 Update package or updated to Windows 10 or Windows 11, you_must_ do so to continue to receive these important security patches! See our [ Windows 8.1 Update](https://www.lifewire.com/windows-8-1-update-2626250) piece for more on what this is and how to upgrade.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Do These Patch Tuesday Updates Do? 
 
  These patches from Microsoft update several individual files involved in making Windows and other Microsoft software work.
@@ -52,8 +53,9 @@ Close
  These files were determined by Microsoft to have security issues, meaning that they have "bugs" that could provide a means to do something malicious to your computer without your knowledge.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Do I Know If I Need These Security Updates? 
 
  You need these updates if you're running any supported edition of Microsoft's operating systems, 32-bit or 64-bit. This includes Windows 11 and Windows 10, plus supported Server versions of Windows.
@@ -69,8 +71,9 @@ Close
  In case you're curious: Windows 11 v22H2 support is slated to end on October 8, 2024; Windows 11 v23H2 support will end on November 11, 2025; and Windows 10 support will end on October 14, 2025.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Are There Any Non-Security Updates This Patch Tuesday? 
 
  Yes, a number of non-security updates are being made available for all supported versions of Windows including, as usual, this month's update to the Windows Malicious Software Removal Tool.
@@ -80,8 +83,9 @@ Close
  There may also be non-security updates included this month for Microsoft software other than Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Download Patch Tuesday Updates 
 
  In most situations, the best way to download patches on Patch Tuesday is via Windows Update. Only the updates you need will be listed and, unless you've configured Windows Update otherwise, will be downloaded and installed automatically.
@@ -93,9 +97,9 @@ Close
  Updates are typically not available to consumers for individual installation. When they are, or if you're a business or enterprise user, please know that most of these downloads come in a choice of [ 32-bit or 64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) versions. See[ Do I Have 32-bit or 64-bit Windows?](https://www.lifewire.com/am-i-running-a-32-bit-or-64-bit-version-of-windows-2624475) if you're not sure which downloads to choose.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Patch Tuesday Problems 
 
  While updates from Microsoft rarely result in widespread problems with Windows itself, they do frequently cause specific issues with software or drivers provided by other companies.
@@ -109,9 +113,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  See[ Windows Updates & Patch Tuesday FAQ](https://www.lifewire.com/windows-updates-patch-tuesday-faq-2625777) for answers to other common questions, including_"Does Microsoft test these updates before they push them out?"_ and _"Why hasn't Microsoft fixed the problem that their update caused on my computer?!"_ 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Patch Tuesday & Windows 11/10 
 
  Microsoft has publicly commented that beginning with Windows 10, they will no longer be pushing updates solely on Patch Tuesday, instead pushing them more frequently, essentially ending the idea of _Patch Tuesday_ altogether.
@@ -138,8 +139,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +146,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-perfecting-npc-details-with-zoom-in-on-roblox/"><u>[New] Perfecting NPC Details with Zoom In on Roblox</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-maximize-profitability-the-dos-and-donts-of-youtube-monetization/"><u>[Updated] In 2024, Maximize Profitability – The Do's and Don'ts of YouTube Monetization</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2593843-9781683250340-acuario/"><u>Acuario | Free Book</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tial-5-video-editing-software-excluding-youtube/"><u>Essential 5 Video Editing Software Excluding Youtube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-quick-face-blurring-on-picscroller/"><u>Mastering Quick Face-Blurring on PicScroller</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722858426850-power-up-your-phone-on-the-go-no-charger-needed/"><u>Power Up Your Phone on the Go: No Charger Needed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rediscovering-the-80s-a-guide-to-timeless-movies-you-need-to-see-today/"><u>Rediscovering the '80S: A Guide to Timeless Movies You Need to See Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/strategies-for-dealing-with-the-absent-d3dx927dll-library-on-your-pc/"><u>Strategies for Dealing with The Absent d3dx9_27.dll Library on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essentials-of-choosing-a-reliable-phone-network-company-explained/"><u>The Essentials of Choosing a Reliable Phone Network Company Explained</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-itel-s23plus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Itel S23+ Bypass FRP Tools for PC That Actually Work</u></a></li>
+</ul></div>
 

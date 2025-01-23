@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2025-01-10T16:59:51.560Z
-updated: 2025-01-17T02:02:02.089Z
+date: 2025-01-21T03:39:29.457Z
+updated: 2025-01-23T10:27:50.491Z
 tags:
   - apple
 categories:
@@ -26,19 +26,19 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -49,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -59,10 +59,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -81,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -97,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,22 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-next-level-editing-on-windows-top-videography-suites-revealed/"><u>[New] Next-Level Editing on Windows Top Videography Suites Revealed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reassessing-the-updates-to-sonys-s6500-bdhd-player/"><u>[Updated] Reassessing the Updates to Sony's S6500 BD/HD Player</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-attention-stirrer-supreme/"><u>2024 Approved Attention Stirrer Supreme</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-top-rated-apps-for-taking-screenshots-in-windows-8/"><u>2024 Approved Top-Rated Apps for Taking Screenshots in Windows 8</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726225817943-mp3wav-movavi/"><u>免費移動MP3到WAV - 使用Movavi 音頻轉換工具在線上進行</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mp4webm-movavi/"><u>網路直接無成本地轉換MP4成WEBM格式 - 使用 Movavi 上傳圖片</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convertir-wtv-a-mpeg-online-de-forma-gratuita-con-movavi/"><u>Convertir WTV a MPEG Online De Forma Gratuita Con Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/creating-your-own-youtube-intro-with-movavi-a-step-by-step-guide/"><u>Creating Your Own YouTube Intro with Movavi - A Step by Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exploring-everything-you-need-to-know-about-netflixs-top-tier-streaming-platform/"><u>Exploring Everything You Need to Know About Netflix's Top-Tier Streaming Platform</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/peace-and-power-the-10-greatest-yoga-channels-online/"><u>Find Peace & Power The 10 Greatest Yoga Channels Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-dpx-image-transformation-services-by-movavi/"><u>Free Online DPX Image Transformation Services by MOVAVI</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-online-ts-videoconverter-naar-mp4-professioneel-snel-en-efficient-met-movavi/"><u>Gratis Online Ts-Videoconverter Naar Mp4: Professioneel Snel en Efficiënt Met Movavi</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/premier-networks-for-your-personalized-watchlist-for-2024/"><u>Premier Networks for Your Personalized Watchlist for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/smoothly-blending-scenes-with-premieres-transitions-for-2024/"><u>Smoothly Blending Scenes with Premiere's Transitions for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformar-archivos-raw-en-imagenes-jpg-gratuitas-con-movavi/"><u>Transformar Archivos RAW en Imágenes JPG Gratuitas Con Movavi</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unravel-gamers-secrets-a-hands-on-exploration-of-philips-49-oled-monitor-with-a-curved-design/"><u>Unravel Gamers' Secrets: A Hands-On Exploration of Philips' 49 OLED Monitor with a Curved Design</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726225555863-mkv-aac-movavi/"><u>영구제 MKV을 AAC으로 바꾸기 - Movavi 서비스</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-20-must-have-mp4-devices-for-2024/"><u>[New] 20 Must-Have MP4 Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enhancing-engagement-streaming-historical-video-events-on-facebook/"><u>[New] 2024 Approved Enhancing Engagement Streaming Historical Video Events on Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-quest-for-perfection-topiary-angles-in-mobile-photography/"><u>[Updated] The Quest for Perfection Topiary Angles in Mobile Photography</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-guide-to-the-latest-tiktok-screen-art/"><u>2024 Approved Guide to the Latest TikTok Screen Art</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/best-no-cost-online-video-editing-tools-edit-your-videos-remotely-with-moveave/"><u>Best No-Cost Online Video Editing Tools - Edit Your Videos Remotely with Moveave</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-can-you-send-messages-through-messenger-without-owning-a-facebook-account/"><u>How Can You Send Messages Through Messenger Without Owning a Facebook Account?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-change-your-facebook-password/"><u>How to Change Your Facebook Password</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g23-bootloader-easily-by-drfone-android/"><u>How to Unlock Motorola Moto G23 Bootloader Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-motorola-moto-g-stylus-5g-2023-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Motorola Moto G Stylus 5G (2023) Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-mozilla-thunderbird-version-update-to-email-client-v52/"><u>Latest Mozilla Thunderbird Version: Update to Email Client V52</u></a></li>
+<li><a href="https://android-frp.techidaily.com/motorola-moto-g-stylus-5g-2023-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Motorola Moto G Stylus 5G (2023) ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/phone-lifecycle-decisions-is-it-time-for-an-upgrade-a-frequency-guide/"><u>Phone Lifecycle Decisions: Is It Time for an Upgrade? A Frequency Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-your-suspended-instagram-presence-tips-and-strategies-for-success/"><u>Reviving Your Suspended Instagram Presence: Tips and Strategies for Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-fixing-the-error-message-cannot-find-msvcr70dll-file/"><u>Step-by-Step Guide: Fixing the Error Message 'Cannot Find MSVCR70.DLL File'</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-methods-for-accelerating-your-pcs-performance/"><u>Top 7 Methods for Accelerating Your PC's Performance</u></a></li>
 </ul></div>
 

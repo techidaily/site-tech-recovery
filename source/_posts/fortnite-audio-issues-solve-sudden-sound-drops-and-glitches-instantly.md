@@ -1,7 +1,7 @@
 ---
 title: Fortnite Audio Issues? Solve Sudden Sound Drops and Glitches Instantly
-date: 2024-08-19T12:50:18.984Z
-updated: 2024-08-20T12:50:18.984Z
+date: 2025-01-18T01:59:23.487Z
+updated: 2025-01-23T05:54:54.413Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 ## Fortnite Audio Issues? Solve Sudden Sound Drops and Glitches Instantly
 
 With **[Fortnite](https://www.epicgames.com/store/en-US/p/fortnite?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=fn)**  new season available, players have so much fun completing a mission in exchange for some bars. But when the audio is delayed or cutting out, it definitely affects the gameplay. To help rule out the causes, we’ve gathered some fixes in this post.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,10 +47,18 @@ Here’s how:
 
 ![sound control panel](https://images.drivereasy.com/wp-content/uploads/2020/12/sound-control-panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the**Playback** tab, double-click on the speaker you’re currently using.  
  (Or you can choose the device and then click**Properties** .)  
   
 ![speaker priority](https://images.drivereasy.com/wp-content/uploads/2020/12/double-click-on-the-speaker.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the Properties window, select the**Enhancements** tab. Then check the option**Disable all enhancements** .  
   
@@ -56,38 +68,24 @@ Here’s how:
   
 ![default format](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-tab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, simply click**Apply > OK** . This should reduce audio dropouts. If it didn’t help you solve the issue, proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your audio driver
 
  The audio issue in your game may indicate that you’re using an audio driver that is out of date. If you can’t remember when was the last time you updated your drivers, then definitely do it now as this would fix your issue right away.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [**automatically**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Manually update your audio driver
 
  You can update your audio driver manually via Device Manager or go to your device’s manufacturer’s official website to download and install the correct driver for your system.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your audio driver (recommended)
 
  Updating drivers manually can be time-consuming because you need to find out the correct driver corresponding with your system. So if you are not comfortable doing this on your own, we recommend **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  as your great pick.
@@ -107,9 +105,6 @@ Here’s how it works:
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/click-update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drives, restart your computer for them to take effects. Then you can play your game and test if updating drivers helps you fix the issue.
@@ -128,6 +123,10 @@ Here’s how it works:
   
 ![launch Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/launch.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ## Fix 4: Disable fullscreen optimizations & high DPI scaling
@@ -140,39 +139,34 @@ Here’s how it works:
   
 ![disable fullscreen optimizations Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-fullscreen-optimiztions.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  3) Select the tab**Compatibility** tab. Check the option**Disable fullscreen optimizations** . Then click**Change high DPI settings** .  
   
 ![disable fullscreen optimizations Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/check-disable-fullscreen-optimizations.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Check the option**Override high DPI scaling behavior** and then click**OK** .  
   
 ![disable high DPI scaling Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-high-DPI-scaling-behaviro.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Click**Apply > OK** to save the changes.  
   
 ![save the changes](https://images.drivereasy.com/wp-content/uploads/2020/12/apply-the-changes.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now do the same with**FortniteClient-Win64-Shipping\_BE** ,**FortniteClient-Win64-Shipping\_EAC** and**FortniteLauncher** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/do-the-same-with-these-applications.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
 ## Fix 5: Set priority to normal
@@ -211,15 +205,14 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/accept.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -228,4 +221,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-on-maximizing-adobes-cloud-storage-capabilities-and-top-contenders/"><u>[New] Expert Tips on Maximizing Adobe's Cloud Storage Capabilities and Top Contenders</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-art-of-video-edits-easy-techniques-on-your-windows-pc/"><u>[New] In 2024, The Art of Video Edits Easy Techniques on Your Windows PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-diving-into-samsung-galaxy-s8-the-ultra-hd-milestone-for-2024/"><u>[Updated] Diving Into Samsung Galaxy S8 The Ultra HD Milestone for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-instant-impact-facebook-vids/"><u>[Updated] Instant Impact Facebook Vids</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-photo-perfection-on-snapchat-for-2024/"><u>[Updated] The Ultimate Guide to Photo Perfection on Snapchat for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-the-art-of-emoji-inclusion-in-discord-user-statements/"><u>2024 Approved Mastering the Art of Emoji Inclusion in Discord User Statements</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-wi-fi-mesh-systems-a-smart-choice/"><u>Are Wi-Fi Mesh Systems a Smart Choice?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-7-kid-friendly-internet-games-to-keep-young-minds-busy/"><u>Best 7 Kid-Friendly Internet Games to Keep Young Minds Busy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-and-installing-different-browsers-for-samsung-televisions-an-in-depth-guide/"><u>Choosing And Installing Different Browsers For Samsung Televisions: An In-Depth Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-on-converting-multiple-jpeg-photos-into-one-pdf-document/"><u>Comprehensive Tutorial on Converting Multiple JPEG Photos Into One PDF Document</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-frozen-or-non-responsive-programs-on-mac-computers-quickly-and-easily/"><u>Fixing Frozen or Non-Responsive Programs on Mac Computers Quickly and Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/improve-productivity-by-setting-up-advanced-rules-in-gmail/"><u>Improve Productivity by Setting Up Advanced Rules in Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-your-smartphones-protective-tempered-glass/"><u>Step-by-Step Guide: Removing Your Smartphone's Protective Tempered Glass</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-hide-subtitle-feature-on-prime-video-platform/"><u>Steps to Hide Subtitle Feature on Prime Video Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-beginners-handbook-for-convenient-cashless-transactions-with-apple-pay-on-an-apple-watch/"><u>The Beginner's Handbook for Convenient Cashless Transactions with Apple Pay on an Apple Watch</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ultimate-guide-igniting-video-visionaries-in-your-channel/"><u>Ultimate Guide Igniting Video Visionaries in Your Channel</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+</ul></div>
 

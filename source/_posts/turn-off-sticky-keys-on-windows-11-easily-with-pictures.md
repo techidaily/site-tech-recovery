@@ -1,7 +1,7 @@
 ---
 title: Turn Off Sticky Keys on Windows 11 Easily [with Pictures]
-date: 2024-08-19T12:48:06.416Z
-updated: 2024-08-20T12:48:06.416Z
+date: 2025-01-20T08:11:13.386Z
+updated: 2025-01-23T02:02:57.396Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 
  DirectX is a set of drivers in Windows. It allows software, especially video games work directly, also well with your video and audio card in an ideal state. In other words, it ensures an improved video and audio performance when you’re playing video games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I install the latest version of DirectX on Windows 11 and 10?
 
  It’s easy to install the latest version of DirectX on Windows 11 an Windows 10: there is no stand-alone package for DirectX in Windows 11 and Windows 10 because the updates are available through Windows Update.
@@ -37,16 +41,26 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 
  If you’re not sure if you have the latest version of DirectX on your Windows 10,[**check it before the installation**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### On Windows 10
 
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 3. You should then have the latest version of DirectX on your Windows 10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -54,20 +68,14 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### You can check the version of DirectX in this way
 
 1. Type **dxdiag**  in the search box and click **dxdiag**  from the result.  
@@ -76,8 +84,9 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b6562e5bfd8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bonus tip for improving visual and audio performance
 
  To improve your visual and audio performance on your Windows 10, you not only should have the latest version of DirectX, but also should keep your video and audio cards driver up-to-date. You can download the latest drivers from your computer manufacturer’s website.
@@ -92,16 +101,10 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -113,8 +116,6 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +123,22 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-the-fundamentals-of-youtube-video-archiving/"><u>[New] The Fundamentals of YouTube Video Archiving</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-rotation-simplified-techniques-for-any-degree-updated-edition-for-2024/"><u>[New] YouTube Rotation Simplified Techniques for Any Degree [Updated Edition] for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unleash-creativity-ranked-free-drawing-apps-for-mac-for-2024/"><u>[Updated] Unleash Creativity Ranked FREE Drawing Apps for Mac for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-autoplay-on-apple-music-a-step-by-step-guide/"><u>Disabling Autoplay on Apple Music: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-your-viewing-experience-ultimate-setup-for-samsungs-4k-tv-screen/"><u>Enhancing Your Viewing Experience: Ultimate Setup for Samsung's 4K TV Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-why-your-iphone-might-ignore-calls-and-how-to-solve-it/"><u>Essential Troubleshooting Steps: Why Your iPhone Might Ignore Calls & How To Solve It</u></a></li>
+<li><a href="https://some-tips.techidaily.com/highly-sought-after-expertise-in-open-source-and-linux-thrives-amidst-challenging-economic-times-insights-from-zdnet/"><u>Highly Sought-After: Expertise in Open Source & Linux Thrives Amidst Challenging Economic Times - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-stop-0x00000078-phase0exception/"><u>How to Fix STOP 0X00000078 (PHASE0_EXCEPTION)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-make-an-apple-genius-bar-appointment/"><u>How to Make an Apple Genius Bar Appointment</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-reverse-image-syndrome-explaining-sideways-ig-vids/"><u>In 2024, Reverse Image Syndrome Explaining Sideways IG Vids</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-15-reactivation-steps-a-step-by-step-walkthrough/"><u>IPhone 15 Reactivation Steps: A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-the-art-of-profile-video-lure-for-2024/"><u>Mastering the Art of Profile Video Lure for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/micromobility-insights-key-dates-latest-updates-buzz-and-more/"><u>Micromobility Insights: Key Dates, Latest Updates, Buzz & More</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-approach-to-correcting-ftd2xxdll-error-not-found-issues-on-windows/"><u>The Comprehensive Approach to Correcting 'ftd2XX.dll' Error Not Found Issues on Windows</u></a></li>
+</ul></div>
 

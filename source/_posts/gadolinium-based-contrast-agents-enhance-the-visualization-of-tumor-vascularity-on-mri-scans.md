@@ -1,7 +1,7 @@
 ---
 title: Gadolinium-Based Contrast Agents Enhance the Visualization of Tumor Vascularity on MRI Scans.
-date: 2025-01-14T19:22:31.888Z
-updated: 2025-01-16T22:47:51.904Z
+date: 2025-01-18T17:24:10.045Z
+updated: 2025-01-22T22:17:57.533Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,20 +129,15 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-elite-corporate-space-for-secure-storage/"><u>[New] In 2024, Elite Corporate Space for Secure Storage</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-leverage-online-platform-features-to-spread-your-music/"><u>[New] In 2024, Leverage Online Platform Features to Spread Your Music</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-through-the-best-of-iphones-virtual-reality-games/"><u>2024 Approved Navigate Through The Best of iPhone's Virtual Reality Games</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-12-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 12</u></a></li>
-<li><a href="https://facebook.techidaily.com/improving-loading-performance-of-facebook-alertsposts/"><u>Improving Loading Performance of Facebook Alerts/Posts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/melhores-ferramentas-de-edicao-de-videos-para-sistemas-operacionais-windows-no-ano-de-2-surveys/"><u>Melhores Ferramentas De Edição De Vídeos Para Sistemas Operacionais Windows No Ano De 2 Surveys</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-mov-to-m4r-file-converter-by-movavi-quick-and-easy-upload-method-no-cost-involved/"><u>Online MOV to M4R File Converter by Movavi - Quick & Easy Upload Method, No Cost Involved</u></a></li>
-<li><a href="https://windows11.techidaily.com/redefining-phones-role-in-windows-11-networking/"><u>Redefining Phones' Role in Windows 11 Networking</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m34-5g-video-recovery-recover-deleted-videos-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-video/"><u>Samsung Galaxy M34 5G Video Recovery - Recover Deleted Videos from Samsung Galaxy M34 5G</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-effective-screen-recording-with-tunefab-for-2024/"><u>The Ultimate Guide to Effective Screen Recording with Tunefab for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformer-un-fichier-dpx-en-gif-gratuitement-en-ligne-avec-convertpix/"><u>Transformer Un Fichier DPX en GIF Gratuitement en Ligne Avec Convertpix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-amazon-prime-subtitle-issues-a-step-by-step-guide/"><u>Troubleshooting Amazon Prime Subtitle Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-rolling-shutter-phenomenon-explained-a-complete-movavi-walkthrough/"><u>Ultimate Rolling Shutter Phenomenon Explained - A Complete Movavi Walkthrough</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wmv-to-aac-on/"><u>WMV to AAC 무료 변환 소프트웨어: Onラインでの 가장 유용한 도구</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ogv/"><u>자동 OGV 영상을 무료 원위 프리커스로 변환하는 방법</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-tech-savvy-strategies-recording-gotomeeting-on-any-gear/"><u>[New] Tech-Savvy Strategies Recording GoToMeeting on Any Gear</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-perfect-blur-techniques-for-smoother-photo-edits/"><u>[Updated] The Perfect Blur Techniques for Smoother Photo Edits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-altering-the-color-scheme-of-mac-os-x-folders/"><u>Comprehensive Tutorial: Altering the Color Scheme of Mac OS X Folders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/getting-started-with-azures-speech-to-text-feature/"><u>Getting Started with Azure's Speech-to-Text Feature</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-narzo-60-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme Narzo 60 5GFRP Lock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-gmail-the-ultimate-tutorial-on-crafting-your-email-alternative-address/"><u>Mastering Gmail: The Ultimate Tutorial on Crafting Your Email Alternative Address</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/nw-a35-walkman-praised-for-excellence/"><u>NW-A35 Walkman Praised for Excellence</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pro-gear-for-documenting-excursions/"><u>Pro Gear for Documenting Excursions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-streaming-issues-how-to-get-your-netflix-up-and-running-again-on-roku/"><u>Resolving Streaming Issues: How to Get Your Netflix Up and Running Again on Roku</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-capabilities-of-artificprise-intelligence-at-meta/"><u>Unveiling the Capabilities of Artificprise Intelligence at Meta</u></a></li>
 </ul></div>
 

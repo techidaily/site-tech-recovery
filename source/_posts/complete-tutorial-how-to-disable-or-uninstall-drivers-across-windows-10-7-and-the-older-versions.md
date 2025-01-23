@@ -1,7 +1,7 @@
 ---
 title: "Complete Tutorial: How to Disable or Uninstall Drivers Across Windows 10, 7 & The Older Versions"
-date: 2024-08-19T12:47:25.353Z
-updated: 2024-08-20T12:47:25.353Z
+date: 2025-01-18T21:41:31.285Z
+updated: 2025-01-22T21:28:33.153Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ Here’s how:
 6. Type the new name into the New account name box, then click**Change Name** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bcf06209d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You’ll then see your account shows with the new name.
 
 ---
@@ -63,27 +67,27 @@ Here’s how you can do that:
 2. Type**lusrmgr.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bdd824bcc.png)
 3. You’ll then see the Local Users and Groups window. Click**User** then double-click the user account which you want to rename.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be388d040.jpg)
 4. Type the new name in the**Full name** box. Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be8b0ca2a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 The new name is set successfully.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Change your user account name in Settings
 
  If you log in your Windows 10 computer with a**Microsoft account** , you can change your account name in Settings. Go with these following steps:
@@ -92,21 +96,22 @@ The new name is set successfully.
 2. Click**Accounts** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bf52c64f4.jpg)
 3. Click **Manage my Microsoft account** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c071b4eb6.jpg)
 4. On the open page, click the drop-down menu of**More options** under your Microsoft account. Then select**Edit Profile** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c0d63158a.jpg)
 5. Click**Edit name** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c10a51997.png)
 6. Type the new name into the box and enter the characters you see for verification. Then click**Save** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Please note that this will change the account name of your Microsoft account.
 
 The new account name of your Windows 10 computer is set successfully.
@@ -123,8 +128,6 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +135,26 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-explore-our-1-ranked-facebook-video-downloading-apps-for-ios/"><u>[New] 2024 Approved Explore Our #1 Ranked Facebook Video Downloading Apps for iOS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-profits-soar-the-secrets-to-successful-youtube-monetization/"><u>[Updated] 2024 Approved Channel Profits Soar The Secrets to Successful YouTube Monetization</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-fbx-gaming-record-your-adventure/"><u>[Updated] In 2024, FBX Gaming Record Your Adventure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-review-of-snappy-driver-installer-version-113-for-automatic-drivers-updates/"><u>Comprehensive Review of Snappy Driver Installer Version 1.13 for Automatic Drivers Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-battle-between-neo-qled-and-oled-displays-key-insights/"><u>Decoding the Battle Between Neo QLED and OLED Displays: Key Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/expert-tips-on-mastering-facetime-call-documentation-techniques-for-2024/"><u>Expert Tips on Mastering FaceTime Call Documentation Techniques for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-solving-error-code-43-in-programming/"><u>Expert Tips on Solving Error Code 43 in Programming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-alternatives-seven-compelling-reasons-to-steer-clear-of-generative-ai-in-message-services/"><u>Exploring Alternatives: Seven Compelling Reasons to Steer Clear of Generative AI in Message Services</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/galaxy-buds-ebt-3-pro-orders-halted-defective-eartips-the-cause-of-setbacks/"><u>Galaxy Buds Ebt 3 Pro Orders Halted: Defective Eartips the Cause of Setbacks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-samsung-960-evo-nvme-ssd-drivers-on-your-windows-pc/"><u>How to Install Samsung 960 EVO NVMe SSD Drivers on Your Windows PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-conquering-gameplay-logic-from-console-to-computer-playback/"><u>In 2024, Conquering Gameplay Logic From Console to Computer Playback</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-video-production-pro-tips-incorporating-audio-into-youtube-content/"><u>In 2024, Video Production Pro Tips Incorporating Audio Into YouTube Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-users-rejoice-how-to-keep-private-numbers-off-your-phone/"><u>IPhone Users Rejoice: How to Keep Private Numbers Off Your Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-voice-commands-instructions-for-activating-siris-reading-feature/"><u>Mastering Voice Commands: Instructions for Activating Siri's Reading Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-common-game-and-graphics-library-dll-errors-microsoft-directx-and-directinput-explained/"><u>Overcoming Common Game and Graphics Library Dll Errors: Microsoft DirectX and DirectInput Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pc-integration-with-playstation-vr-detailed-walkthrough/"><u>PC Integration with PlayStation VR: Detailed Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stay-informed-on-playstation-5-slim-release-date-announcements-competitive-pricing-and-detailed-tech-overview/"><u>Stay Informed on PlayStation 5 Slim: Release Date Announcements, Competitive Pricing & Detailed Tech Overview</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unboxing-amazon-luna-a-breakdown-of-its-remarkably-smooth-streaming-capabilities/"><u>Unboxing Amazon Luna: A Breakdown of Its Remarkably Smooth Streaming Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-disneys-magic-on-the-big-screen-connecting-disneyplus-with-chromecast-made-easy/"><u>Watch Disney's Magic on the Big Screen: Connecting Disney+ with Chromecast Made Easy</u></a></li>
+</ul></div>
 

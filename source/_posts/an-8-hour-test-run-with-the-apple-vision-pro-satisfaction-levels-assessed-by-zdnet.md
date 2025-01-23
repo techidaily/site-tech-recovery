@@ -1,7 +1,7 @@
 ---
 title: "An 8-Hour Test Run with the Apple Vision Pro: Satisfaction Levels Assessed by ZDNet"
-date: 2025-01-13T18:27:05.233Z
-updated: 2025-01-16T18:06:38.473Z
+date: 2025-01-16T09:14:28.107Z
+updated: 2025-01-23T00:31:13.525Z
 tags:
   - apple
 categories:
@@ -26,13 +26,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -50,10 +50,6 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. View the initial Check In notification
 
 The recipient receives a notification alerting them that you sent them a Check In with a specific time. After tapping OK, the recipient is asked if they want to allow critical alerts, which they should do. A text message then displays the time when they'll receive the alert that you reached your destination.
@@ -70,19 +66,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -94,11 +82,19 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -109,7 +105,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -117,6 +113,10 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,18 +154,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-copyright-compliance-and-photovideo-sharing/"><u>[New] 2024 Approved Copyright Compliance & Photo/Video Sharing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-your-free-guide-to-android-device-screenshots/"><u>[Updated] Your FREE Guide to Android Device Screenshots</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-the-complete-guide-to-netflix-screen-capture-discover-six-efficient-ways-on-macos/"><u>2024 Approved The Complete Guide to Netflix Screen Capture - Discover Six Efficient Ways on macOS</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/affordable-tunes-for-students-securing-a-lower-price-on-apple-music-with-ease/"><u>Affordable Tunes for Students: Securing a Lower Price on Apple Music with Ease!</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-onedrive-placement-in-microsoft-windows-11/"><u>Customize OneDrive Placement in Microsoft Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/delving-into-wwdc-the-freshly-uncovered-features-of-new-visionos-2-that-have-us-enthusiastic-and-intrigued-news/"><u>Delving Into WWDC: The Freshly Uncovered Features of New VisionOS 2 That Have Us Enthusiastic & Intrigued News</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-upgrades-in-apples-airpods-4-comprehensive-guide-to-distinguish-between-models/"><u>Exploring The Upgrades in Apple's AirPods 4: Comprehensive Guide to Distinguish Between Models</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-learn-how-to-create-compelling-youtube-closures-economically/"><u>In 2024, Learn How To Create Compelling YouTube Closures Economically</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-unleashing-time-management-mastery-with-zero-cost-clocks/"><u>In 2024, Unleashing Time Management Mastery with Zero Cost Clocks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/infinix-hot-40-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Infinix Hot 40 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/microsofts-leap-with-arm-architecture-can-it-surpass-apples-m1-in-computing-power/"><u>Microsoft's Leap with ARM Architecture: Can It Surpass Apple's M1 in Computing Power?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-ai-powered-coding-with-chatgpt-capabilities-and-limitations/"><u>Unlocking AI-Powered Coding with ChatGPT: Capabilities & Limitations</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-slowly-fading-the-beat-a-pro-guide-for-audio-easing-for-2024/"><u>[New] Slowly Fading the Beat A Pro Guide for Audio Easing for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-ways-to-watch-facebook-live-on-tv/"><u>[Updated] 2024 Approved Ways To Watch Facebook Live On TV</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-creating-a-calm-sequence-the-art-of-reducing-sound-in-pp/"><u>[Updated] Creating a Calm Sequence The Art of Reducing Sound in PP</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exclusive-list-of-the-top-10-digital-recording-apps-for-2024/"><u>[Updated] Exclusive List of the Top 10 Digital Recording Apps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/aiwindows-mac10/"><u>最佳自由開源的線上AI影像加強工具，Windows 及 Mac選項10款</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-ringtones-roundup-essential-sites/"><u>Best Ringtones Roundup Essential Sites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-the-basics-of-bass-control-in-audio-setups/"><u>Demystifying the Basics of Bass Control in Audio Setups</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhanced-web-analytics-with-cookiebot-technology/"><u>Enhanced Web Analytics with Cookiebot Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-selection-of-vr-for-drone-pilots-for-2024/"><u>Exclusive Selection of VR for Drone Pilots for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-dvr-technology-for-home-entertainment/"><u>Exploring the World of DVR Technology for Home Entertainment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-your-house-painting-process-using-these-innovative-applications/"><u>Streamline Your House Painting Process Using These Innovative Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-how-to-correctly-address-a-401-unauthorized-error/"><u>Unlocking the Secrets: How to Correctly Address a 401 Unauthorized Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-are-memes-and-how-do-they-shape-online-humor/"><u>What Are Memes and How Do They Shape Online Humor?</u></a></li>
 </ul></div>
 

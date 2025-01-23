@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Insights on Pros and Cons From ZDNet Editors
-date: 2025-01-10T23:52:25.241Z
-updated: 2025-01-17T03:46:19.319Z
+date: 2025-01-16T21:49:59.886Z
+updated: 2025-01-23T09:32:13.296Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,24 +124,16 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unleashing-time-management-mastery-with-zero-cost-clocks/"><u>[New] Unleashing Time Management Mastery with Zero Cost Clocks</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-listenlogic-evaluating-alternatives-to-dacast/"><u>[Updated] 2024 Approved ListenLogic Evaluating Alternatives to DaCast</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-rapid-learning-path-for-keying-mastery/"><u>[Updated] 2024 Approved Rapid Learning Path for Keying Mastery</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-brilliant-question-bank-to-entice-audio-enthusiasts/"><u>[Updated] Brilliant Question Bank to Entice Audio Enthusiasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rawjpegmovavi/"><u>無限量移動 - 電子郵件短信RAW為JPEG自由轉換Movavi工具</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/best-source-to-download-safe-and-updated-sades-headset-drivers-for-your-windows-pc/"><u>Best Source to Download Safe & Updated Sades Headset Drivers for Your Windows PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-gratuite-de-fichiers-orf-a-jpeg-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichiers ORF À JPEG en Ligne – Avec Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-converter-change-vob-files-into-wma-format-with-ease-movavi/"><u>Free Online Converter: Change VOB Files Into WMA Format with Ease - Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-intel-thunderbolt-controller-software-instantly-free-download/"><u>Get the Latest Intel Thunderbolt Controller Software Instantly – Free Download</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mov-m4amovavi/"><u>MOV から M4Aへ簡単変換：無料オンラインツール集【MOVAVI】</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavis-cost-free-online-tool-for-changing-mp3-files-into-ogv-format/"><u>Movavi's Cost-Free Online Tool for Changing MP3 Files Into OGV Format</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-free-conversion-of-mov-zu-flac-professionelle-dienstleistung-von-movavi/"><u>Online FREE Conversion of MOV Zu FLAC - Professionelle Dienstleistung Von Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/os-mais-incriveis-modelos-de-photocollage-on-line-gratuitos-aperfeicoar-sua-presenca-digital/"><u>Os Mais Incriveis Modelos De Photocollage On-Line Gratuitos – Aperfeiçoar Sua Presença Digital</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/prevent-social-discomfort-block-options-for-2024/"><u>Prevent Social Discomfort Block Options for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamline-your-screen-share-with-enhanced-zoom-on-google-meet/"><u>Streamline Your Screen Share with Enhanced Zoom on Google Meet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transform-avi-into-mjpeg-for-free-with-online-movieconversion-movavi/"><u>Transform AVI Into MJPEG for Free with Online MovieConversion - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/verslindige-momente-jpeg-bestanden-omzetten-in-omb-zonder-belemmeringen-de-expertise-van-movavi/"><u>Verslindige Momente: JPEG-Bestanden Omzetten in OMB, Zonder Belemmeringen - De Expertise Van Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cross-generation-gaming-can-you-enjoy-your-ps4-collection-on-a-ps5/"><u>Cross-Generation Gaming: Can You Enjoy Your PS4 Collection on a PS5?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-digital-presence-best-ways-to-utilize-zoom-changer/"><u>Elevate Your Digital Presence Best Ways to Utilize Zoom Changer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-clues-for-identifying-an-iphone-affected-by-water/"><u>Essential Clues for Identifying an iPhone Affected by Water</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-picks-best-key-discovery-gadgets-of-the-year-2024/"><u>Expert Picks: Best Key Discovery Gadgets of the Year 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/finding-the-right-balance-how-many-years-do-you-keep-your-mobile-device/"><u>Finding the Right Balance: How Many Years Do You Keep Your Mobile Device?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-wacom-intuos-graphics-tablet-drivers-free-download/"><u>Get the Latest Wacom Intuos Graphics Tablet Drivers – Free Download</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-discover-hidden-treasures-how-to-find-exquisite-instagram-tunes-and-create-noteworthy-chimes/"><u>In 2024, Discover Hidden Treasures How to Find Exquisite Instagram Tunes & Create Noteworthy Chimes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/our-10-favorite-cooking-shows-on-netflix/"><u>Our 10 Favorite Cooking Shows on Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-to-remove-captions-on-amazon-prime-video/"><u>Step-by-Step Instructions to Remove Captions on Amazon Prime Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-voice-modification-tools-essential-choices-for-vtuber-creators-for-2024/"><u>Top Voice Modification Tools Essential Choices for VTuber Creators for 2024</u></a></li>
 </ul></div>
 

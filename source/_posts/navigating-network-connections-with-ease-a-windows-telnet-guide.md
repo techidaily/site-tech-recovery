@@ -1,7 +1,7 @@
 ---
 title: Navigating Network Connections with Ease - A Windows Telnet Guide
-date: 2024-08-19T15:17:28.730Z
-updated: 2024-08-20T15:17:28.730Z
+date: 2025-01-16T05:18:24.250Z
+updated: 2025-01-23T08:29:22.384Z
 categories:
   - BestProducts
 description: This Article Describes Navigating Network Connections with Ease - A Windows Telnet Guide
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 ---
 
 ## Navigating Network Connections with Ease - A Windows Telnet Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Search**Control Panel** for**features** and then click**Turn Windows features on or off** .
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 * Open Command Prompt and type**telnet** followed by the hostname. For example,**telnet telehack.com** .
 
  This article describes how to enable Telnet for Windows and how to run Telnet commands.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable the Windows Telnet Client
 
@@ -36,8 +45,9 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 6. Select**OK** to enable Telnet. When you see the**Windows completed the requested changes** message, you can close any open dialog boxes.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Execute Telnet Commands in Windows
 
  Telnet commands are easy to execute. After[opening Command Prompt](https://www.lifewire.com/how-to-open-command-prompt-2618089) , enter the word**telnet** . The result is a line that says**Microsoft Telnet>** , which is where commands are entered.
@@ -45,8 +55,9 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 ![Telnet Client open in Windows 11 Command Prompt](https://www.lifewire.com/thmb/730VxbH57Ub5D5pObriOnnCfBmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoft-telnet-client-windows-11-9e8a181d5b264119b0f67703eb6da069.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Another way to run a Telnet command is to type**telnet** followed by any command, such as the ones shown in the examples below. To connect to a Telnet server, enter a command that follows this[syntax](https://www.lifewire.com/what-is-syntax-2626014) :  
 
  `telnet hostname port`
@@ -58,17 +69,9 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 [Microsoft keeps a list of Telnet commands](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb491013%28v=technet.10%29) if you'd like to learn more about how to do things like open and close a Telnet connection, display the Telnet Client settings, and more.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Does Telnet Work?
 
  Telnet is a[network protocol](https://www.lifewire.com/definition-of-protocol-network-817949) that provides a[command-line interpreter](https://www.lifewire.com/what-is-a-command-line-interpreter-2625827) to communicate with a device. It's used most often for remote management, but also sometimes for the initial setup for some devices, especially network hardware such as switches and access points.
@@ -83,9 +86,6 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 
  Although not the same as Telnet,[free remote access software tools](https://www.lifewire.com/free-remote-access-software-tools-2625161) are an alternative way to communicate with another computer remotely.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Telnet Games & Additional Information
 
  There are several[Command Prompt tricks](https://www.lifewire.com/command-prompt-tricks-and-hacks-2618104) you can perform using Telnet. Some of them are in text form, but you may have fun with them.
@@ -102,18 +102,12 @@ thumbnail: https://www.lifewire.com/thmb/rC4f9mrMp1ec8VvSlENPhTOtdGg=/400x300/fi
 
 ![Eliza telnet AI commands](https://www.lifewire.com/thmb/imUhU7b-O1UeF8V030UxAM4PmQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/telnet-eliza-bot-31a1c00d36ac49b5aa00257acfe50825.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Watch an ASCII version of the full_Star Wars Episode IV_ movie by entering this in Command Prompt:  
 
  `telnet towel.blinkenlights.nl`
 
 ![Telnet Star Wars in Windows 11 Command Prompt](https://www.lifewire.com/thmb/aCvqfCY70EKW5f0_zXgujKXyx2M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/telnet-star-wars-062c8b8250534ecc96e7f10906b9638f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  Beyond the fun things that can be done in Telnet are a number of Bulletin Board Systems (BBS). A BBS provides a way to message other users, view news, share files, and more. The[Telnet BBS Guide](https://www.telnetbbsguide.com/bbs/connection/telnet/list/detail/) lists hundreds of servers you can connect to using this protocol.  
 
  FAQ
@@ -143,8 +137,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +144,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-action-camera-showdown-unmatched-seventh-lineup-wetproof-for-2024/"><u>[New] Action Camera Showdown Unmatched Seventh Lineup Wetproof for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs/"><u>[Updated] Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-guide-to-turning-off-dynamic-trackball-functions-on-a-macbook/"><u>A Guide to Turning Off Dynamic Trackball Functions on a MacBook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-subtitling-solutions-the-ultimate-top-10-list-online/"><u>Cutting-Edge Subtitling Solutions The Ultimate Top 10 List (Online)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-resolving-errors-during-windows-system-restore/"><u>Diagnosing and Resolving Errors During Windows System Restore</u></a></li>
+<li><a href="https://win11.techidaily.com/directing-your-filter-key-preferences-in-windows/"><u>Directing Your Filter Key Preferences in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-fixing-surface-pro-wi-fi-connection-glitches/"><u>Guide to Fixing Surface Pro Wi-Fi Connection Glitches</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hiring-guide-locating-excellent-film-capturers-for-2024/"><u>Hiring Guide Locating Excellent Film Capturers for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-14-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi 14 FRP?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-2023-guide-to-best-in-class-professionals-spinning-cameras/"><u>In 2024, The 2023 Guide to Best-in-Class Professionals' Spinning Cameras</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-issue-why-your-android-device-wont-get-text-messages/"><u>Solving the Issue: Why Your Android Device Won't Get Text Messages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-how-to-correctly-address-a-no-signal-problem-on-xbox-one/"><u>Step-by-Step Solution: How to Correctly Address a No Signal Problem on Xbox One</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-latest-innovation-from-gigabyte-discovering-the-xtreme-and-xtreme-ice-motherboards-showcased-with-gpus-at-computex/"><u>The Latest Innovation From Gigabyte: Discovering the Xtreme and Xtreme Ice Motherboards, Showcased with GPUs at Computex</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-tips-for-editing-pet-photographs-eliminating-unwanted-eye-effects/"><u>Top Tips for Editing Pet Photographs: Eliminating Unwanted Eye Effects</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-solving-bootmgr-errors-on-your-pc/"><u>Ultimate Guide: Solving BOOTMGR Errors on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-what-do-different-colors-on-your-ps4-controller-signify/"><u>Unraveling the Mystery: What Do Different Colors on Your PS4 Controller Signify?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-11-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme 11 Pro? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

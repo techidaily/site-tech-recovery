@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: How To Efficiently Join Two Excel Columns Together"
-date: 2024-08-19T15:19:21.568Z
-updated: 2024-08-20T15:19:21.568Z
+date: 2025-01-20T22:29:50.371Z
+updated: 2025-01-23T10:18:29.252Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Tips: How To Efficiently Join Two Excel Columns Together"
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
 
 Dean Pugh / Unsplash
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Combine Columns in Excel Without Losing Data
 
  If you just want to merge two empty columns in Excel, that's easy enough to do using the Merge option, but if those columns contain data, you'll lose all the data except what's in the uppermost left cell. If what you're actually trying to do is merge the data from two columns into a single column, the merge command won't work. Instead, you need to use the**CONCATENATE** formula to combine that data.
@@ -38,14 +42,33 @@ Dean Pugh / Unsplash
 4. Once you've completed the formula, press**Enter** on your keyboard to activate it. The new data combination should appear in the cell.  
 ![The results of the CONCATENATE formula in Microsoft Excel.](https://www.lifewire.com/thmb/lrpZXUMOgKEYWsx163xnNjDFz6E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Excel_02-8b69ebb739dd4721a90babcd0465d135.jpg)
 5. Now, you can copy the formula down the length of the column to combine all the desired entries. To do that, place your cursor bac in the previous cell (C2 in the example), grab the green dot (called the**Fill Handle** ) in the lower right corner of the screen and drag down the length of the column you want to use.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will apply the formula to all selected rows.  
 ![An illustration of how to use the Fill Handle in Microsoft Excel.](https://www.lifewire.com/thmb/jRYAhCFQTgZj888CujHR4w9QvUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Excel_03-674a233d08ec4ea0bcf80e3bec90d68b.jpg)
 6. Now, the data in the new column is part of a formula, and as such, if you delete any of the data used in the formula (in this example, any data in columns A or B) it will cause the combined data in column C to disappear.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To prevent this, you need to save all the new entries as a value so they won't disappear. So first, highlight all the combined data you just created and use the keyboard shortcut**Ctrl + C** on Windows or**Command + C** on Mac to copy it.  
 ![Data selection in Microsoft Excel.](https://www.lifewire.com/thmb/dJvhnrsFHFqq9jYyuvPDvP6vD_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Excel_04-0f81b1dc8ff5485cb2adf07a5f4262e3.jpg)
 7. Then, in the first corresponding cell of the column you copied the data from, right click and select**Paste Value** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Past Value option in Microsoft Excel.](https://www.lifewire.com/thmb/PZ3_xakgfZ_JtN1mmM00mCW8m7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Excel_05-054201d683a14effbdab321008554e88.jpg)
 8. The combined data will be pasted into the column as a value and you can change or delete the data from the original columns without changing the new, combined data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -67,8 +90,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -76,8 +97,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-cam-protection-the-ultimate-10-guide-for-2024/"><u>[New] Cam Protection The Ultimate 10 Guide for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-5-tips-for-tiktok-success-on-mac-for-2024/"><u>[New] Top 5 Tips for TikTok Success on Mac for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-audio-recording-on-windows-11/"><u>2024 Approved Step-by-Step Audio Recording on Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715860210004-a-user-friendly-guide-to-seamless-collaboration-across-different-operating-systems-via-skype-group-chats-for-2024/"><u>A User-Friendly Guide to Seamless Collaboration Across Different Operating Systems via Skype Group Chats. For 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/battle-of-the-smartwatch-giants-assessing-the-pros-and-cons-of-samsungs-ultra-vs-apples-ultra-making-an-informed-purchase-decision-with-zdnet/"><u>Battle of the Smartwatch Giants: Assessing the Pros and Cons of Samsung's Ultra Vs. Apple's Ultra – Making an Informed Purchase Decision with ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/integrate-oura-ring-with-strava-for-enhanced-workouts-a-step-by-step-tutorial-by-techexpert-blog/"><u>Integrate Oura Ring with Strava for Enhanced Workouts – A Step-by-Step Tutorial by TechExpert Blog</u></a></li>
+<li><a href="https://win-dash.techidaily.com/revitalize-your-sharp-printing-experience-with-updated-drivers-on-windows-pc-instructions-inside/"><u>Revitalize Your Sharp Printing Experience with Updated Drivers on Windows PC - Instructions Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-disabling-your-apple-music-subscription-independently-of-itunes-tips/"><u>Step-by-Step Guide: Disabling Your Apple Music Subscription Independently of iTunes - Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-debate-continues-why-apple-says-no-to-iphone-cases-and-whos-taking-notes/"><u>The Debate Continues: Why Apple Says No to iPhone Cases and Who's Taking Notes</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-imperative-components-of-a-game-monitor/"><u>Unveiling the Imperative Components of a Game Monitor</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->

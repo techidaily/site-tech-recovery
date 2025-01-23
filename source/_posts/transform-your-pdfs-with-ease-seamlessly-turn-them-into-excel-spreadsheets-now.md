@@ -1,7 +1,7 @@
 ---
 title: Transform Your PDFs with Ease - Seamlessly Turn Them Into Excel Spreadsheets Now!
-date: 2024-08-19T12:49:44.550Z
-updated: 2024-08-20T12:49:44.550Z
+date: 2025-01-22T08:46:28.106Z
+updated: 2025-01-23T02:46:24.118Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Having low FPS or significant FPS drops in Skyrim Special Edition? You’re not 
 4. **[Roll back your AMD graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Install mods](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Change the PC power plan
 
  If your computer is running on the**Power saver** or**Balanced** power plan as default, Windows will automatically adjust the CPU’s speed and may limit your gaming experience. For better performance, you could switch to the High performance option.
@@ -34,13 +38,19 @@ Having low FPS or significant FPS drops in Skyrim Special Edition? You’re not 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then type**powercfg.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-1.jpg)
 2. Select**High performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you still don’t see improvement in Skyrim FPS, proceed to the second fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  Graphics card driver is essential to a smooth and enhanced gaming experience. If you’re using a faulty or outdated graphics driver, you’re more likely to get Skyrim FPS drops. So to avoid this, you should check for the driver updates regularly.
@@ -59,14 +69,15 @@ There are mainly two ways you can update your graphics driver:
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer to employ the changes. If the issue persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Fix 3 – Modify the config file
 
  Many players suggested modifying certain values in the game’s configuration file will dramatically boost FPS in Skyrim. Follow the steps to see if that works for you.
@@ -75,20 +86,11 @@ There are mainly two ways you can update your graphics driver:
 2. Locate**bLockFramerate** and set its value to**0** . Then click**Ctrl** +**S** to save the file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/config-file-1.jpg)
 3. Go back to the Skyrim Special Edition folder and open the**SkyrimPrefs** file.
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Find**iVsyncPresentInterval** , set it to**0** and save the file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/config-file-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once completed, launch Skyrim to test. If the FPS is not improved, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Roll back your AMD graphics driver
 
  AMD users reported the latest AMD graphics driver can trigger decreased performance in Skyrim. To see if that’s the cause, you could roll back your graphics driver to the previous version.
@@ -102,11 +104,13 @@ Here is the instruction:
 3. Launch DDU and select**GPU** and your**graphics card brand** on the main screen.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/clean-reinstall-driver-1.jpg)
 4. Click**Clean and restart** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/clean-reinstall-driver-2.jpg)
 5. Wait for the uninstalling process to complete. Then, reboot your PC to exit the safe mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Go to the official support website of[AMD](https://www.amd.com/en/support) or[NVIDIA](https://www.nvidia.com/Download/index.aspx) to download the previous version of your graphics card driver.
 7. Open the downloaded file and follow the on-screen instructions to install the driver manually.
 
@@ -131,8 +135,6 @@ Here is the instruction:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +142,16 @@ Here is the instruction:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-premier-quality-4k-panels-for-expert-colour-correction-for-2024/"><u>[New] Premier Quality 4K Panels for Expert Colour Correction for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-experience-retro-gaming-glory-with-best-pc-ps1-emulation-software/"><u>[Updated] Experience Retro Gaming Glory with Best PC PS1 Emulation Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-james-bond-movie-series-guide-the-ultimate-watching-order/"><u>Complete James Bond Movie Series Guide: The Ultimate Watching Order</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-implementing-safelists-in-your-mac-os-x-mail-client-a-comprehensive-guide/"><u>Essential Tips for Implementing Safelists in Your Mac OS X Mail Client - A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-14-ultra-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from 14 Ultra</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/quick-guide-uploading-tiktoks-directly-to-facebook-for-2024/"><u>Quick Guide Uploading TikToks Directly to Facebook for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/telegram-demystified-understanding-its-features-and-functionality/"><u>Telegram Demystified: Understanding Its Features and Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-process-of-refreshing-your-chromecast-device/"><u>The Complete Process of Refreshing Your Chromecast Device</u></a></li>
+</ul></div>
 

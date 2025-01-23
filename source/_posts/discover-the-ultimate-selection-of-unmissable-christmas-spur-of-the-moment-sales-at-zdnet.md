@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Selection of Unmissable Christmas Spur-of-the-Moment Sales at ZDNet
-date: 2025-01-16T01:58:59.598Z
-updated: 2025-01-17T00:43:28.468Z
+date: 2025-01-19T07:00:35.375Z
+updated: 2025-01-22T17:18:45.227Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,20 +123,21 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-12-screen-recorder-no-time-limits/"><u>[New] 2024 Approved Top 12 Screen Recorder No Time Limits</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-comprehensible-appraisal-gopro-slr4-silver-feature-report/"><u>[Updated] 2024 Approved Comprehensible Appraisal GoPro SLR4 Silver Feature Report</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-cutting-edge-analysis-editpro-x-video-editor-2023-for-2024/"><u>[Updated] Cutting-Edge Analysis EditPro X - Video Editor 2023 for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-optimize-your-online-visuals-learn-and-adjust-facebook-video-sizes-and-ratios-for-2024/"><u>[Updated] Optimize Your Online Visuals Learn and Adjust Facebook Video Sizes & Ratios for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-perfecting-video-captures-advanced-tips-for-your-laptop-for-2024/"><u>[Updated] Perfecting Video Captures Advanced Tips for Your Laptop for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-free-online-converter-effortless-switch-from-m4r-to-wav-files-movavi/"><u>1. Free Online Converter: Effortless Switch From M4R to WAV Files - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/5-simple-techniques-to-quickly-attach-your-pc-screen-guided-by-movavi/"><u>5 Simple Techniques to Quickly Attach Your PC Screen - Guided by Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726228147061-flac-wmv-movavi/"><u>FLAC, WMV를 원하는 사용자에게 이메일로 바로가기 – Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/full-breakdown-samsungs-immersive-camera-technology/"><u>Full Breakdown Samsung's Immersive Camera Technology</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-online-konvertent-van-mp3-naar-mp4-expertise-van-movavi/"><u>Gratis Online Konvertent Van MP3 Naar MP4 - Expertise Van Movavi</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-money-making-techniques-for-short-videos/"><u>In 2024, Top Money-Making Techniques for Short Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/melhores-praticas-na-formatacao-de-imagens-usando-a-ferramenta-de-corte-do-movavi-guia-completo/"><u>Melhores Práticas Na Formatação De Imagens Usando a Ferramenta De Corte Do Movavi – Guia Completo</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-device-id-33a0-in-acpi/"><u>Solving Device ID 33A0 in ACPI</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-cd-dvd-and-blu-ray-drives-stuck-on-windowsmac/"><u>Step-by-Step Solution for CD, DVD, and Blu-Ray Drives Stuck on Windows/Mac</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-comparison-of-free-and-pro-ai-slideshow-apps-for-dynamic-presentations-unveiled/"><u>The Ultimate Comparison of Free and Pro AI Slideshow Apps for Dynamic Presentations - Unveiled!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-effective-screen-recording-with-a-focus-on-usability/"><u>[New] Effective Screen Recording with a Focus on Usability</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-improve-your-work-efficiency-leveraging-snap-photography-techniques-for-2024/"><u>[New] Improve Your Work Efficiency Leveraging Snap Photography Techniques for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streamline-your-video-capture-on-youtube/"><u>[Updated] Streamline Your Video Capture on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/captivating-literary-book-trailers-for-2024/"><u>Captivating Literary Book Trailers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-7-amazing-internet-games-your-little-ones-will-love/"><u>Discover 7 Amazing Internet Games Your Little Ones Will Love</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-extended-range-tcls-latest-additions-to-their-popular-q-and-s-class-smart-tv-collections/"><u>Discover the Extended Range: TCL's Latest Additions to Their Popular Q and S Class Smart TV Collections</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-email-safety-activating-dual-verification-on-google-mail/"><u>Enhance Email Safety: Activating Dual Verification on Google Mail</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/enhance-your-social-media-presence-with-the-top-instagram-visual-editor-software-in-vectors-2020-edition/"><u>Enhance Your Social Media Presence with the Top Instagram Visual Editor Software in Vectors, 2020 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-a-green-or-blue-screen-of-death-easy-to-follow-steps-and-tricks-to-rescue-your-tv-display/"><u>Fix a Green or Blue Screen of Death: Easy-to-Follow Steps and Tricks to Rescue Your TV Display</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v27-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo V27 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-high-performance-testing-results-for-top-m2-ssd-heatsinks-featuring-id-cooling-zero-series-reviewed/"><u>Inside the World of High-Performance: Testing Results for Top M.2 SSD Heatsinks, Featuring ID-Cooling Zero Series Reviewed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reactivating-a-dormant-snapchat-profile-a-step-by-step-guide/"><u>Reactivating a Dormant Snapchat Profile: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-superior-performance-of-evs-over-gas-powered-cars-explained/"><u>The Superior Performance of EVs Over Gas-Powered Cars Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-finding-and-restoring-erased-numbers-on-android-phones/"><u>The Ultimate Guide to Finding and Restoring Erased Numbers on Android Phones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oppo-a1x-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Oppo A1x 5G Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
 

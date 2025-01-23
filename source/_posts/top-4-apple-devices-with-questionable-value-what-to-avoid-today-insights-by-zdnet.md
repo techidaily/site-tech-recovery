@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights by ZDNet"
-date: 2025-01-12T17:40:24.673Z
-updated: 2025-01-17T02:18:38.345Z
+date: 2025-01-21T02:10:20.071Z
+updated: 2025-01-23T06:55:09.340Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ Beyond that, Apple's lineup seems pretty strong, from the [M3 MacBook Air system
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The 'Naughty' list**
 
 Don't buy these devices:
@@ -59,6 +63,10 @@ Don't buy these devices:
 
 ## **The 'Nice' list**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Apple iPhone 16**
 
 iPhone 16
@@ -67,6 +75,10 @@ Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Apple Watch Series 10**
 
 Apple Watch Series 10
@@ -74,10 +86,6 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -108,7 +116,7 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
@@ -126,10 +134,6 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -144,10 +148,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -171,7 +171,7 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple AirTag**
@@ -214,18 +214,22 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ssential-tactics-for-youtube-success-in-25-ways-for-2024/"><u>[New] Essential Tactics for YouTube Success in 25 Ways for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ultimate-guide-unpacking-the-secrets-of-du-recorder/"><u>2024 Approved Ultimate Guide Unpacking the Secrets of Du Recorder</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transform-rmvb-files-to-mp4-format-with-movavi/"><u>Free Online Conversion: Transform RMVB Files to MP4 Format with Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuit-verbeterde-konvertor-van-bmp-naar-jpeg-online-veilig-en-efficient-met-movavi/"><u>Gratuit Verbeterde Konvertor Van BMP Naar JPEG: Online Veilig en Efficiënt Met Movavi</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-masterclass-comprehensive-overview-of-dji-phantom-4/"><u>In 2024, Masterclass Comprehensive Overview of DJI Phantom 4</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726220809867-movavi/"><u>Movavi 유럽에서 무제한 제공 - 이미지, 영상 및 비디오 편집 기술</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movaviwav3gp/"><u>Movaviで簡単な方法：WAVからフリーオンラインの3GPへの変換</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movaviwmvmkv/"><u>Movaviの専用フリーウェブベースでのWMVからMKVへのコンバートツール</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/moveavis-no-cost-tool-easily-convert-flv-videos-into-avi-online/"><u>Moveavi's No-Cost Tool: Easily Convert FLV Videos Into AVI Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-headset-challenges-in-your-xbox-series-xs-experience/"><u>Overcoming Headset Challenges in Your Xbox Series X/S Experience</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-a18-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo A18 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/tout-sur-la-recuperation-de-donnees-a-partir-dun-disque-non-formate-guide-detaille/"><u>Tout Sur La Récupération De Données À Partir D'un Disque Non Formaté - Guide Détaillé</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-blending-past-memories-with-instagrams-vivid-filters/"><u>[New] In 2024, Blending Past Memories with Instagram's Vivid Filters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-step-into-the-world-of-text-animation-14-must-see-examples/"><u>[New] In 2024, Step Into the World of Text Animation 14 Must-See Examples</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/capturing-online-broadcasts-with-quality-audio-the-leading-5-techniques/"><u>Capturing Online Broadcasts with Quality Audio: The Leading 5 Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-most-advanced-and-sleek-ceiling-audio-innovations-available-in-cuy-24/"><u>Discover the Most Advanced and Sleek Ceiling Audio Innovations Available in Cuy-24</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enjoy-cinema-on-the-go-12-free-streaming-services-app-list/"><u>Enjoy Cinema on the Go: 12 Free Streaming Services App List</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-unsyncing-icloud-photos-7-tips-for-iphone-users/"><u>Fix Unsyncing iCloud Photos: 7 Tips for iPhone Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-essential-software-for-your-logitech-k400-plus-wireless-combo-keyboard/"><u>Free Download: Essential Software for Your Logitech K400 Plus Wireless Combo Keyboard</u></a></li>
+<li><a href="https://win-webster.techidaily.com/guide-pour-la-restauration-de-fichiers-effaces-ou-perdus-sur-clip-studio-paint-les-etapes-a-suivre/"><u>Guide Pour La Restauration De Fichiers Effacés Ou Perdus Sur Clip Studio Paint : Les Étapes À Suivre !</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-do-electric-cars-handle-extremely-low-or-high-temperatures/"><u>How Do Electric Cars Handle Extremely Low or High Temperatures?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-insider-insights-unpacking-the-dji-phantom-3-pro-features/"><u>In 2024, Insider Insights Unpacking the DJI Phantom 3 Pro Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-proven-winners-selecting-the-best-hdr-cameras/"><u>In 2024, Proven Winners Selecting the Best HDR Cameras</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-xbox-one-audio-issues-a-complete-guide-to-fixing-rust-stereo-mic-problems/"><u>Mastering Xbox One Audio Issues: A Complete Guide to Fixing Rust Stereo Mic Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-when-your-zoom-video-feature-fails-to-start/"><u>Step-by-Step Solutions When Your Zoom Video Feature Fails to Start</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-delicious-tv-top-10-netflix-cooking-show-picks/"><u>The Ultimate Guide to Delicious TV: Top 10 Netflix Cooking Show Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tutorial-for-switching-onoff-screen-keyboard-feature-on-microsofts-latest-os/"><u>Tutorial for Switching On/Off Screen Keyboard Feature on Microsoft's Latest OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-on-how-to-pair-your-ps4-gamepad/"><u>Ultimate Tutorial on How to Pair Your PS4 Gamepad</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wpcapsddll-file-errors-understanding-and-solving-the-issue/"><u>Wpcapsd.dll File Errors: Understanding and Solving the Issue</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Decoding the Hardware Needs for Optimal Fortnite Gaming Performance
-date: 2024-08-19T12:47:28.802Z
-updated: 2024-08-20T12:47:28.802Z
+date: 2025-01-17T21:57:19.639Z
+updated: 2025-01-23T01:45:48.082Z
 tags:
   - win11
   - win10
@@ -37,8 +37,9 @@ Your screen remains black after turning on the PC? This is very frustrating, and
  If you boot into Automatic Repair, select **Troubleshoot**  \> **Advanced options** \> **Startup settings** \> **Restart** \>**Safe Mode with Networking** , then try running a system scan with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to detect broken or damaged system files and repair them.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Check if your monitor is working
 
  If your computer starts but displays nothing, you should check is if your monitor is working properly.
@@ -64,8 +65,9 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/analog-20871_640-1024x338.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Check to see if your**video cable** is damaged. If the video cable is fine, reconnect your computer to your monitor. Or, if you have**another video cable** available, try connecting the two devices using the new cable.
 
 **5)** Try turning on your computer to see if it can boot normally.
@@ -102,15 +104,16 @@ RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Put**your RAM** back into the slot.
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer.
 
  If your computer still can’t boot properly, don’t worry. Check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reset your BIOS settings to default
 
  Improper BIOS settings can also cause your PC to boot into a black screen. To see if that’s the problem for you, you should reset your BIOS to factory settings. Here is how to do it:
@@ -126,8 +129,9 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Wait for 5 minutes, and then reinstall your**CMOS battery** .
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer to see if your problem persists.
@@ -141,8 +145,9 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/Fortect-tp-reviews.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Here’s how to use Fortect to check for broken system components in just one click:
 
  1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
@@ -153,9 +158,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -171,8 +173,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +180,18 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-strategic-planning-for-virtual-teams-mastering-slack-and-filmora-coordination/"><u>[Updated] 2024 Approved Strategic Planning for Virtual Teams Mastering Slack & Filmora Coordination</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expand-your-viewing-options-stream-videos-on-apple-tv-via-vlc-media-player/"><u>Expand Your Viewing Options: Stream Videos on Apple TV via VLC Media Player</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-a-non-functional-mic-in-dota-2-on-your-windows-pc-solutions-inside/"><u>Fixing a Non-Functional Mic in Dota 2 on Your Windows PC - Solutions Inside!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-cracking-the-code-to-niche-celeb-content-creators-on-insta/"><u>In 2024, Cracking the Code to Niche Celeb Content Creators on Insta</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-look-analyzing-user-experience-functionality-and-security-on-the-line-platform/"><u>Inside Look: Analyzing User Experience, Functionality & Security on the Line Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/review-of-the-toughest-iphone-shield-by-apple-unveiling-its-revolutionary-security-aspect/"><u>Review of the Toughest iPhone Shield by Apple - Unveiling Its Revolutionary Security Aspect</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723013033329-tp-links-archer-c80-unleashed-the-best-sub-100-router-on-the-market-today/"><u>TP-Link's Archer C80 Unleashed: The Best Sub-$100 Router on the Market Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-on-how-to-access-the-playstation-network-portal/"><u>Ultimate Guide on How to Access the PlayStation Network Portal</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-solving-the-mystery-of-a-missing-avcodecdll-file/"><u>Ultimate Guide: Solving the Mystery of a Missing avcodec.dll File</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-roku-express-and-stick-distinguishing-key-features/"><u>Unraveling Roku Express and Stick: Distinguishing Key Features</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/visual-mastery-with-iphone-identifying-optimal-shooting-spots/"><u>Visual Mastery with iPhone Identifying Optimal Shooting Spots</u></a></li>
+</ul></div>
 

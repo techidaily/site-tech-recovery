@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the New MacBook Pro (M3): In-Depth Review of Features, Costs & Release Timeline"
-date: 2024-08-19T15:18:51.437Z
-updated: 2024-08-20T15:18:51.437Z
+date: 2025-01-21T17:15:54.189Z
+updated: 2025-01-23T06:18:24.702Z
 categories:
   - BestProducts
 description: "This Article Describes Unboxing the New MacBook Pro (M3): In-Depth Review of Features, Costs & Release Timeline"
@@ -21,24 +21,34 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
  The rumor mill missed the mark on the latest MacBooks Pro. Here's what they are and how you can get them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## M3 MacBook Pro Release Date
 
  The MacBook Pro with M3, M3 Pro, and M3 Max were announced on October 30, 2023\. The M3 and M3 Pro models were made available to order on October 30, 2023 with a release date of November 7, while the M3 Max was scheduled to be available in November 2023.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## M3 MacBook Pro Prices
 
  The 14" M3 MacBook Pro starts at $1599 (a $400 price cut), and the 16" MacBook Pro starts at $2499\. The price goes up depending on which version of M3 you use, along with storage and RAM options, each of which will add at least $200 to the price.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Order Information
 
  Only 2 of the 3 models were made available to order on October 30\. The M3 Max shipped in late November. You can[order directly from Apple](https://www.apple.com/shop/buy-mac/macbook-pro) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## M3 MacBook Pro Features and Specs
 
  There are three levels of MacBook Pro systems in two sizes: 14- and 16-inch. There are three processors available (although the 16" only offers the two higher-end systems): M3, M3 Pro, and M3 Max.
@@ -57,23 +67,12 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
 ![M3 MacBook Pro specs](https://www.lifewire.com/thmb/ugCpmMlO_coX0GaCQwwxNbKik5Q=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/M3-MacBook-Pro-specs-accad0f2631e470ca8738e9163ec1989.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Apple Inc
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the M3 MacBook Pro
 
  You can find[more computer and laptop news here at Lifewire](https://www.lifewire.com/computer-laptop-tablet-news-4797030) . Here are some stories about the upcoming MacBook Pro.
@@ -84,14 +83,11 @@ Apple Inc
 
 [Apple Reveals Amazing Scary Fast M3 Chip for MacBook Pro and iMac](https://www.lifewire.com/apple-m3-macbook-pro-imac-8384780)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +96,19 @@ Apple Inc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-boost-your-buzz-factor-with-these-3-dynamic-approaches-to-youtube-video-reactions/"><u>[New] 2024 Approved Boost Your Buzz Factor with These 3 Dynamic Approaches to YouTube Video Reactions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-transforming-android-devices-into-broadcast-powerhouses-with-obs/"><u>[Updated] 2024 Approved Transforming Android Devices Into Broadcast Powerhouses with OBS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-boosting-visual-impact-the-11-best-practices-for-color-workflow-for-2024/"><u>[Updated] Boosting Visual Impact The 11 Best Practices for Color Workflow for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-sculpt-the-subject-mastering-the-art-of-background-takedown/"><u>[Updated] Sculpt the Subject Mastering the Art of Background Takedown</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eliminate-invisible-anomalies-a-step-by-step-guide-to-fix-ghosts-in-3d-prints/"><u>Eliminate Invisible Anomalies: A Step-by-Step Guide to Fix Ghosts in 3D Prints</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expand-your-horizons-on-ig-how-to-showcase-entire-pictures-without-cropping/"><u>Expand Your Horizons on IG: How to Showcase Entire Pictures Without Cropping</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-disabling-voice-control-on-your-samsung-flat-screen-television/"><u>Expert Tips for Disabling Voice Control on Your Samsung Flat-Screen Television</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-12-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 12 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-iphone-12-update-now-with-enhanced-qi2-wireless-charging-no-more-magsafe-necessary-zdnet/"><u>Latest iPhone 12 Update: Now with Enhanced Qi2 Wireless Charging, No More MagSafe Necessary | ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-your-cricket-experience-a-guide-to-top-live-sports-services-for-2024/"><u>Streamline Your Cricket Experience A Guide to Top Live Sports Services for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-wizardry-behind-android-intellect-a-deep-dive-into-its-core/"><u>The Wizardry Behind Android Intellect: A Deep Dive Into Its Core</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgrading-your-smartphone-top-alternatives-to-the-discontinued-iphone-13-and-iphone-15-pro-techinsights/"><u>Upgrading Your Smartphone: Top Alternatives to the Discontinued iPhone 13 and iPhone 15 Pro | TechInsights</u></a></li>
+</ul></div>
 

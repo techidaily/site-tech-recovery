@@ -1,7 +1,7 @@
 ---
 title: \\[A = W \\Times L \\
-date: 2025-01-13T03:49:12.305Z
-updated: 2025-01-16T17:56:57.598Z
+date: 2025-01-20T00:36:18.303Z
+updated: 2025-01-23T02:07:55.463Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -45,15 +45,23 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Colors                 | Cloudy White, Sorta Sunny, Stormy Black                                                                                                                                      | Alpine Green, Silver, Gold, Graphite, Sierra Blue                                                                                                                                                                                                                                                                                                           |
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the Google Pixel 6 Pro if…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You want fun and experimental camera features
 
@@ -63,10 +71,6 @@ One standout camera feature on the Pixel 6 Pro is **Motion Mode,** whichallows u
 
 Another new and useful feature is **Magic Eraser.** Like Photoshop's Content Aware Fill, the software trick allows you to magically erase unwanted objects from a photo. Using the feature is as simple as circling what you'd like to erase from your image, whether that's strangers in the background, stain marks, or signage, and the Pixel 6 Pro does the rest. When done correctly, the image will look like it was perfectly captured in the first place. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a bigger battery
 
 While Apple's iPhones have made significant improvements to battery life since the early days, the Google Pixel 6 Pro wins the endurance battle. With 5,003 mAh (versus the iPhone's suggested 3,095 mAh), the Pixel 6 Pro can withstand a day's use with more ease than Apple's Pro phone. Google says the Pixel 6 Pro can support up to 9 hours of YouTube playback with just a single charge, which is close to our in-house experiences. It also helps that the Pixel supports USB-C fast charging, a more standardized method of charging than Apple's proprietary Lightning port. 
@@ -74,6 +78,10 @@ While Apple's iPhones have made significant improvements to battery life since t
 **Also: [One year later, Google Pixel 6 Pro is still Google's best smartphone](https://www.zdnet.com/article/google-pixel-6-pro-review/)**
 
 CNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want a sleek, innovative design
 
@@ -86,10 +94,6 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 [Buy the Google Pixel 6 Pro $418.88 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HYR2NC8%2Fref%3Dasc%5Fdf%5FB09HYR2NC81727521200000%3Fcreative%3D395261%26creativeASIN%3DB09HYR2NC8%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5b1293-c7f0-4074-bebc-aa1278013569%7Cdtp&dtb=1)
 
 ##  You should buy the iPhone 13 Pro if...
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You want cinematic camera features
 
@@ -110,10 +114,6 @@ There's a reason for Apple's cult following and customer loyalty. Its products h
 While not an actual product, the Apple ecosystem is still very much part of the product you purchase when investing in, say, an iPhone. Your Apple ID credentials serve as the ecosystem's life source, allowing you to manage and protect multiple devices effortlessly. If you already own a pair of AirPods, an Apple Watch, or a MacBook, then buying the iPhone 13 Pro will make more sense usability-wise. 
 
 Image: Apple
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
 
@@ -153,24 +153,20 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-the-core-plot/"><u>[New] Crafting the Core Plot</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-decoding-youtube-income-how-much-does-each-1000-viewer-earn/"><u>[New] In 2024, Decoding YouTube Income How Much Does Each 1,000 Viewer Earn?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-screen-recorders-journey-a-deep-dive-into-the-best-tools-for-2024/"><u>[New] The Screen Recorder's Journey A Deep Dive Into the Best Tools for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-to-capture-and-share-your-favorite-pics-on-social-platforms-with-obs/"><u>[Updated] 2024 Approved How to Capture and Share Your Favorite Pics on Social Platforms with OBS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-british-show-selection-on-netflix-for-right-now/"><u>Best British Show Selection on Netflix for Right Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cross-device-communication-made-easy-managing-a-single-phone-number-on-all-your-tech-tools/"><u>Cross-Device Communication Made Easy: Managing a Single Phone Number on All Your Tech Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-techniques-for-repairing-msxml4dll-not-detected-or-lost-files/"><u>DIY Techniques for Repairing 'Msxml4.dll' Not Detected or Lost Files</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enjoy-endless-movies-and-shows-unveiling-methods-to-watch-netflix-free-of-charge/"><u>Enjoy Endless Movies and Shows: Unveiling Methods to Watch Netflix Free of Charge</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-12-mini-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 12 mini</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pova-6-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pova 6 Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-secrets-to-excellent-1080p-content-on-fb/"><u>In 2024, Secrets to Excellent 1080P Content on FB</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pre-purchase-must-knows-a-list-of-9-important-points-for-buying-the-right-dash-cam/"><u>Pre-Purchase Must-Knows: A List of 9 Important Points for Buying the Right Dash Cam</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/techniques-to-troubleshoot-silent-obs-sessions/"><u>Techniques to Troubleshoot Silent OBS Sessions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-must-have-alarm-clock-applications-for-smartphone-users/"><u>Top 7 Must-Have Alarm Clock Applications for Smartphone Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-when-msv4dll-is-nowhere-to-be-found-effective-strategies/"><u>Troubleshooting When msv4.dll Is Nowhere to Be Found: Effective Strategies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-the-secrets-a-comprehensive-guide-on-how-electric-bikes-operate/"><u>Unlocking the Secrets: A Comprehensive Guide on How Electric Bikes Operate</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upgrade-or-not-a-detailed-comparison-of-features-between-apples-latest-iphones-iphone-16-vs-iphone-15/"><u>Upgrade or Not? A Detailed Comparison of Features Between Apple's Latest iPhones (iPhone 16 Vs. IPhone 15)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watch-what-you-love-anywhere-downloading-and-using-the-fandango-app-on-a-fire-stick/"><u>Watch What You Love, Anywhere! Downloading and Using the Fandango App on a Fire Stick</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-photos-unleashed-editing-made-simple/"><u>Windows Photos Unleashed: Editing Made Simple</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-ultimate-collection-of-youtube-beauty-icons-to-admire/"><u>[Updated] 2024 Approved The Ultimate Collection of YouTube Beauty Icons to Admire</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-much-wealth-awaits-one-million-youtube-followers/"><u>[Updated] How Much Wealth Awaits One Million YouTube Followers?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-posting-videos-on-instagram-easy/"><u>[Updated] In 2024, Posting Videos on Instagram Easy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accepting-shared-albums-on-your-iphone-a-comprehensive-walkthrough/"><u>Accepting Shared Albums on Your iPhone - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://driver-error.techidaily.com/adjusting-non-loading-conditions-for-enex-on-win11/"><u>Adjusting Non-Loading Conditions for eNEX on Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/beginners-path-to-screen-casting-with-apple-devices-for-2024/"><u>Beginner’s Path to Screen Casting with Apple Devices for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-master-control-of-windows-10-screen-based-input-methods/"><u>Comprehensive Tutorial: Master Control of Windows 10 Screen-Based Input Methods</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/al-dont-reveal-how-to-blur-faces-online/"><u>Conceal, Don't Reveal How to Blur Faces Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/everything-you-need-to-know-about-apple-watch-series-8-launch-date-insights-technical-details-cost-analysis-and-recent-developments/"><u>Everything You Need to Know About Apple Watch Series 8: Launch Date Insights, Technical Details, Cost Analysis & Recent Developments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-guides-on-toms-hardware-selection/"><u>Expert Guides on Tom's Hardware Selection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-overcoming-developer-cannot-be-verified-on-your-mac-device/"><u>Guide to Overcoming 'Developer Cannot Be Verified' On Your Mac Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leading-choices-for-voicemail-with-visual-features-2024-edition/"><u>Leading Choices for Voicemail with Visual Features - 2024 Edition</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-maximize-your-gopro-experience-a-quik-review-and-top-pc-video-editing-solutions/"><u>New 2024 Approved Maximize Your GoPro Experience A Quik Review and Top PC Video Editing Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tackling-the-dll-not-found-problem-tips-and-tricks-for-easy-solutions/"><u>Tackling the 'DLL Not Found' Problem: Tips and Tricks for Easy Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-ac1st16dll-file-not-found-issues/"><u>Ultimate Guide: Resolving 'Ac1st16.dll' File Not Found Issues</u></a></li>
 </ul></div>
 

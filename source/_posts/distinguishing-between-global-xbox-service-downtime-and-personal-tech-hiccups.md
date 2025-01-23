@@ -1,7 +1,7 @@
 ---
 title: Distinguishing Between Global Xbox Service Downtime and Personal Tech Hiccups
-date: 2024-08-19T15:16:22.483Z
-updated: 2024-08-20T15:16:22.483Z
+date: 2025-01-20T23:11:03.235Z
+updated: 2025-01-22T22:52:33.940Z
 categories:
   - BestProducts
 description: This Article Describes Distinguishing Between Global Xbox Service Downtime and Personal Tech Hiccups
@@ -35,6 +35,10 @@ thumbnail: https://www.lifewire.com/thmb/FgELujBD__jzs9uN8ArmiT5eJOA=/400x300/fi
 
  When purchasing a new PC, consider your skill level and budget. There are pros and cons to both decisions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Buying a PC: Pros and Cons
 
  Advantages
@@ -51,8 +55,9 @@ thumbnail: https://www.lifewire.com/thmb/FgELujBD__jzs9uN8ArmiT5eJOA=/400x300/fi
 * Less familiarity with internal components.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Advantages of Buying
 
  For some, building a PC may be too complicated. One of the major benefits of buying a pre-made system is compatibility. The manufacturer ensures that the physical parts and the[drivers](https://www.lifewire.com/what-is-a-device-driver-2625796) work together to minimize performance issues.
@@ -63,9 +68,6 @@ thumbnail: https://www.lifewire.com/thmb/FgELujBD__jzs9uN8ArmiT5eJOA=/400x300/fi
 
 [The 8 Best Computer Brands of 2024](https://www.lifewire.com/best-computer-brands-4691899)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Disadvantages of Buying
 
  The major disadvantage of buying a pre-made PC is the cost. Generally, a computer that's ready to go right off the shelf costs more than the homemade variety because manufacturers tend to use non-OEM parts. Retail computer parts can be higher in price, driving the end cost of a pre-made PC up as well. An exception to this rule is when there are sales on pre-built PCs. Many companies have exclusive sales during the holidays, such as Black Friday, or clearance sales to make room for new models. But, overall, it will cost you more to buy a ready-made computer.
@@ -73,6 +75,10 @@ thumbnail: https://www.lifewire.com/thmb/FgELujBD__jzs9uN8ArmiT5eJOA=/400x300/fi
  If you like to know your computer intimately, purchasing a pre-built PC might not be the way to go. Since the manufacturer decides the components, you probably won't do a ton of research to know each part in the system. With this, there will be less customization. So, if you want in-depth knowledge of your computer and need to fine-tune it to your needs, a pre-made system probably won't serve you well.
 
 [6 Ways to Save Money When Buying a Computer](https://www.lifewire.com/seven-ways-to-save-money-on-a-computer-832356)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Building a PC: Pros and Cons
 
@@ -90,9 +96,9 @@ thumbnail: https://www.lifewire.com/thmb/FgELujBD__jzs9uN8ArmiT5eJOA=/400x300/fi
 * Novice users may struggle with the technical side of the build process.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Advantages of Building
 
  The most obvious advantage of building a computer from scratch is the selection of parts. Most computer systems come pre-built with the specifications and components selected for you. This often leads to consumers making compromises on features because a mass-produced system may not have all that you want or may offer a subpar component. By building your own computer, you can choose the parts that best match your desired setup. Some vendors do allow you to customize a computer system, but you are limited to their selection of parts.
@@ -115,9 +121,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 [8 Things to Consider Before Buying a Desktop PC](https://www.lifewire.com/desktop-pc-buyers-guide-832343)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Final Verdict: Know Your Needs and Skills
 
  If you don't need a computer for a specialized task or high-end computing, a pre-made system may be the way to go, especially if you're not technically minded. Building a PC requires technical know-how and patience.
@@ -125,14 +128,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![An illustration of someone building a PC and buying one.](https://www.lifewire.com/thmb/Kri5yMPzmPlDkfIBX6y0WZpeh9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/building-vs-buying-a-pc-832692-062c6d59ff554fdf90bfa22fe1025dd5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Lifewire / Julie Bang
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Build a Computer
 
  If you're interested in building a desktop computer from parts, take the next steps.
@@ -167,8 +167,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +174,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-browse-and-compare-leading-affordable-quality-webm-streamers/"><u>[New] Browse and Compare Leading Affordable, Quality WebM Streamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-communitys-take-on-vllo-performance-for-2024/"><u>[Updated] The Community's Take on VLLO Performance for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-14-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 14 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipated-costs-for-upcoming-sony-vr-devices-specs-and-release-forecast/"><u>Anticipated Costs for Upcoming Sony VR Devices - Specs & Release Forecast</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/curated-list-top-rated-lgbt-movies-streaming-now-on-netflix-in-july-2024/"><u>Curated List: Top-Rated LGBT Movies Streaming Now on Netflix in July 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-hack-your-gmail-address-to-filter-messages-and-add-addresses/"><u>How to Hack Your Gmail Address to Filter Messages and Add Addresses</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-successfully-install-or-update-ralink-driver-software-in-windows-systems/"><u>How to Successfully Install or Update Ralink Driver Software in Windows Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-selection-8-must-have-image-packs-for-laptops-for-2024/"><u>Ideal Selection 8 Must-Have Image Packs for Laptops for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-xiaomi-redmi-note-12t-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Xiaomi Redmi Note 12T Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-dell-ethernet-drivers-for-windows-7-free-downloads/"><u>Latest Dell Ethernet Drivers for Windows 7 - Free Downloads</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-install-arduino-mega-2560-firmware-download/"><u>Quick Install: Arduino Mega 2560 Firmware Download</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-lameencdll-issues-in-audacity-a-step-by-step-guide/"><u>Resolving lame_enc.dll Issues in Audacity: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-how-to-excel-at-royal-match-game/"><u>The Ultimate Tutorial on How to Excel at Royal Match Game</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-solving-issues-with-non-uploading-instagram-stories/"><u>Troubleshooting Tips: Solving Issues with Non-Uploading Instagram Stories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-our-selection-8-most-exceptional-book-apps-to-enhance-your-reading-experience/"><u>Unveiling Our Selection: 8 Most Exceptional Book Apps to Enhance Your Reading Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-roadmap-to-pokemon-mastery-playing-pokemon-go-like-a-pro/"><u>Your Roadmap to Pokémon Mastery: Playing Pokémon Go Like a Pro</u></a></li>
+</ul></div>
 

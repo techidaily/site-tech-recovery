@@ -1,7 +1,7 @@
 ---
 title: "Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek"
-date: 2025-01-14T00:16:10.124Z
-updated: 2025-01-17T01:09:56.840Z
+date: 2025-01-21T06:58:08.625Z
+updated: 2025-01-22T22:24:45.444Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,16 +120,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-pure-magic-in-editing-top-6-background-removers-proved-effective/"><u>[Updated] Pure Magic in Editing Top 6 Background Removers Proved Effective</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726221153108-jpegpng-movavi/"><u>「お手頃価格JPEGとPNG間の即座交換サービス - Movavi無料版」</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024gopro10/"><u>2024年度更新！免費GoPro動画編集ツールベスト10</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/deciphering-screen-recorders-bandicam-or-camtasia/"><u>Deciphering Screen Recorders Bandicam or Camtasia?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/decoding-the-average-earning-scale-for-podcasters/"><u>Decoding the Average Earning Scale for Podcasters</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/fixing-screen-issues-in-windows-professional-advice-by-yl-software/"><u>Fixing Screen Issues in Windows: Professional Advice by YL Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fotografia-digitali-essenziali-che-cose-un-file-cr2-and-strategie-daprire-efficaci/"><u>Fotografia Digitali Essenziali: Che Cos'È Un File CR2 & Strategie D'Aprire Efficaci</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-5-techniques-for-storing-lol-battles/"><u>In 2024, Top 5 Techniques for Storing LOL Battles</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726226969423-movavi-mkv-m4a/"><u>Movavi - 무료 공급자: 이미지, 오디오를 MKV, M4A로 쉽게 전환</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-guide-insta-video-edits-and-borders/"><u>Step-By-Step Guide Insta Video Edits & Borders</u></a></li>
-<li><a href="https://win-forum.techidaily.com/why-doesnt-my-file-explorer-work-discover-the-best-troubleshooting-techniques/"><u>Why Doesn't My File Explorer Work? Discover the Best Troubleshooting Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-explore-5-superior-ways-to-record-sound-with-windows-11/"><u>[New] Explore 5 Superior Ways to Record Sound with Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-windowcut-film-maker/"><u>[New] In 2024, WindowCut Film Maker</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enrich-viewers-experience-a-comprehensive-guide-to-youtube-end-screens/"><u>[Updated] 2024 Approved Enrich Viewers' Experience A Comprehensive Guide to Youtube End Screens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-start-and-sustain-an-indie-podcast-hit/"><u>[Updated] How to Start & Sustain an Indie Podcast Hit</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-comprehensible-guide-to-updating-usernames-in-google-meet/"><u>[Updated] In 2024, Comprehensible Guide to Updating Usernames in Google Meet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-enabling-printer-sharing-among-different-gadgets-with-networking-techniques/"><u>Comprehensive Guide: Enabling Printer Sharing Among Different Gadgets with Networking Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/integrating-soundscapes-with-fusion-studios-tips/"><u>Integrating Soundscapes with Fusion Studio's Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-nighttime-shots-iphone-photo-tactics-for-2024/"><u>Mastering Nighttime Shots IPhone Photo Tactics for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-linksys-security-a-comprehensive-compilation-of-default-passwords-and-usernames/"><u>Navigating Linksys Security : A Comprehensive Compilation of Default Passwords and Usernames</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comeback-story-a-brief-history-lesson-on-electrifying-cars-again/"><u>The Comeback Story: A Brief History Lesson on Electrifying Cars Again</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-ai-innovation-at-meta-an-insight-into-their-advanced-technology/"><u>Unveiling AI Innovation at Meta - An Insight Into Their Advanced Technology</u></a></li>
 </ul></div>
 

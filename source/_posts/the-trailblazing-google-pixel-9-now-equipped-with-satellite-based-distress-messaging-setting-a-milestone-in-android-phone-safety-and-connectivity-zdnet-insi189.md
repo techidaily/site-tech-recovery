@@ -1,7 +1,7 @@
 ---
 title: "The Trailblazing Google Pixel 9: Now Equipped with Satellite-Based Distress Messaging, Setting a Milestone in Android Phone Safety and Connectivity | ZDNET Insights"
-date: 2025-01-14T00:32:48.528Z
-updated: 2025-01-16T21:03:15.275Z
+date: 2025-01-18T19:32:34.350Z
+updated: 2025-01-23T04:58:07.804Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -69,7 +69,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,21 +122,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-the-art-of-preservation-digitizing-and-safeguarding-faded-family-memories/"><u>[New] The Art of Preservation Digitizing & Safeguarding Faded Family Memories</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-crafting-melodies-turn-any-tiktok-sound-into-phone-alerts-for-2024/"><u>[Updated] Crafting Melodies Turn Any TikTok Sound Into Phone Alerts for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-understanding-facebooks-video-privacy-settings/"><u>[Updated] Understanding Facebook's Video Privacy Settings</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-fresh-concepts-for-youtube-channels-inspiration-at-its-peak/"><u>2024 Approved Fresh Concepts for YouTube Channels Inspiration at Its Peak</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mov-wmv-movavi/"><u>免費在線MOV WMV轉換 - 經由Movavi簡化流程</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726225118370-mp4gifmovavi/"><u>免費在線MP4與GIF之間的轉換：運用Movavi技術</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1727788944820-choosing-the-right-apple-tablet-ipad-pro-vs-ipad-air-find-your-perfect-match/"><u>Choosing the Right Apple Tablet: IPad Pro Vs. IPad Air - Find Your Perfect Match!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/como-convertir-archivos-wmv-en-formatos-asf-gratis-online-usando-el-servicio-de-movavi-video-editor/"><u>Cómo Convertir Archivos WMV en Formatos ASF Gratis Online Usando El Servicio De Movavi Video Editor</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convert-your-avi-files-for-free-using-movavis-web-service/"><u>Convert Your AVI Files for Free Using Movavi's Web Service</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/crea-file-mp4-da-3gpp-online-e-liberamente-con-movavi-trasformazione-gratuita/"><u>Crea File MP4 Da 3GPP Online E Liberamente Con Movavi - Trasformazione Gratuita</u></a></li>
-<li><a href="https://howto.techidaily.com/google-pixel-7a-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Pixel 7a Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratis-3gp-naar-swf-konvertor-efficient-online-werkvorm-zorgvuldig-gemaakt-door-movavi/"><u>Gratis 3GP Naar Swf Konvertor: Efficiënt Online Werkvorm - Zorgvuldig Gemaakt Door Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-6s-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 6s Plus Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simple-guide-capturing-screenshots-and-videos-on-an-asus-computer/"><u>Simple Guide: Capturing Screenshots and Videos on an ASUS Computer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-durable-and-sturdy-laptops-insights-from-zdnet/"><u>Top Durable and Sturdy Laptops - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tga-png-movavi/"><u>온라인 TGA 포지탱크에서 PNG로의 자원 절약 – 모바비(Movavi)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-freeze-non-picked-youtube-video-suggestions/"><u>[Updated] In 2024, Freeze Non-Picked YouTube Video Suggestions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatxt-influence-on-modern-media-production/"><u>ChaTxt Influence on Modern Media Production</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-epson-wf-3520-drivers-installed-on-your-windows-pc/"><u>Get the Latest Version of Epson WF-3520 Drivers Installed on Your Windows PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-g24-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto G24?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-resolve-nsp4r-not-found-errors-repair-tips-for-windows-users/"><u>How to Correctly Resolve ‘Nsp4r Not Found’ Errors: Repair Tips for Windows Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-html-web-design-with-these-top-8-gratis-windows-editor-solutions/"><u>Master HTML Web Design with These Top 8 Gratis Windows Editor Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-to-produce-a-professional-looking-video-from-photos-and-music/"><u>New In 2024, How to Produce a Professional-Looking Video From Photos and Music</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-to-disable-and-delete-copilot-on-windows-11/"><u>Step-by-Step Instructions to Disable and Delete Copilot on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-zero-internet-auto-race-games-of-2023-premium-fun-without-data-drain/"><u>The Best Zero-Internet Auto Race Games of 2023 - Premium Fun Without Data Drain!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-9-skype-interview-strategies-for-success/"><u>Top 9 Skype Interview Strategies for Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722887621585-unlocking-your-iphones-secrets-no-ejector-needed/"><u>Unlocking Your iPhone's Secrets: No Ejector Needed!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-the-best-animation-drawing-software-for-beginners-and-pros/"><u>Updated Unleash Your Creativity The Best Animation Drawing Software for Beginners and Pros</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-your-gaming-rig-with-logitech-g-pro-wireless-mouse-drivers-for-windows/"><u>Upgrade Your Gaming Rig with Logitech G Pro Wireless Mouse Drivers for Windows</u></a></li>
 </ul></div>
 

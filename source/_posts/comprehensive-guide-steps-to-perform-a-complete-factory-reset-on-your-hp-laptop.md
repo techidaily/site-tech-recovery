@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Steps to Perform a Complete Factory Reset on Your HP Laptop"
-date: 2024-08-19T12:46:32.726Z
-updated: 2024-08-20T12:46:32.726Z
+date: 2025-01-17T07:12:13.063Z
+updated: 2025-01-22T16:20:00.006Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 
  Power on your laptop and TV (both with HDMI ports) and prepare an HDMI cable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2
 
  Plug the HDMI cable into both your laptop’s and TV’s HDMI ports.
@@ -30,8 +34,13 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-38.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3
 
  Now you may see your TV with a blue screen showing a No signal message. Press the**INPUT** or**SOURCE** button on your TV remote. Then use the Arrow icon to choose**HDMI 1** on your TV screen.
@@ -39,11 +48,9 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-36.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ### Step 4
 
 Tada! You may see the same screen with your laptop on the TV.
@@ -58,46 +65,35 @@ Tada! You may see the same screen with your laptop on the TV.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  3) Click**Display** when viewed by Large icons.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-30.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Adjust resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Select**TV** from Display drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-27.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  6) Change the Resolution to earn a best view on TV screen. Then click OK to save your settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if there’s no sound from TV speakers?
 
@@ -109,9 +105,6 @@ In addition, set your HDMI audio output device as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  2) Highlight your HDMI audio output device and click**Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-11.jpg)
@@ -120,9 +113,6 @@ In addition, set your HDMI audio output device as the default device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Still No Sound?
 
  If after all the settings above, there’s still no sound from your TV’s speakers, we highly recommend you update your HDMI audio output device driver. You can choose to download the latest driver from your device manufacturer’s website. However, it’s not as easy as it sounds. It needs you to find the correct driver and download it all manually.
@@ -143,8 +133,6 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +140,21 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-taking-control-mastering-the-art-of-background-removal/"><u>[New] 2024 Approved Taking Control Mastering the Art of Background Removal</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unleash-your-inner-animator-with-these-14-text-wonders/"><u>[New] 2024 Approved Unleash Your Inner Animator with These 14 Text Wonders</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-leading-free-global-dns-servers-for-enhanced-privacy/"><u>Discover the Leading Free Global DNS Servers for Enhanced Privacy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-troubleshooting-and-correcting-code-ebf8a6-error-on-windows/"><u>Effective Strategies for Troubleshooting and Correcting Code Ebf8a6 Error on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-picks-for-premium-overhead-sound-systems-in-the-year-2024/"><u>Expert Picks for Premium Overhead Sound Systems in the Year 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-better-options-ranking-the-best-gmail-competing-services-of-2024/"><u>Exploring Better Options: Ranking the Best Gmail Competing Services of 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuit-online-omwandelen-van-wav-naar-wma-movavi/"><u>Gratuit Online Omwandelen Van Wav Naar Wma - Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-gaming-experience-boosting-frames-per-second-in-watch-dogs-legion/"><u>Maximizing Gaming Experience: Boosting Frames Per Second in Watch Dogs: Legion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-switch-key-inquiries-before-committing-to-an-electric-vehicle-purchase/"><u>Navigating the Switch: Key Inquiries Before Committing to an Electric Vehicle Purchase</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screenshot-supreme-in-depth-recorder-reviews/"><u>Screenshot Supreme In-Depth Recorder Reviews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-profile-easy-tips-on-updating-facebook-login-details/"><u>Secure Your Profile: Easy Tips on Updating Facebook Login Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tips-and-tricks-for-extending-your-macs-active-hours-without-letting-it-go-to-sleep/"><u>Tips & Tricks for Extending Your Mac's Active Hours Without Letting It Go To Sleep</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-both-sides-benefits-and-drawbacks-of-chatgpt-for-innovative-writing-techniques/"><u>Unveiling Both Sides: Benefits and Drawbacks of ChatGPT for Innovative Writing Techniques</u></a></li>
+</ul></div>
 

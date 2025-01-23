@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Utilizing and Resolving Common Problems in Windows 10'S Built-In Voice Recorder
-date: 2024-08-19T12:48:03.105Z
-updated: 2024-08-20T12:48:03.105Z
+date: 2025-01-20T07:27:46.826Z
+updated: 2025-01-22T18:48:04.158Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
 [**5. Update device drivers**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Save your data to an external drive**
 
  As the notification goes, you should sign out to make sure that you won’t lost any data in the temporary profile.
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
  Click the**Sign out** button. The restart your computer. You may need to restart your computer a few times before it restarts successfully.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae6fd86438e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have trouble restarting your computer with Windows 10, power on and off your PC 3 times in a row to force a hard reboot. Then[**restart in Safe mode**](https://tools.techidaily.com/drivereasy/download/) and perform the solutions below.
 
@@ -51,37 +59,33 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
   
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 3: Run the System File Checker**
 
  If the above methods don’t help, the culprit could be your corrupted system files. You can run the System File Checker to help you fix this problem:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae77d6e2c46.png) and**X** at the same time, then click**Command Prompt (Admin)** .
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bf508717.png)
 
  2) When prompted to give administrator permission, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae785615bf1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Type**sfc /scannow** . Then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bff41b81.png)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) The scan can take up to 15 minutes to finish. Wait until it’s done.
 
  5) Check if you can log in without any problems now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 4: Create a new local administrator account**
 
@@ -91,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7c07ec74b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Other people** . (Note: If you’re on Windows 10 Home or Professional edition, you’ll see**Family & other people** here.) Then click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae789ee21f7.png)
@@ -102,16 +103,21 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78b1b29b7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  4) Click**Add a user without a Microsoft account** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78c3e6bfc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Enter the name, password and password hint. Then select**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78f859421.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 5: Update device drivers**
 
@@ -135,9 +141,6 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7b47c83bf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  If you still can’t sign into your profile after the above steps, feel free to leave us comments and we’ll provide as much help as we can.
 
 * [system](https://tools.techidaily.com/drivereasy/download/)
@@ -148,8 +151,6 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +158,26 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-zoom-audio-not-working-on-pc/"><u>[FIXED] Zoom Audio Not Working on PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-avoid-motion-sickness-in-virtual-reality-games/"><u>[New] Avoid Motion Sickness in Virtual Reality Games</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-big-waters-better-views-top-5-fishing-cams/"><u>[New] Big Waters, Better Views - Top 5 Fishing Cams</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-method-to-identify-recent-instagram-unfollows-for-2024/"><u>[New] Method to Identify Recent Instagram Unfollows for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-visual-identity-made-easy/"><u>[Updated] YouTube Visual Identity Made Easy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-your-ai-sidekick-alexa-vs-google-assistant-finding-the-perfect-match/"><u>Choosing Your AI Sidekick: Alexa Vs. Google Assistant - Finding the Perfect Match</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/easy-download-of-youtube-preview-pictures/"><u>Easy Download of YouTube Preview Pictures</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-samsung-galaxy-note-9-evaluation-top-device-with-large-display/"><u>Expert Samsung Galaxy Note 9 Evaluation: Top Device with Large Display</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-6s-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 6s to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722900820951-introducing-the-next-gen-of-ipads-by-apple-inc/"><u>Introducing the Next Gen of iPads by Apple Inc.</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lenovo-thinkphone-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lenovo ThinkPhone Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-scaling-on-ios-devices-how-to-zoom-in-and-out/"><u>Mastering the Art of Scaling on iOS Devices: How to Zoom In & Out</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/netflix-and-nintendo-switch-can-they-work-together-for-entertainment/"><u>Netflix & Nintendo Switch – Can They Work Together For Entertainment?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-get-the-lowdown-on-samsung-galaxy-z-fold-n6-anticipated-cost-release-moment-and-full-tech-breakdown/"><u>Sneak Peek: Get the Lowdown on Samsung Galaxy Z Fold N°6 - Anticipated Cost, Release Moment and Full Tech Breakdown</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-why-your-ipad-may-not-detect-the-printer/"><u>Solving Common Issues: Why Your iPad May Not Detect the Printer</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719152505087-taking-privacy-to-the-next-level-facebooks-messenger-and-instagram-now-have-encrypted-conversations/"><u>Taking Privacy to the Next Level: Facebook's Messenger and Instagram Now Have Encrypted Conversations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-resolving-a-504-gateway-timeout-error-effectively/"><u>Troubleshooting and Resolving a 504 Gateway Timeout Error Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/verizon-and-the-evolving-world-of-5g-technology-today/"><u>Verizon and the Evolving World of 5G Technology Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-exactly-is-a-dts-play-fi-system-explained/"><u>What Exactly Is a DTS Play-Fi System? Explained!</u></a></li>
+</ul></div>
 

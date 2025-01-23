@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Top Upcoming Enhancements for iPhone, iPad, Mac with AI Integration Announced by Apple This Autumn - Features Revealed on ZDNet"
-date: 2025-01-11T00:04:54.451Z
-updated: 2025-01-16T17:46:07.738Z
+date: 2025-01-22T00:00:24.738Z
+updated: 2025-01-23T06:27:23.127Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -90,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -105,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -119,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -151,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,21 +210,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-bring-your-tiktok-visuals-to-life-with-sound/"><u>[Updated] 2024 Approved Bring Your TikTok Visuals to Life with Sound</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-transitioning-artistry-in-inshot-videos/"><u>[Updated] 2024 Approved Transitioning Artistry in Inshot Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-best-no-cost-video-conferencing-apps-cross-system-friendly/"><u>[Updated] Best No-Cost Video Conferencing Apps Cross-System Friendly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-marketing-edge-with-video-based-client-advocacy/"><u>[Updated] Marketing Edge with Video-Based Client Advocacy</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comparing-cat5-vs-cat6-ethernet-cables-key-factors-and-performance/"><u>Comparing Cat5 Vs. Cat6 Ethernet Cables: Key Factors and Performance</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-to-top-8-windows-timer-apps/"><u>Comprehensive Guide to Top 8 Windows Timer Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-strategies-for-fixing-the-shell32dll-is-absent-error/"><u>Essential Strategies for Fixing the 'Shell32.dll Is Absent' Error</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/everything-you-need-to-know-about-the-upcoming-nothing-phone-3-projected-launch-date-costs-and-specs-discussed/"><u>Everything You Need to Know About the Upcoming Nothing Phone 3: Projected Launch Date, Costs, and Specs Discussed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/full-spectrum-analysis-of-vsco-editing-features-for-2024/"><u>Full Spectrum Analysis of VSCO Editing Features for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/high-hopes-minor-letdowns-a-closer-look-at-the-motorola-edgeplus/"><u>High Hopes, Minor Letdowns: A Closer Look at the Motorola Edge+</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oppo-reno-11-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Oppo Reno 11 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-streaming-wars-the-ultimate-twitch-vs-youtube-battle/"><u>In 2024, Streaming Wars The Ultimate Twitch Vs. YouTube Battle</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-any-language-for-free-explore-these-9-highly-recommended-online-language-platforms/"><u>Master Any Language for Free? Explore These 9 Highly Recommended Online Language Platforms!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-tv-shopping-a-beginners-guide-to-upgrading-your-home-viewing-experience/"><u>Navigating TV Shopping: A Beginner's Guide to Upgrading Your Home Viewing Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-watching-disneyplus-on-your-smart-tv-with-chromecast/"><u>Step-by-Step Guide: Watching Disney+ on Your Smart TV with Chromecast</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-to-experience-the-wizarding-world-in-proper-film-sequence/"><u>Step-by-Step Instructions to Experience the Wizarding World in Proper Film Sequence.</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-professional-3d-creation-software-for-video-startups/"><u>[New] 2024 Approved Professional 3D Creation Software for Video Startups</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-grow-with-integrity-selecting-reputable-tiktok-leads/"><u>[Updated] 2024 Approved Grow with Integrity Selecting Reputable TikTok Leads</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-enhance-viewing-experience-by-adjusting-snapchats-frame-rate-for-2024/"><u>[Updated] Enhance Viewing Experience by Adjusting Snapchat's Frame Rate for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-increase-click-through-with-best-youtube-thumbnail-fonts/"><u>[Updated] Increase Click-Through with Best YouTube Thumbnail Fonts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/clearing-hurdles-in-access-how-to-resolve-the-4-common-issues-leading-to-chatgpt-blocks/"><u>Clearing Hurdles in Access: How To Resolve The 4 Common Issues Leading to ChatGPT Blocks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-the-features-of-line-chat-an-expert-review/"><u>Discovering the Features of Line Chat: An Expert Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-fixes-for-not-found-mfplatdll-errors/"><u>Effective Fixes for Not Found mfplat.dll Errors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211175885-9781396323416-from-india-to-the-planet-mars/"><u>From India to the Planet Mars | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/score-big-savings-snag-an-apple-watch-series-10-for-only-99-before-others-insiders-tips-and-tricks-to-beat-the-rush/"><u>Score Big Savings! Snag an Apple Watch Series 10 for Only $99 Before Others - Insider's Tips and Tricks to Beat the Rush</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-automating-your-tweets-with-twitters-scheduling-tool/"><u>Step-by-Step Guide: Automating Your Tweets with Twitter's Scheduling Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-a-broken-ios-email-service/"><u>Troubleshooting a Broken iOS Email Service</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixed: Your Current Security Settings Do Not Allow This File to Be Downloaded"
-date: 2024-08-19T12:47:37.698Z
-updated: 2024-08-20T12:47:37.698Z
+date: 2025-01-16T05:14:31.762Z
+updated: 2025-01-22T19:53:16.703Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
  4) Wait for the troubleshooting process to finish. Then follow its instructions to try and fix your Arc mouse not working problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix 2: Modify Power Management Settings**
 
 **NOTE** : The following method works only on Bluetooth Arch mouse.
@@ -47,13 +51,25 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f6e1d72d8f0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Expand the category **Mice and other pointing devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f6e401a0d77.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click the device name and choose**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f6e3d5bf031.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Go to**Power Management** tab, and make sure the**Allow the computer to turn off his device to save power** option is**unchecked** and then click**OK** .
 
@@ -61,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
 5) Reboot your computer. See if this problem occurs again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Fix 3: Update Your Mouse Driver**
 
  When it comes to updating mouse driver, you can always choose from download and update drivers by yourself or do it automatically.
@@ -81,24 +93,19 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/Driver-Easy-Scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/DE-update-mouse-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Fix 4: Restore Your Computer**
 
  As mentioned earlier, it is suggested by tech support from Microsoft that users should perform a system restore to get this problem fixed. To some extent, Microsoft has admitted that this problem is one of the bugs in Windows 10 Creators Update.
@@ -115,8 +122,6 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +129,24 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ensuring-compliance-with-fb-messenger-call-records/"><u>[New] 2024 Approved Ensuring Compliance with FB Messenger Call Records</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-bridging-gaps-between-vision-and-execution-in-filmora-editing/"><u>[New] Bridging Gaps Between Vision and Execution in Filmora Editing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-4-effective-ways-to-snip-screens-on-chromebook-for-2024/"><u>[Updated] 4 Effective Ways to Snip Screens On Chromebook for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-seamless-integration-of-youtube-melodies-into-imovie/"><u>[Updated] In 2024, Seamless Integration of YouTube Melodies Into iMovie</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-skies-with-xiaomis-4k-drone/"><u>2024 Approved Mastering the Skies with Xiaomi's 4K Drone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-practical-approach-to-zoom-meetings-for-2024/"><u>A Practical Approach to Zoom Meetings for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-ultimate-film-guide-11-uplifting-cinema-hits-for-a-positive-vibe/"><u>Explore the Ultimate Film Guide: 11 Uplifting Cinema Hits for a Positive Vibe</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-poco-m6-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Poco M6 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-settings-how-to-disable-emergency-and-child-abduction-alarms-easily/"><u>IPhone Settings: How To Disable Emergency and Child Abduction Alarms Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-d-link-security-default-password-compilation-for-july-2024/"><u>Latest D-Link Security Default Password Compilation for July 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-your-wellness-tracking-with-the-android-measure-app-a-comprehvein-guide/"><u>Maximize Your Wellness Tracking with the Android Measure App - A Comprehvein Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-tips-configuring-seamless-sign-in-features-in-windows-os/"><u>Quick Tips: Configuring Seamless Sign-In Features in Windows OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-integration-how-to-project-your-laptop-screen-onto-your-tv-using-hdmi-technology/"><u>Seamless Integration: How to Project Your Laptop Screen Onto Your TV Using HDMI Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-getting-apples-iphone-user-manuals-for-all-models/"><u>Step-by-Step Guide: Getting Apple's iPhone User Manuals for All Models</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-free-substitutes-for-adobe-photoshop/"><u>Top 6 Free Substitutes for Adobe Photoshop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-minecraft-solutions-for-opengl-errors/"><u>Troubleshooting Minecraft: Solutions for OpenGL Errors</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-inexpensive-vuebell-video-doorbell-model/"><u>Ultimate Guide to the Inexpensive VueBell Video Doorbell Model</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Step-by-Step Tutorial on Switching Your Display Orientation in Windows 10
-date: 2024-08-19T12:49:50.069Z
-updated: 2024-08-20T12:49:50.069Z
+date: 2025-01-16T01:02:29.189Z
+updated: 2025-01-22T16:39:38.411Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. **[Download and install new drivers from manufacturers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update video drivers automatically](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Update video drivers via the Device Manager
 
  You can download and install the new video drivers via the Device Manager. Follow the steps below:
@@ -30,8 +34,18 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to invoke the**Run** command. Type **devmgmt.msc**  and press**Enter** to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1299e9140b3.png)
 2. In Device Manager, expand the **Display adapters**  category. Right click your graphics card and select **Update driver** (In some cases, this might be Update Driver Software).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12a0594834c.png)
 3. In the pop-up window, you will see two options. Click **Search automatically for updated driver software** . Then Windows will find and install drivers for your video device automatically.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12a0a3b3b6a.png)
 
  Repeat the steps above to update drivers for each graphics card if you’ve installed more than one graphics card.
@@ -40,18 +54,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 
  You can download and install the drivers manually if you know what you’re doing. Both PC manufacturers and device manufacturers provide drivers. If you’re using a prebuilt desktop or a laptop, it’s recommended you go to the PC manufacturer’s website, as they will customize the driver. If you built the desktop on your own or if the PC manufacturer doesn’t provide the new video drivers you need, you can download the drivers from the graphics card manufacturer.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Download the video drivers from PC manufacturers
 
  To download the correct drivers from PC manufacturers, you need to get the PC model name and the Specific Operating System (Windows 10 32-bit or Windows 10 64-bit ). Then you can download the drivers from the**SUPPORT** page of the website.
@@ -61,16 +63,19 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to invoke a run command. Type**msinfo32** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12971baa255.png)
 2. The**System Model** is the PC model name. In my case, the PC model is Vostro 3900.  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1297d215761.jpg)
 3. The**System Type** is the specific Windows version. In my case, the version is Windows 10 64-bit.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1298a663ccc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Download the video drivers from graphics card manufacturers
 
  To download the correct drivers from the graphics card manufacturer, you need to know the graphics card model and the specific Windows version. Then you can download the drivers from the**SUPPORT** page.
@@ -82,9 +87,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. Expand the**Display adapters**  category then you’ll get the graphics card model name. If you’ve installed more than one graphics card, you’ll see more than one item under this branch.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Update video drivers automatically
 
  If you don’t have the time, patience, or computer skills to video drives manually in Windows 10, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -97,16 +99,10 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -121,8 +117,6 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +124,19 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-soil-spinners-finding-the-next-stardew-title/"><u>[New] 2024 Approved Soil Spinners Finding the Next Stardew Title</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-visionary-6-eco-friendly-minecraft-mansions/"><u>[New] In 2024, Visionary 6 Eco-Friendly Minecraft Mansions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-filmmaking-techniques-youtubes-insights-and-competitors-for-2024/"><u>[Updated] Cutting-Edge Filmmaking Techniques YouTube's Insights & Competitors for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722892228339-discover-these-6-exceptional-no-cost-photo-manipulation-tools/"><u>Discover These 6 Exceptional No-Cost Photo Manipulation Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-seamless-printing-update-your-hp-laserjet-1320-driver-compatible-with-windows/"><u>Ensure Seamless Printing: Update Your HP LaserJet 1320 Driver Compatible with Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-13t-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi 13T Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-scoop-on-the-imminent-apple-personal-helper-projected-pricing-launch-window-and-innovative-features-uncovered-buzz-about-hidden-functionalities/"><u>Inside Scoop on the Imminent Apple Personal Helper: Projected Pricing, Launch Window & Innovative Features Uncovered; Buzz About Hidden Functionalities!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphone-strategies-preserving-and-enjoying-gifs-at-their-best-for-2024/"><u>IPhone Strategies Preserving & Enjoying GIFs at Their Best for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-updates-on-the-google-pixel-tablet-launch-detailed-specifications-and-announcement-details/"><u>Latest Updates on the Google Pixel Tablet Launch: Detailed Specifications & Announcement Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/matrix-movie-marathon-discover-the-optimal-order-to-dive-into-the-franchise/"><u>Matrix Movie Marathon: Discover the Optimal Order to Dive Into the Franchise</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-beginners-walkthrough-for-accepting-itunes-photo-sharing-on-iphone/"><u>The Beginner's Walkthrough for Accepting iTunes Photo Sharing on iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-to-fix-low-available-memory-problems-while-playing-god-of-war/"><u>Tips to Fix Low Available Memory Problems While Playing God of War</u></a></li>
+</ul></div>
 

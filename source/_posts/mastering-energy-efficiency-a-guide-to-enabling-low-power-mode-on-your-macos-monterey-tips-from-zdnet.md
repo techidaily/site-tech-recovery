@@ -1,7 +1,7 @@
 ---
 title: "Mastering Energy Efficiency: A Guide to Enabling Low Power Mode on Your macOS Monterey - Tips From ZDNet"
-date: 2025-01-11T16:32:04.523Z
-updated: 2025-01-17T04:05:16.590Z
+date: 2025-01-16T20:50:38.681Z
+updated: 2025-01-22T21:17:14.765Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -43,10 +39,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -56,6 +48,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -63,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -73,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,21 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-transform-your-stream-embrace-obs-for-youtube-and-twitch/"><u>[New] 2024 Approved Transform Your Stream Embrace OBS for YouTube & Twitch</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-listening-experience-how-to-add-podcasts-via-ipadiphone/"><u>[New] The Ultimate Listening Experience How to Add Podcasts via iPad/iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-transforme-seu-arquivo-ifo-em-mp4-tecnicas-facilmente-compreensiveis-para-pc-e-mac/"><u>1. Transforme Seu Arquivo IFO Em MP4: Técnicas Facilmente Compreensíveis Para PC E Mac</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/flvflac-movavi/"><u>無料移行:オンラインで簡単なFLVとFlac音楽形式の変換 - Movaviサービス</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budgetbright-studiokit-review-explosion/"><u>BudgetBright StudioKit Review Explosion</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/curating-historical-wisdom-the-ultimate-student-friendly-channel-list-1-10-for-2024/"><u>Curating Historical Wisdom The Ultimate Student-Friendly Channel List (#1-10) for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-find-x6-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo Find X6? Fixed | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reducing-oversized-win11-resolution/"><u>Reducing Oversized Win11 Resolution</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/removing-stickers-with-precision-a-tiktok-specialists-guide/"><u>Removing Stickers with Precision A TikTok Specialist's Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rendere-il-tuo-contenuto-multimediale-ottimale-conversione-gratuita-mpeg-a-flv-di-movavi/"><u>Rendere Il Tuo Contenuto Multimediale Ottimale: Conversione Gratuita MPEG a FLV Di Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-streaming-divx-films-to-your-samsung-smart-tv/"><u>Step-by-Step Tutorial: Streaming DivX Films to Your Samsung Smart TV</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-powerful-garmin-forerunner-945-a-detailed-review-of-its-advanced-tracking-capabilities/"><u>Unveiling The Powerful Garmin Forerunner 945: A Detailed Review of Its Advanced Tracking Capabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/videtodvd-expertise-in-vervanging-vhs-banden-met-digitale-convertereigenaars/"><u>VidetoDVD: Expertise in Vervanging VHS-Banden Met Digitale Convertereigenaars</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726225415132-vob-mpeg-movavi/"><u>무료 온라인 VOB MPEG 변환: Movavi로 각성하세요!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/web-gratis-tta-movavi/"><u>제공된 자동화를 사용하여 Web上で Gratis TTA 변환: Movavi 지원</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movaviand/"><u>インフルエンサーが選ぶ最強ツール - Movaviソフトウェア紹介&評価</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-why-instagram-videos-flip-onto-their-sides/"><u>[New] 2024 Approved Why Instagram Videos Flip Onto Their Sides</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-the-zoom-meeting-experience-tips-for-fluid-online-discussion/"><u>[New] In 2024, Mastering the Zoom Meeting Experience Tips for Fluid Online Discussion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-churn-memetic-content-for-gif-hub/"><u>[Updated] 2024 Approved Churn Memetic Content for GIF Hub</u></a></li>
+<li><a href="https://facebook.techidaily.com/9-must-try-apps-to-keep-your-social-plan-on-track/"><u>9 Must-Try Apps to Keep Your Social Plan on Track</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/full-series-marathon-how-to-binge-dragon-ball-sequentially/"><u>Full Series Marathon - How To Binge Dragon Ball Sequentially</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-m6-pro-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-address-missing-d3dx9e933dll-file-on-your-pc/"><u>How to Address Missing d3dx9_e9_33.dll File on Your PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-the-meta-quest-microphone/"><u>How to Use the Meta Quest Microphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/projector-buying-101-key-aspects-to-assess-before-making-your-decision/"><u>Projector Buying 101: Key Aspects to Assess Before Making Your Decision</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-managing-filefolder-removal-in-wix-uninstall-processes/"><u>Step-by-Step Guide: Managing File/Folder Removal in WiX Uninstall Processes</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-meta-key-shifts-in-their-privacy-guidelines/"><u>Unveiling Meta: Key Shifts in Their Privacy Guidelines</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-does-wi-fi-calling-mean/"><u>What Does Wi-Fi Calling Mean?</u></a></li>
 </ul></div>
 

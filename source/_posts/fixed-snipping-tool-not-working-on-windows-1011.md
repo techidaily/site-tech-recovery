@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Snipping Tool Not Working on Windows 10/11"
-date: 2024-08-19T12:49:21.692Z
-updated: 2024-08-20T12:49:21.692Z
+date: 2025-01-19T02:12:34.346Z
+updated: 2025-01-23T01:40:04.414Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Click the link below to get to your interested part:
 3. **[How do I tether my phone on Windows 10?](https://tools.techidaily.com/drivereasy/download/)**
 4. **[USB tethering not working on Windows 10?](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is USB tethering?
 
  You can share your phone’s mobile data with another device, like your laptop, through **tethering** . It makes your laptop be able to connect to the Internet when there’s no network connection. There are three types of tethering:**USB tethering** ,**Wi-Fi tethering** ,**Bluetooth tethering** .
@@ -38,6 +42,10 @@ Click the link below to get to your interested part:
 
  If you use a third-party tethering app, it’s possible to be free to use USB tethering. But even that, sometimes your carrier can still detect your tethering. Then you might have to pay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I tether my phone on Windows 10？
 
 It’s very easy to tether your phone on Windows 10, do these:
@@ -46,14 +54,15 @@ It’s very easy to tether your phone on Windows 10, do these:
 
  2) Tap Settings ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a786756399a.png) on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Tap **More networks**  \> **Tethering and portable hotspot** .
 
 **Note:**  You may also find the tethering option under the **Mobile Data**  or **Personal Hotspot**  sections based on different phones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a78ef25f8dc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Tap to check **USB tethering** .
 
@@ -86,18 +95,12 @@ It’s very easy to tether your phone on Windows 10, do these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8bea488065.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8c158644f0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Restart your laptop. Then check to see if you can access the Internet on your Windows 10 via USB tethering.
 
 ### Method 2: Replace the driver with the built-in one on your Windows 10 manually
@@ -105,36 +108,33 @@ Or click **Update All**  to automatically download and install the correct versi
  1) On your keyboard, press**Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and **X**  at the same time to invoke the quick access menu.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79a86b4b0e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  3) Expand **Network adapters**  and right-click **Remote NDIS based Internet Sharing Device** . Then click **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79bee367fe.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79e6f2a6c1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79fa25a97b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  6) Click the small box beside the **Show compatible hardware** . Note: It’s ticked on by default. When you click it, it will get blank.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7a0b38a645.png)
@@ -144,22 +144,17 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e3c685fdf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  8) Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e44842e31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait for a while, Microsoft will install the driver for you. Then you should see this screen
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8b9b8df3ac.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Check to see if you can access the Internet on your Windows 10 via USB tethering.
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -170,8 +165,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +172,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-windows-11-game-recording-5-methods/"><u>[New] 2024 Approved Windows 11 Game Recording [5 Methods]</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-actors-insight-crafting-engaging-online-reactions-on-youtube-3-pro-tips/"><u>[New] In 2024, Actor's Insight Crafting Engaging Online Reactions on YouTube (3 Pro Tips)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rapid-removal-of-ssgnature-backdrops-explained/"><u>[Updated] Rapid Removal of Ssgnature Backdrops Explained</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guidelines-for-selecting-an-engaging-movie-trailer-song/"><u>2024 Approved Guidelines for Selecting an Engaging Movie Trailer Song</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/ape-flac-movavi/"><u>APE 格式自由轉換為 FLAC 在線下載/流動 - 利用 Movavi 的音樂解決方案</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/assessing-the-true-eco-friendliness-of-electric-cars-a-deep-dive/"><u>Assessing the True Eco-Friendliness of Electric Cars: A Deep Dive</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-places-to-engage-in-free-educational-play-for-toddlers-top-9/"><u>Best Places to Engage in Free Educational Play for Toddlers (Top 9)</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-how-to-effortlessly-navigate-and-fix-issues-in-photo-8-windows-edition-the-comprehensive-tutorial-inside/"><u>Discover How to Effortlessly Navigate and Fix Issues in Photo 8 Windows Edition – The Comprehensive Tutorial Inside</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/key-information-every-asmr-aficionado-should-know/"><u>Key Information Every ASMR Aficionado Should Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revive-your-ipad-with-a-fresh-battery-a-how-to-article/"><u>Revive Your iPad with a Fresh Battery: A How-To Article</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-count-confusion-correcting-the-time-when-apple-watch-ignores-standing-motion/"><u>Step Count Confusion: Correcting the Time When Apple Watch Ignores Standing Motion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-starting-your-mac-in-safe-boot/"><u>Step-by-Step Guide: Starting Your Mac in Safe Boot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-breakdown-ar-vs-vr-vs-mr-vs-xr-understanding-each-technologys-unique-offerings/"><u>The Ultimate Breakdown: AR Vs. VR Vs. MR Vs. XR - Understanding Each Technology's Unique Offerings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-wpcapdll-file-not-detected-on-your-pc/"><u>Troubleshooting Guide: wpcap.dll File Not Detected on Your PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-distinctions-between-ipad-pro-m4-and-macbook-air-m3-a-comprehensive-guide/"><u>Unveiling Distinctions Between iPad Pro (M4) and MacBook Air (M3): A Comprehensive Guide</u></a></li>
+</ul></div>
 

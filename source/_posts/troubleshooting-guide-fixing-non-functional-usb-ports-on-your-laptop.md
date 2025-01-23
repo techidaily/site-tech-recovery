@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Non-Functional USB Ports on Your Laptop"
-date: 2024-08-19T12:49:46.685Z
-updated: 2024-08-20T12:49:46.685Z
+date: 2025-01-17T20:17:25.753Z
+updated: 2025-01-22T22:49:21.420Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/bb1f002a7be8b73cd12562f7aa67a81110093e83a
 
 Your screen remains black after turning on the PC? This is very frustrating, and you’re certainly not alone. Many Windows users are reporting this issue. But the good news is that you can fix it. Here’re 6 fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
 * [Fix 1: Force restart your computer](https://tools.techidaily.com/drivereasy/download/)
@@ -28,6 +32,10 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
  Though it might look complicated at first glance, just work your way down the list, step-by-step, and we’ll try to get you back on track.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Force restart your computer
 
  If all you see is a black screen after pressing the power button, try pressing the power button for 10 seconds to force shut down your PC, then turn it on. Doing this repeatedly for three times, the Windows Startup repair should launch automatically.
@@ -36,9 +44,6 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
  If you boot into Automatic Repair, select **Troubleshoot**  \> **Advanced options** \> **Startup settings** \> **Restart** \>**Safe Mode with Networking** , then try running a system scan with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to detect broken or damaged system files and repair them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check if your monitor is working
 
  If your computer starts but displays nothing, you should check is if your monitor is working properly.
@@ -48,6 +53,10 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 **If your monitor won’t turn on** , unplug the**power adapter** of your monitor, and then plug it back into the power outlet. If the problem still exists, you need to bring your monitor to the repair shop.
 
 **If your monitor works fine** , move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reconnect your monitor to your computer
 
@@ -63,19 +72,12 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/analog-20871_640-1024x338.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 **4)** Check to see if your**video cable** is damaged. If the video cable is fine, reconnect your computer to your monitor. Or, if you have**another video cable** available, try connecting the two devices using the new cable.
 
 **5)** Try turning on your computer to see if it can boot normally.
 
 If your computer fails again, read on and check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 4: Disconnect your peripherals
 
  Sometimes, certain peripherals connected to your computer may also cause the black screen issue. Try disconnecting all your peripherals to see if that’s the core problem. Here is how to do it:
@@ -90,9 +92,6 @@ If your computer fails again, read on and check the fix below.
 
 If your computer still can’t boot correctly, try the fix below.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall your RAM
 
  A poor connection between your RAM and motherboard can also cause this problem. In this case, you need to reinstall your RAM. Here is how:
@@ -108,6 +107,10 @@ If your computer still can’t boot correctly, try the fix below.
 RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Put**your RAM** back into the slot.
 
@@ -129,9 +132,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Wait for 5 minutes, and then reinstall your**CMOS battery** .
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer to see if your problem persists.
@@ -144,6 +144,10 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/Fortect-tp-reviews.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here’s how to use Fortect to check for broken system components in just one click:
 
  1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
@@ -154,9 +158,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -172,8 +173,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +180,26 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-photographic-journey-with-toolwiz-detailed-analysis-and-more/"><u>[New] Photographic Journey with Toolwiz Detailed Analysis and More</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-techniques-for-seamless-blending-of-hdr-photographs-in-lightroom-for-2024/"><u>[New] Techniques for Seamless Blending of HDR Photographs in Lightroom for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-leading-social-media-hash-tracking-software-for-fb-tweet-and-insta/"><u>[Updated] 2024 Approved Leading Social Media Hash Tracking Software for FB, Tweet & Insta</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-chrome-os-native-screen-recorder-for-2024/"><u>[Updated] Chrome OS Native Screen Recorder for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-fixes-for-privacy-concerns-in-piscart-images/"><u>[Updated] Quick Fixes for Privacy Concerns in PiscArt Images</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-methods-to-get-the-web-in-your-living-room-theater-system/"><u>DIY Methods to Get the Web in Your Living Room Theater System</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-nubia-red-magic-8s-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Nubia Red Magic 8S Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-sound-capture-on-your-meta-quest-gaming-headset-essential-tips/"><u>Enhancing Sound Capture on Your Meta Quest Gaming Headset: Essential Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/freedom-from-wires-and-phone-lines-innovative-methods-for-getting-online-anywhere/"><u>Freedom From Wires and Phone Lines: Innovative Methods for Getting Online Anywhere</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-f14-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy F14 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-ultimate-list-of-free-video-openers/"><u>In 2024, The Ultimate List of Free Video Openers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-gaming-space-on-xbox-one-by-adding-a-portable-storage-solution/"><u>Maximize Gaming Space on Xbox One by Adding a Portable Storage Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-system-issues-the-definitive-guide-to-using-chkdsk-on-windows-systems/"><u>Navigating System Issues: The Definitive Guide to Using Chkdsk on Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-your-iphone-15-tips-for-a-successful-reboot/"><u>Reviving Your iPhone 15: Tips for a Successful Reboot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-mobile-payments-learn-how-to-make-purchases-easily-using-apple-pay-on-an-apple-watch/"><u>Seamless Mobile Payments: Learn How to Make Purchases Easily Using Apple Pay on an Apple Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-dnssddll-error-on-your-computer/"><u>Troubleshooting the Missing dnssd.dll Error on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-advanced-analytics-using-metas-ai-in-your-instagram-game-plan/"><u>Unlocking Advanced Analytics: Using Meta's AI in Your Instagram Game Plan</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-snag-the-asus-laptop-at-just-99-during-best-buys-flash-sale-insider-tips/"><u>Unmissable Deal Alert: Snag the ASUS Laptop at Just $99 During Best Buy's Flash Sale - Insider Tips !</u></a></li>
+</ul></div>
 

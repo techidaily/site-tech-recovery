@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Tech Spectacle: The iPhone 16 'Glowtime', AI Advancements, and the New Apple Watch Series 10"
-date: 2025-01-11T21:25:57.909Z
-updated: 2025-01-16T22:07:12.711Z
+date: 2025-01-18T23:37:29.506Z
+updated: 2025-01-23T05:17:56.442Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you didn't get to tune in or want a detailed summary of the announcements, ke
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
@@ -65,7 +65,7 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -89,7 +89,7 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -117,7 +117,7 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -135,7 +135,7 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -184,22 +184,24 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-accelerating-the-playback-of-instagram-videos-tips/"><u>[New] 2024 Approved Accelerating the Playback of Instagram Videos (Tips)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-hds-radiance-reviewed-does-it-merit-the-hdr-label-for-2024/"><u>[Updated] HD's Radiance Reviewed Does It Merit the HDR Label for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-premier-collectors-list-top-shorts-for-free-online/"><u>[Updated] In 2024, Premier Collector's List Top Shorts for FREE Online</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-creative-loss-unexpectedly-banished-vid/"><u>2024 Approved Creative Loss Unexpectedly Banished Vid</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/audio-normalization-software-optimize-your-sound-quality-on-windows/"><u>Audio Normalization Software: Optimize Your Sound Quality on Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparative-review-choosing-between-the-apple-watch-series-9-and-fitbit-charge-6/"><u>Comparative Review: Choosing Between the Apple Watch Series 9 & Fitbit Charge 6</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/conversion-gratuita-da-m4v-a-mov-in-streaming-live-utilizzo-di-movavi-converter-online/"><u>Conversion Gratuita Da M4V a MOV in Streaming Live - Utilizzo Di Movavi Converter Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726222561213-f4v-mp3-movavi/"><u>F4V 프리미엄 아이포드를 MP3로 바꾸기: 무료 원구성 온라인 도구 - Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-incompatibility-making-all-iphone-accessories-work-together-smoothly/"><u>Fixing Incompatibility: Making All iPhone Accessories Work Together Smoothly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transform-mov-files-into-m4v-format-with-easy-steps/"><u>Free Online Conversion: Transform MOV Files Into M4V Format with Easy Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transforming-3gp-videos-into-mjpeg-format-with-movavi/"><u>Free Online Conversion: Transforming 3GP Videos Into MJPEG Format with Movavi</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-honor-x9b-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Honor X9b</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-visualizing-sim-life-masterful-tactics-for-accurate-gameplay-recording-in-sims-4/"><u>In 2024, Visualizing Sim Life Masterful Tactics for Accurate Gameplay Recording in Sims 4</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/real-time-video-sketching-with-movavi-live-draw-over-recorded-footage/"><u>Real-Time Video Sketching with Movavi - Live Draw Over Recorded Footage</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformer-un-fichier-flac-en-fichier-wav-gratuitement-en-ligne-convertisseur-audio-video-rapide/"><u>Transformer Un Fichier FLAC en Fichier WAV Gratuitement en Ligne - Convertisseur Audio Vidéo Rapide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-your-raspberry-pis-full-potential-with-the-latest-glorious-64-bit-operating-system-installation-guide-cnet-reviews/"><u>Unleash Your Raspberry Pi's Full Potential with the Latest 'Glorious' 64-Bit Operating System Installation Guide | CNET Reviews</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726223590556-m4a-m4r-movavi/"><u>무료 인터넷에서 쉬운 M4A, M4R 교리 - Movavi 구독하기</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs-for-2024/"><u>[New] Uninterrupted AirDrop Connections in the World of iPhones & Macs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-the-secrets-of-inshot-editing-excellence/"><u>[New] Unraveling the Secrets of InShot Editing Excellence</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-going-against-gravity-innovative-ways-to-rewind-youtube-content/"><u>[Updated] 2024 Approved Going Against Gravity Innovative Ways to Rewind YouTube Content</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-tecno-pop-7-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Tecno Pop 7 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-ipad-pro-and-macbook-air-uncover-the-key-distinctions/"><u>Comparing iPad Pro and MacBook Air: Uncover the Key Distinctions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquer-languages-in-a-captivating-virtual-world-mondly-vr-adventure/"><u>Conquer Languages in a Captivating Virtual World - Mondly VR Adventure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-fixes-to-bridge-the-link-ensuring-your-stadia-headset-connects-seamlessly/"><u>Effective Fixes to Bridge the Link: Ensuring Your Stadia Headset Connects Seamlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficiently-adding-multiple-locations-a-step-by-step-google-maps-tutorial/"><u>Efficiently Adding Multiple Locations: A Step-by-Step Google Maps Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ensuring-no-event-is-forgotten-troubleshooting-your-iphone-calendar-woes/"><u>Ensuring No Event Is Forgotten: Troubleshooting Your iPhone Calendar Woes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-reconnect-an-unresponsive-ipad-to-wi-fi-networks/"><u>Expert Advice: How to Reconnect an Unresponsive iPad to Wi-Fi Networks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-a-zlibdll-file-missing-or-corrupted-scenario/"><u>How to Recover From a zlib.dll File Missing or Corrupted Scenario</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-blade-chroma-with-4k-camera-review/"><u>In 2024, Blade Chroma with 4K Camera Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-fire-stick-remote-linkage-for-optimal-streaming-experience/"><u>Master the Art of Fire Stick Remote Linkage for Optimal Streaming Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-screenshotting-in-windows-11-discover-these-4-easy-tricks/"><u>Mastering Screenshotting in Windows 11: Discover These 4 Easy Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-through-srt-freeze-in-adobe-premiere-projects/"><u>Navigating Through SRT Freeze in Adobe Premiere Projects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-a1-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo A1 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reactivating-dark-mode-on-facebook-simple-solutions-for-a-stylish-interface/"><u>Reactivating Dark Mode on Facebook: Simple Solutions for a Stylish Interface</u></a></li>
+<li><a href="https://win-premium.techidaily.com/verliertest-du-keine-hoffnung-fehlerbehebung-und-datenwiederherstellung-fur-ihr-synology-nas-system/"><u>Verliertest Du Keine Hoffnung! Fehlerbehebung Und Datenwiederherstellung Für Ihr Synology NAS-System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-go-to-source-for-micromobility-trends-important-dates-fresh-news-rumors-afloat-and-full-scopes/"><u>Your Go-To Source for Micromobility Trends: Important Dates, Fresh News, Rumors Afloat, and Full Scopes</u></a></li>
 </ul></div>
 

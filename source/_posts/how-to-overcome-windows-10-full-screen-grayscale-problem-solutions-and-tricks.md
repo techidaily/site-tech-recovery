@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Windows 10 Full-Screen Grayscale Problem – Solutions & Tricks
-date: 2024-08-19T12:49:27.367Z
-updated: 2024-08-20T12:49:27.367Z
+date: 2025-01-18T00:54:53.671Z
+updated: 2025-01-23T04:08:42.499Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
 [**5. Update device drivers**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Save your data to an external drive**
 
  As the notification goes, you should sign out to make sure that you won’t lost any data in the temporary profile.
@@ -39,7 +43,15 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae6fd86438e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have trouble restarting your computer with Windows 10, power on and off your PC 3 times in a row to force a hard reboot. Then[**restart in Safe mode**](https://tools.techidaily.com/drivereasy/download/) and perform the solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 2: Disable antivirus applications temporarily**
 
@@ -57,21 +69,27 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae77d6e2c46.png) and**X** at the same time, then click**Command Prompt (Admin)** .
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bf508717.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) When prompted to give administrator permission, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae785615bf1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Type**sfc /scannow** . Then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bff41b81.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) The scan can take up to 15 minutes to finish. Wait until it’s done.
 
@@ -85,16 +103,10 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7c07ec74b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Other people** . (Note: If you’re on Windows 10 Home or Professional edition, you’ll see**Family & other people** here.) Then click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae789ee21f7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  3) Click**I don’t have this person’s sign-in information** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78b1b29b7.png)
@@ -103,19 +115,10 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78c3e6bfc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  5) Enter the name, password and password hint. Then select**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78f859421.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method 5: Update device drivers**
 
  Faulty installed device drivers could be the cause of this problem.  You should verify that all your devices have the right driver, and update those that don’t.
@@ -148,8 +151,6 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +158,23 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-frame-your-fantasy-the-most-uplifting-instagram-captures/"><u>[New] In 2024, Frame Your Fantasy The Most Uplifting Instagram Captures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailor-made-fee-free-epilogue-music-templates/"><u>2024 Approved Tailor-Made, Fee-Free Epilogue Music Templates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apple-withdraws-new-beta-ios-following-user-reports-of-device-failure-and-compatibility-issues-gizmohub/"><u>Apple Withdraws New Beta iOS Following User Reports of Device Failure and Compatibility Issues - GizmoHub</u></a></li>
+<li><a href="https://win-forum.techidaily.com/bios-explained-enhancing-your-pc-experience-with-revo-uninstaller/"><u>BIOS Explained: Enhancing Your PC Experience with Revo Uninstaller</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-itel-a70-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Itel A70</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/cutting-edge-ipad-voice-recording-tools-3p-for-2024/"><u>Cutting-Edge iPad Voice Recording Tools 3P for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-selection-of-great-sports-flicks-available-today/"><u>Discover the Ultimate Selection of Great Sports Flicks Available Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-restoring-online-functionality-to-amazon-echo-products-marked-as-off-by-alexa/"><u>Expert Tips for Restoring Online Functionality to Amazon Echo Products Marked as Off by Alexa</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-rectify-missing-or-undetected-propsysdll-errors-in-windows-system/"><u>How to Rectify: Missing or Undetected PropSys.dll Errors in Windows System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-google-pixel-8-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Google Pixel 8 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/properly-programmed-ideal-configurations-for-switchers/"><u>Properly Programmed: Ideal Configurations for Switchers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solve-your-macbook-pros-keyboard-woes-effective-fix-solutions-for-non-functional-keys/"><u>Solve Your MacBook Pro's Keyboard Woes: Effective Fix Solutions for Non-Functional Keys</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-tutorial-sending-emojis-from-your-iphone/"><u>The Complete Tutorial: Sending Emojis From Your iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/todays-top-tv-shows-your-essential-guide-to-max-originals/"><u>Today's Top TV Shows: Your Essential Guide to Max Originals</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unleash-creativity-with-youtube-studio-editor/"><u>Unleash Creativity with YouTube Studio Editor</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/update-your-iphones-area-code-a-comprehensive-instruction-for-region-adjustment/"><u>Update Your IPhone’s Area Code: A Comprehensive Instruction for Region Adjustment</u></a></li>
+</ul></div>
 

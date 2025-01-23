@@ -1,7 +1,7 @@
 ---
 title: Common Issues and Fixes for an Oculus Controller That Won't Work
-date: 2024-08-19T12:45:45.285Z
-updated: 2024-08-20T12:45:45.285Z
+date: 2025-01-21T17:28:12.206Z
+updated: 2025-01-23T06:38:24.976Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba324261c48.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) You’ll see Skype’s system status from the newly opened web page. If something is wrong with Skype, you’ll see the message here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba3393bc52d.jpg)
@@ -55,6 +59,10 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba3ce447ed7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) You can also go the the official website of Skype to download the latest version from there.
 
 ##
@@ -65,6 +73,10 @@ _Skype can’t connect_
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba41495099c.png) and**I** at the same time. Click**Update & security** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba4105e1a55.png)
 
  2) Click**Check for updates** .
@@ -74,6 +86,10 @@ _Skype can’t connect_
  3) Wait for Windows to search for and download available updates for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba41bf10bc6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) You may need to restart your PC for the changes to take effect.
 
@@ -108,9 +124,6 @@ netsh int tcp show global
 
 3) Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 5\. Update Network Card Driver
 
  This problem is probably caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -126,17 +139,15 @@ netsh int tcp show global
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45ad5c809.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45c2da6fc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [Skype](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -145,8 +156,6 @@ netsh int tcp show global
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +163,17 @@ netsh int tcp show global
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-hasten-recovering-deleted-snaps-for-2024/"><u>[New] Hasten Recovering Deleted Snaps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guides-to-3d-type-exploration/"><u>2024 Approved Ultimate Guides to 3D Type Exploration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-the-cannot-find-msvcrtdll-error-practical-strategies-and-fixes/"><u>Fix the 'Cannot Find msvcrt.dll' Error: Practical Strategies and Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-realme-v30-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Realme V30 Phones? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-6-plus-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 6 Plus Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ating-youtubes-monetization-frequency/"><u>Navigating YouTube's Monetization Frequency</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-how-to-get-the-latest-nvidia-geforce-gtx-460-drivers-on-your-windows-system/"><u>Step-by-Step: How to Get the Latest NVIDIA GeForce GTX #460 Drivers on Your Windows System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-samsung-displays-expert-advice-on-resetting-your-television/"><u>Troubleshooting Samsung Displays: Expert Advice on Resetting Your Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-in-place-kernel-errors-swiftly/"><u>Ultimate Guide: Resolving In-Place Kernel Errors Swiftly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-your-iphones-sim-slider-with-household-items/"><u>Unlocking Your iPhone's SIM Slider with Household Items</u></a></li>
+</ul></div>
 

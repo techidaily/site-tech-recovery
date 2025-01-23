@@ -1,7 +1,7 @@
 ---
 title: "Skyrocket Minecraft Frames per Second: Expert Strategies for High-End PC Optimization - Updated"
-date: 2024-08-19T12:49:41.156Z
-updated: 2024-08-20T12:49:41.156Z
+date: 2025-01-19T20:04:00.929Z
+updated: 2025-01-23T01:02:51.430Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
 
  But you don’t need to walk through all the steps. Just select the ones you need.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Install Java
 
  Installing Java should be the first step to take if you want to add mods to Minecraft.
@@ -34,6 +38,10 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
  2) On the page of the website, click**Java Download** .  
   
 ![Java download](https://images.drivereasy.com/wp-content/uploads/2020/09/Java-download-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Agree and Start Free Download** . (It will automatically detect your operating system if it fails to do that, you can click**See all Java downloads** and download the exact Java version that is compatible with your OS.)  
   
@@ -62,6 +70,10 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
   
 ![Install Forge](https://images.drivereasy.com/wp-content/uploads/2020/09/Install-Forge-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) There will be a line “**Please wait … seconds…** ”. So just wait for several seconds and don’t click anything.
   
 ![Install Forge](https://images.drivereasy.com/wp-content/uploads/2020/09/Install-Forge-3.jpg)
@@ -83,13 +95,15 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
   
 ![Install Forge](https://images.drivereasy.com/wp-content/uploads/2020/09/Install-Forge-7.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Simply click**OK** when the Complete window pops up and the installation process will be completed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 3: Backup Minecraft files
 
  Although adding mods is usually quite safe, you won’t know what would happen. So here we suggest that you have your Minecraft**.jar** file backed up before installing any mods.  
@@ -100,20 +114,30 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
   
 ![Copy](https://images.drivereasy.com/wp-content/uploads/2020/09/Copy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Create a new folder either on the cloud like Google Drive or One Drive or your computer.  
   
  To do so, you can right-click on the empty space on your desktop and click**New** \>**Folder** . Till then, name the folder.  
   
 ![create a new folder](https://images.drivereasy.com/wp-content/uploads/2020/09/create-a-new-folder.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click, and select**Paste** into the new folder you just created. After that, you successfully make a backup copy.  
   
 ![Paste](https://images.drivereasy.com/wp-content/uploads/2020/09/Paste.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 4: Download mods from a trusted source
 
@@ -129,9 +153,6 @@ Here we recommend you go to these two notable Minecraft mods sites:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Step 5: Add mods to Minecraft**
 
  After you’ve downloaded the mods, place them into your Minecraft folder and launch Minecraft.
@@ -154,17 +175,10 @@ To do so, you can:
   
 ![install Minecraft mods](https://images.drivereasy.com/wp-content/uploads/2020/09/add-mods-to-Minecraft.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now with mods added to your Minecraft, you can start to explore the wonder of the game!
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## BONUS: update your drivers to enjoy the game to the fullest
 
  Playing games is quite fun. But sometimes you might encounter certain issues like black screen crashes with sound looping or something like that. It definitely destroys your gameplay experience!
@@ -187,8 +201,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 [Realtek](https://www.realtek.com/en/downloads)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 2** : Automatically update the drivers
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
@@ -201,9 +216,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
   
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to the video driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and You’ll be prompted to upgrade when you click Update All.)  
@@ -225,8 +242,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +249,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/park-conversations-with-these-10-youtube-reaction-ideas-for-2024/"><u>[New] Spark Conversations with These 10 YouTube Reaction Ideas for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-10-budget-friendly-cloud-service-providers-for-2024/"><u>[New] Top 10 Budget-Friendly Cloud Service Providers for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-experts-roadmap-to-bulk-downloading-on-tiktok-platform/"><u>2024 Approved The Expert's Roadmap to Bulk Downloading on TikTok Platform</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/cinematic-clarity-expert-4k-screens-for-editing-artistry-for-2024/"><u>Cinematic Clarity Expert 4K Screens for Editing Artistry for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-between-ai-giants-the-pros-and-cons-of-gemini-against-chatgpt-plus/"><u>Deciding Between AI Giants: The Pros and Cons of Gemini Against ChatGPT Plus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/direct-access-to-global-events-capturing-every-moment-from-the-2n4-summer-olympiad-online/"><u>Direct Access to Global Events: Capturing Every Moment From the 2N4 Summer Olympiad Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-guide-accessing-your-iphones-sim-tray-without-a-specialized-ejector/"><u>DIY Guide: Accessing Your iPhone's SIM Tray without a Specialized Ejector</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-news-collectors-discover-the-elite-aggregators-of-this-year/"><u>Leading News Collectors: Discover the Elite Aggregators of This Year!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximizing-zoom-collaboration-essential-setup-tips-for-2024/"><u>Maximizing Zoom Collaboration Essential Setup Tips for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simplify-your-workday-customizing-automatic-logon-for-a-faster-start-on-windows-systems/"><u>Simplify Your Workday: Customizing Automatic Logon for a Faster Start on Windows Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-basics-a-guide-to-rtx-graphics-cards/"><u>Understanding the Basics: A Guide to RTX Graphics Cards</u></a></li>
+</ul></div>
 

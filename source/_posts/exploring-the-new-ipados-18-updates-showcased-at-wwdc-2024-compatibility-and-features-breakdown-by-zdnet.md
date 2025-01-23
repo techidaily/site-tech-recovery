@@ -1,7 +1,7 @@
 ---
 title: Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet
-date: 2025-01-10T18:38:26.953Z
-updated: 2025-01-16T22:29:10.501Z
+date: 2025-01-16T06:21:47.677Z
+updated: 2025-01-22T19:17:49.899Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,18 +120,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elevate-your-pc-best-8-video-capture-tools-for-windows-10/"><u>[New] 2024 Approved Elevate Your PC Best 8 Video Capture Tools for Windows 10</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-how-to-turn-on-or-off-comments-on-youtube/"><u>[New] 2024 Approved How to Turn on or Off Comments on YouTube</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-quick-start-to-recording-iphone-memos/"><u>[New] In 2024, Quick Start to Recording iPhone Memos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-speed-up-your-iphone-photography-with-time-lapses/"><u>[New] In 2024, Speed Up Your iPhone Photography with Time-Lapses</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-art-of-profit-from-20-second-videography-a-guide-for-creators/"><u>[New] In 2024, The Art of Profit From 20-Second Videography A Guide for Creators</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/end-apple-musics-auto-play-feature-a-comprehensive-guide/"><u>End Apple Music's Auto-Play Feature: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-check-a-macbooks-temperature/"><u>How to Check a MacBook's Temperature</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/multiple-image-uploads-on-facebook-a-step-by-step-guide/"><u>Multiple Image Uploads on Facebook: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/power-tools-mastering-the-art-of-taking-screenshots-in-windows-11/"><u>Power Tools: Mastering the Art of Taking Screenshots in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sequencing-your-viewing-the-ultimate-guide-to-watching-all-of-taylor-swifts-films/"><u>Sequencing Your Viewing: The Ultimate Guide to Watching All of Taylor Swift's Films</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tunetinker-tweaking-the-audio-map/"><u>TuneTinker Tweaking the Audio Map</u></a></li>
-<li><a href="https://driver-error.techidaily.com/understanding-and-resolving-blue-screen-error-0x0000007e-on-your-windows-7-machine/"><u>Understanding and Resolving Blue Screen Error 0X0000007E on Your Windows 7 Machine</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elevating-your-listening-palette-with-youtube-music/"><u>[New] 2024 Approved Elevating Your Listening Palette with YouTube Music</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-broadcast-brains-vs-bodies-finding-the-frontier/"><u>[New] Broadcast Brains Vs Bodies Finding the Frontier</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-decoding-vsdcs-technology-against-top-screen-recorder-competitors/"><u>[Updated] In 2024, Decoding VSDC's Technology Against Top Screen Recorder Competitors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-blue-screen-of-death-error-code-0xc00000185-and-how-to-correct-it/"><u>Decoding the Blue Screen of Death: Error Code 0XC00^000185 & How to Correct It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-transform-spotify-playlist-data-into-downloadable-text-files/"><u>How to Transform Spotify Playlist Data Into Downloadable Text Files</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-gt-neo-5-se-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Realme GT Neo 5 SE to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/kinemaster-advanced-perfecting-visual-continuity/"><u>Kinemaster Advanced Perfecting Visual Continuity</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/past-perspectives-present-7-features-from-older-windows-versions/"><u>Past Perspectives Present: 7 Features From Older Windows Versions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-nspr4dll-error-a-step-by-step-guide/"><u>Resolving nspr4.dll Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-verizon-device-trade-in-offers-this-month/"><u>Top Verizon Device Trade-In Offers This Month</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-helperdll-quick-fixes-unveiled/"><u>Troubleshooting the 'Missing Helper.dll': Quick Fixes Unveiled</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
 

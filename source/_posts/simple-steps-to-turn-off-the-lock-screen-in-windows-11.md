@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Turn Off the Lock Screen in Windows 11
-date: 2024-08-19T12:47:06.857Z
-updated: 2024-08-20T12:47:06.857Z
+date: 2025-01-22T05:49:13.138Z
+updated: 2025-01-23T02:01:05.338Z
 tags:
   - win11
   - win10
@@ -25,13 +25,14 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 2. **[How do I install the latest version of DirectX on Windows 10?](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Bonus tip](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is DirectX and Why do I need it?
 
  DirectX is a set of drivers in Windows. It allows software, especially video games work directly, also well with your video and audio card in an ideal state. In other words, it ensures an improved video and audio performance when you’re playing video games.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## How do I install the latest version of DirectX on Windows 11 and 10?
 
  It’s easy to install the latest version of DirectX on Windows 11 an Windows 10: there is no stand-alone package for DirectX in Windows 11 and Windows 10 because the updates are available through Windows Update.
@@ -47,25 +48,29 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 3. You should then have the latest version of DirectX on your Windows 10.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### You can check the version of DirectX in this way
 
@@ -75,11 +80,9 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b6562e5bfd8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
+
 ### Bonus tip for improving visual and audio performance
 
  To improve your visual and audio performance on your Windows 10, you not only should have the latest version of DirectX, but also should keep your video and audio cards driver up-to-date. You can download the latest drivers from your computer manufacturer’s website.
@@ -94,13 +97,14 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -112,8 +116,6 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +123,16 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-how-to-matchmake-for-maximum-viewership-on-youtube/"><u>[Updated] 2024 Approved How to Matchmake for Maximum Viewership on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-to-your-youtube-comments-easily/"><u>[Updated] Navigating to Your YouTube Comments Easily</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-reel-in-viewers-mastery-of-live-360-video-broadcasts-on-youtube/"><u>2024 Approved Reel In Viewers Mastery of Live 360 Video Broadcasts on Youtube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tips-for-transferring-printed-files-to-your-computer-via-scanner/"><u>Easy Tips for Transferring Printed Files to Your Computer via Scanner</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-breakdown-of-sharex-expert-opinions-and-alternatives/"><u>In 2024, Breakdown of ShareX Expert Opinions & Alternatives</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/join-the-fun-with-tiktok-duel-videos-an-easy-how-to-guide/"><u>Join the Fun with TikTok Duel Videos: An Easy How-To Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-troubleshooting-tips-for-airpods-not-resetting-correctly/"><u>Step-by-Step Troubleshooting Tips for AirPods Not Resetting Correctly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-5-premium-no-cost-malware-scrubbers-for-2n4/"><u>The Ultimate List: 5 Premium, No-Cost Malware Scrubbers for 2N4</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Meizu 21 | Dr.fone</u></a></li>
+</ul></div>
 

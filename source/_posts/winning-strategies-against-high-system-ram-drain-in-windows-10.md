@@ -1,7 +1,7 @@
 ---
 title: Winning Strategies Against High System RAM Drain in Windows 10
-date: 2024-08-19T12:48:12.012Z
-updated: 2024-08-20T12:48:12.012Z
+date: 2025-01-17T03:15:30.492Z
+updated: 2025-01-23T04:37:00.769Z
 tags:
   - win11
   - win10
@@ -21,15 +21,27 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 
 If some of the files refuse to be deleted, you need to restart your computer. After restart, repeat step 1) and 2), then delete the files again. 4) After emptying the**SoftwareDistribution**folder, restart your computer. 5) On your keyboard, press**Windows key**and**X**at the same time, then choose**Command Prompt (Admin)**from the list of choice. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858a50df1ba3.png)Hit**Yes**at the prompted administrative permission. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858a5562d15c.jpg)6) Enter**net start wuauserv**and hit**Enter**. Wait for the process to finish. Then enter**net start bits**and hit**Enter**. Wait for the process to finish. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858a8c92cd6b.jpg)7) Launch your**Windows Update**again to see if the update goes all well now. When the update completes, it is suggested that you restart your PC to complete the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **PRO TIP**
 
 When the update finishes, you may need to update all available device drivers in your PC.  If you don’t have the time, patience or computer skills to update all drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . **Driver Easy**will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks: 1) Download and install[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5959b3141ff9a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the driver you need to automatically download and install the correct version of this driver (you can do this with the FREE version).  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5959b3351e9ca.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Windows Update](https://tools.techidaily.com/drivereasy/download/)
 
@@ -39,8 +51,6 @@ When the update finishes, you may need to update all available device drivers in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -48,8 +58,21 @@ When the update finishes, you may need to update all available device drivers in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-tips-for-crafting-youtube-image-marketing-for-2024/"><u>[New] Essential Tips for Crafting YouTube Image Marketing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-comparing-apowersoft-to-alternatives/"><u>[New] In 2024, Comparing Apowersoft to Alternatives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-quick-glance-fastest-photo-viewer-in-11-os/"><u>[New] Quick Glance Fastest Photo Viewer in 11 OS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-elevate-your-video-visibility-11-secrets-of-successful-seo/"><u>[Updated] In 2024, Elevate Your Video Visibility 11 Secrets of Successful SEO</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tweetvidcutter-mp4webm-extractor/"><u>[Updated] In 2024, TweetVidCutter MP4/WebM Extractor</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-anticipated-product-launch-when-and-what-we-might-see/"><u>Apple's Anticipated Product Launch: When and What We Might See</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/browsing-undercover-comprehensive-techniques-to-remain-undetected-online/"><u>Browsing Undercover: Comprehensive Techniques to Remain Undetected Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-correcting-the-coredll-couldnt-be-loaded-message/"><u>Comprehensive Guide: Correcting the 'Core.dll Couldn't Be Loaded' Message</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/dealing-with-hot-graphic-cards-essential-tips-by-yl-technology-experts/"><u>Dealing with Hot Graphic Cards: Essential Tips by YL Technology Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-ieee-80211-variants-from-ax-to-bgn-standards-explored/"><u>Decoding IEEE 802.11 Variants: From Ax to B/G/N Standards Explored</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-oppo-a1x-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Oppo A1x 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-compact-world-of-tech-my-experience-with-the-tiniest-webcam-created-a-look-into-its-remarkable-flexibility-zdnet/"><u>Exploring the Compact World of Tech: My Experience with the Tiniest Webcam Created - A Look Into Its Remarkable Flexibility | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-whea-error-resolution-essential-tips-for-system-recovery/"><u>Mastering WHEA Error Resolution: Essential Tips for System Recovery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/personalize-your-pc-with-easy-windows-11-taskbar-color-tweaks/"><u>Personalize Your PC with Easy Windows 11 Taskbar Color Tweaks</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->

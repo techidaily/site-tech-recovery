@@ -1,7 +1,7 @@
 ---
 title: Unlock the Full Potential of Kodi with Our Expert Picks for Premier VPN Solutions in 2020
-date: 2024-08-19T12:48:08.651Z
-updated: 2024-08-20T12:48:08.651Z
+date: 2025-01-16T03:12:39.959Z
+updated: 2025-01-22T20:58:12.725Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Having low FPS or significant FPS drops in Skyrim Special Edition? You’re not 
 4. **[Roll back your AMD graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Install mods](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Change the PC power plan
 
  If your computer is running on the**Power saver** or**Balanced** power plan as default, Windows will automatically adjust the CPU’s speed and may limit your gaming experience. For better performance, you could switch to the High performance option.
@@ -34,13 +38,15 @@ Having low FPS or significant FPS drops in Skyrim Special Edition? You’re not 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run command. Then type**powercfg.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-1.jpg)
 2. Select**High performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-2.jpg)
 
  If you still don’t see improvement in Skyrim FPS, proceed to the second fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  Graphics card driver is essential to a smooth and enhanced gaming experience. If you’re using a faulty or outdated graphics driver, you’re more likely to get Skyrim FPS drops. So to avoid this, you should check for the driver updates regularly.
@@ -72,20 +78,20 @@ There are mainly two ways you can update your graphics driver:
 2. Locate**bLockFramerate** and set its value to**0** . Then click**Ctrl** +**S** to save the file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/config-file-1.jpg)
 3. Go back to the Skyrim Special Edition folder and open the**SkyrimPrefs** file.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Find**iVsyncPresentInterval** , set it to**0** and save the file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/config-file-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Once completed, launch Skyrim to test. If the FPS is not improved, there are a few more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Roll back your AMD graphics driver
 
  AMD users reported the latest AMD graphics driver can trigger decreased performance in Skyrim. To see if that’s the cause, you could roll back your graphics driver to the previous version.
@@ -101,17 +107,16 @@ Here is the instruction:
 4. Click**Clean and restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/clean-reinstall-driver-2.jpg)
 5. Wait for the uninstalling process to complete. Then, reboot your PC to exit the safe mode.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Go to the official support website of[AMD](https://www.amd.com/en/support) or[NVIDIA](https://www.nvidia.com/Download/index.aspx) to download the previous version of your graphics card driver.
 7. Open the downloaded file and follow the on-screen instructions to install the driver manually.
 
  Now see if the Skyrim FPS is raised. If not, try different versions until you find the one that renders the most stable Skyrim gameplay. Still no luck? Take a look at the last fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Fix 5 – Install mods
 
  Skyrim mods can not only spice up your gaming experience but also fixes quite a lot of issues with the game and its engine. Simply trythese bug-fixing mods such as[Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266) or[SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230) to see if they boost your FPS.
@@ -131,8 +136,6 @@ Here is the instruction:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +143,21 @@ Here is the instruction:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-unveiling-voice-memo-creation-on-ios-devices/"><u>[New] 2024 Approved Unveiling Voice Memo Creation on iOS Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-accelerate-audience-engagement-with-high-impact-hash-tags/"><u>[New] Accelerate Audience Engagement with High-Impact Hash Tags</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-boosting-creativity-the-most-outstanding-free-slide-show-templates/"><u>[New] Boosting Creativity The Most Outstanding Free Slide Show Templates</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-photo-your-display-windows-781011-style-for-2024/"><u>[New] Photo Your Display Windows 7/8/10/11 Style for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pushing-boundaries-with-vidmas-video-capture-features/"><u>[Updated] 2024 Approved Pushing Boundaries with Vidma's Video Capture Features</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-aerial-footage-a-guide-to-drone-video-editing/"><u>[Updated] In 2024, Mastering Aerial Footage A Guide to Drone Video Editing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-vlogging-basics-top-uncomplicated-projects/"><u>[Updated] Vlogging Basics Top Uncomplicated Projects</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-7-online-shared-agenda-tools-for-modern-households/"><u>Essential 7 Online Shared Agenda Tools for Modern Households</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-pairing-your-airpods-with-macos-on-macbook-air/"><u>Guide: Pairing Your AirPods with macOS on MacBook Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-seamlessly-bridge-airpods-and-your-macbook-air-a-step-by-nstep-guide/"><u>How to Seamlessly Bridge AirPods and Your MacBook Air: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-channels-to-zero-cost-image-frames/"><u>In 2024, Unveiling Channels to Zero-Cost Image Frames</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/must-have-samsung-smart-tv-app-selection-for-the-year-2024/"><u>Must-Have Samsung Smart TV App Selection for the Year 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-directories-with-the-command-window-a-comprehensive-tutorial/"><u>Navigating Through Directories with the Command Window - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-advanced-techniques-proven-tips-for-excellent-cloud-gaming-with-xbox-game-pass-ultimate/"><u>Unlocking Advanced Techniques: Proven Tips for Excellent Cloud Gaming with Xbox Game Pass Ultimate</u></a></li>
+</ul></div>
 

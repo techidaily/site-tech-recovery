@@ -1,7 +1,7 @@
 ---
 title: "Master Smooth Gameplay: The Ultimate Guide to Fixing PC Issues in Goose Goose Duck (Top 7 Tips)"
-date: 2024-08-19T12:50:26.618Z
-updated: 2024-08-20T12:50:26.618Z
+date: 2025-01-15T23:33:55.657Z
+updated: 2025-01-23T04:18:44.614Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ It’s important to optimize your Windows 10 operating system if you want a best
 5. [**Disable your visual effects**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Upgrade your computer hardware**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Limit your startup items
 
  Startup items mean the programs or processes that run automatically when your operating system starts. They can affect your Windows 10 system and your game performance. You should check these items and disable the ones you don’t need.
@@ -40,6 +44,10 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a1b3f9adc9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the**Startup** tab, then disable the items you don’t need.
 
  If you’re not sure what an item is, do some research on the Internet to know what it is and if you can disable it.
@@ -48,11 +56,12 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a1ccd1d664.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The next time you start your Windows 10 system, the items you disabled won’t start automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Configure your power plan
 
  You can’t release the full power of your Windows 10 system if you’re using a energy saving power plan. To optimize your device, you should check your power settings and change your power plan for better performance. Here’s how to do it.
@@ -61,9 +70,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a25d5dd9a1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click**Additional power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a281e65a10.jpg)
@@ -82,19 +88,17 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2ce44241f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2dbf235d3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 **3)** Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2e1292ffc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Wait for Windows Update to update your operating system.
 
@@ -110,19 +114,21 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)**  Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install the driver. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2090df306fe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you have any issue with Driver Easy, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) for advice. You should attach the URL of this article so they can help you better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Temporarily pause Windows Update
 
@@ -134,12 +140,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3ee66e073eb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Click**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3eea6be5120.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Turn on**Pause updates** .
 
@@ -157,9 +164,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a342a037e9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the**Advanced** tab, then click**Settings** in the_Performance_ section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a355c28e29.jpg)
@@ -169,8 +173,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a35afc6368.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Click**OK** .
 
  You’ve successfully turned off the visual effects of your Windows 10 system.
@@ -190,8 +195,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +202,26 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-top-10-innovative-tweets-de-followers-and-cleanup-apps/"><u>[New] In 2024, Top 10 Innovative Tweets De-Followers & Cleanup Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chronicles-of-progress-top-11-tech-milestones-since-1844/"><u>Chronicles of Progress: Top 11 Tech Milestones Since 1844</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/clearing-out-unnecessary-data-a-users-manual-for-android-cache-management/"><u>Clearing Out Unnecessary Data: A User’s Manual for Android Cache Management</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-the-502-gateway-problem-tips-for-quick-recovery/"><u>Demystifying the 502 Gateway Problem: Tips for Quick Recovery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortlessly-access-your-desktop-setting-up-automatic-login-on-windows/"><u>Effortlessly Access Your Desktop: Setting Up Automatic Login on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-guide-restoring-alexas-response-capability-when-it-stops-working/"><u>Expert Guide: Restoring Alexa's Response Capability when It Stops Working</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/fixing-disc-jams-on-macos-a-step-by-step-guide-to-eject-a-trapped-cd-or-dvd-from-external-drives/"><u>Fixing Disc Jams on macOS: A Step-by-Step Guide to Eject a Trapped CD or DVD From External Drives</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-laptop-key-issues-solve-them-easily-with-these-expert-tips/"><u>HP Laptop Key Issues? Solve Them Easily with These Expert Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-tale-of-high-quality-mobility-sony-xperia-xz-summary/"><u>In 2024, A Tale of High-Quality Mobility Sony Xperia XZ Summary</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oppo-a2-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Oppo A2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-time-to-switch-to-an-rtx-gpu-making-the-right-choice/"><u>Is It Time to Switch to an RTX GPU: Making the Right Choice</u></a></li>
+<li><a href="https://win-docs.techidaily.com/recupera-tutto-con-i-tuoi-file-dopo-un-ripristino-di-fabbrica-su-windows-10-o-11/"><u>Recupera Tutto Con I Tuoi File Dopo Un Ripristino Di Fabbrica Su Windows 10 O 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rewriting-windows-script-policy-top-4-strategies-for-enabling-ps-loading/"><u>Rewriting Windows Script Policy: Top 4 Strategies for Enabling PS Loading</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/signal-or-whatsapp-a-comprehensive-guide-to-choose-your-preferred-chat-platform/"><u>Signal or WhatsApp? A Comprehensive Guide to Choose Your Preferred Chat Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-6-best-offline-multilingual-translation-solutions/"><u>The Ultimate List of 6 Best Offline Multilingual Translation Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-samsung-galaxy-a14-4g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Samsung Galaxy A14 4G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-must-watch-free-films-on-youtube-as-of-july-2024/"><u>Top 10 Must-Watch Free Films on YouTube as of July 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-infinix-note-30-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Infinix Note 30 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+</ul></div>
 

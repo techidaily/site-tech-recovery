@@ -1,7 +1,7 @@
 ---
 title: "DIY Webcam Filming: Easy Methods to Start Recording Today"
-date: 2024-08-19T12:48:24.287Z
-updated: 2024-08-20T12:48:24.287Z
+date: 2025-01-18T07:12:28.252Z
+updated: 2025-01-23T04:46:23.292Z
 tags:
   - win11
   - win10
@@ -34,10 +34,25 @@ With a Google account, you can enjoy all the wonderful services provided by Goog
 3. **Verify your phone number** . Select your country, then enter your phone number to receive the 6-digit verification code message. Click**Next** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/verify-your-phone-number.png)
 4. Enter the 6-digit verification code you received and click**Verify** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/verify-your-phone-number-2.png)
 5. Use one of your Email addresses**as the recovery email address for your Google account** . Enter your**birthday and gender** , then click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/welcome-to-Google.png)
 6. If you want to add your phone number to your account for use across Google services, click**Yes, I’m in** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/get-more-from-your-number.png)
 7. Google will present the privacy policies for your Google Account. Once you’ve read these terms, click **I agree** to complete Google account creation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/google-account-creation.png)
@@ -47,8 +62,9 @@ With a Google account, you can enjoy all the wonderful services provided by Goog
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Create a Google account on your Android device
 
  If you’re using an Android phone, you can also create a Google account right on your phone. Now I’ll show you how to do it on a Google Pixel phone. For other Android phones, the steps are similar.
@@ -56,24 +72,17 @@ With a Google account, you can enjoy all the wonderful services provided by Goog
 1. Unlock your Android phone and go to**Settings** \>**Accounts** \>**Add account** . Then Select**Google** to start creating.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Settings-Accounts-Add-account-google.png)
 2. Tap**Create account** in the lower-left corner. Then follow the on-screen instructions to enter your name and phone number. Tap**Next** to continue.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Create-Google-account-on-Android-phone.png)
 3. Enter the verification code and your basic information, then choose your Gmail address, which is also your Google account.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/create-google-account-3.png)
 4. Google will present the privacy policies for your Google Account. Once you’ve read these terms, click **I agree** to complete Google account creation.  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/05/create-google-account-4-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/create-google-account-4-1.png)
+
 Now, you’ve successfully created a new Google account!
 
 ---
@@ -88,8 +97,6 @@ Now, you’ve successfully created a new Google account!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +104,16 @@ Now, you’ve successfully created a new Google account!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-tricks-to-enhance-your-ppt-impact-on-google-meet-any-device/"><u>[New] Tricks to Enhance Your PPT Impact on Google Meet, Any Device</u></a></li>
+<li><a href="https://discover-help.techidaily.com/accessing-and-modifying-print-device-preferences-with-yl-software/"><u>Accessing and Modifying Print Device Preferences with YL Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-or-disabling-network-discovery-on-your-windows-11-pc-a-step-by-step-guide/"><u>Enabling or Disabling Network Discovery on Your Windows 11 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-twelve-south-bookbook-v2-case-a-revolutionary-addition-to-any-macbook-users-collection/"><u>Expert Insights on the Twelve South BookBook V2 Case: A Revolutionary Addition to Any MacBook User's Collection</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-zte-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On ZTE Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ios-vs-android-a-deep-dive-analysis-of-their-official-stores/"><u>IOS Vs. Android: A Deep-Dive Analysis of Their Official Stores</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-oppo-a1-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Oppo A1 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-into-the-future-samsungs-anticipated-announcements-and-leaks-for-unpacked-2025-event/"><u>Sneak Peek Into the Future: Samsung's Anticipated Announcements & Leaks for Unpacked 2025 Event</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-monitoring-your-internet-consumption/"><u>Step-by-Step Guide: Monitoring Your Internet Consumption</u></a></li>
+</ul></div>
 

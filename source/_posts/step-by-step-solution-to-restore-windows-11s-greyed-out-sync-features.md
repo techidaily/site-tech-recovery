@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Restore Windows 11'S Greyed-Out Sync Features
-date: 2024-08-19T12:49:00.354Z
-updated: 2024-08-20T12:49:00.354Z
+date: 2025-01-20T06:28:50.325Z
+updated: 2025-01-22T23:38:03.285Z
 tags:
   - win11
   - win10
@@ -42,11 +42,19 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31df211e366.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In Startup type, select**Disabled** , then click >**Stop** ( make sure the word**Stop** is grayed out) >**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31dfc99cd5c.jpg)
 
 4) Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: **Meter your Wifi network**
 
@@ -56,21 +64,19 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e4af7b4b9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click on**the name of your Wifi connection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e51d793cb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Toggle the**Set as metered connection** switch**On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e598c92ca.jpg)
 
  4) Hopefully it solves your woes and you won’t see another ‘unsolicited’ Windows update on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 3: Change Group Policy Settings**
 
@@ -80,29 +86,39 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320075a239c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Double-click on **Computer Configuration** \> **Administrative Templates** \>**Windows Components** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320153b5782.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Double-click on**Windows Update** \> **Configure Automatic Updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32023756b85.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Choose**Disabled** , and then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320453ed059.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  It’s recommendable to select**Enabled** and**Notify for downloads and auto install** (see below) so that you can always get a confirmation message instead of an auto update (meanwhile still keeping a watchful eye for an important Windows update). Also, you might need to select**Enabled** if you are to upgrade your Windows to a higher version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320505e4030.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip: Update your device drivers via Driver Easy
 
@@ -118,17 +134,10 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45814031f86.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  3) Y ou can upgrade to the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) and click   **Update All**   to automatically download and install the correct version of   **ALL** the drivers that are missing or out of date on your system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321850aaba5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 4) Restart your computer to finish the update.
 
  That’s it  – 3 easy methods for you to turn off Windows Update on your computer  . Hope this helps and feel free to comment below if you have any further questions. ?
@@ -141,8 +150,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +157,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-formulate-funny-imagery-with-adobe/"><u>[New] Formulate Funny Imagery with Adobe</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-video-framing-technique-adding-bb-and-letterbox-overlays-to-fb-for-2024/"><u>[New] Video Framing Technique Adding BB and Letterbox Overlays to FB for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-complete-drone-equipment-collection-guide-for-2024/"><u>[Updated] The Complete Drone Equipment Collection Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/awaken-to-excellence-with-these-7-superior-alarm-clock-applications/"><u>Awaken to Excellence with These 7 Superior Alarm Clock Applications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-buys-secret-offer-for-free-macbook-air-m3-heres-the-insider-tutorial-zdnet/"><u>Best Buy’s Secret Offer for Free MacBook Air M3? Here's the Insider Tutorial! | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-ai-is-revolutionizing-our-lives-and-shaping-a-new-future/"><u>How AI Is Revolutionizing Our Lives and Shaping a New Future</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correct-screen-staining-and-longevity-techniques-for-multiple-devices/"><u>How To Correct Screen Staining and Longevity Techniques for Multiple Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-revive-your-apple-watchs-touch-screen-when-it-wont-respond-anymore/"><u>How to Revive Your Apple Watch's Touch Screen When It Won't Respond Anymore</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-securely-store-and-protect-your-digital-assets-in-5-ways/"><u>How to Securely Store and Protect Your Digital Assets in 5 Ways</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-best-bites-outside-the-box-new-film-favorites/"><u>In 2024, Best Bites Outside the Box New Film Favorites</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-depth-methodology-for-adding-srt-in-mp4-files-for-2024/"><u>In-Depth Methodology for Adding SRT in MP4 Files for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-into-the-future-with-samsungs-2025-lineup-events-schedule-and-rumored-tech-news/"><u>Sneak Peek Into the Future with Samsung's 2025 Lineup – Events Schedule and Rumored Tech News</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/speed-up-windows-how-to-fix-it-when-windows-11-is-slow/"><u>Speed Up Windows: How to Fix It When Windows 11 Is Slow</u></a></li>
+<li><a href="https://facebook.techidaily.com/stop-the-surveillance-germany-orders-cease-of-facebooks-whatsapp-data-gathering/"><u>Stop the Surveillance: Germany Orders Cease of Facebook's WhatsApp Data Gathering</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stunning-images-with-the-latest-iphone-camera-features/"><u>Stunning Images with the Latest iPhone Camera Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-of-smartphones-inside-info-on-apples-foldable-iphone-model-cost-predictions-and-specs-preview/"><u>The Future of Smartphones: Inside Info on Apple's Foldable iPhone Model – Cost Predictions & Specs Preview</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-your-creative-potential-with-zooms-step-by-step-filter-guide/"><u>Unleash Your Creative Potential with Zoom's Step-by-Step Filter Guide</u></a></li>
+</ul></div>
 

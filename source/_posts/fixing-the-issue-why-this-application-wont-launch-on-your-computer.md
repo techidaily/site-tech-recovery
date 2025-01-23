@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why This Application Won't Launch on Your Computer"
-date: 2024-08-19T12:50:16.810Z
-updated: 2024-08-20T12:50:16.810Z
+date: 2025-01-19T00:56:45.987Z
+updated: 2025-01-22T18:42:08.176Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
  The most annoying part is, it seems to be stuck with you. You could not do anything to get this notification gone. Even if they shut it down, it would reappear soon. Don’t worry, you’re not alone, and we’ve found solutions to fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 4 fixes that have helped many users solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 3. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 4. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Uninstall conflicted programs
 
  esrv.exe file belongs to Sony Cooperation, but this problem is not related to Sony. Instead, it has a lot to do with Intel Driver Update Utility. So, the first suggestion is for you to uninstall it from your system.
@@ -38,9 +46,17 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_597859ba2c280.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) View by**Category** , and then choose**Uninstall a program** under Programs category.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59785a0296df0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select**Intel Driver Update Utility** from the list and click**Uninstall** button.
 
@@ -54,9 +70,6 @@ Then wait for the uninstall to finish.
 
 5) Restart your PC. The problem should be gone now.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  It is very important to keep your device drivers up-to-date. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter**0xc0000142 Error** .
@@ -85,9 +98,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -95,8 +105,9 @@ OR
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Repair system files
 
  The**0xc0000142 Error** blue screen of death error may be related to system files. When the system files were broken or corrupted, it may cause a Blue screen issue.
@@ -120,6 +131,11 @@ There are 2 ways to solve it. Here’s how:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -132,9 +148,6 @@ There are 2 ways to solve it. Here’s how:
  2) Type**cmd** and press **Shift** +**Ctrl** +**Enter** together on your keyboard to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -143,9 +156,6 @@ There are 2 ways to solve it. Here’s how:
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reset or reinstall Windows
 
  If all else fails, you may have to[reset Windows](https://tools.techidaily.com/drivereasy/download/) , or maybe even[reinstall it](https://tools.techidaily.com/drivereasy/download/) together. We all know reinstalling will delete all the data on your hard drive, you have to[back up all your important files](https://tools.techidaily.com/drivereasy/download/) before doing it.  
@@ -156,9 +166,11 @@ There are 2 ways to solve it. Here’s how:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -180,8 +192,6 @@ There are 2 ways to solve it. Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +199,23 @@ There are 2 ways to solve it. Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-expert-tips-capturing-high-quality-whatsapp-voice-transcripts/"><u>[New] 2024 Approved Expert Tips Capturing High-Quality WhatsApp Voice Transcripts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-precision-of-portioning-video-length-optimization-on-youtube/"><u>[New] The Precision of Portioning Video Length Optimization on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-smooth-transition-synchronizing-your-iphones-albums-with-icloud-backup-for-2024/"><u>[Updated] Smooth Transition Synchronizing Your iPhone's Albums with iCloud Backup for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-how-to-make-a-photo-collage-using-iphoto/"><u>2024 Approved How to Make a Photo Collage Using iPhoto?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-honor-x50-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Honor X50 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-ipados-18-release-timeline-zero-price-tag-and-new-functionalities/"><u>Comprehensive Guide to iPadOS 18 - Release Timeline, Zero Price Tag, and New Functionalities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/creative-capers-with-ios-amusing-shenanignans-for-iphones-and-ipads/"><u>Creative Capers with iOS: Amusing Shenanignans for iPhones and iPads</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tips-and-tricks-timing-photos-perfectly-using-iphone-camera-features/"><u>Easy Tips & Tricks: Timing Photos Perfectly Using iPhone Camera Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/editing-your-instagram-captions-a-step-by-step-guide/"><u>Editing Your Instagram Captions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-screenshot-solutions-learn-four-key-windows-11-shortcuts-today/"><u>Effortless Screenshot Solutions – Learn Four Key Windows 11 Shortcuts Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-solutions-for-fixing-no-signal-screen-problems-on-android-gadgets/"><u>Expert Solutions for Fixing 'No Signal' Screen Problems on Android Gadgets</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-role-in-the-global-expat-experience-a-dual-perspective/"><u>Facebook's Role in the Global Expat Experience – A Dual Perspective</u></a></li>
+<li><a href="https://win-superb.techidaily.com/identifying-factors-contributing-to-extended-system-startup-times-insights-by-yl-computing/"><u>Identifying Factors Contributing to Extended System Startup Times - Insights by YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-xiaomi-redmi-note-12-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Xiaomi Redmi Note 12 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-keyboard-accessibility-turning-off-sticky-keys-on-your-pc/"><u>Mastering Keyboard Accessibility: Turning Off Sticky Keys on Your PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/resolving-faulty-airdrop-functionality-on-apple-devices/"><u>Resolving Faulty Airdrop Functionality on Apple Devices</u></a></li>
+</ul></div>
 

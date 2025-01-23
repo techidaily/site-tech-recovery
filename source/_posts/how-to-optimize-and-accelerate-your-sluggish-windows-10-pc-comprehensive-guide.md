@@ -1,7 +1,7 @@
 ---
 title: How to Optimize and Accelerate Your Sluggish Windows 10 PC - Comprehensive Guide
-date: 2024-08-19T12:45:57.442Z
-updated: 2024-08-20T12:45:57.442Z
+date: 2025-01-21T21:18:16.953Z
+updated: 2025-01-23T03:20:55.499Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/e2bd7441f115d457631670c7835514cc1e1ad27ea
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Change your user account name in Control Panel
 
  You can change a lot settings of Windows system through**Control Panel** , including changing your account name.
@@ -45,6 +49,11 @@ Here’s how:
 5. Select**Change the account name** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bc4e8452a.jpg)
 6. Type the new name into the New account name box, then click**Change Name** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bcf06209d.jpg)
 
 You’ll then see your account shows with the new name.
@@ -52,8 +61,9 @@ You’ll then see your account shows with the new name.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: change your user account name in Local Users and Groups
 
  You can create and manage users and groups that are stored locally on your computer through**Local Users and Groups** , including changing your account name.
@@ -66,26 +76,24 @@ Here’s how you can do that:
 2. Type**lusrmgr.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bdd824bcc.png)
 3. You’ll then see the Local Users and Groups window. Click**User** then double-click the user account which you want to rename.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be388d040.jpg)
-4. Type the new name in the**Full name** box. Then click**Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be8b0ca2a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be388d040.jpg)
+4. Type the new name in the**Full name** box. Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be8b0ca2a.jpg)
+
 The new name is set successfully.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Change your user account name in Settings
 
  If you log in your Windows 10 computer with a**Microsoft account** , you can change your account name in Settings. Go with these following steps:
@@ -98,11 +106,13 @@ The new name is set successfully.
 4. On the open page, click the drop-down menu of**More options** under your Microsoft account. Then select**Edit Profile** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c0d63158a.jpg)
 5. Click**Edit name** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c10a51997.png)
 6. Type the new name into the box and enter the characters you see for verification. Then click**Save** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Please note that this will change the account name of your Microsoft account.
 
 The new account name of your Windows 10 computer is set successfully.
@@ -119,8 +129,6 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +136,26 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-easy-ways-to-screen-record-on-dell-laptop/"><u>[New] 2024 Approved Easy Ways to Screen Record on Dell Laptop</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-adding-closed-captioning-to-instagram-live-and-igtv-for-2024/"><u>[New] Adding Closed Captioning to Instagram Live and IGTV for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-digital-stream-capturers-2023-edition-for-2024/"><u>[New] Digital Stream Capturers, 2023 Edition for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-x-uncovered-expected-costs-availability-schedule-and-rumored-technical-specifications/"><u>Apple Watch X Uncovered: Expected Costs, Availability Schedule & Rumored Technical Specifications</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/dicas-oficiais-para-consertar-dvds-copiados-no-windows-11-e-macos-sem-perder-a-integridade-de-video/"><u>Dicas Oficiais Para Consertar DVDs Copiados No Windows 11 E macOS Sem Perder a Integridade De Vídeo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discoveryplus-must-watch-tv-in-july-2024-our-top-show-recommendations/"><u>Discovery+ Must-Watch TV in July 2024: Our Top Show Recommendations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/find-the-ultimate-list-of-android-auto-clicker-tools-no-root-needed/"><u>Find the Ultimate List of Android Auto Clicker Tools No Root Needed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-elite-escapade-experiences-the-finest-action-adventure-gems/"><u>In 2024, Elite Escapade Experiences The Finest Action-Adventure Gems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-motorola-moto-g73-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Motorola Moto G73 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-hot-talk-hustle-1-10-viral-visits/"><u>In 2024, Twitter's Hot Talk Hustle #1-#10 Viral Visits</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-the-future-of-computing-intels-revolutionary-ai-processor-for-next-gen-laptops/"><u>Introducing the Future of Computing: Intel's Revolutionary AI Processor for Next-Gen Laptops</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-obstacles-effective-methods-for-a-bright-future-in-facetime-communication/"><u>Overcoming Obstacles: Effective Methods for a Bright Future in FaceTime Communication</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-correcting-missing-propsysdll-error-on-your-computer/"><u>Step-by-Step Solution: Correcting Missing PropSys.dll Error on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-walkthrough-binding-your-controller-to-the-ps4-console/"><u>The Complete Walkthrough: Binding Your Controller to the PS4 Console</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-science-behind-how-electric-two-wheelers-function/"><u>The Science Behind How Electric Two-Wheelers Function</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-8-leading-apps-for-managing-multiple-mobile-contact-numbers-effectively/"><u>The Ultimate List: 8 Leading Apps for Managing Multiple Mobile Contact Numbers Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-streaming-services-like-netflix-that-dont-cost-a-penny/"><u>Top 10 Streaming Services Like Netflix That Don't Cost a Penny</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-samsung-galaxy-ring-pricing-launch-timeline-and-feature-roundup/"><u>Unveiling the Samsung Galaxy Ring - Pricing, Launch Timeline & Feature Roundup</u></a></li>
+</ul></div>
 

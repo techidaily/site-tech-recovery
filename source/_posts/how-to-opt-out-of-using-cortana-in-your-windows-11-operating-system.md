@@ -1,7 +1,7 @@
 ---
 title: How To Opt-Out of Using Cortana in Your Windows 11 Operating System
-date: 2024-08-19T12:46:50.261Z
-updated: 2024-08-20T12:46:50.261Z
+date: 2025-01-16T23:35:24.709Z
+updated: 2025-01-23T05:05:35.966Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ If you’re a Minecraft lover, don’t miss this post. Knowing how to play Minec
 
 * [For Java edition](https://tools.techidaily.com/drivereasy/download/)
 * [Windows 10 edition](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Play Minecraft offline for Java edition
 
@@ -45,6 +49,11 @@ If you have Minecraft Windows 10 Edition, this method is for you.
 3. Choose the**Windows Update** tab and click**Check for updates** to make sure you have the latest Windows Updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update.jpg)
 4. Sign in to the Microsoft Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click your user account and choose**Settings** .
 6. Under it choose**Offline Permissions** . Make sure the toggle is On.
 
@@ -69,8 +78,9 @@ Now you can play Minecraft Windows 10 edition offline.
 5. Click the link for the FAQ and find the offline mode details.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus tip: Update your drivers
 
  To get a better gaming experience, it’s recommended to update your drivers. Take graphics cards as an example. Graphics card manufacturers like Nvidia, AMD, and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
@@ -91,20 +101,18 @@ There are two ways you can update your drivers:
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -121,8 +129,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +136,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-revolutionary-wraps-transforming-virtual-reality-play/"><u>[New] 2024 Approved Revolutionary Wraps Transforming Virtual Reality Play</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-critical-acclaim-top-9-web-recording-microphones-of-the-year-23/"><u>[Updated] Critical Acclaim Top 9 Web Recording Microphones of the Year ('23)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-sustainable-filmmaking-aids-at-no-charge/"><u>[Updated] Sustainable Filmmaking Aids at No Charge</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/configuring-windows-10-firewall-options-a-step-by-step-guide-yl-computing/"><u>Configuring Windows 10 Firewall Options: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-stop-at-0x00000073-bug-solutions-for-windows-users/"><u>Decoding the 'STOP at 0X00000073' Bug: Solutions for Windows Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effective-techniques-for-downsizing-big-videos-into-dvd-ready-sizes/"><u>Effective Techniques for Downsizing Big Videos Into DVD-Ready Sizes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-video-snippet-limits-a-comprehensive-overview-for-2024/"><u>Instagram Video Snippet Limits A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-itel-s23-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Itel S23 Phone? Unlock It Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-into-the-future-with-samsungs-upcoming-galaxy-z-flip-ticam-rumored-specs-and-launch-date-details/"><u>Sneak Peek Into the Future with Samsung's Upcoming Galaxy Z Flip Ticam: Rumored Specs and Launch Date Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stream-your-favorites-discover-hitachis-4k-uhd-tvs-featuring-integrated-roku-technology/"><u>Stream Your Favorites: Discover Hitachi's 4K UHD TVs Featuring Integrated Roku Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-where-to-view-live-music-performances-online/"><u>The Ultimate List of Where to View Live Music Performances Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-eliminating-lag-in-your-chromecast-audio-streaming/"><u>Ultimate Guide: Eliminating Lag in Your Chromecast Audio Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-techniques-on-how-to-erase-your-yahoo-mail-account-forever/"><u>Ultimate Techniques on How to Erase Your Yahoo Mail Account Forever</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-educational-perks-your-guide-to-youtube-premium-offers-for-students/"><u>Unlocking Educational Perks: Your Guide to YouTube Premium Offers for Students</u></a></li>
+</ul></div>
 

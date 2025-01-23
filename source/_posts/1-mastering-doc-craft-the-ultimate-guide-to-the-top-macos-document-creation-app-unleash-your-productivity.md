@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2025-01-12T20:18:59.988Z
-updated: 2025-01-17T01:41:41.092Z
+date: 2025-01-21T04:43:55.807Z
+updated: 2025-01-22T16:08:53.815Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,16 +129,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-spectacular-8-ultimate-vr-play-tools-for-2024/"><u>[New] Spectacular 8 Ultimate VR Play Tools for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-basic-route-for-voice-switching-in-your-windows-flipper-edition/"><u>[New] The Basic Route for Voice Switching in Your Windows Flipper Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/13-premier-free-software-to-test-your-hard-drives-insiders-guide-for-july-202/"><u>13 Premier Free Software to Test Your Hard Drives: Insider's Guide for July 202</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-literature-enthusiasts-guide-to-ebook-apps-our-picks/"><u>Discover the Best Literature Enthusiast's Guide to eBook Apps : Our Picks!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-smart-7-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Infinix Smart 7?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-diagnose-and-fix-error-code-0xc0000185-in-your-computer-system/"><u>How to Diagnose and Fix Error Code 0Xc0000185 in Your Computer System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-terminate-your-participation-on-tiktok-a-detailed-guide/"><u>How To Terminate Your Participation on TikTok – A Detailed Guide</u></a></li>
-<li><a href="https://discover-best.techidaily.com/personalized-engagement-boosted-by-cookiebot-technology/"><u>Personalized Engagement Boosted by Cookiebot Technology</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-for-downloading-updated-asus-bluetooth-drivers/"><u>Step-by-Step Tutorial for Downloading Updated ASUS Bluetooth Drivers</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-10-techniques-for-transforming-videos-into-animated-gifs-efficiently/"><u>Top 10 Techniques for Transforming Videos Into Animated GIFs Efficiently</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/why-is-my-ps4-controller-blinking-blue-white-red-or-orange/"><u>Why Is My PS4 Controller Blinking Blue, White, Red, or Orange?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-artisans-code-a-complete-blueprint-for-flawless-windows-tv-recording/"><u>[Updated] 2024 Approved The Artisan's Code A Complete Blueprint for Flawless Windows TV Recording</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazon-kindle-paperwhite-user-manual-how-to-update-and-set-device-time-accurately/"><u>Amazon Kindle Paperwhite User Manual: How to Update and Set Device Time Accurately</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138620346-9781722520090-awakened-mind-master-class-series/"><u>Awakened Mind (Master Class Series) | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-when-your-device-wont-start-dealing-with-code-10/"><u>Effective Solutions for When Your Device Won't Start (Dealing with Code 10)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi 13T Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-slow-motion-footage-gopro-hero-10-tips/"><u>In 2024, Mastering Slow-Motion Footage GoPro Hero 10 Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-your-gmail-efficiency-with-advanced-filtering-techniques/"><u>Maximizing Your Gmail Efficiency with Advanced Filtering Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-xinput13dll-file-absence-a-step-by-step-guide/"><u>Solving the xinput1_3.dll File Absence: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-resolving-issues-when-your-ipad-cannot-locate-the-printer/"><u>Step-by-Step Solution: Resolving Issues When Your iPad Cannot Locate the Printer</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/stitching-an-innovative-tiktok-closing-credits/"><u>Stitching An Innovative TikTok Closing Credits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-battle-of-broadcasts-comparing-cable-with-online-streaming-platforms/"><u>The Battle of Broadcasts: Comparing Cable with Online Streaming Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-guide-to-ios-n-dive-into-the-expected-release-date-free-of-cost-update-feature-overview-and-recent-updates/"><u>The Comprehensive Guide to iOS N: Dive Into the Expected Release Date, Free of Cost Update, Feature Overview, and Recent Updates</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 12 mini | Dr.fone</u></a></li>
 </ul></div>
 

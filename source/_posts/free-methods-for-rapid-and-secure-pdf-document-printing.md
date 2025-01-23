@@ -1,7 +1,7 @@
 ---
 title: Free Methods for Rapid and Secure PDF Document Printing
-date: 2024-08-19T12:46:43.789Z
-updated: 2024-08-20T12:46:43.789Z
+date: 2025-01-18T01:21:42.812Z
+updated: 2025-01-23T01:18:37.705Z
 tags:
   - win11
   - win10
@@ -29,60 +29,48 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Snap16.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tada! Your Windows screen image should now be saved to the clipboard.
 
 **NOTE:** If you use multiple monitors, when you press the PrtSc key, all your monitor screens would be captured simultaneously in one image.
 
  3) Now you can paste the picture on your chat windows or on **Paint** to save it by pressing the **Ctrl** and **V** keys at the same time.  If unluckily, your print screen key stops working, you can troubleshoot it using this easy guide — [Print Screen Not Working](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### Pro tip
 
  If you’re using Windows 8 or Windows 10, and you want to save your Windows screenshot, you can do that much faster. **Here’s how:**  Let Windows shows the screen you want to save, then on your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee6ae232d5.png) and **PrtSc**  key at the same time. Your Windows screen will then be saved as an image automatically. You can find the image in the Screenshots folder of Pictures: ![](https://images.drivereasy.com/wp-content/uploads/2018/04/folder.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Way 2: Screenshot your single active window
 
  If you just would like to screenshot your current active window instead of a full screen, it’s also easy to do:  Go to any window you want to print, then press **Alt** and **PrtSc**  at the same time on your keyboard. Now you have the screenshot of your active window on your clipboard. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Snap17.png)  Now you can paste the picture on your chat windows or on Paint to save it by pressing the **Ctrl** and **V** keys at the same time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Way 3: Screenshot any part of your screen
 
  If you like to share just a part of your screen, use the built-in Snipping Tool on Windows. Here’s how:  1) Go to the window you want to screenshot. 2) Type **snipping**  in the search box from the Start menu. Then click **Snipping Tool** on the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/snipping-tool.png)  3) You should then see the small Snipping Tool window. Click **N** **ew** . ![](https://images.drivereasy.com/wp-content/uploads/2018/04/New.png)  4) Use the pop-up ![](https://images.drivereasy.com/wp-content/uploads/2018/04/pasted-image-0.png)  to capture any part of your screen you want to share or save.  5) The screen you capture will then show on the Snipping Tool window.  You can directly paste it on your chat windows or save it on Snipping tool via **File > Save as…**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pro tip
 
  If you’re using Windows 10, there’s a new feature — **Delay**  on Snipping Tool allowing you to go to the screen you want to capture after you click the **N** **ew** icon within the time you set. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Delay.png)  Voila! So easy to screenshot on Windows. Don’t hesitate to post your comment for any question or, if you have any other amazing tip to take a screenshot, time to share with us. Thanks in advance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -91,8 +79,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +86,22 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-optimize-your-macs-screen-record-functionality-with-keystrokes/"><u>[New] Optimize Your Mac's Screen Record Functionality with Keystrokes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-mastering-telegram-a-step-by-step-walkthrough-for-2024/"><u>[Updated] Mastering Telegram A Step-By-Step Walkthrough for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/car-audio-issues-decoded-why-are-my-speakers-not-working/"><u>Car Audio Issues Decoded: Why Are My Speakers Not Working?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fix-hp-envy-7640-driver-issues-easily/"><u>Fix HP ENVY 7640 Driver Issues. Easily</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximize-your-mobile-top-10-free-image-enhancement-tools/"><u>In 2024, Maximize Your Mobile Top 10 Free Image Enhancement Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-magic5-ultimate-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Honor Magic5 Ultimate Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-process-a-detailed-walkthrough-of-sharing-your-steam-redeemable-codes/"><u>Navigating the Process: A Detailed Walkthrough of Sharing Your Steam Redeemable Codes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solved-why-wont-my-windows-10-search-find-anything/"><u>Solved: Why Won’t My Windows 10 Search Find Anything?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-most-effective-instatags-to-grow-your-audience-today/"><u>The Most Effective #InstaTags To Grow Your Audience Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-missing-or-corrupt-jscriptdll-files-on-your-pc/"><u>The Ultimate Fix for Missing or Corrupt JScript.dll Files on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-repair-when-you-encounter-the-msstdfmtdll-error-message/"><u>Troubleshoot and Repair When You Encounter the Msstdfmt.dll Error Message</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-glitches-in-outriders-effective-solutions-unveiled/"><u>Troubleshooting Audio Glitches in Outriders: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-how-to-connect-your-bose-soundlink-devices-seamlessly/"><u>Ultimate Guide: How To Connect Your Bose SoundLink Devices Seamlessly</u></a></li>
+</ul></div>
 
