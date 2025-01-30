@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Plans & Promotions in May 2024 - Insider's Guide
-date: 2025-01-18T23:48:55.162Z
-updated: 2025-01-23T05:10:11.287Z
+date: 2025-01-23T22:07:12.325Z
+updated: 2025-01-30T20:27:07.361Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best AT&T deals
 
@@ -117,7 +121,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -134,10 +138,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -147,6 +147,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [AT&T 15W wireless charging pad: $10 (save $19) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Chargers/att-15w-wireless-charging-pad.html)
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
 
@@ -158,10 +162,6 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
@@ -171,21 +171,21 @@ It's true that carriers are the most aggressive with their offers when it's year
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,20 +236,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-android-and-iphones-powerful-picklist-boosting-facebook-likeability/"><u>[New] Android & iPhone's Powerful Picklist Boosting Facebook Likeability</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-obs-and-zoom-integration-tips/"><u>[Updated] Mastering OBS & Zoom Integration Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-essential-resources-for-crafting-eye-catching-youtube-ends/"><u>2024 Approved Essential Resources for Crafting Eye-Catching YouTube Ends</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-tecno-pop-8-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Tecno Pop 8 FRP Bypass Instantly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beating-the-blues-with-netflix-comprehensive-strategies-for-overcoming-ui-800-3-glitches/"><u>Beating the Blues with Netflix: Comprehensive Strategies for Overcoming UI-800-3 Glitches</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/capture-and-share-your-joy-how-to-take-snaps-from-nintendo-switch-games/"><u>Capture and Share Your Joy: How To Take Snaps From Nintendo Switch Games</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722891975037-contractions-during-early-labor-are-typically-mild-and-irregular-increasing-in-frequency-and-intensity-as-labor-progresses/"><u>Contractions During Early Labor Are Typically Mild and Irregular, Increasing in Frequency and Intensity as Labor Progresses</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722864902885-easy-fixes-for-when-your-surface-pro-wont-connect-to-the-internet/"><u>Easy Fixes for When Your Surface Pro Won't Connect to the Internet</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-smart-7-hd-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Smart 7 HD Quickly | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/how-to-craft-a-dynamic-online-flipbook-using-flipbuilder-enhance-your-web-content-delivery/"><u>How to Craft a Dynamic Online Flipbook Using FlipBuilder - Enhance Your Web Content Delivery</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-t2x-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo T2x 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reviving-deleted-messages-a-step-by-step-guide-to-undoing-emails-in-microsoft-outlook/"><u>Reviving Deleted Messages: A Step-by-Step Guide to Undoing Emails in Microsoft Outlook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/securing-your-youtube-premium-membership-at-a-student-price-a-comprehensive-guide/"><u>Securing Your YouTube Premium Membership at a Student Price: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-correct-the-not-detected-ssleay32dll-error-on-pc/"><u>Steps to Correct the 'Not Detected' Ssleay32.dll Error on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-for-ftd2xxdll-not-detected-errors/"><u>Troubleshooting Guide for 'ftd2xx.dll' Not Detected Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/to-retweet-vs-to-re-tweet-are-they-synonymous-in-twitter-usage/"><u>'To Retweet' Vs. 'To Re-Tweet': Are They Synonymous in Twitter Usage?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-chucklecrafts-create-meme-delight/"><u>[Updated] In 2024, ChuckleCrafts Create Meme Delight</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-selection-the-ultimate-15-video-devices/"><u>[Updated] Premium Selection The Ultimate 15 Video Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/design-personalized-brands-with-zero-cost-templates/"><u>Design Personalized Brands with Zero-Cost Templates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721370165947-discover-the-ios-version-of-chatgpt/"><u>Discover the iOS Version of ChatGPT!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-an-ipad-that-wont-connect-to-wi-fi/"><u>How to Fix an iPad That Won't Connect to Wi-Fi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oneplus-ace-2-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror OnePlus Ace 2 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209636284-9781633411449-lost-teachings-of-the-runes/"><u>Lost Teachings of the Runes | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterful-3d-design-best-animation-software-selection/"><u>Masterful 3D Design Best Animation Software Selection</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-adding-items-to-your-control-panel-with-yl-software/"><u>Step-by-Step Guide: Adding Items to Your Control Panel with YL Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/successful-strategies-for-linking-fortnite-user-identities-in-one-account/"><u>Successful Strategies for Linking Fortnite User Identities in One Account</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-watching-all-harry-potter-movies-in-perfect-order/"><u>The Definitive Guide to Watching All Harry Potter Movies in Perfect Order</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tips-for-confirming-text-message-reception-by-the-recipient/"><u>Tips for Confirming Text Message Reception by the Recipient</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722897070639-unmissable-discounts-on-ipads-shop-the-latest-savings-now/"><u>Unmissable Discounts on iPads – Shop the Latest Savings Now</u></a></li>
 </ul></div>
 

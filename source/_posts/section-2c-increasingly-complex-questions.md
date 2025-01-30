@@ -1,7 +1,7 @@
 ---
 title: "Section 2C: Increasingly Complex Questions"
-date: 2025-01-21T00:00:53.276Z
-updated: 2025-01-23T07:25:47.115Z
+date: 2025-01-25T16:00:18.847Z
+updated: 2025-01-30T19:20:47.791Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Show less
 
 ## Microsoft Authenticator
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Put multi-factor authentication in your pocket or on your wrist
 
 There are a tremendous number of authenticator apps available for iOS. Most of them handle the basic chores of generating Time-based One-time Password (TOTP) codes, which you can use to verify your identity when using a website or service that you previously set up on your mobile device.
@@ -42,11 +46,11 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-outlook/id951937596)
 
-## Microsoft Outlook
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Microsoft Outlook
 
 ### Quick access to email, calendar, and cloud storage accounts
 
@@ -63,7 +67,7 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-office/id541164041)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Office
@@ -84,10 +88,6 @@ Show less
 
 ## Microsoft OneNote
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The hidden gem of the Office family
 
 It's a shame that OneNote is often overlooked in favor of flashier members of the Office family like Word and Excel, because it's an absolutely first-rate productivity tool. You can use its freeform information gathering tools to take notes in a meeting or classroom, manage lists, keep track of receipts, organize research, and much more.
@@ -103,10 +103,14 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-onedrive/id477537958)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft OneDrive
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Unlock a terabyte of cloud storage with a Microsoft 365 subscription
 
@@ -123,6 +127,10 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-edge-web-browser/id1288723196)
 
 ## Microsoft Edge
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For the first time in decades, Microsoft has a serious mobile browser
 
@@ -154,10 +162,6 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-to-do/id1212616790)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft To Do
 
 ### Keep track of Projects and tasks and send reminders to yourself or your team
@@ -174,15 +178,7 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/remote-desktop-mobile/id714464092)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Remote Desktop Mobile
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Connect to a desktop PC or server from your mobile device
 
@@ -199,6 +195,10 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-lists/id1530637363)
 
 ## Microsoft Lists
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Keep track of assets, inventory, issues, and more
 
@@ -240,20 +240,19 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-top-10-youtube-music-how-toes-2023-edition/"><u>[New] 2024 Approved Top 10 YouTube Music How-Toes, 2023 Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-quick-path-to-standout-instagram-reel-content/"><u>[Updated] 2024 Approved The Quick Path to Standout Instagram Reel Content</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-fishermans-field-guide-to-prime-camers/"><u>[Updated] The Fisherman's Field Guide to Prime Camers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-pro-tips-configuring-stopwatches-in-obs-studio/"><u>2024 Approved Pro Tips Configuring Stopwatches in OBS Studio</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/demystifying-the-latest-nvidia-rtx-4070-graphics-card/"><u>Demystifying the Latest NVIDIA RTX 4070 Graphics Card</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eliminating-missing-ksuserdll-errors-with-easy-troubleshooting-tips/"><u>Eliminating Missing ksuser.dll Errors with Easy Troubleshooting Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/find-your-dream-ipad-at-discounted-prices-right-now/"><u>Find Your Dream iPad at Discounted Prices Right Now</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-c22-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia C22 PC | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-8-pro-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel 8 Pro Phone without Google Account?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-there-a-psn-service-interruption-or-are-you-facing-connectivity-problems/"><u>Is There A PSN Service Interruption, Or Are You Facing Connectivity Problems?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-the-maze-of-car-audio-encryption-learn-how-to-find-your-radio-security-code-easily/"><u>Navigate the Maze of Car Audio Encryption – Learn How to Find Your Radio Security Code Easily!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protecting-your-mail-app-on-macos-a-step-by-step-guide-to-creating-safe-senders-lists/"><u>Protecting Your Mail App on macOS: A Step-by-Step Guide to Creating Safe Senders Lists</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-tech-hacks-how-to-perform-screen-reflection-on-an-lg-display/"><u>Seamless Tech Hacks: How to Perform Screen Reflection on an LG Display</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-photos-with-expert-color-techniques-for-2024/"><u>Transform Photos with Expert Color Techniques for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-how-to-block-spotifys-unrequested-podcast-episodes/"><u>[New] 2024 Approved How to Block Spotify's Unrequested Podcast Episodes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-comparing-leading-cam-tech-with-mymanycam-for-2024/"><u>[New] Comparing Leading Cam Tech with MyManyCam for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-discovering-if-muted-on-snapstreak/"><u>[New] Discovering If Muted on Snapstreak</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-alternative-tools-that-outperform-sharex/"><u>2024 Approved Alternative Tools That Outperform ShareX</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-from-novice-to-expert-a-compreenhensive-fcp-guide/"><u>2024 Approved From Novice to Expert A Compreenhensive FCP Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enablingdisabling-in-hand-input-on-windows-pcs/"><u>Enabling/Disabling In-Hand Input on Windows PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-d3dx940dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_40.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-oppo-reno-10-proplus-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-steps-entering-and-exiting-iphones-recovery-mode/"><u>Mastering the Steps: Entering and Exiting iPhone's Recovery Mode</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/metro-and-t-mobile-collaboration-insights-on-the-rules-governing-unlimited-data-roaming-practices/"><u>Metro and T-Mobile Collaboration: Insights on the Rules Governing Unlimited Data Roaming Practices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-power-of-windows-command-line-a-comprehensive-guide/"><u>Navigating the Power of Windows Command Line: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-breakdown-of-ussd-insights-into-unstructured-supplementary-service-data-technology/"><u>The Complete Breakdown of USSD: Insights Into Unstructured Supplementary Service Data Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-next-for-google-pixel-projecting-cost-launch-dates-and-new-hardware-specs-in-focus/"><u>What's Next for Google Pixel: Projecting Cost, Launch Dates & New Hardware Specs in Focus</u></a></li>
 </ul></div>
 

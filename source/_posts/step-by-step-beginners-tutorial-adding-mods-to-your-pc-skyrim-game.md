@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Beginner's Tutorial: Adding Mods to Your PC Skyrim Game"
-date: 2024-08-19T12:56:08.864Z
-updated: 2024-08-20T12:56:08.864Z
+date: 2025-01-26T20:50:09.979Z
+updated: 2025-01-30T16:38:53.041Z
 tags:
   - win11
   - win10
@@ -62,9 +62,17 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
   
 ![Install Forge](https://images.drivereasy.com/wp-content/uploads/2020/09/Install-Forge-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) There will be a line “**Please wait … seconds…** ”. So just wait for several seconds and don’t click anything.
   
 ![Install Forge](https://images.drivereasy.com/wp-content/uploads/2020/09/Install-Forge-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) On the upper right corner of the page, click**Skip** .  
   
@@ -87,6 +95,10 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3: Backup Minecraft files
 
  Although adding mods is usually quite safe, you won’t know what would happen. So here we suggest that you have your Minecraft**.jar** file backed up before installing any mods.  
@@ -103,12 +115,18 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
   
 ![create a new folder](https://images.drivereasy.com/wp-content/uploads/2020/09/create-a-new-folder.jpg)
   
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right-click, and select**Paste** into the new folder you just created. After that, you successfully make a backup copy.  
   
 ![Paste](https://images.drivereasy.com/wp-content/uploads/2020/09/Paste.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -126,9 +144,6 @@ Here we recommend you go to these two notable Minecraft mods sites:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Step 5: Add mods to Minecraft**
 
  After you’ve downloaded the mods, place them into your Minecraft folder and launch Minecraft.
@@ -141,34 +156,25 @@ To do so, you can:
   
 ![Install Minecraft Mods; add mods for Minecraft](https://images.drivereasy.com/wp-content/uploads/2020/09/install-mods.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Copy the**.jar** or**.zip mod file** you downloaded into the subfolder of Minecraft. (Note: This mod is just for reference. Just download the one you need.)  
   
 ![Install Minecraft mods](https://images.drivereasy.com/wp-content/uploads/2020/09/Install-Minecraft-mods.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  4) Launch Minecraft and make sure Forge is active.  
   
  5) Click**Play** and when you start a game, the mod will be applied to it directly.  
   
 ![install Minecraft mods](https://images.drivereasy.com/wp-content/uploads/2020/09/add-mods-to-Minecraft.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  Now with mods added to your Minecraft, you can start to explore the wonder of the game!
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## BONUS: update your drivers to enjoy the game to the fullest
 
  Playing games is quite fun. But sometimes you might encounter certain issues like black screen crashes with sound looping or something like that. It definitely destroys your gameplay experience!
@@ -176,6 +182,10 @@ To do so, you can:
  In this case, we recommend you update your audio drivers and graphics drivers in order to better enjoy the playing.
 
  There are mainly two options you can take to update your drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1** : Manually update the drivers
 
@@ -190,9 +200,6 @@ To do so, you can:
   
 [Realtek](https://www.realtek.com/en/downloads)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 2** : Automatically update the drivers
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
@@ -205,6 +212,11 @@ To do so, you can:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the video driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and You’ll be prompted to upgrade when you click Update All.)  
@@ -212,8 +224,9 @@ To do so, you can:
 ![update drivers](https://images.drivereasy.com/wp-content/uploads/2020/09/Driver-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -229,8 +242,6 @@ To do so, you can:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +249,20 @@ To do so, you can:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-full-analysis-and-how-to-the-ultimate-picsart-experience/"><u>[New] Full Analysis and How-To The Ultimate PicsArt Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-chuckle-laugh-moments-and-tears-from-these-top-ten-ig-feeds/"><u>[New] In 2024, Chuckle-Laugh Moments & Tears From These Top Ten IG Feeds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-affordable-digital-screen-recorders-reviewed-and-rated/"><u>[Updated] In 2024, Affordable Digital Screen Recorders Reviewed & Rated</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/10-y-mac-incluso-si-estan-protegerse/"><u>10 Y Mac, Incluso Si Están Protegerse</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-in-clarity-best-tools-for-quality-4k-conversion-for-2024/"><u>Capture in Clarity Best Tools for Quality 4K Conversion for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminate-fm20dll-not-found-message-with-these-fixes/"><u>Eliminate 'fm20.dll Not Found' Message with These Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-efficient-is-recuva-for-file-restoration-a-thorough-examination-and-user-ratings/"><u>How Efficient Is Recuva for File Restoration? - A Thorough Examination and User Ratings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-realme-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Realme PIN</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-tecno-pova-5-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Tecno Pova 5 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-your-android-a-guide-to-utilizing-the-measure-tool/"><u>Mastering Your Android: A Guide to Utilizing the Measure Tool</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/music-meets-video-three-inexpensive-iphone-tips-for-enhanced-clips-for-2024/"><u>Music Meets Video Three Inexpensive iPhone Tips for Enhanced Clips for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-secure-private-browsing-in-popular-internet-browsers-like-google-chrome-mozilla-firefox-microsoft-edge-apple-safari-and-opera.38/"><u>Step-by-Step Instructions for Secure Private Browsing in Popular Internet Browsers Like Google Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari & Opera</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-requesting-a-full-refund-on-your-steam-purchase/"><u>The Ultimate Guide to Requesting a Full Refund on Your Steam Purchase</u></a></li>
+</ul></div>
 

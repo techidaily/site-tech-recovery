@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air M1 at an Unbeatable Bargain: Save Big with Our $649 Price Tag! | TechRadar"
-date: 2025-01-20T03:28:49.990Z
-updated: 2025-01-23T06:06:33.358Z
+date: 2025-01-25T20:25:03.631Z
+updated: 2025-01-30T17:19:46.595Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,24 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-edu-top-ten-inspiring-educational-content-yt/"><u>[New] 2024 Approved Edu-Top Ten Inspiring Educational Content YT</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-lowdown-on-instagrams-video-time-frame/"><u>[Updated] 2024 Approved The Lowdown on Instagram's Video Time Frame</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-youtubes-high-income-leader-of-all-time/"><u>[Updated] In 2024, YouTube's High Income Leader of All Time</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-no-spend-guide-to-the-best-ae-template-hits/"><u>2024 Approved No-Spend Guide to the Best AE Template Hits</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/anticipated-samsung-galaxy-z-flip-7-unveiling-price-predictions-and-launch-timeline-revealed/"><u>Anticipated Samsung Galaxy Z Flip 7 Unveiling - Price Predictions & Launch Timeline Revealed</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/capturing-content-with-confidence-winning-strategies-for-igtv-acquisition/"><u>Capturing Content with Confidence Winning Strategies for IGTV Acquisition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-address-and-resolve-a-500-internal-server-issue/"><u>Effective Strategies to Address and Resolve a 500 Internal Server Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-techniques-for-amplifying-your-xtwitter-audience-and-retaining-engagement/"><u>Effective Techniques for Amplifying Your X/Twitter Audience and Retaining Engagement</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-7-aspects-to-review-when-selecting-the-perfect-smart-tv-for-your-home/"><u>Essential 7 Aspects to Review When Selecting the Perfect Smart TV for Your Home</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-a-powerful-64-bit-video-editor-windows-8and10-included-for-2024/"><u>Get a Powerful 64-Bit Video Editor (Windows 8&10 Included) for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-x3daudiodll-not-found-error-effectively-a-detailed-walkthrough/"><u>How to Fix 'X3DAudio.dll' Not Found Error Effectively – A Detailed Walkthrough</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-use-built-in-tools-to-capture-your-screen-on-a-compaq-device/"><u>How to Use Built-In Tools to Capture Your Screen on a Compaq Device</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-domain-safelisting-on-apples-mac-os-x-mail-app/"><u>Mastering the Art of Domain Safelisting on Apple's Mac OS X Mail App</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/superior-photo-data-resurrector/"><u>Superior Photo Data Resurrector</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tech-hack-wiring-three-screens-to-one-computer-a-comprehensive-guide/"><u>Tech Hack: Wiring Three Screens to One Computer - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722898062354-transforming-your-dorm-into-a-movie-hub-with-no-wires-needed/"><u>Transforming Your Dorm Into a Movie Hub with No Wires Needed!</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-a-brief-review-of-capcut-translate-with-alternative/"><u>Updated 2024 Approved A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixed-snipping-tool-not-working-on-windows-1011/"><u>[Fixed] Snipping Tool Not Working on Windows 10/11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-symphony-in-softness-playback-reduction-guide/"><u>[Updated] 2024 Approved Symphony in Softness Playback Reduction Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-enable-grid-view-on-google-meet-to-see-every-participant/"><u>[Updated] How to Enable Grid View on Google Meet to See Every Participant?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-type-of-gpu-installed-on-your-computer-with-easy-methods/"><u>Discover the Type of GPU Installed on Your Computer with Easy Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-your-graphics-processor-top-5-strategies-for-identification/"><u>Discover Your Graphics Processor: Top 5 Strategies for Identification</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-tech-help-how-to-perform-a-full-system-clear-on-hp-laptops-a-step-by-step-walkthrough/"><u>DIY Tech Help: How to Perform a Full System Clear on HP Laptops – A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easily-launch-outlooks-safe-mode-in-windows-11-detailed-instructions-and-visual-aids-included/"><u>Easily Launch Outlook's Safe Mode in Windows 11 - Detailed Instructions and Visual Aids Included</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fixes-how-to-enter-biosboot-on-windows-11-pcs/"><u>Easy Fixes: How to Enter BIOS/Boot on Windows 11 PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-ways-to-determine-your-computers-bios-firmware-in-windows-11/"><u>Effortless Ways to Determine Your Computer's BIOS Firmware in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-computers-performance-by-checking-ram-rates-in-windows-1011/"><u>Elevate Your Computer's Performance by Checking RAM Rates in Windows 10/11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-your-fortnite-suffering-top-tips-to-overcome-lag-issues/"><u>End Your Fortnite Suffering: Top Tips to Overcome Lag Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enjoy-classic-rpg-gaming-with-fallout-3-a-how-to-guide-for-windows-11-users/"><u>Enjoy Classic RPG Gaming with Fallout 3: A How-To Guide for Windows 11 Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-your-free-copy-of-winx-media-downloader-expert-dvd-extractor-and-high-definition-video-transcoder-official-release/"><u>Get Your Free Copy of WinX Media Downloader: Expert DVD Extractor & High Definition Video Transcoder - Official Release</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oneplus-ace-3-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from OnePlus Ace 3 Phones with/without a PC</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-natural-luminescence-in-home-interiors-simple-steps/"><u>In 2024, Natural Luminescence in Home Interiors Simple Steps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ating-youtubes-creative-commons-framework-effectively/"><u>Navigating YouTube's Creative Commons Framework Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-conflicts-easy-access-to-your-printer/"><u>Resolving Conflicts: Easy Access to Your Printer</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-instructions-for-adjusting-power-configurations-via-the-control-panel-tips-from-yl-software-experts/"><u>Step-by-Step Instructions for Adjusting Power Configurations via the Control Panel – Tips From YL Software Experts</u></a></li>
 </ul></div>
 

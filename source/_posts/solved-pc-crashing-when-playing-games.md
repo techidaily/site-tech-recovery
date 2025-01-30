@@ -1,7 +1,7 @@
 ---
 title: "[Solved] PC Crashing When Playing Games"
-date: 2024-08-19T12:54:07.670Z
-updated: 2024-08-20T12:54:07.670Z
+date: 2025-01-26T18:45:52.077Z
+updated: 2025-01-30T18:51:35.771Z
 tags:
   - win11
   - win10
@@ -59,9 +59,6 @@ Below are the minimum hardware requirements for Windows 10:
 
  Once you get ready for upgrading to Windows 10, follow the step-by-step guide to download and install Windows 10 on your Window s 7 computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Part 1: Create Windows 10 installation media
 
  You’ll need a blank USB flash drive with at least 8GB of space to store the Windows 10 installation file.
@@ -72,27 +69,25 @@ Below are the minimum hardware requirements for Windows 10:
 4. Double-click the downloaded file. Then click**Yes** when prompted by User Account Control.
 5. Click**Accept** to agree the license terms.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-21-04.png)
 6. You’ll then see the What do you want to do page. Select **Create installation media(USB flash drive, DVD, or ISO file) for another PC** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-22-56.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 7. Click**Next** if you accept to use the recommended options. If you want to change the option, unselect Use the recommended options for this PC, then set your preferred options and click Next to proceed.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-23-51.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
-8. Click**Next** with the default selected option USB flash drive on the Choose which media to use page. Tick USB flash drive if it’s not selected.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-25-38.png)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-9. Select your USB drive from the list, then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-31-10-1.png)
-10. It’ll then start downloading Windows 10 ISO file and creating Windows 10 media onto your USB drive. The process may last around 10 minutes. Click Finish on the Your USB flash drive is ready page.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-44-54.png)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+8. Click**Next** with the default selected option USB flash drive on the Choose which media to use page. Tick USB flash drive if it’s not selected.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-25-38.png)
+9. Select your USB drive from the list, then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-31-10-1.png)
+10. It’ll then start downloading Windows 10 ISO file and creating Windows 10 media onto your USB drive. The process may last around 10 minutes. Click Finish on the Your USB flash drive is ready page.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-44-54.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you’ve burnt Windows 10 ISO file to the USB flash drive. Follow along the next part to install Windows 10 on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: Install Windows 10 on your Windows 7 computer
 
@@ -103,31 +98,33 @@ Below are the minimum hardware requirements for Windows 10:
 3. Under the Boot pane, find your USB flash drive’s section, it may be**Removable Devices** ,**USB HDD** or something like that. Change the section to the top of the boot order list.  
  If you have different USB devices connected to your computer, make sure your USB flash drive is listed 1st of the section.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_11-13-04.png)
 4. Press**F10** to save your setting and exit BIOS. Then press**Enter** with Yes selected.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_11-18-23.png)
-5. Your computer will restart and boot from your USB flash drive.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Your computer will restart and boot from your USB flash drive.
 6. Set the language, time format and keyboard method, then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-45-31.png)
 7. Click Install now.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-47-24.png)
-8. Enter your product key.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_17-46-59.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+8. Enter your product key.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_17-46-59.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Choose the**Windows 10 edition** according to your product key type. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-50-39.png)
 10. Tick on**I accept the license terms** . Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-53-53.png)
 11. Click**Custom: Install Windows only(advanced)** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-54-30.png)
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 12. Select the drive which you plan to install the system. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-55-53.png)  
  Windows should then start to be installing onto your computer.  
  Important: Remove your USB flash drive when you see the Windows needs to restart to continue page.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_17-01-19.png)  
@@ -135,8 +132,9 @@ Below are the minimum hardware requirements for Windows 10:
 13. Follow the on-screen OOBE(Out-of-Box-Experience) instructions to set up Windows 10 on your computer. The setup includes but not only like Cortana and region settings.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_17-06-33.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After the basic setup, your Windows 7 computer has successfully upgraded to Windows 10\. You’re able to download your frequent using apps and start enjoying Windows 10.
 
 ## What you might concern after the upgrade…
@@ -152,8 +150,9 @@ Below are the minimum hardware requirements for Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-463.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  That’s all there is to it. Did you successfully upgrade your computer from Windows 7 to Windows 10? Feel free to comment below with any questions. I’d be glad to help you out of them.
@@ -164,8 +163,6 @@ Below are the minimum hardware requirements for Windows 10:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +170,19 @@ Below are the minimum hardware requirements for Windows 10:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-bridging-the-gap-an-introduction-to-av1/"><u>[Updated] 2024 Approved Bridging the Gap An Introduction to AV1</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-8-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 8? Find the Best Solution Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/making-the-switch-why-you-should-consider-ios-17-for-your-device/"><u>Making the Switch: Why You Should Consider iOS 17 for Your Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamping-your-gmail-experience-adding-and-choosing-sound-notifications/"><u>Revamping Your Gmail Experience: Adding and Choosing Sound Notifications</u></a></li>
+<li><a href="https://win-able.techidaily.com/rise-to-the-top-in-roller-champions-expert-advice-and-techniques-for-pc-players/"><u>Rise to the Top in Roller Champions: Expert Advice and Techniques for PC Players</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-background-extraction-in-picsart-editing/"><u>Seamless Background Extraction in Picsart Editing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-steps-successfully-launching-your-copy-of-age-of-empires-4/"><u>Solution Steps: Successfully Launching Your Copy of Age of Empires 4</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-pinnacle-of-home-entertainment-lg-oled-c9-65-review-impeccable-image-quality-unveiled/"><u>The Pinnacle of Home Entertainment: LG OLED C9 65 Review - Impeccable Image Quality Unveiled.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-undelivered-emails-in-yahoo-mail-services/"><u>Troubleshooting Steps for Undelivered Emails in Yahoo Mail Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-new-possibilities-leveraging-chatgpts-power-with-gpt-for-sheets-in-your-document-workflows/"><u>Unlock New Possibilities: Leveraging ChatGPT's Power with GPT-for-Sheets in Your Document Workflows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-6s-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 6s</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-trustedinstaller-permissions-essential-tips-for-windows-11-users/"><u>Unlocking TrustedInstaller Permissions: Essential Tips for Windows 11 Users</u></a></li>
+</ul></div>
 

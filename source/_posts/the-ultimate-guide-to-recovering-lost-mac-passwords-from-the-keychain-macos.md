@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Recovering Lost Mac Passwords From the Keychain (macOS)
-date: 2025-01-20T18:58:10.096Z
-updated: 2025-01-22T18:55:18.295Z
+date: 2025-01-29T16:19:01.813Z
+updated: 2025-01-30T16:02:59.204Z
 tags:
   - apple
 categories:
@@ -19,16 +19,12 @@ I will start this out by reminding everyone that you should be using a password 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 That being said, if you're a user of macOS, then there's a way to manage your passwords with a built-in tool. Said tool is the Keychain Access tool which is built-into macOS and is ready to serve in the traditional user-friendly way of Apple apps. So, if you're still not ready to jump on board the password manager trend (you should be), at least you have an option that's ready to serve.
 
@@ -39,7 +35,7 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 With that said, let's get to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening the Keychain Access tool
@@ -53,7 +49,7 @@ The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
@@ -70,6 +66,10 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -79,7 +79,7 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 Creating a new password entry to be stored in the Keychain Access tool. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -113,17 +113,19 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-prime-pick-the-top-10-video-capture-tools-for-windows/"><u>[Updated] In 2024, Prime Pick The Top 10 Video Capture Tools for Windows</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-gopro-livestreams-connecting-to-facebook-and-periscope/"><u>[Updated] Mastering Gopro Livestreams Connecting to Facebook & Periscope</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-6-hidden-sources-for-custom-youtube-symbols-for-2024/"><u>[Updated] Unlocking 6 Hidden Sources for Custom YouTube Symbols for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-profit-pinnacle-peak-your-income-by-monetizing-youtube-mobile-content/"><u>2024 Approved Profit Pinnacle Peak Your Income by Monetizing YouTube Mobile Content</u></a></li>
-<li><a href="https://facebook.techidaily.com/discovering-facebooks-core-design-ethos/"><u>Discovering Facebook's Core Design Ethos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/does-pope-francis-send-and-receive-electronic-mail-messages/"><u>Does Pope Francis Send and Receive Electronic Mail Messages?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-guide-streaming-apple-tvplus-on-your-chromecast/"><u>Easy Guide: Streaming Apple TV+ on Your Chromecast</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/important-criteria-checklist-before-buying-pre-utilized-laptops/"><u>Important Criteria Checklist Before Buying Pre-Utilized Laptops</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/instalacja-wojciech-11-bez-uzycia-pliku-cddvd-na-nowym-ssd-dysku-podstawowe-sposoby-instalacji/"><u>Instalacja Wojciech 11 Bez Użycia Pliku CD/DVD Na Nowym SSD Dysku - Podstawowe Sposoby Instalacji</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-soundbar-reset-instructions-get-back-to-basics-quickly/"><u>Samsung Soundbar Reset Instructions - Get Back to Basics Quickly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/twitter-status-update-is-twitch-experiencing-downtime-now/"><u>Twitter Status Update: Is Twitch Experiencing Downtime Now?</u></a></li>
-<li><a href="https://win-trending.techidaily.com/upcoming-cost-of-keeping-your-pc-updated-with-windows-10-explore-the-price-changes-from-microsoft-set-in-motion-next-year/"><u>Upcoming Cost of Keeping Your PC Updated with Windows 10: Explore the Price Changes From Microsoft Set in Motion Next Year</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-key-fixes-for-stabilizing-windows-10-photos-display/"><u>[New] Key Fixes for Stabilizing Windows 10 Photos Display</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-transform-clips-into-content-from-premiere-to-youtube/"><u>[Updated] 2024 Approved Transform Clips Into Content From Premiere to YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-pro-level-mobile-media-capture-iphone-and-androids-top-5-apps/"><u>[Updated] In 2024, Pro-Level Mobile Media Capture IPhone and Android's Top 5 Apps</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ipaditunes/"><u>如何将iPad上的音乐转移到电脑：ITunes以外的选择</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-iphones-for-avid-gamers-a-comprehensive-review-and-recommendations/"><u>Best iPhones for Avid Gamers: A Comprehensive Review and Recommendations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cam-5s-for-home-surveillance-now-discounted/"><u>Cam 5S for Home Surveillance Now Discounted!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-hp-officejet-pro-6970-printer-drivers-for-windows-latest-version/"><u>Download HP OfficeJet Pro 6970 Printer Drivers for Windows - Latest Version</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-everything-you-need-to-know-the-ultimate-guide-to-netflix/"><u>Exploring Everything You Need To Know: The Ultimate Guide to Netflix</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-razr-40-ultrawithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Razr 40 Ultrawith/without a PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-your-startups-growth-with-these-top-social-media-tips/"><u>In 2024, Ignite Your Startup's Growth with These Top Social Media Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/massive-cyber-monday-savings-up-to-450-off-the-versatile-13-samsung-galaxy-book2-360-notebook-tech-deals/"><u>Massive Cyber Monday Savings - Up To $450 Off the Versatile 13 Samsung Galaxy Book2 360 Notebook | Tech Deals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stream-fandangos-movie-selection-from-the-comfort-of-home-on-apple-tv/"><u>Stream Fandango's Movie Selection From the Comfort of Home on Apple TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-web-development-top-8-complimentary-html-editors-tailored-for-windows-users/"><u>Unlock the Power of Web Development: Top 8 Complimentary HTML Editors Tailored for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/vlc-for-apple-tv-a-comprehensive-guide-to-access-unlimited-content/"><u>VLC for Apple TV: A Comprehensive Guide to Access Unlimited Content.</u></a></li>
 </ul></div>
 

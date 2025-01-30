@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Top Upcoming Enhancements for iPhone, iPad, Mac with AI Integration Announced by Apple This Autumn - Features Revealed on ZDNet"
-date: 2025-01-22T00:00:24.738Z
-updated: 2025-01-23T06:27:23.127Z
+date: 2025-01-24T18:27:05.202Z
+updated: 2025-01-30T16:20:06.682Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -63,6 +63,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -90,10 +94,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -109,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -122,10 +122,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -136,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,17 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-professional-3d-creation-software-for-video-startups/"><u>[New] 2024 Approved Professional 3D Creation Software for Video Startups</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-grow-with-integrity-selecting-reputable-tiktok-leads/"><u>[Updated] 2024 Approved Grow with Integrity Selecting Reputable TikTok Leads</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-enhance-viewing-experience-by-adjusting-snapchats-frame-rate-for-2024/"><u>[Updated] Enhance Viewing Experience by Adjusting Snapchat's Frame Rate for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-increase-click-through-with-best-youtube-thumbnail-fonts/"><u>[Updated] Increase Click-Through with Best YouTube Thumbnail Fonts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clearing-hurdles-in-access-how-to-resolve-the-4-common-issues-leading-to-chatgpt-blocks/"><u>Clearing Hurdles in Access: How To Resolve The 4 Common Issues Leading to ChatGPT Blocks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discovering-the-features-of-line-chat-an-expert-review/"><u>Discovering the Features of Line Chat: An Expert Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-fixes-for-not-found-mfplatdll-errors/"><u>Effective Fixes for Not Found mfplat.dll Errors</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211175885-9781396323416-from-india-to-the-planet-mars/"><u>From India to the Planet Mars | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/score-big-savings-snag-an-apple-watch-series-10-for-only-99-before-others-insiders-tips-and-tricks-to-beat-the-rush/"><u>Score Big Savings! Snag an Apple Watch Series 10 for Only $99 Before Others - Insider's Tips and Tricks to Beat the Rush</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-automating-your-tweets-with-twitters-scheduling-tool/"><u>Step-by-Step Guide: Automating Your Tweets with Twitter's Scheduling Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-a-broken-ios-email-service/"><u>Troubleshooting a Broken iOS Email Service</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-frame-rate-considerations-for-high-quality-videos/"><u>[Updated] 2024 Approved Frame Rate Considerations for High-Quality Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-9-ultimate-free-online-editors-for-content-creators/"><u>[Updated] In 2024, 9 Ultimate Free Online Editors for Content Creators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-guide-to-successfully-saving-your-iptv-streams/"><u>[Updated] In 2024, Guide to Successfully Saving Your IPTV Streams</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-14-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-successful-uploads-on-google-podcast/"><u>2024 Approved Step-by-Step Successful Uploads on Google Podcast</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/como-combinar-y-mezclar-tu-obra-musical-con-estos-10-mejores-herramientas-en-linea/"><u>Cómo Combinar Y Mezclar Tu Obra Musical Con Estos 10 Mejores Herramientas en Línea</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-future-of-google-pixel-phones-unpacked-rumors-on-10th-editions-launch-window-potential-pricing-and-features/"><u>Deciphering Future of Google Pixel Phones - Unpacked Rumors on 10Th Edition's Launch Window, Potential Pricing, and Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/embracing-the-future-with-verizons-5g-network/"><u>Embracing the Future with Verizon's 5G Network</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-tech-news-price-point-and-specs-for-the-upcoming-samsung-galaxy-z-fold-6/"><u>Get Ahead of Tech News: Price Point & Specs for the Upcoming Samsung Galaxy Z Fold 6</u></a></li>
+<li><a href="https://techtrends.techidaily.com/grand-unveiling-of-the-latest-apple-iphone-a-revolutionary-journey/"><u>Grand Unveiling of the Latest Apple iPhone: A Revolutionary Journey</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-msstdfmtdll-file-absence-on-windows-computers/"><u>How to Correctly Address Msstdfmt.dll File Absence on Windows Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mailcom-email-how-long-can-you-expect-to-use-this-service-before-renewal/"><u>mail.com Email: How Long Can You Expect To Use This Service Before Renewal?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/meta-quest-3-an-in-depth-look-at-its-specs-availability-date-and-how-much-it-costs/"><u>Meta Quest 3 - An In-Depth Look at Its Specs, Availability Date & How Much It Costs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/election-made-easy-optimal-picks-for-vloggers-educators-and-more-for-2024/"><u>Mic Selection Made Easy Optimal Picks for Vloggers, Educators & More for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/navigating-the-depths-of-periscope-usage/"><u>Navigating the Depths of Periscope Usage</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-deleting-reposts-on-tiktok-and-managing-posts-effectively/"><u>The Ultimate Guide to Deleting Reposts on TikTok and Managing Posts Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-complimentary-online-platforms-for-live-sports/"><u>Top 5 Complimentary Online Platforms for Live Sports</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-intermittent-connectivity-is-the-entire-nintendo-switch-online-network-down-or-are-you-alone-in-this-quandary/"><u>Understanding Intermittent Connectivity - Is the Entire Nintendo Switch Online Network Down, or Are You Alone in This Quandary?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/word-basics-how-to-insert-and-customize-lines-efficiently/"><u>Word Basics: How to Insert and Customize Lines Efficiently</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Tech Spectacle: The iPhone 16 'Glowtime', AI Advancements, and the New Apple Watch Series 10"
-date: 2025-01-18T23:37:29.506Z
-updated: 2025-01-23T05:17:56.442Z
+date: 2025-01-26T21:25:04.226Z
+updated: 2025-01-30T19:48:20.918Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If you didn't get to tune in or want a detailed summary of the announcements, ke
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
@@ -65,7 +65,7 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -89,7 +89,7 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -117,7 +117,7 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -135,7 +135,7 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -184,24 +184,16 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs-for-2024/"><u>[New] Uninterrupted AirDrop Connections in the World of iPhones & Macs for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unraveling-the-secrets-of-inshot-editing-excellence/"><u>[New] Unraveling the Secrets of InShot Editing Excellence</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-going-against-gravity-innovative-ways-to-rewind-youtube-content/"><u>[Updated] 2024 Approved Going Against Gravity Innovative Ways to Rewind YouTube Content</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-tecno-pop-7-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Tecno Pop 7 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comparing-ipad-pro-and-macbook-air-uncover-the-key-distinctions/"><u>Comparing iPad Pro and MacBook Air: Uncover the Key Distinctions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conquer-languages-in-a-captivating-virtual-world-mondly-vr-adventure/"><u>Conquer Languages in a Captivating Virtual World - Mondly VR Adventure</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-fixes-to-bridge-the-link-ensuring-your-stadia-headset-connects-seamlessly/"><u>Effective Fixes to Bridge the Link: Ensuring Your Stadia Headset Connects Seamlessly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/efficiently-adding-multiple-locations-a-step-by-step-google-maps-tutorial/"><u>Efficiently Adding Multiple Locations: A Step-by-Step Google Maps Tutorial</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ensuring-no-event-is-forgotten-troubleshooting-your-iphone-calendar-woes/"><u>Ensuring No Event Is Forgotten: Troubleshooting Your iPhone Calendar Woes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-reconnect-an-unresponsive-ipad-to-wi-fi-networks/"><u>Expert Advice: How to Reconnect an Unresponsive iPad to Wi-Fi Networks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-a-zlibdll-file-missing-or-corrupted-scenario/"><u>How to Recover From a zlib.dll File Missing or Corrupted Scenario</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-blade-chroma-with-4k-camera-review/"><u>In 2024, Blade Chroma with 4K Camera Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-fire-stick-remote-linkage-for-optimal-streaming-experience/"><u>Master the Art of Fire Stick Remote Linkage for Optimal Streaming Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-screenshotting-in-windows-11-discover-these-4-easy-tricks/"><u>Mastering Screenshotting in Windows 11: Discover These 4 Easy Tricks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-through-srt-freeze-in-adobe-premiere-projects/"><u>Navigating Through SRT Freeze in Adobe Premiere Projects</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-a1-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo A1 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reactivating-dark-mode-on-facebook-simple-solutions-for-a-stylish-interface/"><u>Reactivating Dark Mode on Facebook: Simple Solutions for a Stylish Interface</u></a></li>
-<li><a href="https://win-premium.techidaily.com/verliertest-du-keine-hoffnung-fehlerbehebung-und-datenwiederherstellung-fur-ihr-synology-nas-system/"><u>Verliertest Du Keine Hoffnung! Fehlerbehebung Und Datenwiederherstellung Für Ihr Synology NAS-System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-go-to-source-for-micromobility-trends-important-dates-fresh-news-rumors-afloat-and-full-scopes/"><u>Your Go-To Source for Micromobility Trends: Important Dates, Fresh News, Rumors Afloat, and Full Scopes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-no-distractions-just-high-quality-webcam-recording/"><u>[Updated] 2024 Approved No Distractions, Just High-Quality Webcam Recording</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-clearer-facebook-audio-addressing-half-volume-problems/"><u>2024 Approved Clearer Facebook Audio Addressing Half-Volume Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-apples-ios-app-store-with-google-play-which-wins/"><u>Comparing Apple's IOS App Store with Google Play: Which Wins?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-correct-steam-disc-write-error-on-your-pc/"><u>Effective Methods to Correct Steam Disc Write Error on Your PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-y02t-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo Y02T FRP Bypass</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mastering-online-play-in-depth-guide-to-using-kinemaster-and-its-rivals-for-2024/"><u>Mastering Online Play In-Depth Guide to Using KineMaster and Its Rivals for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-how-to-opening-command-window-on-any-version-of-microsofts-operating-system/"><u>Quick How-To: Opening Command Window on Any Version of Microsoft's Operating System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-pros-resource-for-cutting-edge-computer-peripherals-trust-toms-judgments/"><u>The Pro’s Resource for Cutting-Edge Computer Peripherals – Trust Tom’s Judgments</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/tiktoks-anime-revolution-innovative-ideas-countdown-for-2024/"><u>TikTok's Anime Revolution Innovative Ideas Countdown for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-why-your-iphone-wont-ring-and-how-to-fix-it/"><u>Troubleshooting Tips: Why Your iPhone Won't Ring and How to Fix It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-meta-quest-3-lite-leaked-details-on-pricing-launch-timeline-and-device-features/"><u>Unveiling the Meta Quest 3 Lite: Leaked Details on Pricing, Launch Timeline & Device Features</u></a></li>
 </ul></div>
 

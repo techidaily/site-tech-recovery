@@ -1,7 +1,7 @@
 ---
 title: Speed Up Minecraft Now with These Simple Tips
-date: 2024-08-19T12:52:11.383Z
-updated: 2024-08-20T12:52:11.383Z
+date: 2025-01-23T18:43:30.991Z
+updated: 2025-01-30T18:07:27.952Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ If you see an error message popping up when you plug in your USB device saying t
 
 Part 1:[**What is USB selective suspend?**](https://tools.techidaily.com/drivereasy/download/)Part 2:[**Should I disable it or enable it?**](https://tools.techidaily.com/drivereasy/download/)Part 3: **[If I want to disable it, how can I do that?](https://tools.techidaily.com/drivereasy/download/)** Part 4:[**What to do if my USB device is still not recognized?**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is USB selective suspend?
 
 **The tl;dr version**: it prevents your computer from using too much unnecessary power by putting certain USB port(s) in a low-power state, i.e. the suspend state. USB selective suspend feature only works when you have USB devices connected to your computer, and that you have the most recent correct drivers for your USB ports. (Not sure if you have the most recent correct USB device drivers? Use[**Driver Easy Free**](https://tools.techidaily.com/drivereasy/download/)to find out! 😉 ) USB devices such as webcams, printers, and scanners are not in active use every minute of the day. To reduce the overall power consumption, especially if you’re a laptop or tablet user, Windows will automatically put a certain USB port that is not in use in a low-power state. This is one of the ways how Windows avoid data loss and driver corruption in devices such as external hard drives. That said, you’ll have more power available from idle external devices, and your actively in use USB devices won’t be affected. This is where the “selective” comes. It comes really handy for laptop and tablet users, especially when you don’t have a charger plugged in. Not to worry that your idle keyboard and mouse device will be suspended, because if you have enabled Wake from Keyboard/Mouse option in BIOS settings, which is usually the case with most of the computers, these two basic devices are filtered out. Such being the case, if Windows detects that none of your USB devices are in active use, it will first suspend accordant USB ports, and then go to the sleep or hibernate mode, to reduce your power consumption. In other words, if some of your USB ports are not suspended, your Windows is not likely to be able to go to the sleep or hibernate mode. Because some of your devices keep running somewhere.
@@ -37,6 +41,10 @@ You should choose to leave it enable or disable it as per your own needs.
 
 As mentioned, the USB selective suspend is really handy for laptop and tablet users in that it saves you power from unnecessary USB devices. So if you have not experienced any problems with your external USB devices on your laptop or tablet, you should leave it be.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Why should I disable it?
 
 If you run into_**USB device not recognized**_problem, always have the charger plugged in your computer, or you are on a full-power required USB device at all times, you should disable this feature.
@@ -44,8 +52,9 @@ If you run into_**USB device not recognized**_problem, always have the charger p
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a425938f75.png)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Frankly speaking, the USB selective suspend feature is not entirely helpful for desktop users, since desktops are always plugging into the power cord. But it won’t hurt either just to leave it at the enable state.
 
 ## Part 3: If I want to disable it, how can I do that?
@@ -59,23 +68,21 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Click **Change advanced power settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Click to expand **USB settings**  and **USB selective suspend setting**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 5) Select **Disabled**  from the drop-down option. Then click **Apply**  and **OK**to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
@@ -88,16 +95,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37710b44342.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a478d09cbf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 * [USB](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -106,8 +107,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +114,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/rom-screen-to-speakers-secrets-to-successful-video-sharing/"><u>[New] From Screen To Speakers Secrets to Successful Video Sharing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-from-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing/"><u>[New] In 2024, From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-leading-hd-video-capture-technology/"><u>[New] In 2024, Leading HD Video Capture Technology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-save-and-stream-gotomeet-on-desktops-and-phones/"><u>[Updated] 2024 Approved Save and Stream GoToMeet on Desktops & Phones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unseen-screenshots-tracking-instagrams-hidden-viewer-list-for-2024/"><u>[Updated] Unseen Screenshots Tracking Instagram's Hidden Viewer List for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artistic-eye-with-toolwiz-an-in-depth-look-at-the-photosapp-2023-edition/"><u>2024 Approved The Artistic Eye with Toolwiz An In-Depth Look at the PhotosApp, 2023 Edition</u></a></li>
+<li><a href="https://facebook.techidaily.com/discovering-the-social-networks-mechanisms-with-facebooks-openness-portal/"><u>Discovering the Social Network's Mechanisms with Facebook’s Openness Portal</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-root-of-poor-video-experiences-with-zoom/"><u>Exploring the Root of Poor Video Experiences with Zoom</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-your-xbox-one-when-you-see-no-signal-quick-and-easy-fixes/"><u>Fixing Your Xbox One When You See 'No Signal': Quick and Easy Fixes</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/pcdj-update-unveils-enhanced-karaoke-dj-keys-in-latest-version-explore-the-power-of-dex-31101/"><u>PCDJ Update Unveils Enhanced Karaoke DJ Keys in Latest Version - Explore the Power of DEX 3.11.0.1</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-accessing-and-viewing-pages-documents-on-your-windows-or-mac-computer/"><u>Step-by-Step Guide: Accessing and Viewing Pages Documents on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sustainable-smartphone-choices-the-ultimate-ranking-of-green-phones-for-2e-year-cnet/"><u>Sustainable Smartphone Choices: The Ultimate Ranking of Green Phones for 2E Year | CNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-google-event-news-rumors-and-announcements/"><u>The Next Google Event: News, Rumors, and Announcements</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-science-of-oled-a-comprehensive-overview/"><u>The Science of OLED - A Comprehensive Overview</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-true-environmental-impact-of-e-vehicles-a-comprehensive-review/"><u>Unveiling the True Environmental Impact of E-Vehicles: A Comprehensive Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-new-innovative-phones-from-samsung/"><u>Unveiling: New Innovative Phones From Samsung</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-is-chatgpt/"><u>What Is ChatGPT?</u></a></li>
+</ul></div>
 

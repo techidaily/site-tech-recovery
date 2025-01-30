@@ -1,7 +1,7 @@
 ---
 title: Speedy Solutions for Camera Troubleshooting in Windows Device Manager
-date: 2024-08-19T12:56:07.793Z
-updated: 2024-08-20T12:56:07.793Z
+date: 2025-01-24T20:01:02.131Z
+updated: 2025-01-30T22:06:11.345Z
 tags:
   - win11
   - win10
@@ -31,11 +31,19 @@ thumbnail: https://thmb.techidaily.com/9be334cdafc76019f9e5ad788ad6c3507c69da5b0
 6. **[Enable hardware-accelerated GPU scheduling](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair missing or corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Update your graphics driver
 
  Before jumping into any in-game settings or optimizations, we highly recommend that you look into**updating your GPU driver** . Outdated graphics drivers are often responsible for FPS drops and stuttering in numerous games, including Diablo 4\. These drivers act as intermediaries between your hardware and the game, and using outdated versions can lead to compatibility issues.
 
 To address this, follow these steps:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Manually update your drivers
 
@@ -61,26 +69,11 @@ Below is the simple three-step guide:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will proceed to download and install the latest versions of all your outdated and missing device drivers directly from the device manufacturer.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To access this feature, you’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy, which offers complete support and a 30-day money-back guarantee. If you choose to upgrade by clicking on ‘Update All,’ you’ll receive a prompt. However, if you prefer to stick with the FREE version, you can still update your drivers individually by downloading them one by one and manually installing them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Should you need any assistance, feel free to contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 ## 2\. Ensure your system is optimized
@@ -96,15 +89,13 @@ Below is the simple three-step guide:
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  button. Windows will then search for available updates. If there are any updates available, it’ll automatically start to download and install it. Simply wait for the process to complete. Then restart your device.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After the reboot, relaunch your game and check your gaming performance. If your FPS still drops bafflingly, don’t fret! Below are some other methods you can try.
 
 ## 3\. Disable background applications
@@ -117,15 +108,19 @@ Below is the simple three-step guide:
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Click on the**Processes** tab. Observe the**CPU** and**GPU** columns to identify any processes consuming a significant amount of resources.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/close-unnecessary-processes-1.png)
 4. Right-click the applications you want to close and select**End task** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then restart your game and test your gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 4\. Scan and repair your game files
 
  Game files may get corrupted or damaged over time due to reasons like improper installations, sudden system crashes, or file conflicts. Such issues can result in performance problems during gameplay, including FPS drops and stuttering. Scanning and repairing game files can detect and fix these corrupt or missing files, restoring the game to its original state and potentially resolving performance-related problems.
@@ -139,20 +134,11 @@ Then restart your game and test your gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-scan-and-repair-game-files.png)
 4. Click**Begin Scan** and wait for the process to complete. Then restart the Battle.net desktop app and launch your game.  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-scan-and-repair-game-files-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 If your issues persist, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 5\. Adjust your in-game settings
 
  When it comes to troubleshooting graphics issues, adjusting in-game settings may help.
@@ -168,6 +154,10 @@ To use Windowed mode and turn off Vertical Sync, take these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-menu-options.png)
 3. Under the**GRAPHICS** section, select**Windowed (Fullscreen)** from the dropdown. Then scroll down and find**Vertical Syncb** . Make sure it’s off.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-adjust-in-game-settings.png)
 
@@ -186,10 +176,11 @@ After applying changes, relaunch your game and check if it works.
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Restart your computer to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Repair missing or corrupted system files
 
@@ -200,23 +191,22 @@ Restart your computer to apply the changes.
  In such a case, should repair missing or corrupted system files. You can do this using the built-in Windows utility called**System File Checker (SFC)** .
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Run the System File Checker
 
 1. On your keyboard, press the**Windows logo key** . Type**cmd** in the search bar. Then right-click on**Command Prompt** from the search results and select**Run as administrator** .  
 
 ![run command prompt as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/cmd-run-as-administrator.jpg)
 2. In the Command Prompt window, type**sfc /scannow** and press Enter. The SFC tool will begin scanning your system for missing or corrupted files.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sfc-scannow.jpg)
 3. The scanning process may take some time, so be patient and let it complete.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 4. Once the scan is finished, the Command Prompt will display the results. If any issues are found, the tool will attempt to repair the corrupted files automatically.
 5. After the repair process is complete, restart your computer to apply the changes.
 
@@ -242,8 +232,6 @@ Restart your computer to apply the changes.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -251,4 +239,20 @@ Restart your computer to apply the changes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-10-game-changing-ways-for-designing-cover-art/"><u>[New] 2024 Approved 10 Game-Changing Ways for Designing Cover Art</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unlocking-effective-one-channel-streaming-techniques-for-2024/"><u>[New] Unlocking Effective One-Channel Streaming Techniques for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-bend-the-light-homegrown-animated-innovations/"><u>[Updated] 2024 Approved Bend the Light Homegrown Animated Innovations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-chatgpt-save-your-life-in-the-wilderness/"><u>Can ChatGPT Save Your Life in the Wilderness?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-70-lite-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor 70 Lite 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-swiftly-secure-your-favorite-podcast-episodes-on-iphone/"><u>In 2024, Swiftly Secure Your Favorite Podcast Episodes on iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-possible-to-remove-pre-installed-ios-applications/"><u>Is It Possible To Remove Pre-Installed iOS Applications?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/leveraging-mac-integration-for-top-tier-mixer-streams-for-2024/"><u>Leveraging Mac Integration for Top-Tier Mixer Streams for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-through-the-best-picks-in-instagram-ringtone-and-exceptional-alerts/"><u>Navigating Through the Best Picks in Instagram Ringtone & Exceptional Alerts</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-best-10-free-manga-sites-to-read-online/"><u>New Best 10 Free Manga Sites to Read Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-d3dx933dll-file-not-found-missing-issues/"><u>Solutions for Resolving 'd3dx9_33.dll' File Not Found / Missing Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-resolving-missing-dnssddll-error-on-your-pc/"><u>Step-by-Step Tutorial: Resolving Missing dnssd.dll Error on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-repair-the-missing-python24dll-file-a-step-by-step-tutorial/"><u>Troubleshoot and Repair the Missing Python24.DLL File: A Step-by-Step Tutorial</u></a></li>
+</ul></div>
 

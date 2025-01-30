@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Back up Drivers on Windows 11 & 10"
-date: 2024-08-19T12:53:30.497Z
-updated: 2024-08-20T12:53:30.497Z
+date: 2025-01-26T17:56:33.402Z
+updated: 2025-01-30T16:40:12.661Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d820247
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Turn off color filters in Windows Settings
 
  If your screen suddenly turns black and white when you’re using your Windows 10 PC, especially when you’re copying files using the shortcut key **Ctrl** +**C** , you may accidentally trigger the**color filters** feature by pressing its shortcut key (**The Windows logo key** +**Ctrl** +**C** ). Follow the instructions below to turn off color filters:
@@ -37,13 +41,19 @@ thumbnail: https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d820247
 1. On your keyboard, press**the Windows logo key** and type**color filter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap335.png)
 2. In the pop-up window,**turn off** the toggle under**Use color filters** . Then**uncheck** the box next to**Allow the shortcut key to toggle filter on or off** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap336.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your display on your Windows 10 PC should be back to normal after you turn off the color filters feature.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus tip: Update your graphics driver
 
  If turning off color filters doesn’t resolve this issue. Don’t worry! You may also run into this issue if there is something wrong with your graphics driver. Try updating your graphics driver to see if you can resolve this issue. By updating your graphics driver, you can also avoid many unexpected display issues and boost your game performance!
@@ -60,15 +70,17 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap182.png)
 3. Click **Update**  next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap183.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -83,8 +95,6 @@ There are two ways to update your graphics driver: **manually**  and **automatic
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +102,20 @@ There are two ways to update your graphics driver: **manually**  and **automatic
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-discovering-costless-software-for-streaming-sessions/"><u>[New] Discovering Costless Software for Streaming Sessions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-whatsapp-transfers-broadcasting-twitter-videos-with-ease-for-2024/"><u>[Updated] WhatsApp Transfers Broadcasting Twitter Videos with Ease for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-performance-in-depth-analysis-of-the-tp-link-archer-a9-router-below-100/"><u>Affordable Performance: In-Depth Analysis of the TP-Link Archer A9 Router Below $100</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-new-apple-watch-series-release-schedule-specs-explained-price-tags-and-breaking-news/"><u>All You Need to Know About the New Apple Watch Series Ⅷ: Release Schedule, Specs Explained, Price Tags & Breaking News</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/get-the-most-out-of-your-content-facebooks-full-screen-tutorial-2023-for-2024/"><u>Get the Most Out of Your Content Facebook's Full-Screen Tutorial 2023 for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-google-pixel-8-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/netflix-streaming-a-step-by-step-guide-to-sharing-your-screen/"><u>Netflix Streaming: A Step-by-Step Guide to Sharing Your Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/retweets-and-rethweets-demystified-whats-the-real-twitter-call/"><u>Retweets and Rethweets Demystified: What's the Real Twitter Call?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roku-showdown-unveiling-key-differences-between-express-and-stick-versions/"><u>Roku Showdown: Unveiling Key Differences Between Express and Stick Versions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-simple-way-to-update-your-discord-display-name-and-picture/"><u>The Simple Way to Update Your Discord Display Name and Picture</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/want-to-watch-movies-how-to-get-fandango-streaming-on-your-firestick/"><u>Want to Watch Movies? How to Get Fandango Streaming on Your Firestick!</u></a></li>
+</ul></div>
 

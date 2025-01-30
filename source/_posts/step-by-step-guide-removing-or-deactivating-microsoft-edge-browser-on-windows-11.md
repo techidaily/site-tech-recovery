@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Removing or Deactivating Microsoft Edge Browser on Windows 11"
-date: 2024-08-19T12:54:15.705Z
-updated: 2024-08-20T12:54:15.705Z
+date: 2025-01-23T19:45:58.159Z
+updated: 2025-01-30T17:17:50.767Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5832bcb6321f9-1024x488.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double click the**MediaCreationTool.exe** file to run the installation of it. If prompted by UAC, just click**Yes** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/mediacreationtool-exe-installation-media-tool.png)
@@ -48,9 +52,17 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5870485983070.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then you will see the following notifications:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58704c6b1e073.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Choose**Accept** on this window.  
   
@@ -74,9 +86,17 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5832bcb6321f9-1024x488.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double click the**MediaCreationTool.exe** file to run the installation of it. If prompted by UAC, just click**Yes** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/mediacreationtool-exe-installation-media-tool.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Accept** .
   
@@ -90,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/use-the-recommended-options-for-this-pc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Choose**USB flash drive** , and then click**Next** . If you want to**burn the ISO file to a DVD later** , you can choose the second option instead. We will go with USB flash drive.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/usb-flash-drive.png)
@@ -101,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
  8) Windows 10 will now begin to download. The speed of which will be determined by the Internet speed that you have.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/downloading-windows-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  9) When the download is finished, you will be seeing this window. Just click**Finish** to continue.  
   
@@ -118,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,9 +153,20 @@ thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-from-shoot-to-spectacle-editing-techniques-for-drones/"><u>[New] From Shoot to Spectacle Editing Techniques for Drones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bypassing-libcurldll-complications-a-detailed-correction-approach/"><u>Bypassing libcurl.dll Complications: A Detailed Correction Approach</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortlessly-upgrade-your-music-quality-convert-3gp-audios-to-premium-m4a-format-without-cost/"><u>Effortlessly Upgrade Your Music Quality - Convert 3GP Audios to Premium M4A Format, Without Cost!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-displaying-your-pc-screen-on-tv-using-chromecast/"><u>Guide: Displaying Your PC Screen on TV Using Chromecast</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-spark-10-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Spark 10 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/learn-how-to-connect-and-enjoy-hulu-content-on-lg-smart-tvs-easily/"><u>Learn How to Connect and Enjoy Hulu Content on LG Smart TVs Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fixing-geforce-now-error-code-xc0f1103f/"><u>Quick Guide to Fixing GeForce Now Error Code Xc0f1103f</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/restoring-access-a-step-by-step-guide-to-reviving-your-deactivated-snapchat-profile/"><u>Restoring Access: A Step-by-Step Guide to Reviving Your Deactivated Snapchat Profile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-generation-in-home-entertainment-arrives-tcl-debuts-new-range-with-19-q-and-s-class-smart-tv-models/"><u>The Next Generation in Home Entertainment Arrives: TCL Debuts New Range with 19 Q and S Class Smart TV Models</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-guide-for-effortless-youtube-shorts-design-for-2024/"><u>The Ultimate Guide for Effortless YouTube Shorts Design for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-resolving-issues-with-paramountplus-streaming-on-your-amazon-fire-tv-stick/"><u>Troubleshooting Steps: Resolving Issues with Paramount+ Streaming on Your Amazon Fire TV Stick</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-changes-netflixs-shift-away-from-the-standard-subscription-option/"><u>Unveiling Changes: Netflix's Shift Away From the Standard Subscription Option</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-say-it-with-feeling-a-beginners-guide-to-making-a-valentines-day-video/"><u>Updated Say It with Feeling A Beginners Guide to Making a Valentines Day Video</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->

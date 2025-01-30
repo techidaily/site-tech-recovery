@@ -1,7 +1,7 @@
 ---
 title: Free Virus Removal Tools [Virus Removal Guide]
-date: 2024-08-19T12:51:00.560Z
-updated: 2024-08-20T12:51:00.560Z
+date: 2025-01-29T16:36:09.961Z
+updated: 2025-01-30T16:02:29.995Z
 tags:
   - win11
   - win10
@@ -59,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/fa21f0e3da9170853bae87f9e51fccaaee500ab18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6bd9af770.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We sorted the list by**Memory** for the below screenshot. As you can see, Google Chrome is using the most RAM here. There are multiple instances of it in the list because Task Manager recognizes each of your browser tabs and browser extensions as a separate process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6dbe715e4.jpg)
@@ -67,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/fa21f0e3da9170853bae87f9e51fccaaee500ab18
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Reduce the number of programs running in the background
 
  Programs often run invisibly in the background when you turn on your computer. This can slow things down significantly. Some of these programs are necessary, but not all, so you should take a look at what programs are set to run at startup, and double-check that you need them to. If you don’t, then you should disable them. Here’s how:
@@ -78,16 +79,10 @@ thumbnail: https://thmb.techidaily.com/fa21f0e3da9170853bae87f9e51fccaaee500ab18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593773e4925a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Go to the**Startup** tab, and click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6dd70a1b9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the programs you don’t want to start when Windows starts, and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6db59ff85.png)
@@ -107,8 +102,9 @@ Fortunately, extensions are very easy to disable or remove:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d7196c0d1e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 , e.g.:
 
  2) Click the dust-bin icon on the right to uninstall the extensions you don’t need.
@@ -125,9 +121,6 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![Disable or remove Firefox add-on](https://images.drivereasy.com/wp-content/uploads/2017/06/Disable-or-remove-Firefox-add-on.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 ## Fix 4: Turn off unnecessary animations
@@ -138,13 +131,14 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![Turn off animations Windows 10](https://images.drivereasy.com/wp-content/uploads/2017/06/Turn-off-animations.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down a little bit and tick the checkbox for**Turn off all unnecessary animations (when possible)** . Then click**Apply** and**OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0f9f99e1800.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
 ## Fix 5: Check your antivirus schedule
@@ -159,9 +153,6 @@ Fortunately, extensions are very easy to disable or remove:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Run a virus scan
 
  If your computer is infected by viruses or malware, it can slow down. To check, run a full system scan with a trusted antivirus program.
@@ -194,9 +185,6 @@ Fortunately, extensions are very easy to disable or remove:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 8: Uninstall unnecessary programs
 
  If you have too many programs installed on your computer, it can slow down because they use disk space, memory and processing power. So you should delete any programs you don’t use (and which Windows doesn’t need to function properly). Here’s how:
@@ -204,6 +192,10 @@ Fortunately, extensions are very easy to disable or remove:
  1) On your keyboard, press the**Windows logo key** and**S** at the same time. Type**add remove** and click**Add or remove programs** .
 
 ![Add or remove programs](https://images.drivereasy.com/wp-content/uploads/2017/06/Add-or-remove-programs.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click to highlight a program you no longer need and click**Uninstall** .
 
@@ -215,9 +207,6 @@ Fortunately, extensions are very easy to disable or remove:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 9: Clear temporary files
 
  The longer you use your computer, the more temporary files (aka ‘temp files’) it collects.
@@ -230,29 +219,28 @@ Fortunately, extensions are very easy to disable or remove:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e73827e171.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Press the**Ctrl key** and**A** at the same time to select all the files you see here, and press the**Delete** key to delete them all.
 
 ![Delete temp files in Windows 10](https://images.drivereasy.com/wp-content/uploads/2017/06/Delete-temp-files-in-Windows-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) If, while trying to delete these files, you get a message saying a file or folder is in use, click**Skip** . The file won’t be deleted, but that’s OK; you can get it next time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e96992db13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) It could take up to a few minutes for all these files to be deleted – especially if many of them are large. If you’re clearing your temp files regularly, though, it should take only a few seconds.
 
  5) Restart your computer and see if it’s running any faster.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 10: Increase your virtual memory
 
  If your PC is running slow, adding more virtual memory can help speed it up. Virtual memory supplements the physical RAM installed on your computer, so you don’t run out of memory as often. This makes accessing files and programs faster.
@@ -275,9 +263,6 @@ Here’s how to add more virtual memory:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376da7f418e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  5) Select your Windows drive (the hard drive or partition that has Windows installed on it – usually**C:** ), then click**Custom size** and enter an Initial size and Maximum size for your virtual memory:
 
 * **Initial size**  – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the**Recommended** category.
@@ -287,9 +272,17 @@ Here’s how to add more virtual memory:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ebee6a3d27.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Restart your computer and see if your PC is still running slow.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 11: Cool your computer down
 
@@ -312,8 +305,9 @@ To reduce the temperature of your computer, you can:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 12: Verify the integrity of your hard disk
 
  When a hard disk ages, it can develop faults and errors in its file system. This can slow the drive significantly, which makes Windows take much longer when it opens and saves files.
@@ -324,9 +318,6 @@ To reduce the temperature of your computer, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fd0ef57747.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When prompted to provide administrator permission, click**Yes** to continue.
 
  2) In the black window, type**chkdsk** and press the**Enter** key on your keyboard. The disk scan will then start.
@@ -337,9 +328,6 @@ To reduce the temperature of your computer, you can:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 13: Defragment your hard disk
 
 **IMPORTANT** : Please ignore this fix if you have a solid state drive (SSD), as it may harm the drive.
@@ -360,26 +348,20 @@ To reduce the temperature of your computer, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fb9a304288.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select the drive you want to defragment, and click**Optimize** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0fcf8b6a57b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) The defrag will take anywhere from a few minutes to a couple of hours to finish, depending on the type of disk and the data you have on it.
 
  When it finishes, restart your computer and see if it’s now performing better.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Fix 14: Upgrade or reset Windows
 
  If you’re still using Windows XP, Windows Vista, Windows 7 or Windows 8, your computer is very likely to be sluggish. These versions of Windows are now outdated and were not designed to work with most of the software designed today.
@@ -436,8 +418,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -445,4 +425,20 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/onvert-your-youtube-files-effortlessly-to-webm-for-2024/"><u>[New] Convert Your YouTube Files Effortlessly to WebM for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-how-to-create-a-live-stream-on-youtube-with-the-best-webcams/"><u>2024 Approved How to Create a Live Stream on YouTube With the Best Webcams</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazon-kindle-paperwhite-2018-review-books-just-got-better/"><u>Amazon Kindle Paperwhite (2018) Review: Books Just Got Better</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazons-ongoing-deals-get-your-8tb-samsung-t5-external-ssd-now-for-a-steep-36-off-after-october-prime-extravaganza-zdnet-insights/"><u>Amazon's Ongoing Deals: Get Your 8TB Samsung T5 External SSD Now for a Steep 36% Off After October Prime Extravaganza | ZDNet Insights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/clear-cut-strategies-for-watermark-free-photography-for-2024/"><u>Clear-Cut Strategies for Watermark-Free Photography for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/corrective-actions-for-broken-usb-tethered-mobile-internet-access/"><u>Corrective Actions for Broken USB Tethered Mobile Internet Access</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-how-to-remove-text-overlays-from-amazon-prime-watch-party/"><u>Guide: How To Remove Text Overlays From Amazon Prime Watch Party</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-boost-your-xbox-ones-memory-with-an-external-hdd-a-complete-guide/"><u>How to Boost Your Xbox One's Memory with an External HDD – A Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-reach-out-safely-a-comprehvew-on-contacting-unlisted-phone-calls/"><u>How to Reach Out Safely: A Comprehvew on Contacting Unlisted Phone Calls</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pairing-techniques-integrating-a-mobile-device-with-the-oculus-quest-nquiry/"><u>Pairing Techniques: Integrating a Mobile Device With the Oculus Quest Nquiry</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-exploring-specs-and-release-timeline-for-the-new-google-pixel-watch/"><u>The Next Big Thing? Exploring Specs and Release Timeline for the New Google Pixel Watch</u></a></li>
+</ul></div>
 

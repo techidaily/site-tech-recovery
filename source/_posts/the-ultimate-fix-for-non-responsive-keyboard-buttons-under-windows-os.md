@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix for Non-Responsive Keyboard Buttons Under Windows OS
-date: 2024-08-19T12:53:36.693Z
-updated: 2024-08-20T12:53:36.693Z
+date: 2025-01-29T18:05:30.925Z
+updated: 2025-01-30T17:45:26.629Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/bf1aa2624ef83ca4793045372b8a4d65e582b5345
  If your Logitech K780 Keyboard stops working all of a sudden, or just some keys on it stop working out of the blue, don’t worry, we have some troubleshooting methods for you to try.
 
  Most of the time, the problem is not a big deal and can be easily fixed, but there could be cases when the keyboard’s not working problem is due to hardware failures, so you would need to replace the Logitech K780 keyboard with a new one to get it sorted. Let’s dig in to find the culprit for your Logitech K780 keyboard not working problem and get this issue fixed easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods for the Logitech K780 keyboard not working problem
 
@@ -44,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/bf1aa2624ef83ca4793045372b8a4d65e582b5345
 
  If by saying keyboard not working, you meant that**certain keys** on your Logitech K780 keyboard don’t work as they used to, and the problem happen all of a sudden, please follow the 3 methods below to see if they help to sort the problem out.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1.1 Make sure that it’s not a hardware issue
 
  We first need to run a keyboard test with Command Prompt as admin to see if the problem is on the hardware front or the software front. To run the test:
@@ -54,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/bf1aa2624ef83ca4793045372b8a4d65e582b5345
 1. On your keyboard, press **the Windows logo key** and **R** at the same time. Type **cmd** and press **Ctrl** +**Shift** +**Enter** at the same time to **run Command Prompt as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-92.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  You’ll be prompted for permission. Click **Yes** to open Command Prompt as admin.
 2. Type the keys that don’t work out of the blue in Command Prompt.
 
@@ -66,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/bf1aa2624ef83ca4793045372b8a4d65e582b5345
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1.2 Reinstall the keyboard driver
 
  When you’ve made sure that the keyboard problem is not hardware-related, you can then try to reinstall the keyboard driver for Logitech K780 to see if it helps. To do so:
@@ -76,13 +71,15 @@ thumbnail: https://thmb.techidaily.com/bf1aa2624ef83ca4793045372b8a4d65e582b5345
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Keyboards** category, then right-click your Logitech K780 keyboard and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-93.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-94.png)
 4. Restart your computer afterward for the keyboard driver to be reinstalled automatically by Windows.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If the keyboard installed by Windows doesn’t work, you can try a different driver by searching and downloading one manually from the internet.
 
@@ -95,10 +92,11 @@ thumbnail: https://thmb.techidaily.com/bf1aa2624ef83ca4793045372b8a4d65e582b5345
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -119,13 +117,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. The entire keyboard doesn’t work
 
  If your Logitech K780 keyboard doesn’t work at all, not just certain keys, then please try the following troubleshooting process to see if it helps.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2.1 Make sure your computer has Bluetooth capability
 
  Although it sounds a bit needless to say, we still have to stress that the Logitech K780 requires the Bluetooth feature on your computer to work wirelessly. So you should either have a built-in Bluetooth adapter for your computer or an external USB Bluetooth receiver or dongle for K780 to work.
@@ -140,15 +143,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Select**Add device** , and then**Bluetooth** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-96.png)
 4. Pay extra attention to the status bar here: if you see the blue dots running, then your Bluetooth feature and its driver should be fine.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-98.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you’ve made sure that your Bluetooth capability and its driver are both working fine, but your Logitech K780 keyboard still doesn’t work, please move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### 2.2 Update Windows
 
  System updates from Windows usually help to stabilize and optimize the overall computer environment. So if your system isn’t updated regularly, there could be compatibility issues that can cause problems like the keyboard not working straight. To make sure that you have the latest available updates installed:
@@ -157,23 +166,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Then try your Logitech K780 keyboard again to see if it works well. If the keyboard is still not working, please move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 Charge your keyboard or install a new battery
 
  If your Logitech K780 keyboard battery runs low, or your battery is too old to charge anymore, it won’t be connected to your computer successfully.
@@ -186,9 +191,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.4 Make sure there’s no interference from other devices
 
  When the connection between your Logitech K780 and your computer is still lost, you’ll then need to make sure that there’s no interference from other devices like wireless speakers, PSU (power supply units), monitors, mobile phones, and/or garage door openers.
@@ -212,11 +214,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-99.png)
 4. Then select**Add device** , and then**Bluetooth** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-96.png)
 5. When you see your Logitech K780 keyboard here, select it to add it back.
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 6. Follow the on-screen instructions to finish the setup.
 
  It may take Windows a couple of minutes (up to 5 minutes in some cases) to find and download all the drivers for your computer. If it’s taking too long for you, repeat the above steps to remove and add the Logitech K780 keyboard until it’s installed successfully.
@@ -234,8 +238,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,4 +245,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-compile-of-premium-tiktok-backdrop-options/"><u>[New] Compile of Premium TikTok Backdrop Options</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-pause-non-selected-youtube-video-suggestions/"><u>[New] In 2024, Pause Non-Selected YouTube Video Suggestions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diy-youtube-thumbnails-made-simple/"><u>[Updated] 2024 Approved DIY YouTube Thumbnails Made Simple</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-quick-breakdown-of-popular-emojis-on-snapchat-and-their-meanings/"><u>A Quick Breakdown of Popular Emojis on Snapchat and Their Meanings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-guide-establishing-successful-wi-fi-link-with-your-vizio-set/"><u>DIY Guide: Establishing Successful Wi-Fi Link with Your Vizio Set</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/driving-dreams-into-reality-the-premier-5-racer-simulators-for-2024/"><u>Driving Dreams Into Reality The Premier 5 Racer Simulators for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-13-ultra-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi 13 Ultra to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722844487994-reinstating-the-dark-feature-on-facebook-a-comprehensive-solution-guide/"><u>Reinstating the Dark Feature on Facebook: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/sonic-speed-stalled-by-steady-stream/"><u>Sonic Speed Stalled by Steady Stream</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-assistance-how-to-add-and-customize-ringtones-and-sounds-in-android-for-2024/"><u>Step-by-Step Assistance How To Add and Customize Ringtones & Sounds in Android for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-eliminating-code-43-errors/"><u>Step-by-Step Guide: Eliminating Code ˈ43' Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-increasing-globalization-fostered-greater-interdependence-between-nations-leading-to-a-more-harmonized-international-order/"><u>The Increasing Globalization Fostered Greater Interdependence Between Nations Leading to a More Harmonized International Order.</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/uncover-how-to-salvage-images-in-windows-using-the-powerful-stellar-fixer-app/"><u>Uncover How to Salvage Images in Windows Using the Powerful Stellar Fixer App!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-star-wars-episodes-in-their-true-order-a-guide-for-disneyplus-subscribers/"><u>Watch 'Star Wars' Episodes In Their True Order: A Guide for Disney+ Subscribers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/who-likes-my-photo-discover-who-has-saved-your-instagram-content/"><u>Who Likes My Photo? Discover Who Has Saved Your Instagram Content</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "All M-Powered Macs Embrace Fedora: The Exceptional Case in Detail"
-date: 2025-01-20T23:16:58.483Z
-updated: 2025-01-22T21:19:55.185Z
+date: 2025-01-23T20:44:36.496Z
+updated: 2025-01-30T21:25:06.592Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,18 +123,14 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/outube-snippets-guide-essential-info-inside/"><u>[New] YouTube Snippets Guide Essential Info Inside!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/anticipated-launch-and-pricing-info-on-the-upcoming-google-pixel-watch-series-4-whats-inside/"><u>Anticipated Launch & Pricing Info on the Upcoming Google Pixel Watch Series 4 - What's Inside?</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-unresponsive-touch-and-stylus-controls-on-displays/"><u>Fixing Unresponsive Touch and Stylus Controls on Displays</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/googles-gemini-initiative-unveiling-the-mystery-behind-its-current-objectives/"><u>Google's Gemini Initiative: Unveiling the Mystery Behind Its Current Objectives</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-ensure-you-receive-all-text-messages-on-your-android-smartphone/"><u>How to Ensure You Receive All Text Messages on Your Android Smartphone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c55-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme C55 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://facebook.techidaily.com/methodology-to-mask-identity-on-facebook-spheres/"><u>Methodology to Mask Identity on Facebook Spheres</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-15-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamp-and-personalize-window-11s-search-interface/"><u>Revamp and Personalize Window 11'S Search Interface</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-resolving-steamdll-file-absent-from-your-pc/"><u>Solving the Mystery: Resolving 'Steam.dll' File Absent From Your PC</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-spots-for-discovering-rich-gold-text-effects-for-2024/"><u>Ultimate Spots for Discovering Rich, Gold Text Effects for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-distinctions-what-makes-an-ipad-unique-in-the-world-of-tablets/"><u>Understanding Distinctions: What Makes an iPad Unique in the World of Tablets?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-100-working-method-for-adding-link-to-tiktok-bio/"><u>[New] 100% Working Method for Adding Link to TikTok Bio</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y27-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y27 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-dvr-technology-unveiling-digital-video-recorders-secrets/"><u>All About DVR Technology: Unveiling Digital Video Recorders' Secrets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-fitness-routines-7-smart-gpt-tools/"><u>Enhancing Fitness Routines: 7 Smart GPT Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-mobile-to-tv-mastering-the-setup-of-disney-plus-streaming-through-chromecast/"><u>From Mobile to TV: Mastering the Setup of Disney + Streaming Through Chromecast</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-meta-transforms-technology-with-advanced-ai-solutions/"><u>How Meta Transforms Technology with Advanced AI Solutions</u></a></li>
+<li><a href="https://win-lab.techidaily.com/identifying-common-reasons-for-excessive-heat-in-your-laptop-insights-from-yl-computings-experts/"><u>Identifying Common Reasons for Excessive Heat in Your Laptop: Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/imbalances-can-lead-to-soil-depletion-or-pest-outbreaks-a-balanced-ecosystem-promotes-healthy-crops-and-resilience-against-diseases/"><u>Imbalances Can Lead to Soil Depletion or Pest Outbreaks; a Balanced Ecosystem Promotes Healthy Crops and Resilience Against Diseases</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranked-visual-voicemail-solutions/"><u>Top-Ranked Visual Voicemail Solutions</u></a></li>
 </ul></div>
 

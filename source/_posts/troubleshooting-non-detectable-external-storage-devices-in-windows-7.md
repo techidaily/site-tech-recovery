@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Detectable External Storage Devices in Windows 7
-date: 2024-08-19T12:51:23.633Z
-updated: 2024-08-20T12:51:23.633Z
+date: 2025-01-29T17:44:20.650Z
+updated: 2025-01-30T18:30:37.610Z
 tags:
   - win11
   - win10
@@ -41,7 +41,15 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba3393bc52d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) If you do see message concerning connection problem, all you can do is to wait for Skype technicians to solve it on their end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Upgrade Skype to the latest version
 
@@ -71,6 +79,10 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba4174c0407.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Wait for Windows to search for and download available updates for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba41bf10bc6.jpg)
@@ -88,6 +100,10 @@ _Skype can’t connect_
  1) On your keyboard, press **Windows key**   and**X** at the same time, then click**Command Prompt (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba445219ad3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When prompted to give administrator permission, click**Yes** .
 
@@ -108,9 +124,6 @@ netsh int tcp show global
 
 3) Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 5\. Update Network Card Driver
 
  This problem is probably caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -125,9 +138,6 @@ netsh int tcp show global
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45ad5c809.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
@@ -135,8 +145,9 @@ netsh int tcp show global
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45c2da6fc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * [Skype](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -145,8 +156,6 @@ netsh int tcp show global
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +163,18 @@ netsh int tcp show global
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-beat-the-bad-guys-top-kung-fu-action-puzzle-games/"><u>[New] In 2024, Beat the Bad Guys Top Kung Fu Action Puzzle Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aximizing-youtube-income-universal-studio-insights-for-2024/"><u>[New] Maximizing YouTube Income Universal Studio Insights for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-say-goodbye-to-interruptions-youtube-adblocking-made-simple/"><u>[Updated] Say Goodbye to Interruptions YouTube Adblocking Made Simple</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-year-of-infographics-top-social-trends-explored/"><u>[Updated] The Year of Infographics Top Social Trends Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/crafting-the-perfect-email-signature-in-godaddy-webmail-top-tips-and-tricks/"><u>Crafting the Perfect Email Signature in GoDaddy Webmail – Top Tips and Tricks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579183296-germans-premier-learning-portal-mondly-emerges-victorious/"><u>German's Premier Learning Portal - Mondly Emerges Victorious!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-itel-a05s-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stream-smoothly-again-comprehensive-guide-to-fix-netflix-errors-on-your-lg-television-19-tactics/"><u>Stream Smoothly Again: Comprehensive Guide to Fix Netflix Errors on Your LG Television (19 Tactics)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-technique-for-dual-monitor-setup-on-your-macbook-air/"><u>The Ultimate Technique for Dual Monitor Setup on Your MacBook Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722891082349-top-6-essential-apps-every-student-and-parent-needs-for-academic-success/"><u>Top 6 Essential Apps Every Student & Parent Needs for Academic Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-repairing-kernel32dll-problems-in-windows-operating-system/"><u>Troubleshooting and Repairing Kernel32.dll Problems in Windows Operating System</u></a></li>
+</ul></div>
 

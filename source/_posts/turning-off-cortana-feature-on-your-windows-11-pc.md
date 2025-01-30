@@ -1,7 +1,7 @@
 ---
 title: Turning Off Cortana Feature on Your Windows 11 PC
-date: 2024-08-19T12:51:24.730Z
-updated: 2024-08-20T12:51:24.730Z
+date: 2025-01-23T17:36:13.825Z
+updated: 2025-01-30T21:37:41.116Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 
  Here in this guide, you’ll learn what DirectX is, why you need to make it up-to-date, and most importantly,**how to update DirectX** on your Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## On DirectX download on Windows 11 and 10
 
 1. **[What is DirectX and Why do I need it?](https://tools.techidaily.com/drivereasy/download/)**
@@ -29,9 +33,6 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 
  DirectX is a set of drivers in Windows. It allows software, especially video games work directly, also well with your video and audio card in an ideal state. In other words, it ensures an improved video and audio performance when you’re playing video games.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How do I install the latest version of DirectX on Windows 11 and 10?
 
  It’s easy to install the latest version of DirectX on Windows 11 an Windows 10: there is no stand-alone package for DirectX in Windows 11 and Windows 10 because the updates are available through Windows Update.
@@ -48,29 +49,33 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 3. You should then have the latest version of DirectX on your Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### You can check the version of DirectX in this way
 
 1. Type **dxdiag**  in the search box and click **dxdiag**  from the result.  
@@ -79,22 +84,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b6562e5bfd8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bonus tip for improving visual and audio performance
 
  To improve your visual and audio performance on your Windows 10, you not only should have the latest version of DirectX, but also should keep your video and audio cards driver up-to-date. You can download the latest drivers from your computer manufacturer’s website.
@@ -109,9 +101,6 @@ Key features:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -127,8 +116,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +123,23 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-start-chatting-in-real-time-learn-live-on-instagram/"><u>[New] Start Chatting in Real-Time Learn Live on Instagram</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-your-youtube-revenue-adsense-rates-per-1k-viewer/"><u>2024 Approved Understanding Your YouTube Revenue AdSense Rates Per 1K Viewer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-motorola-moto-g73-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Motorola Moto G73 5G Unlock Without Password</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banishing-stutters-and-halts-overcoming-fallout-3s-window-woes/"><u>Banishing Stutters and Halts: Overcoming Fallout 3'S Window Woes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/consolidate-calls-utilizing-your-mobile-number-with-different-gadgets-effortlessly/"><u>Consolidate Calls: Utilizing Your Mobile Number with Different Gadgets Effortlessly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-latest-buzz-on-apples-anticipated-touchscreen-macbook-pricing-details-release-forecast-and-specs/"><u>Discover The Latest Buzz on Apple's Anticipated Touchscreen MacBook: Pricing Details, Release Forecast, and Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-guide-configuring-automatic-user-authentication-on-your-pc/"><u>Easy Guide: Configuring Automatic User Authentication on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-fixes-for-resolving-iso-video-playback-and-conversion-glitches-on-your-ipad/"><u>Effortless Fixes for Resolving ISO Video Playback & Conversion Glitches on Your iPad</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/epic-dramatic-stories-for-the-ears/"><u>Epic Dramatic Stories for the Ears</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-can-students-score-a-discount-on-lenovo-products/"><u>How Can Students Score a Discount on Lenovo Products?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-quick-travel-a-guide-to-using-teleportation-commands-in-minecraft/"><u>Mastering Quick Travel: A Guide to Using Teleportation Commands in Minecraft</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210571423-9781398824355-runes/"><u>Runes | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-insiders-guide-to-using-and-maximizing-your-samsung-tv-apps/"><u>The Insider’s Guide to Using and Maximizing Your Samsung TV Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-free-mp4-video-converters-and-downloads-easy-guide/"><u>Top 5 FREE MP4 Video Converters & Downloads - Easy Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-repairing-a-nonfunctional-firestick-remote/"><u>Troubleshooting Guide: Repairing a Nonfunctional Firestick Remote</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722894901180-when-you-need-a-new-email-does-your-mailcom-account-end-soon-find-out/"><u>When You Need a New Email, Does Your Mail.com Account End Soon? Find Out</u></a></li>
+</ul></div>
 

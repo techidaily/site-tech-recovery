@@ -1,7 +1,7 @@
 ---
 title: Ultimate List of Favorite Criminal Chronicles on Podcasts (Top 13)
-date: 2024-08-12T04:16:22.526Z
-updated: 2024-08-13T04:16:22.526Z
+date: 2025-01-27T21:59:01.150Z
+updated: 2025-01-30T20:21:50.807Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate List of Favorite Criminal Chronicles on Podcasts (Top 13)
@@ -15,25 +15,23 @@ thumbnail: https://www.lifewire.com/thmb/zkbFe6fSEIJ3l6ilOk3yxBweE7Y=/540x405/fi
  Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
 
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -54,8 +52,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -65,17 +64,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -120,8 +117,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -150,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +155,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-cutting-edge-tips-streamline-your-ps4-gameplay-footage-collection/"><u>[New] 2024 Approved Cutting-Edge Tips Streamline Your PS4 Gameplay Footage Collection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-filtering-the-truth-in-your-insta-network/"><u>[New] 2024 Approved Filtering the Truth in Your Insta Network</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-high-definition-recordings-picking-the-best-frame-rate-wisely/"><u>[Updated] 2024 Approved High-Definition Recordings Picking the Best Frame Rate Wisely</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-carve-custom-web-laughter-cutouts-today/"><u>[Updated] Carve Custom Web Laughter Cutouts Today</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-becoming-a-filmora-fcc-the-pathway-explained/"><u>2024 Approved Becoming a Filmora FCC The Pathway Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/android-black-screen-woes-5-steps-to-restore-display-functionality/"><u>Android Black Screen Woes? 5 Steps to Restore Display Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-for-ensuring-email-privacy-and-safety/"><u>Comprehensive Strategies for Ensuring Email Privacy and Safety</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-8-leading-parental-monitoring-tools-of-2024/"><u>Discover the Ultimate List: 8 Leading Parental Monitoring Tools of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-tricks-for-fixing-petey-eyes-after-snapping-a-shot/"><u>DIY Tricks for Fixing Petey Eyes After Snapping a Shot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-sending-audio-messages-with-your-iphone-effortlessly/"><u>Guide: Sending Audio Messages with Your iPhone Effortlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitech-gaming-speaker-t630-on-your-computer-windows-os-guide/"><u>Install Logitech Gaming Speaker T630 on Your Computer - Windows OS Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-guide-addressing-and-correcting-stop-errors-in-hamachi/"><u>Quick Guide: Addressing and Correcting Stop Errors in Hamachi</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/ranking-the-top-value-video-resources-online-for-2024/"><u>Ranking the Top Value Video Resources Online for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-issues-with-tiktok-functionality/"><u>Solutions for Resolving Issues with TikTok Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-aol-mail-understanding-downtime-issues-and-personal-connectivity/"><u>Troubleshooting AOL Mail: Understanding Downtime Issues and Personal Connectivity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-pc-performance-the-impact-of-memory-speeds-and-latency/"><u>Understanding PC Performance: The Impact of Memory Speeds & Latency</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-foldable-iphone-revealed-anticipated-launch-date-and-pricing-details-uncovered/"><u>Upcoming Foldable iPhone Revealed: Anticipated Launch Date & Pricing Details Uncovered!</u></a></li>
+</ul></div>
 

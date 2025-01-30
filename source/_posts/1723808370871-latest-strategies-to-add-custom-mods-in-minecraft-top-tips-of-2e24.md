@@ -1,7 +1,7 @@
 ---
 title: Latest Strategies to Add Custom Mods in Minecraft - Top Tips of 2E24
-date: 2024-08-19T12:50:47.403Z
-updated: 2024-08-20T12:50:47.403Z
+date: 2025-01-25T20:15:27.330Z
+updated: 2025-01-30T16:08:56.244Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
 
  But you don’t need to walk through all the steps. Just select the ones you need.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Install Java
 
  Installing Java should be the first step to take if you want to add mods to Minecraft.
@@ -39,10 +43,18 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
   
 ![Java download](https://images.drivereasy.com/wp-content/uploads/2020/09/Java-download-2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) When the**Save As** window appears, click**Save** .  
  And Java will be downloaded. Till then, follow the instructions to finish the installation process.  
   
 ![Java Download](https://images.drivereasy.com/wp-content/uploads/2020/09/Java-download-3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -70,9 +82,17 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
   
 ![Install Forge](https://images.drivereasy.com/wp-content/uploads/2020/09/Install-Forge-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Save** when the**Save As** window pops up. And Forge will begin downloading.
   
 ![Install Forge](https://images.drivereasy.com/wp-content/uploads/2020/09/Install-Forge-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Install**
 
@@ -87,6 +107,10 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3: Backup Minecraft files
 
  Although adding mods is usually quite safe, you won’t know what would happen. So here we suggest that you have your Minecraft**.jar** file backed up before installing any mods.  
@@ -97,12 +121,21 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
   
 ![Copy](https://images.drivereasy.com/wp-content/uploads/2020/09/Copy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Create a new folder either on the cloud like Google Drive or One Drive or your computer.  
   
  To do so, you can right-click on the empty space on your desktop and click**New** \>**Folder** . Till then, name the folder.  
   
 ![create a new folder](https://images.drivereasy.com/wp-content/uploads/2020/09/create-a-new-folder.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click, and select**Paste** into the new folder you just created. After that, you successfully make a backup copy.  
   
 ![Paste](https://images.drivereasy.com/wp-content/uploads/2020/09/Paste.jpg)
@@ -110,8 +143,9 @@ Minecraft mods take a variety of shapes and forms They add more value to the gam
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 4: Download mods from a trusted source
 
  You can download the Minecraft mods based on your own preference. But be sure that they are compatible with your Minecraft and Forge. And they are from reliable sources.
@@ -126,9 +160,6 @@ Here we recommend you go to these two notable Minecraft mods sites:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Step 5: Add mods to Minecraft**
 
  After you’ve downloaded the mods, place them into your Minecraft folder and launch Minecraft.
@@ -145,25 +176,16 @@ To do so, you can:
   
 ![Install Minecraft mods](https://images.drivereasy.com/wp-content/uploads/2020/09/Install-Minecraft-mods.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  4) Launch Minecraft and make sure Forge is active.  
   
  5) Click**Play** and when you start a game, the mod will be applied to it directly.  
   
 ![install Minecraft mods](https://images.drivereasy.com/wp-content/uploads/2020/09/add-mods-to-Minecraft.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  Now with mods added to your Minecraft, you can start to explore the wonder of the game!
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## BONUS: update your drivers to enjoy the game to the fullest
 
  Playing games is quite fun. But sometimes you might encounter certain issues like black screen crashes with sound looping or something like that. It definitely destroys your gameplay experience!
@@ -185,9 +207,6 @@ To do so, you can:
   
 [Realtek](https://www.realtek.com/en/downloads)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 2** : Automatically update the drivers
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
@@ -206,10 +225,6 @@ To do so, you can:
   
 ![update drivers](https://images.drivereasy.com/wp-content/uploads/2020/09/Driver-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -225,8 +240,6 @@ To do so, you can:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +247,17 @@ To do so, you can:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-from-download-to-implementation-installing-obs-on-a-macpc/"><u>[New] 2024 Approved From Download to Implementation Installing OBS on a MacPC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-exploring-the-best-free-and-paid-videomosaic-apps-for-android-enthusiasts/"><u>[Updated] In 2024, Exploring the Best Free & Paid Videomosaic Apps for Android Enthusiasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-optimize-your-watch-activate-av1-on-youtube-platform/"><u>[Updated] In 2024, Optimize Your Watch Activate AV1 on YouTube Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/32-premium-free-tools-for-data-backup-a-detailed-ranking-and-review-guide/"><u>32 Premium Free Tools for Data Backup: A Detailed Ranking and Review Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-james-bond-movie-marathon-the-perfect-order/"><u>Complete James Bond Movie Marathon: The Perfect Order</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-mov-files-free-mp4-converter-tool-compatible-with-mac-and-windows-11/"><u>Convert MOV Files Free: MP4 Converter Tool - Compatible with Mac and Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-techniques-for-removing-microsofts-copilot-from-windows-11/"><u>Effective Techniques for Removing Microsoft's Copilot From Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/regain-entry-to-your-social-network-no-email-phone-needed-how/"><u>Regain Entry to Your Social Network: No Email, Phone Needed! How?</u></a></li>
+<li><a href="https://win11.techidaily.com/reverting-system-backups-to-standard-configurations/"><u>Reverting System Backups to Standard Configurations</u></a></li>
+</ul></div>
 

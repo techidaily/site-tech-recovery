@@ -1,7 +1,7 @@
 ---
 title: "Internet Shopping Protection: How to Shop Securely and Avoid Scams"
-date: 2024-08-19T12:54:36.644Z
-updated: 2024-08-20T12:54:36.644Z
+date: 2025-01-26T21:39:18.643Z
+updated: 2025-01-30T20:09:31.846Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
  This article will delve into various troubleshooting methods to help you overcome these problems and return to demon-slaying with seamless gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
 1. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
@@ -37,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
 To address this, follow these steps:
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Manually update your drivers
 
 1. Identify your graphics card model by pressing the**Windows logo + R keys** simultaneously to open the Run box. Type**taskmgr** and hit Enter to open the Task Manager.
@@ -47,9 +48,6 @@ To address this, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/how-to-identify-your-graphics-card-model-1.png)
 3. Visit the official website of your GPU manufacturer and download the latest driver suitable for your specific GPU model.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/)  
 [AMD](https://www.amd.com/en/support)  
@@ -57,8 +55,9 @@ To address this, follow these steps:
 4. Install the new driver and restart your computer to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Automatically update your drivers
 
  If you do not have the time or patience to update your drivers manually or you think it is error-prone, you can utilize an**automatic driver updater** – **[Drive Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you automatically identify any missing or outdated driver, and install the most updated one, direct from the manufacturers. With Driver Easy, having driver updates is just a matter of a few mouse clicks.
@@ -70,9 +69,6 @@ Below is the simple three-step guide:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will proceed to download and install the latest versions of all your outdated and missing device drivers directly from the device manufacturer.  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To access this feature, you’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy, which offers complete support and a 30-day money-back guarantee. If you choose to upgrade by clicking on ‘Update All,’ you’ll receive a prompt. However, if you prefer to stick with the FREE version, you can still update your drivers individually by downloading them one by one and manually installing them.  
 
@@ -93,17 +89,15 @@ Below is the simple three-step guide:
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  button. Windows will then search for available updates. If there are any updates available, it’ll automatically start to download and install it. Simply wait for the process to complete. Then restart your device.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
  After the reboot, relaunch your game and check your gaming performance. If your FPS still drops bafflingly, don’t fret! Below are some other methods you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disable background applications
 
  Background applications can consume system resources and lead to FPS drops. Close unnecessary programs running in the background, particularly those utilizing high CPU or GPU usage, such as video players or web browsers with multiple tabs.
@@ -118,6 +112,10 @@ Below is the simple three-step guide:
 4. Right-click the applications you want to close and select**End task** .
 
 Then restart your game and test your gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Scan and repair your game files
 
@@ -135,10 +133,6 @@ Then restart your game and test your gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-scan-and-repair-game-files-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 If your issues persist, proceed to the next fix.
 
 ## 5\. Adjust your in-game settings
@@ -175,13 +169,15 @@ After applying changes, relaunch your game and check if it works.
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Restart your computer to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Repair missing or corrupted system files
 
  If all else fails, it’s suggested that you check if any of your system files are missing or corrupted.
@@ -190,27 +186,33 @@ Restart your computer to apply the changes.
 
  In such a case, should repair missing or corrupted system files. You can do this using the built-in Windows utility called**System File Checker (SFC)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Run the System File Checker
 
 1. On your keyboard, press the**Windows logo key** . Type**cmd** in the search bar. Then right-click on**Command Prompt** from the search results and select**Run as administrator** .  
 
 ![run command prompt as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/cmd-run-as-administrator.jpg)
 2. In the Command Prompt window, type**sfc /scannow** and press Enter. The SFC tool will begin scanning your system for missing or corrupted files.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sfc-scannow.jpg)
 3. The scanning process may take some time, so be patient and let it complete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once the scan is finished, the Command Prompt will display the results. If any issues are found, the tool will attempt to repair the corrupted files automatically.
 5. After the repair process is complete, restart your computer to apply the changes.
 
  While the System File Checker (SFC) is a useful built-in tool for repairing missing or corrupted system files, there are situations where it may not be sufficient. If SFC fails to resolve the issues, seeking professional help or using reputable online tools could be considered. Here you can use **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , an award-winning and user-friendly software designed to streamline PC repair. It’s legit and comes in handy when you encounter any critical issues on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Automatically scan and repair your system files
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
@@ -219,9 +221,6 @@ Restart your computer to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You’ll need to have the premium package for unlimited automatic repairs. Should you require any assistance, feel free to contact the support team.
 
 ---
@@ -234,8 +233,6 @@ Restart your computer to apply the changes.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,4 +240,26 @@ Restart your computer to apply the changes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-groundbre-folio-of-gaming-loggers-alternatives-to-fbx/"><u>[New] Groundbre Folio of Gaming Loggers Alternatives to FBX</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mold-personal-memes-that-resonate-for-2024/"><u>[New] Mold Personal Memes That Resonate for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-video-reconfiguration-audio-version/"><u>[New] Twitter Video Reconfiguration Audio Version</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-does-youtube-manage-post-upload-operations/"><u>[Updated] 2024 Approved How Does YouTube Manage Post-Upload Operations?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-overcoming-full-screen-issues-in-obs/"><u>[Updated] 2024 Approved Overcoming Full Screen Issues in Obs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-utilizing-chatgpt-lead-to-job-termination-a-study-on-10-potential-occasions/"><u>Can Utilizing ChatGPT Lead to Job Termination? A Study on 10 Potential Occasions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-normalizdll-not-found-diagnosis-and-repair-strategies/"><u>Dealing with 'Normaliz.dll Not Found': Diagnosis and Repair Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-premier-free-options-instead-of-skype/"><u>Discover the Premier FREE Options Instead of Skype</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oneplus-nord-ce-3-lite-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to OnePlus Nord CE 3 Lite 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-solve-d3dx924dll-missing-error-quickly/"><u>Expert Tips to Solve 'd3dx9_24.dll' Missing Error Quickly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-javascript-runtime-dll-problems-expert-tips-and-techniques/"><u>Fixing JavaScript Runtime DLL Problems: Expert Tips & Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/marvelous-marshall-transformation-for-anc-a-feast-for-eyes-and-ears/"><u>Marvelous Marshall Transformation for ANC: A Feast For Eyes And Ears</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-snapchats-language-decoding-emoji-significances-inside-out/"><u>Mastering Snapchat's Language: Decoding Emoji Significances Inside Out</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-beginners-on-how-to-play-pokemon-go/"><u>Step-by-Step Instructions for Beginners on How to Play Pokémon Go</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-micromobility-key-dates-news-updates-rumors-and-essential-know-how/"><u>The Ultimate Guide to Micromobility: Key Dates, News Updates, Rumors, and Essential Know-How</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-snapchat-storytelling-learn-to-zoom-like-pros/"><u>Transform Your Snapchat Storytelling Learn to Zoom Like Pros</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-fixing-a-car-stereo-that-wont-turn-on/"><u>Troubleshooting: Fixing a Car Stereo That Won't Turn On</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-cmos-checksum-discrepancies/"><u>Ultimate Guide: Resolving CMOS Checksum Discrepancies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/x-men-movie-marathon-how-to-experience-them-in-their-official-release-order/"><u>X-Men Movie Marathon: How to Experience Them in Their Official Release Order</u></a></li>
+</ul></div>
 

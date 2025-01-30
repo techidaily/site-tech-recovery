@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your PS4 Experience: Detailed Tutorial on Using a Keyboard and Mouse"
-date: 2024-08-19T12:50:56.117Z
-updated: 2024-08-20T12:50:56.117Z
+date: 2025-01-25T19:24:29.686Z
+updated: 2025-01-30T20:01:48.036Z
 tags:
   - win11
   - win10
@@ -36,7 +36,15 @@ Having low FPS or significant FPS drops in Skyrim Special Edition? You’re not 
 2. Select**High performance** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-power-plan-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you still don’t see improvement in Skyrim FPS, proceed to the second fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -52,24 +60,15 @@ There are mainly two ways you can update your graphics driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the_flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer to employ the changes. If the issue persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Modify the config file
 
  Many players suggested modifying certain values in the game’s configuration file will dramatically boost FPS in Skyrim. Follow the steps to see if that works for you.
@@ -78,17 +77,11 @@ There are mainly two ways you can update your graphics driver:
 2. Locate**bLockFramerate** and set its value to**0** . Then click**Ctrl** +**S** to save the file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/config-file-1.jpg)
 3. Go back to the Skyrim Special Edition folder and open the**SkyrimPrefs** file.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Find**iVsyncPresentInterval** , set it to**0** and save the file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/config-file-2.jpg)
 
  Once completed, launch Skyrim to test. If the FPS is not improved, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Roll back your AMD graphics driver
 
  AMD users reported the latest AMD graphics driver can trigger decreased performance in Skyrim. To see if that’s the cause, you could roll back your graphics driver to the previous version.
@@ -102,16 +95,27 @@ Here is the instruction:
 3. Launch DDU and select**GPU** and your**graphics card brand** on the main screen.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/clean-reinstall-driver-1.jpg)
 4. Click**Clean and restart** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/clean-reinstall-driver-2.jpg)
 5. Wait for the uninstalling process to complete. Then, reboot your PC to exit the safe mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Go to the official support website of[AMD](https://www.amd.com/en/support) or[NVIDIA](https://www.nvidia.com/Download/index.aspx) to download the previous version of your graphics card driver.
 7. Open the downloaded file and follow the on-screen instructions to install the driver manually.
 
  Now see if the Skyrim FPS is raised. If not, try different versions until you find the one that renders the most stable Skyrim gameplay. Still no luck? Take a look at the last fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Install mods
 
  Skyrim mods can not only spice up your gaming experience but also fixes quite a lot of issues with the game and its engine. Simply trythese bug-fixing mods such as[Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266) or[SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230) to see if they boost your FPS.
@@ -131,8 +135,6 @@ Here is the instruction:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +142,23 @@ Here is the instruction:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mastering-video-capture-in-adobe-presenter/"><u>[New] 2024 Approved Mastering Video Capture in Adobe Presenter</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-building-believable-characters-through-dialogue/"><u>[Updated] 2024 Approved Building Believable Characters Through Dialogue</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-crafting-precise-time-indicators-in-youtubes/"><u>[Updated] Crafting Precise Time Indicators in YouTubes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-effortless-guide-to-share-your-videos-as-shorts-on-computers-and-phones/"><u>[Updated] In 2024, Effortless Guide to Share Your Videos as Shorts on Computers & Phones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-universal-approach-to-smartphone-mac-and-pc-video-filming/"><u>2024 Approved Universal Approach to Smartphone, Mac, and PC Video Filming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-green-car-options-what-sets-bevs-apart-from-phevs-fcevs-and-hybrids/"><u>Comparing Green Car Options: What Sets BEVs Apart From PHEVs, FCEVs, and Hybrids?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-methods-to-correct-libxml2dll-absent-or-non-existent-message-errors/"><u>Effective Methods to Correct libxml2.dll Absent or Non-Existent Message Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-websites-that-make-apartment-search-a-breeze-top-picks/"><u>Effective Websites That Make Apartment Search a Breeze: Top Picks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-s18e-by-drfone-android/"><u>How to Bypass FRP on Vivo S18e?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722870383484-hulu-stream-trouble-heres-how-to-resolve-error-code-rununk1-3-easily/"><u>Hulu Stream Trouble? Here’s How to Resolve ERROR Code: RUNUNK1 3 Easily!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-tips-for-successfully-refreshing-your-chromecast-software/"><u>Latest Tips for Successfully Refreshing Your Chromecast Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/polaroid-xs-100i-action-camera-review-for-2024/"><u>Polaroid XS 100I Action Camera Review for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-device-managers-code-n-series-a-step-by-step-guide/"><u>Resolving Device Manager's Code N-Series: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/star-trek-cinematic-universe-timeline-the-ideal-watching-sequence-explained/"><u>Star Trek Cinematic Universe Timeline: The Ideal Watching Sequence Explained</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-bsod-caused-by-pfn-list-corruption-on-windows-11-solutions-and-tips/"><u>Troubleshooting BSOD Caused by PFN List Corruption on Windows 11: Solutions and Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-screencast-handbook-adept-techniques-and-tools-for-2024/"><u>Ultimate Screencast Handbook Adept Techniques & Tools for 2024</u></a></li>
+</ul></div>
 

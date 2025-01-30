@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Disabling Your Apple Music Subscription Independently of iTunes - Tips"
-date: 2025-01-17T07:13:55.501Z
-updated: 2025-01-22T17:20:27.549Z
+date: 2025-01-24T19:19:22.857Z
+updated: 2025-01-30T18:20:34.339Z
 tags:
   - apple
 categories:
@@ -42,11 +42,11 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to send and receive iMessages on Windows
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
 
@@ -59,6 +59,10 @@ Microsoft added iPhone support to Phone Link in Windows 11 in early 2023\. To ma
 Next, confirm that you're running the latest version of Phone Link. To do this, open the Microsoft Store app from the Start menu and click the Library icon. Click the Get Updates button and allow all your installed apps to be updated, including Phone Link if necessary.
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
 
@@ -76,15 +80,15 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -92,25 +96,21 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Start a new chat
 
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -121,10 +121,6 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -155,6 +151,10 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,21 +192,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/rom-concept-to-creation-crafting-youtube-video-splits/"><u>[New] From Concept to Creation Crafting YouTube Video Splits</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-crafting-a-hit-list-youtubes-way-for-fans/"><u>[Updated] Crafting a Hit-List Youtube's Way for Fans</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-transformation-of-windows-10-landscape-for-2024/"><u>[Updated] The Transformation of Windows 10 Landscape for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-impart-rotational-luminosity-modification-in-photoshopping/"><u>2024 Approved Impart Rotational Luminosity Modification in Photoshopping</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-inshot-unveiled-assessing-its-edge-over-other-editors/"><u>2024 Approved InShot Unveiled Assessing Its Edge Over Other Editors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/best-budget-screen-grabber-for-smartphones-for-2024/"><u>Best Budget Screen Grabber for Smartphones for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/do-it-yourself-rescue-plan-what-to-do-when-your-iphone-or-ipod-gets-soaked/"><u>Do-It-Yourself Rescue Plan: What To Do When Your iPhone or iPod Gets Soaked</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/icloud-photography-unleashed-accessing-pics-on-apple-windows-and-android-systems/"><u>ICloud Photography Unleashed: Accessing Pics on Apple, Windows & Android Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ideal-family-movie-selection-on-netflix-for-young-audiences/"><u>Ideal Family Movie Selection on Netflix for Young Audiences</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/low-cost-pc-unlock-with-ideal-obs-settings/"><u>Low-Cost PC - Unlock with Ideal OBS Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resurrecting-blacked-out-android-phones-a-step-by-step-guide/"><u>Resurrecting Blacked-Out Android Phones: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-ring-overview-discover-price-points-expected-launch-timeline-and-key-features/"><u>Samsung Galaxy Ring Overview: Discover Price Points, Expected Launch Timeline & Key Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-problem-of-unsuccessful-start-up-in-mozilla-thunderbird-a-comprehensive-guide/"><u>Solving the Problem of Unsuccessful Start-Up in Mozilla Thunderbird: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-accessing-fubotv-content-via-fire-stick/"><u>Step-by-Step Tutorial: Accessing FuboTV Content via Fire Stick</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-f14-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy F14 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-how-to-make-a-photo-video-with-pixiz/"><u>[Updated] 2024 Approved How to Make a Photo Video with Pixiz?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-top-10plus-free-video-intro-makers-for-youtubers/"><u>[Updated] 2024 Approved Top 10+ Free Video Intro Makers for Youtubers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-direct-save-plus-alternative-pathways-your-instagram-video-guide/"><u>[Updated] In 2024, Direct Save + Alternative Pathways Your Instagram Video Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-infusing-youtube-soundtracks-within-multimedia-for-2024/"><u>[Updated] Infusing YouTube Soundtracks Within Multimedia for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-seamless-free-screen-capture-tool-perfect-mac-companion-for-uninterrupted-live-broadcasting/"><u>1. Seamless Free Screen Capture Tool: Perfect Mac Companion for Uninterrupted Live Broadcasting</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unleashing-your-channels-potential-increase-youtube-views/"><u>2024 Approved Unleashing Your Channel's Potential Increase YouTube Views</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accessing-premium-movie-content-how-to-get-fandango-on-a-firestick/"><u>Accessing Premium Movie Content: How to Get Fandango on a Firestick</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipated-launch-of-samsung-galaxy-s25-ultra-latest-price-forecasts-and-release-timeline-revealed/"><u>Anticipated Launch of Samsung Galaxy S25 Ultra - Latest Price Forecasts & Release Timeline Revealed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beginners-ultimate-resource-mastering-home-audio-setup/"><u>Beginner's Ultimate Resource: Mastering Home Audio Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722975059485-get-your-free-qualcomm-atheros-ar938x-drivers-instantly-no-stress-included/"><u>Get Your Free Qualcomm Atheros AR938X Drivers Instantly – No Stress Included!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-play-8t-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor Play 8T is off? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/phone-buying-hacks-secrets-of-shopping-smart-for-new-technology/"><u>Phone Buying Hacks: Secrets of Shopping Smart for New Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/psn-downtime-are-you-experiencing-an-outage-or-local-problem/"><u>PSN Downtime - Are You Experiencing an Outage or Local Problem?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reaper-remixing-rituals-volume-control-chronicles-for-2024/"><u>Reaper Remixing Rituals Volume Control Chronicles for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-generation-apple-watch-series-projections-for-launch-day-comprehensive-features-overview-cost-estimates-and-fresh-news-stories/"><u>The Next Generation Apple Watch Series Ⅷ: Projections for Launch Day, Comprehensive Features Overview, Cost Estimates & Fresh News Stories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolving-issues-with-unresponsive-fire-stick-remote/"><u>Troubleshooting Guide: Resolving Issues with Unresponsive Fire Stick Remote</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-world-of-football-manager-2023-fixes-for-early-boot-problems-revealed/"><u>Unlock the World of Football Manager 2023 - Fixes for Early Boot Problems Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-process-of-sharing-srt-text-in-social-digital-spaces-for-2024/"><u>Unveiling the Process of Sharing SRT Text in Social Digital Spaces for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-discover-the-best-free-animation-software-for-windows-mac-and-beyond/"><u>Updated 2024 Approved Discover the Best Free Animation Software for Windows, Mac, and Beyond</u></a></li>
 </ul></div>
 

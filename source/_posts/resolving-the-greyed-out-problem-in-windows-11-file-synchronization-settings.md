@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Greyed Out' Problem in Windows 11 File Synchronization Settings
-date: 2024-08-19T12:51:18.691Z
-updated: 2024-08-20T12:51:18.691Z
+date: 2025-01-29T21:44:33.482Z
+updated: 2025-01-30T18:55:45.682Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba324261c48.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) You’ll see Skype’s system status from the newly opened web page. If something is wrong with Skype, you’ll see the message here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba3393bc52d.jpg)
@@ -65,7 +69,15 @@ _Skype can’t connect_
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba41495099c.png) and**I** at the same time. Click**Update & security** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba4105e1a55.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Check for updates** .
 
@@ -89,6 +101,10 @@ _Skype can’t connect_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba445219ad3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When prompted to give administrator permission, click**Yes** .
 
  2) Type the following commands. Make sure that you have made no typo and then press the**Enter** key on your keyboard after each command.
@@ -106,11 +122,12 @@ netsh int tcp show global
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba44fb14d3b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Update Network Card Driver
 
  This problem is probably caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -125,18 +142,12 @@ netsh int tcp show global
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45ad5c809.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged network card device to automatically download and install the correct version of its driver (you can do this with the FREE version).
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba45c2da6fc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [Skype](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -145,8 +156,6 @@ netsh int tcp show global
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +163,18 @@ netsh int tcp show global
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-luminous-leaders-top-5-monitors-that-bring-shades-to-life/"><u>[New] In 2024, Luminous Leaders Top 5 Monitors That Bring Shades to Life</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-pinpointing-precision-with-minecrafts-zoom-feature/"><u>[New] Pinpointing Precision with Minecraft's Zoom Feature</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-in-depth-look-at-camstudios-capturing-capabilities/"><u>[Updated] In 2024, In-Depth Look at CamStudio's Capturing Capabilities</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-experience-classic-ps1-games-with-leading-emulators/"><u>2024 Approved Experience Classic PS1 Games with Leading Emulators</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-expected-costs-and-capabilities-of-the-next-gen-apple-home-automation-companion/"><u>Discover Expected Costs & Capabilities of the Next-Gen Apple Home Automation Companion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-picks-for-highest-quality-modem-and-router-combo-packs/"><u>Expert Picks for Highest Quality Modem & Router Combo Packs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-practices-for-getting-high-quality-pictures-without-spending-money/"><u>In 2024, Best Practices for Getting High Quality Pictures Without Spending Money</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/professional-tricks-to-correct-the-red-eye-glance-captured-in-pet-imagery/"><u>Professional Tricks to Correct the Red-Eye Glance Captured in Pet Imagery</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210496314-9781737870319-the-good-news-file/"><u>The Good News File | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-creating-the-perfect-awkward-potion-in-minecraft/"><u>Ultimate Tutorial: Creating the Perfect Awkward Potion in Minecraft</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-apple-watch-series-8-launch-timeline-detailed-features-cost-breakdown-and-latest-updates/"><u>Unveiling the Apple Watch Series 8: Launch Timeline, Detailed Features, Cost Breakdown & Latest Updates</u></a></li>
+</ul></div>
 

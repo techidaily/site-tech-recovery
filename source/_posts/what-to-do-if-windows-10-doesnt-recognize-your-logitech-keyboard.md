@@ -1,7 +1,7 @@
 ---
 title: What to Do if Windows 10 Doesn't Recognize Your Logitech Keyboard
-date: 2024-08-19T12:54:49.500Z
-updated: 2024-08-20T12:54:49.500Z
+date: 2025-01-26T19:16:37.489Z
+updated: 2025-01-30T21:33:54.334Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/license-termination.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Then choose**Upgrade this PC now** . Hit**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5870453c73720.jpg)
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58704c6b1e073.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Choose**Accept** on this window.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58704e211040a.jpg)
@@ -63,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
  8) See a recap of what you have chosen, then save and close any open files you are running, then select**Install** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58704fe1998f8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  9) Then whole process could take some time, and your PC will restart a couple of times in between. Make sure you don’t turn off your PC during the process.
 
@@ -82,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/license-termination.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Choose**Create installation media for another PC** . Then choose**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/create-installation-media-for-another-pc-next-600x478.png)
@@ -89,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
  5) If you leave the box**Use the recommended options for this PC** checked, your language, edition and architecture settings will remain the same as your current PC. So, uncheck the option, then fill in your own preference settings. Then press**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/use-the-recommended-options-for-this-pc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Choose**USB flash drive** , and then click**Next** . If you want to**burn the ISO file to a DVD later** , you can choose the second option instead. We will go with USB flash drive.
   
@@ -102,10 +122,19 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/downloading-windows-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) When the download is finished, you will be seeing this window. Just click**Finish** to continue.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/your-usb-flash-drive-is-ready.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) Then plug the USB flash driver in the computer you want to upgrade to Windows 10, and upgrade it as per the instructions.
   
  For more information, you can visit the post here to see **[how to install Windows 10 with USB flash drive](https://tools.techidaily.com/drivereasy/download/) .**
@@ -118,8 +147,6 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,8 +154,22 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-use-youtube-enhancements-for-2024/"><u>[New] How to Use YouTube Enhancements for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-beginners-guide-to-flawless-ipad-screen-saving/"><u>[Updated] 2024 Approved A Beginner's Guide to Flawless iPad Screen Saving</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-8-superior-windows-video-call-apps-ranked/"><u>[Updated] In 2024, 8 Superior Windows Video Call Apps Ranked</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevate-editing-professional-kinemaster-transition-tactics/"><u>[Updated] In 2024, Elevate Editing Professional Kinemaster Transition Tactics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-solution-for-msvcrt1vect12-dll-missing-error/"><u>Comprehensive Solution for Msvcrt1vect12 DLL Missing Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-criteria-for-choosing-the-perfect-projector-a-comprehensive-guide/"><u>Essential Criteria for Choosing the Perfect Projector: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-delete-photos-from-facebook/"><u>How to Delete Photos From Facebook</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-8-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 8 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-use-an-external-hard-drive-on-xbox-one/"><u>How to Use an External Hard Drive on Xbox One</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-network-settings-in-windows-10-activate-and-deactivate-discovery/"><u>Mastering Network Settings in Windows 10: Activate and Deactivate Discovery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-more-dll-drama-expert-tips-on-restoring-lost-advapi3and-files-and-ending-error-messages/"><u>No More DLL Drama: Expert Tips on Restoring Lost Advapi3^& Files and Ending Error Messages</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-top-savings-with-these-amazing-verizon-upgrade-deals-for-month/"><u>Secure Top Savings with These Amazing Verizon Upgrade Deals for [Month]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-enhanced-performance-the-impact-of-upgrading-your-mouses-buttons/"><u>Unlock Enhanced Performance: The Impact of Upgrading Your Mouse's Buttons</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo A18? | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

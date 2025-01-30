@@ -1,7 +1,7 @@
 ---
 title: Discover How to Locate and Verify the BIOS Version on a Windows 11 Machine with Ease
-date: 2024-08-19T12:55:53.454Z
-updated: 2024-08-20T12:55:53.454Z
+date: 2025-01-29T16:26:43.713Z
+updated: 2025-01-30T20:01:24.069Z
 tags:
   - win11
   - win10
@@ -36,7 +36,15 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **services.msc**   into the box and click **OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Scroll down to the bottom, locate and double-click on **Windows Update** .
 
@@ -49,8 +57,9 @@ Windows Update is a feature that automatically checks and provide updates for ou
 4) Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: **Meter your Wifi network**
 
  If you’re using Wifi network, then method 2 will just do the trick. By**metering your Wi-fi network** , Windows will automatically take it that you’re on a limited data plan (even if you aren’t) and stop forcing Windows updates on your computer. Here’s how:
@@ -67,6 +76,10 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e598c92ca.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Hopefully it solves your woes and you won’t see another ‘unsolicited’ Windows update on your computer.
 
 ## **Method 3: Change Group Policy Settings**
@@ -77,40 +90,28 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320075a239c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Double-click on **Computer Configuration** \> **Administrative Templates** \>**Windows Components** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320153b5782.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Double-click on**Windows Update** \> **Configure Automatic Updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32023756b85.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Choose**Disabled** , and then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320453ed059.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’s recommendable to select**Enabled** and**Notify for downloads and auto install** (see below) so that you can always get a confirmation message instead of an auto update (meanwhile still keeping a watchful eye for an important Windows update). Also, you might need to select**Enabled** if you are to upgrade your Windows to a higher version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320505e4030.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 6) Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Bonus tip: Update your device drivers via Driver Easy
 
  Despite the undue pain Windows Update brings to us (like buggy updates, Internet data hogging, untimely computer shut-downs for an update etc.), Windows does has its point: **to keep your drivers up-to-date for the best computer performance** . If you don’t have the time, patience or computer skills to update your  drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -125,9 +126,17 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45814031f86.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Y ou can upgrade to the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) and click   **Update All**   to automatically download and install the correct version of   **ALL** the drivers that are missing or out of date on your system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321850aaba5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer to finish the update.
 
@@ -141,8 +150,6 @@ Windows Update is a feature that automatically checks and provide updates for ou
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +157,22 @@ Windows Update is a feature that automatically checks and provide updates for ou
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-apple-podcasts-get-your-audio-fix-instantly/"><u>[New] Apple Podcasts Get Your Audio Fix Instantly</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-high-definition-horizons-comparing-ultrawide-and-uhd-4k-monitors/"><u>[Updated] 2024 Approved High-Definition Horizons Comparing UltraWide and UHD 4K Monitors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-navigate-through-windows-11s-best-practices-for-imports-for-2024/"><u>[Updated] Navigate Through Windows 11'S Best Practices for Imports for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-perfect-pitch-perfection-the-top-7-apps-to-change-your-voice-online-for-2024/"><u>[Updated] Perfect Pitch Perfection The Top 7 Apps to Change Your Voice Online for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-google-pixel-fold-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Google Pixel Fold to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fixes-for-non-functioning-spell-check-in-microsoft-outlook/"><u>Easy Fixes for Non-Functioning Spell Check in Microsoft Outlook</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/exporting-your-youtube-and-twitter-creations-via-whatsapp/"><u>Exporting Your YouTube & Twitter Creations via WhatsApp</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-impact-of-luts-on-professional-photography/"><u>In 2024, The Impact of LUTs on Professional Photography</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protecting-your-inbox-a-tutorial-on-setting-up-gmail-two-factor-authentication/"><u>Protecting Your Inbox: A Tutorial on Setting Up Gmail Two-Factor Authentication</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-written-work-with-gpt-4/"><u>Transform Written Work with GPT-4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-repairing-osetupdll-file-issues-on-your-computer/"><u>Troubleshooting and Repairing osetup.dll File Issues on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-walkthrough-for-discontinuing-your-tiktok-activity/"><u>Ultimate Walkthrough for Discontinuing Your TikTok Activity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-formula-for-youtube-virality-essential-techniques-you-need-to-know-in-8-parts/"><u>Unlock the Formula for YouTube Virality: Essential Techniques You Need to Know (In 8 Parts)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-secrets-of-high-quality-music-streaming-with-dts-play-fi/"><u>Unraveling the Secrets of High-Quality Music Streaming with DTS Play-Fi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-nvidia-gamestream-not-working-common-fixes-explored/"><u>Why Is My NVIDIA GameStream Not Working? Common Fixes Explored</u></a></li>
+</ul></div>
 

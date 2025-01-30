@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2025-01-16T20:03:30.001Z
-updated: 2025-01-23T10:14:51.507Z
+date: 2025-01-27T17:48:42.193Z
+updated: 2025-01-30T16:44:36.810Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best AT&T deals
 
@@ -120,10 +116,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -138,10 +130,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -151,6 +139,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [AT&T 15W wireless charging pad: $10 (save $19) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Chargers/att-15w-wireless-charging-pad.html)
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
 
@@ -162,30 +154,38 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,16 +236,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://novels-ebooks.techidaily.com/210252959-9781101993064-becoming-aware/"><u>Becoming Aware | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-productivity-in-microsoft-teams-using-github-copilot-learn-how/"><u>Enhance Productivity in Microsoft Teams Using GitHub Copilot – Learn How!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-correcting-the-advrcntr2dll-absent-problem-with-nero-programs/"><u>Essential Tips for Correcting the 'AdvRcntr2.dll Absent' Problem with Nero Programs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/experience-next-level-entertainment-on-the-latest-hitachi-ultra-hd-tvs-with-built-in-roku-streaming/"><u>Experience Next-Level Entertainment on the Latest Hitachi Ultra HD TVs with Built-In Roku Streaming</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-poco-f5-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Poco F5 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-12-pro-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 12 Pro Without a Home Button</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-early-career-overwhelm-tips-to-dodge-burnout-for-recent-university-alumni-advice-from-zdnet/"><u>Navigating Early Career Overwhelm: Tips to Dodge Burnout for Recent University Alumni - Advice From ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-day-windows-11-calendar-insights/"><u>Streamlining Your Day: Windows 11 Calendar Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-essential-pinterest-planning-applications/"><u>Top 5 Essential Pinterest Planning Applications</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-keyboards-that-fail-to-register-keys-expert-solutions-for-common-issues/"><u>Troubleshooting Keyboards That Fail to Register Keys: Expert Solutions for Common Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-compatibility-playing-older-ps-games-on-newer-console/"><u>Understanding Compatibility: Playing Older PS Games on Newer Console</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easy-obs-youtube-live-streaming-guide/"><u>[New] 2024 Approved Easy OBS YouTube Live Streaming Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-premium-chromebook-capture-app/"><u>[New] 2024 Approved Premium Chromebook Capture App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/can-a-128gb-drive-handle-huge-video-files-in-2024/"><u>Can a 128GB Drive Handle Huge Video Files, In 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-trio-of-pioneering-technological-advanceby-industry-experts/"><u>Exploring the Trio of Pioneering Technological Advanceby Industry Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-your-iphone-torch-problems-with-these-12-effective-repair-techniques/"><u>Overcome Your iPhone Torch Problems with These 12 Effective Repair Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-android-wi-fi-login-issues-step-by-step-guide/"><u>Solving Android Wi-Fi Login Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-assassins-creed-odyssey-pc-freeze-issues-ultimate-guide/"><u>Solving Assassin's Creed Odyssey PC Freeze Issues: Ultimate Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-core-variations-between-ht-systems-and-stereo-sound-receivers-explained/"><u>The Core Variations Between HT Systems and Stereo Sound Receivers Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-9-essential-technology-tools-students-must-have-in-their-backpacks/"><u>Top 9 Essential Technology Tools Students Must Have in Their Backpacks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-unstick-a-laptop-when-it-freezes-during-boot-up/"><u>Troubleshooting: How to Unstick a Laptop When It Freezes During Boot Up</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-haldll-issues-on-windows-111087-and-vista/"><u>Ultimate Guide: Resolving hal.dll Issues on Windows 11/10/8/7 and Vista</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/unlocking-stills-from-videos-top-10-conversion-tools-for-2024/"><u>Unlocking Stills From Videos Top 10 Conversion Tools for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2025-01-21T04:43:55.807Z
-updated: 2025-01-22T16:08:53.815Z
+date: 2025-01-28T16:42:29.678Z
+updated: 2025-01-30T18:00:20.486Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,20 +129,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-artisans-code-a-complete-blueprint-for-flawless-windows-tv-recording/"><u>[Updated] 2024 Approved The Artisan's Code A Complete Blueprint for Flawless Windows TV Recording</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amazon-kindle-paperwhite-user-manual-how-to-update-and-set-device-time-accurately/"><u>Amazon Kindle Paperwhite User Manual: How to Update and Set Device Time Accurately</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138620346-9781722520090-awakened-mind-master-class-series/"><u>Awakened Mind (Master Class Series) | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-when-your-device-wont-start-dealing-with-code-10/"><u>Effective Solutions for When Your Device Won't Start (Dealing with Code 10)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi 13T Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-slow-motion-footage-gopro-hero-10-tips/"><u>In 2024, Mastering Slow-Motion Footage GoPro Hero 10 Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximizing-your-gmail-efficiency-with-advanced-filtering-techniques/"><u>Maximizing Your Gmail Efficiency with Advanced Filtering Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-xinput13dll-file-absence-a-step-by-step-guide/"><u>Solving the xinput1_3.dll File Absence: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-resolving-issues-when-your-ipad-cannot-locate-the-printer/"><u>Step-by-Step Solution: Resolving Issues When Your iPad Cannot Locate the Printer</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/stitching-an-innovative-tiktok-closing-credits/"><u>Stitching An Innovative TikTok Closing Credits</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-battle-of-broadcasts-comparing-cable-with-online-streaming-platforms/"><u>The Battle of Broadcasts: Comparing Cable with Online Streaming Platforms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-guide-to-ios-n-dive-into-the-expected-release-date-free-of-cost-update-feature-overview-and-recent-updates/"><u>The Comprehensive Guide to iOS N: Dive Into the Expected Release Date, Free of Cost Update, Feature Overview, and Recent Updates</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-aural-archive-discussion-and-judgment/"><u>[New] In 2024, Aural Archive Discussion & Judgment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harmonize-your-favorites-creating-custom-youtube-playlists-for-2024/"><u>[Updated] Harmonize Your Favorites Creating Custom YouTube Playlists for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-instagrams-secrets-for-creating-must-watch-unboxings/"><u>2024 Approved Instagram's Secrets for Creating Must-Watch Unboxings</u></a></li>
+<li><a href="https://facebook.techidaily.com/carolyn-everson-ends-tenure-at-facebook/"><u>Carolyn Everson Ends Tenure at Facebook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-for-adding-and-watching-apple-tv-on-your-fire-stick-platform/"><u>Easy Steps for Adding and Watching Apple TV on Your Fire Stick Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tricks-to-record-and-transmit-audio-messages-using-an-iphone/"><u>Easy Tricks to Record & Transmit Audio Messages Using an iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-your-experience-mastering-the-art-of-quick-settings-on-android-phones-and-tablets/"><u>Enhance Your Experience: Mastering the Art of Quick Settings on Android Phones and Tablets</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/highly-rated-portable-optical-drives-for-home-and-office-use-2-groovy-listings/"><u>Highly Rated Portable Optical Drives for Home and Office Use, 2 Groovy Listings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-15-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 15 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-insert-youtube-playlists-seamlessly-into-a-website-for-2024/"><u>How to Insert YouTube Playlists Seamlessly Into a Website for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-6-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 6 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionary-connectivity-awaits-explore-the-newly-launched-apple-iphone/"><u>Revolutionary Connectivity Awaits – Explore the Newly Launched Apple iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-on-downloading-the-latest-ios-software-upgrade/"><u>The Complete Walkthrough on Downloading the Latest iOS Software Upgrade</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-best-visual-voicemail-solutions-of-2024/"><u>The Ultimate List: Best Visual Voicemail Solutions of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722859438272-top-rated-key-trackers-a-comprehensive-guide/"><u>Top Rated Key Trackers : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-common-issues-encountered-in-bios-post-sequence/"><u>Troubleshooting Common Issues Encountered in BIOS POST Sequence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-of-digital-time-travel-with-the-wayback-machine-user-manual/"><u>Unlock the Secrets of Digital Time Travel with the Wayback Machine User Manual</u></a></li>
 </ul></div>
 

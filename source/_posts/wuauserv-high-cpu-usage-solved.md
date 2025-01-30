@@ -1,7 +1,7 @@
 ---
 title: Wuauserv High CPU Usage [SOLVED]
-date: 2024-08-19T12:51:53.664Z
-updated: 2024-08-20T12:51:53.664Z
+date: 2025-01-28T17:46:04.523Z
+updated: 2025-01-30T18:40:19.608Z
 tags:
   - win11
   - win10
@@ -36,9 +36,17 @@ Since its launch, players are enjoying **[Cyberpunk 2077](https://www.epicgames.
   
 ![Cyberpunk 2077 settings](https://images.drivereasy.com/wp-content/uploads/2020/12/navigate-to-in-game-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**GRAPHICS** tab, set the**Texture Quality** to**Medium** or**High** depending on your system specs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/TEXTURE-QUALITY.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then scroll down and turn off these three options:
 
@@ -56,9 +64,6 @@ Then scroll down and turn off these three options:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Fix 2: Update graphics driver
 
  Your device drivers, the graphics driver in particular, are important components that greatly impact your computer’s performance. If your game looks blurry, one of the recommended troubleshooting steps you should take is to update your graphics driver especially you can’t remember when was the last time you had it updated.
@@ -67,10 +72,6 @@ Then scroll down and turn off these three options:
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -92,23 +93,6 @@ Here’s how it works:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -120,6 +104,10 @@ Key features:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Enable NVIDIA Image Sharpening
 
  If you’ve got an NVIDIA card, there is another way you can boost the image quality even more. That is to enable the image sharpening.
@@ -128,28 +116,27 @@ Key features:
   
 ![oopen NVIDIA Control Panel](https://images.drivereasy.com/wp-content/uploads/2020/12/NVIDIA.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Select**Manage 3D Settings** from the left menu. Then select**Global Settings** . From the list, click on**Image Sharpening** . In the drop-down menu, tick**On** . For the values, leave them at default. After this, simply click**OK** to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/NVIDIA-Image-Sharpening-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note that this action is to set up image sharpening globally for all games. To enable image sharpening only for your game Cyberpunk 2077, you can select the**Program Settings** tab. Then select your game from the drop-menu and apply the desired settings.  
  (If you are unable to find the program, click on**Add** and choose your game.)
 
 ![enable NVIDIA Image Sharpening for a specific game](https://images.drivereasy.com/wp-content/uploads/2020/12/enable-NVIDIA-Image-Sharpening-for-a-specific-game.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once done, there should be a noticeable improvement in the image quality.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Disable fullscreen optimizations
 
  To further prevent your system from changing the visual quality of the game, you can make a small change in the game’s compatibility options.
@@ -164,9 +151,17 @@ Once done, there should be a noticeable improvement in the image quality.
   
 ![disable fullscreen optimizations to fix Cyberpunk 2077 blur](https://images.drivereasy.com/wp-content/uploads/2020/12/click-Properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) In the Properties window, select the tab**Compatibility** . Check**Disable fullscreen optimizations** . Then click**Apply > OK** .  
   
 ![disable fullscreen optimizations to fix Cyberpunk 2077 blur](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-fullscreen-optimizations.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the changes, your game should look a lot better than before.
 
@@ -182,8 +177,6 @@ Once done, there should be a noticeable improvement in the image quality.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +184,24 @@ Once done, there should be a noticeable improvement in the image quality.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ccess-youtube-beats-freshly-split-with-this-compelling-list-of-17-crackers/"><u>[New] Access YouTube Beats Freshly Split With This Compelling List of 17 Crackers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/istinguishing-between-youtube-policies-and-cc-clauses/"><u>[New] Distinguishing Between YouTube Policies and CC Clauses</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-breaking-the-barrier-acquiring-mass-tiktok-videos-easily/"><u>[Updated] In 2024, Breaking the Barrier Acquiring Mass TikTok Videos Easily</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-real-time-facebook-footage-the-top-5-live-streaming-apps/"><u>[Updated] Real-Time Facebook Footage The Top 5 Live-Streaming Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-quieting-down-the-sound-a-step-by-step-logic-pro-method/"><u>2024 Approved Quieting Down the Sound A Step-by-Step Logic Pro Method</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722894285834-deactivate-critical-messaging-warnings-on-iphones-with-this-simple-tutorial/"><u>Deactivate Critical Messaging Warnings on iPhones with This Simple Tutorial.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-the-secrets-of-car-radio-codes-an-informative-tutorial/"><u>Deciphering the Secrets of Car Radio Codes – An Informative Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exciting-updates-gimp-introduces-advanced-gradient-capabilities-ahead-of-the-30-update/"><u>Exciting Updates: GIMP Introduces Advanced Gradient Capabilities Ahead of the 3.0 Update</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-overcoming-static-display-images-on-your-devices-screens/"><u>Expert Tips for Overcoming Static Display Images on Your Devices' Screens</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exporting-your-spotify-playlists-as-text-a-comprehensive-guide/"><u>Exporting Your Spotify Playlists as Text: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ahead-in-the-tech-game-insights-into-samsungs-galaxy-z-fold-6-its-specs-release-schedule-and-cost-estimates/"><u>Get Ahead in the Tech Game: Insights Into Samsung's Galaxy Z Fold 6, Its Specs, Release Schedule and Cost Estimates</u></a></li>
+<li><a href="https://fox-http.techidaily.com/gourmet-visuals-in-motion-food-shot-tips-and-tricks-for-2024/"><u>Gourmet Visuals in Motion Food Shot Tips & Tricks for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-dnssddll-errors-when-they-arise/"><u>How to Correctly Address 'dnssd.dll' Errors When They Arise</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-2024-linksys-security-credentials-revealed-managing-default-passwords-easily/"><u>July 2024 Linksys Security Credentials Revealed: Managing Default Passwords Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-realme-c51-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Realme C51</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-zte-nubia-z60-ultra-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on ZTE Nubia Z60 Ultra Phones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-to-do-when-microsoft-word-files-wont-open/"><u>What to Do When Microsoft Word Files Won't Open</u></a></li>
+</ul></div>
 

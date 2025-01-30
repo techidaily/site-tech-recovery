@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2025-01-21T03:39:29.457Z
-updated: 2025-01-23T10:27:50.491Z
+date: 2025-01-28T20:19:54.343Z
+updated: 2025-01-30T17:48:39.589Z
 tags:
   - apple
 categories:
@@ -27,18 +27,22 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -47,10 +51,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -77,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,20 +140,16 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-20-must-have-mp4-devices-for-2024/"><u>[New] 20 Must-Have MP4 Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enhancing-engagement-streaming-historical-video-events-on-facebook/"><u>[New] 2024 Approved Enhancing Engagement Streaming Historical Video Events on Facebook</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-quest-for-perfection-topiary-angles-in-mobile-photography/"><u>[Updated] The Quest for Perfection Topiary Angles in Mobile Photography</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-guide-to-the-latest-tiktok-screen-art/"><u>2024 Approved Guide to the Latest TikTok Screen Art</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/best-no-cost-online-video-editing-tools-edit-your-videos-remotely-with-moveave/"><u>Best No-Cost Online Video Editing Tools - Edit Your Videos Remotely with Moveave</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-you-send-messages-through-messenger-without-owning-a-facebook-account/"><u>How Can You Send Messages Through Messenger Without Owning a Facebook Account?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-change-your-facebook-password/"><u>How to Change Your Facebook Password</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g23-bootloader-easily-by-drfone-android/"><u>How to Unlock Motorola Moto G23 Bootloader Easily</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-motorola-moto-g-stylus-5g-2023-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Motorola Moto G Stylus 5G (2023) Phone? Unlock It Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/latest-mozilla-thunderbird-version-update-to-email-client-v52/"><u>Latest Mozilla Thunderbird Version: Update to Email Client V52</u></a></li>
-<li><a href="https://android-frp.techidaily.com/motorola-moto-g-stylus-5g-2023-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Motorola Moto G Stylus 5G (2023) ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/phone-lifecycle-decisions-is-it-time-for-an-upgrade-a-frequency-guide/"><u>Phone Lifecycle Decisions: Is It Time for an Upgrade? A Frequency Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reviving-your-suspended-instagram-presence-tips-and-strategies-for-success/"><u>Reviving Your Suspended Instagram Presence: Tips and Strategies for Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-fixing-the-error-message-cannot-find-msvcr70dll-file/"><u>Step-by-Step Guide: Fixing the Error Message 'Cannot Find MSVCR70.DLL File'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-methods-for-accelerating-your-pcs-performance/"><u>Top 7 Methods for Accelerating Your PC's Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-20-best-video-editors-compatible-with-dji-videos/"><u>[New] 20 Best Video Editors Compatible with DJi Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveiling-the-hidden-treasure-troves-of-snapchat-tones-for-2024/"><u>[New] Unveiling the Hidden Treasure Troves of Snapchat Tones for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solved-how-to-configure-vpn-on-android-quickly-and-easily/"><u>[SOLVED] How to Configure VPN on Android | Quickly & Easily!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lenovo-thinkphone-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Lenovo ThinkPhone Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lost-ark-optimization-guide-resolving-lag-and-improving-frame-rates-effectively/"><u>Lost Ark Optimization Guide: Resolving Lag and Improving Frame Rates Effectively</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/maciphoneipadipoddvdvideo/"><u>MacからiPhone・iPad・iPodへのDVD＆Videoファイルバックアップと再生手順</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-excessive-cpu-consumption-by-antivirus-processes-on-modern-windows-operating-systems/"><u>Resolving Excessive CPU Consumption by Antivirus Processes on Modern Windows Operating Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revitalize-your-pc-the-simplest-guide-to-refreshing-windows-11/"><u>Revitalize Your PC: The Simplest Guide to Refreshing Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-configuring-remote-desktop-access-on-windows-10/"><u>Step-by-Step Guide to Configuring Remote Desktop Access on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-renaming-your-account-in-windows-1-10/"><u>Step-by-Step Guide: Renaming Your Account in Windows 1지 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-roadmap-for-seamless-tech-transitions/"><u>Your Roadmap for Seamless Tech Transitions</u></a></li>
 </ul></div>
 

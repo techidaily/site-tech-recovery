@@ -1,7 +1,7 @@
 ---
 title: 1. Avoid These Top 4 Apple Devices at the Moment - Insider Tips
-date: 2025-01-21T21:12:31.996Z
-updated: 2025-01-22T17:19:53.592Z
+date: 2025-01-26T19:18:59.348Z
+updated: 2025-01-30T19:02:09.220Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ Beyond that, Apple's lineup seems pretty strong, from the [M3 MacBook Air system
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The 'Naughty' list**
 
 Don't buy these devices:
@@ -56,6 +60,10 @@ Don't buy these devices:
 * **iPhone SE**: Apple [released this handset in March 2022](https://www.zdnet.com/article/apple-iphone-se-2022-review/) and rumor has it there won't be another one. Other rumors say the next one will launch this year, or sometime in 2025\. We'll see.
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **The 'Nice' list**
 
@@ -68,7 +76,7 @@ Jason Hiner/ZDNET
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
@@ -94,7 +102,7 @@ Along with the updated processor, this MacBook Air can also power two external m
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple Vision Pro**
@@ -126,10 +134,6 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -144,10 +148,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -171,7 +171,7 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple AirTag**
@@ -214,17 +214,16 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigating-to-facebook-video-streams-on-your-apple-tv/"><u>[New] 2024 Approved Navigating to Facebook Video Streams on Your Apple TV</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-facebooks-potential-in-health-marketing/"><u>[New] Mastering Facebook's Potential in Health Marketing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-easygoing-pc-game-guide-for-2024/"><u>[Updated] The Ultimate Easygoing PC Game Guide for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comprehensive-giroptic-camera-experience-for-2024/"><u>Comprehensive Giroptic Camera Experience for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conhecer-portugal-por-intermedio-das-suas-frases-certinhas/"><u>Conhecer Portugal Por Intermédio Das Suas Frases Certinhas</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-keep-your-chromecast-current-with-the-latest-version/"><u>Easy Steps to Keep Your Chromecast Current with the Latest Version</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ending-unwanted-plays-in-apple-music-effective-tips-and-tricks/"><u>Ending Unwanted Plays in Apple Music: Effective Tips and Tricks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-meme-crafters-den/"><u>In 2024, Meme Crafter's Den</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-net-networks-proven-methods-for-finding-phone-numbers-with-google-searches/"><u>Navigating Net Networks: Proven Methods for Finding Phone Numbers with Google Searches</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/turning-on-or-off-your-pcs-network-discovery-setting-for-windows-10-users/"><u>Turning On or Off Your PC's Network Discovery Setting for Windows 10 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-preventing-android-apps-from-auto-running-in-the-background/"><u>Ultimate Guide: Preventing Android Apps From Auto-Running in the Background</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winxdvd-dvd-iphone/"><u>WinXDVD 官方解決方案: DVD 修復工具、影像轉移及 iPhone 瀏覽器</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2023-streamline-post-tweeted-videos-to-whatsapp-for-2024/"><u>[New] 2023 Streamline Post Tweeted Videos to WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-perfect-your-images-with-dynamic-text-tools/"><u>[New] In 2024, Perfect Your Images with Dynamic Text Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/5-recommended-applications-for-cost-free-global-communication/"><u>5 Recommended Applications for Cost-Free Global Communication</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-sites-to-enjoy-uncut-high-school-dxd-anime-online/"><u>Best Sites to Enjoy Uncut High School DxD Anime Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-speculations-on-nothing-phone-3s-arrival-estimated-price-range-tentative-release-timeline-and-hints-at-specifications/"><u>Decoding Speculations on Nothing Phone 3'S Arrival - Estimated Price Range, Tentative Release Timeline, and Hints at Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminate-that-unwanted-blue-shade-from-your-television-viewing-experience/"><u>Eliminate That Unwanted Blue Shade From Your Television Viewing Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-nokia-c22-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Nokia C22</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-gaming-nostalgia-discovering-the-most-acclaimed-gb-console-emulators-on-pc/"><u>In 2024, Mastering Gaming Nostalgia Discovering The Most Acclaimed GB Console Emulators on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securely-signing-up-for-playstation-live-services-easy-tutorial/"><u>Securely Signing Up for PlayStation Live Services - Easy Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-correcting-the-absence-of-x3daudiodll-on-your-pc/"><u>Step-by-Step Guide: Correcting the Absence of X3DAudio.dll on Your PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-shutdown-saga-how-meta-ended-facial-id-on-facebook/"><u>The Shutdown Saga: How Meta Ended Facial ID on Facebook</u></a></li>
 </ul></div>
 

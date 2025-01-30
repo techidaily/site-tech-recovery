@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Apple Computers of 2024 - Expert Reviews by ZDNet
-date: 2025-01-16T10:11:27.185Z
-updated: 2025-01-23T04:54:45.680Z
+date: 2025-01-25T22:02:09.498Z
+updated: 2025-01-30T18:59:00.915Z
 tags:
   - apple
 categories:
@@ -22,17 +22,9 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C670d8984-efab-4cf8-bea7-9e0da0f62bd1%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best small tablets of 2024
 
@@ -50,6 +42,10 @@ Cons
 * Expensive
 
 ## Apple iPad Mini 6th Generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -143,10 +139,14 @@ Cons
 * Web browser functionality could be better
 * No warm light option
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Kindle 11th generation
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best small tablet for reading
@@ -177,11 +177,11 @@ Pros
 Cons 
 * Performance could be better
 
-## Samsung Galaxy Tab A7 Lite
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Samsung Galaxy Tab A7 Lite
 
 ### Best Samsung small tablet
 
@@ -195,10 +195,6 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best small tablet?
 
 The best small tablet is the iPad Mini because of its sharp display and impressive cameras. Plus, the A15 Bionic chip is packed with power in a small package. 
@@ -211,6 +207,10 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Amazon Kindle          | $100      | 6 inches            | 300ppi glare-free |
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which small tablet is right for you?
 
 It really depends on what size tablet you're looking for, which operating system you prefer, and how much money you're willing to spend. Below, we've broken down the best small tablets to help make your decision easier. 
@@ -222,6 +222,10 @@ It really depends on what size tablet you're looking for, which operating system
 | Boox Tab Mini C                             | The best close-to-high-end tablet that functions as an e-reader, note-taker, illustrator, and web-surfer. With a vivid display, long-lasting battery life, and customizable settings for the ultimate user experience, this tablet is the stylish and sleek deskside companion you need. |
 | Amazon Kindle                               | A small and portable tablet designed for reading with dark mode and six weeks of battery life. Its 300ppi is the same display as the Kindle Paperwhite and the Kindle Oasis.                                                                                                             |
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best small tablets:
 
@@ -244,10 +248,6 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
@@ -262,6 +262,10 @@ Keep in mind in certain cases (Apple, Samsung), you can pair your other devices 
 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are mini Android tablets worth it?
 
 Yes, they can be. Small Android tablets allow you to do everything you would normally do, like reading e-books and video calling, without the higher price tags. 
@@ -271,10 +275,6 @@ Their lightweight body and compact design make them perfect traveling companions
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,22 +322,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-flashfreeze-video-interruption-tip/"><u>[New] In 2024, FlashFreeze Video Interruption Tip</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-perfect-habits-to-embrace-with-podcasts-playing/"><u>[New] In 2024, Perfect Habits to Embrace with Podcasts Playing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-comparing-charge-levels-one-through-three-in-evs/"><u>Comprehensive Guide to Comparing Charge Levels One Through Three in EVs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ensuring-windows-detection-for-unifying-receiver/"><u>Ensuring Windows Detection for Unifying Receiver</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-alarm-clock-apps-the-expertly-chosen-list-of-section-1-problem-understanding-the-scope-and-limitations-of-state-level-legislation-in-environmental92/"><u>Essential Alarm Clock Apps: The Expertly Chosen List of # Section 1: Problem - Understanding the Scope and Limitations of State-Level Legislation in Environmental Law</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-smart-8-plus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Smart 8 Plus Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ipad-versions-featuring-native-location-services/"><u>IPad Versions Featuring Native Location Services</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/learn-the-steps-to-streaming-hulu-content-on-your-lg-smart-television/"><u>Learn the Steps to Streaming Hulu Content on Your LG Smart Television</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/professional-love-and-passion-imagery-stunning-hd-backgrounds-from-yl-software-solutions/"><u>Professional Love and Passion Imagery - Stunning HD Backgrounds From YL Software Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-guide-connecting-your-pc-screen-to-television-using-chromecast/"><u>Seamless Guide: Connecting Your PC Screen to Television Using Chromecast</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-getting-microsoft-edge-back-online/"><u>Solving Common Issues: Getting Microsoft Edge Back Online</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-m34-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy M34 FRP</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-non-root-auto-clicker-applications-for-android-devices/"><u>Top 5 Non-Root Auto Clicker Applications for Android Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-secrets-of-dts-virtualx-the-ultimate-surround-sound-experience/"><u>Unveiling the Secrets of DTS Virtual:X - The Ultimate Surround Sound Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-magic-5-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor Magic 5 Pro? Here is How | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-asus-rog-phone-7-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Asus ROG Phone 7 Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rmvb-mpeg-movavi/"><u>무료 온라인 지원: RMVB에서 MPEG 효과를 이어집하기, Movavi로!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-streamline-filming-borders-on-instagram-videos/"><u>[New] In 2024, Streamline Filming Borders on Instagram Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-complete-reference-to-display-recording-methods/"><u>[New] In 2024, The Complete Reference to Display Recording Methods</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/treamlining-your-path-to-personal-youtube-soundscape/"><u>[New] Streamlining Your Path to Personal Youtube Soundscape</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-how-to-record-hulu-on-winmacmobile/"><u>[Updated] 2024 Approved The Ultimate Guide How To Record Hulu On Win/Mac/Mobile</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-photographers-journey-to-jaw-dropping-colors/"><u>A Photographer's Journey to Jaw-Dropping Colors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bypass-missing-coredll-errors-with-these-proven-strategies/"><u>Bypass Missing Core.dll Errors with These Proven Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explained-wi-fi-calling-definition-functionality-and-benefits/"><u>Explained: Wi-Fi Calling - Definition, Functionality, and Benefits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/getting-window-11-search-back-on-track-top-troubleshooting-steps/"><u>Getting Window 11 Search Back on Track - Top Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-a-speedy-google-photo-collage-masterpiece/"><u>In 2024, Step-by-Step Guide to a Speedy Google Photo Collage Masterpiece</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ready-to-engage-with-chatgpt-on-pc-or-mac-uncover-top-open-source-alternatives-today/"><u>Ready to Engage with ChatGPT on PC or Mac? Uncover Top Open Source Alternatives Today</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sharpen-your-images-the-ultimate-list-of-top-10-internet-apps/"><u>Sharpen Your Images The Ultimate List of Top 10 Internet Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-trending-hashtags-on-instagram-boost-your-visibility-now/"><u>Top Trending Hashtags on Instagram: Boost Your Visibility Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-mystery-behind-telegram-a-comprehensive-guide/"><u>Unveiling the Mystery Behind Telegram: A Comprehensive Guide</u></a></li>
 </ul></div>
 

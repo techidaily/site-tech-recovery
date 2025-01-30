@@ -1,7 +1,7 @@
 ---
 title: Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet
-date: 2025-01-16T06:21:47.677Z
-updated: 2025-01-22T19:17:49.899Z
+date: 2025-01-26T17:23:15.887Z
+updated: 2025-01-30T21:40:30.315Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Place your Home screen icons anywhere
@@ -47,7 +47,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -57,7 +57,7 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -69,7 +69,7 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -81,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -120,17 +120,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-elevating-your-listening-palette-with-youtube-music/"><u>[New] 2024 Approved Elevating Your Listening Palette with YouTube Music</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-broadcast-brains-vs-bodies-finding-the-frontier/"><u>[New] Broadcast Brains Vs Bodies Finding the Frontier</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-decoding-vsdcs-technology-against-top-screen-recorder-competitors/"><u>[Updated] In 2024, Decoding VSDC's Technology Against Top Screen Recorder Competitors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-blue-screen-of-death-error-code-0xc00000185-and-how-to-correct-it/"><u>Decoding the Blue Screen of Death: Error Code 0XC00^000185 & How to Correct It</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-transform-spotify-playlist-data-into-downloadable-text-files/"><u>How to Transform Spotify Playlist Data Into Downloadable Text Files</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-gt-neo-5-se-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Realme GT Neo 5 SE to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/kinemaster-advanced-perfecting-visual-continuity/"><u>Kinemaster Advanced Perfecting Visual Continuity</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/past-perspectives-present-7-features-from-older-windows-versions/"><u>Past Perspectives Present: 7 Features From Older Windows Versions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-nspr4dll-error-a-step-by-step-guide/"><u>Resolving nspr4.dll Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-verizon-device-trade-in-offers-this-month/"><u>Top Verizon Device Trade-In Offers This Month</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-helperdll-quick-fixes-unveiled/"><u>Troubleshooting the 'Missing Helper.dll': Quick Fixes Unveiled</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-successfully-record-and-manage-internet-radio/"><u>[Updated] 2024 Approved How to Successfully Record and Manage Internet Radio</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-perfecting-obs-broadcasts-for-facebook-audience/"><u>[Updated] 2024 Approved Perfecting OBS Broadcasts for Facebook Audience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-quickstart-free-downloadable-video-intros/"><u>[Updated] 2024 Approved Quickstart Free, Downloadable Video Intros</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-the-art-of-youtube-video-sizing-shape-and-clarity/"><u>[Updated] Master the Art of YouTube Video Sizing, Shape & Clarity</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-revolutionize-your-experience-with-latest-windows-10-apps-and-gaming-for-2024/"><u>[Updated] Revolutionize Your Experience with Latest Windows 10 Apps & Gaming for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bridge-the-gap-between-mobile-and-desktop-using-bluestacks-to-run-android-apps-in-windows-10/"><u>Bridge the Gap Between Mobile and Desktop: Using BlueStacks to Run Android Apps in Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-90-lite-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor 90 Lite Face Lock?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-create-rules-in-gmail-for-almost-anything/"><u>How to Create Rules in Gmail for (Almost) Anything</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-magic-6-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor Magic 6 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/innovative-guide-to-efficient-and-effective-screen-recording-for-2024/"><u>Innovative Guide to Efficient and Effective Screen Recording for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-high-school-successfully-with-these-10-powerful-mobile-tools/"><u>Navigating High School Successfully with These 10 Powerful Mobile Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-repairing-black-screen-problem-in-facetime-calls/"><u>Step-by-Step Solutions: Repairing Black Screen Problem in FaceTime Calls</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-contacting-snapchat-assistance-for-users/"><u>Ultimate Guide to Contacting Snapchat Assistance for Users</u></a></li>
 </ul></div>
 

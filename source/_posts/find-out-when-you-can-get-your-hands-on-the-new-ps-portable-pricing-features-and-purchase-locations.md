@@ -1,7 +1,7 @@
 ---
 title: "Find Out When You Can Get Your Hands on the New PS Portable: Pricing, Features, and Purchase Locations"
-date: 2024-08-12T04:17:39.610Z
-updated: 2024-08-13T04:17:39.610Z
+date: 2025-01-27T19:56:08.965Z
+updated: 2025-01-30T16:56:03.664Z
 categories:
   - BestProducts
 description: "This Article Describes Find Out When You Can Get Your Hands on the New PS Portable: Pricing, Features, and Purchase Locations"
@@ -22,40 +22,33 @@ thumbnail: https://thmb.techidaily.com/030a80dcc01ac4eb35df5d7becbc06c4dd790eaec
  Sony's PlayStation Portal (formerly Project Q), a handheld device that lets you stream games from your PS5, is out now. Here are all of the details.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  PlayStation Portal Release Date 
 
  The Playstation Portal launched November 15, 2023\. Sony first revealed the handheld device at its showcase in May 2023.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PlayStation Portal Price 
 
  The PlayStation Portal costs $199.99.  
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where to Buy 
 
  You can[ order PlayStation Portal directly from Sony](https://direct.playstation.com/en-us/buy-accessories/playstation-portal-remote-player) . You can also pick it up from other electronics retailers like Target, Amazon, and Best Buy.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  PlayStation Portal Specs and Features 
 
  PlayStation Portal has all the main features of the DualSense, including adaptive triggers, vibration, and a speaker. Sony has opted for an LCD screen rather than OLED, likely to help keep the production costs down.
@@ -74,13 +67,9 @@ The powerful video editing program for your Windows PC</a>
 [  Sony Pulse Elite Headset: News, Price, Release Date, and Specs ](https://www.lifewire.com/sony-pulse-elite-headset-8419539) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest News About the PlayStation Portal 
 
  You can get[ more gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) . Meanwhile, here are some stories about Sony and its other gaming products:
@@ -99,8 +88,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +95,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-spectre-3-melee-illusionist-4-strikes/"><u>[Updated] Spectre 3 Melee Illusionist 4 Strikes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-pathway-to-perfect-zoom-communication-unlocking-effective-online-interactions/"><u>[Updated] The Pathway to Perfect ZOOM Communication Unlocking Effective Online Interactions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bulk-image-uploads-on-facebook-a-step-by-step-guide/"><u>Bulk Image Uploads on Facebook: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-community.techidaily.com/convert-wmv-files-to-webm-for-free-using-online-tools-movavi-solution/"><u>Convert WMV Files to WebM for Free Using Online Tools - Movavi Solution</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-c65-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from C65</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-error-when-cygwin1dll-file-is-absent-or-undetected/"><u>Fixing The Error When Cygwin1.dll File Is Absent or Undetected</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-charge-a-guide-to-finding-electric-vehicle-stations-with-google-maps/"><u>Navigating the Charge: A Guide to Finding Electric Vehicle Stations with Google Maps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-more-passcode-panic-simple-methods-to-unseal-your-ipads-secrets/"><u>No More Passcode Panic: Simple Methods to Unseal Your iPad's Secrets</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-15-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 15 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-msvbvm50dll-file-missingnot-detected-issue-a-comprehensive-guide/"><u>Resolving the msvbvm50.dll File Missing/Not Detected Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-connection-tips-for-linking-up-airpods-with-quest-3-headphones-without-disturbing-others-zdnet/"><u>Seamless Connection: Tips for Linking Up AirPods with Quest 3 Headphones Without Disturbing Others | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-rockaldlldll-is-missing-error-issues/"><u>Solutions for Resolving 'Rockaldll.dll Is Missing' Error Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-to-solve-d3dx930dll-errors-in-windows/"><u>Troubleshooting Steps to Solve d3dx9_30.dll Errors in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-correcting-pupil-distortion-in-pet-photography/"><u>Ultimate Guide: Correcting Pupil Distortion in Pet Photography</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-vivo-y100a-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Vivo Y100A</u></a></li>
+<li><a href="https://article-helps.techidaily.com/visual-virtuosos-selecting-framing-software-for-2024/"><u>Visual Virtuosos Selecting Framing Software for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/windows-server-2016-upgrade-and-deployment-guide-prepare-execute-and-update-on-site/"><u>Windows Server 2016 Upgrade and Deployment Guide - Prepare, Execute, and Update On-Site</u></a></li>
+</ul></div>
 

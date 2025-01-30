@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Windows 11 When It Refuses to Go Into Sleep Mode"
-date: 2024-08-19T12:51:59.239Z
-updated: 2024-08-20T12:51:59.239Z
+date: 2025-01-24T19:36:45.635Z
+updated: 2025-01-30T17:27:22.967Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
  If you don’t want to restore your Windows 10 Creators Update just yet, try the methods below to fix the problem by yourself easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix 1: Troubleshoot Possible Error**
 
  1) Type**cmd** in the Windows Search bar and select**Run as administrator** .
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
  3) Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the troubleshooting process to finish. Then follow its instructions to try and fix your Arc mouse not working problem.
 
@@ -59,11 +67,12 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/allow-the-computer-to-turn-off-his-device-to-save-power.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Reboot your computer. See if this problem occurs again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Fix 3: Update Your Mouse Driver**
 
  When it comes to updating mouse driver, you can always choose from download and update drivers by yourself or do it automatically.
@@ -81,23 +90,22 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/Driver-Easy-Scan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/DE-update-mouse-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Fix 4: Restore Your Computer**
 
  As mentioned earlier, it is suggested by tech support from Microsoft that users should perform a system restore to get this problem fixed. To some extent, Microsoft has admitted that this problem is one of the bugs in Windows 10 Creators Update.
@@ -114,8 +122,6 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +129,23 @@ thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-explore-youtube-rankings-seo-tools-for-peak-performance/"><u>[New] 2024 Approved Explore YouTube Rankings SEO Tools for Peak Performance</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-annual-list-highest-rated-free-lut-sources-online-for-2024/"><u>[Updated] Annual List Highest Rated FREE LUT Sources Online for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/capture-creativity-speedy-drawing-techniques-for-windows-photo-editor/"><u>Capture Creativity Speedy Drawing Techniques for Windows Photo Editor</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-v30-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-mp3-creation-from-aif-files-no-cost-no-hassle-movavis-simple-solution/"><u>Effortless MP3 Creation From AIF Files - No Cost, No Hassle - Movavi's Simple Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-dnssddll-not-found-issues-easily-with-these-simple-solutions/"><u>Fix dnssd.dll Not Found Issues Easily with These Simple Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ize-view-count-responsibly-legal-avenues-to-a-million-fans/"><u>Maximize View Count Responsibly Legal Avenues to a Million Fans</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revealing-the-stealth-benefits-of-going-electric-convenience-in-parking-and-time-saving-hov-lane-access/"><u>Revealing the Stealth Benefits of Going Electric: Convenience in Parking and Time-Saving HOV Lane Access</u></a></li>
+<li><a href="https://extra-support.techidaily.com/save-big-top-6-inexpensive-action-cams-under-100-deals-for-2024/"><u>Save Big Top 6 Inexpensive Action Cams Under $100 Deals for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamlining-your-youtube-tracks-a-sound-guide-for-2024/"><u>Streamlining Your YouTube Tracks A Sound Guide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-list-of-playstation-5s-exclusive-game-offerings/"><u>The Definitive List of PlayStation 5'S Exclusive Game Offerings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-is-here-with-macos-15-sequoia-projection-of-release-dates-and-innovative-features/"><u>The Future Is Here with MacOS 15 (Sequoia): Projection of Release Dates & Innovative Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-path-to-verified-badge-on-x-platform-insider-tips-and-tricks/"><u>The Path to Verified Badge on X Platform: Insider Tips and Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranked-twitter-management-applications-and-utilities/"><u>Top-Ranked Twitter Management Applications & Utilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-for-addressing-pixel-problems-and-fading-hues-on-desktop-monitors/"><u>Troubleshooting Techniques for Addressing Pixel Problems & Fading Hues on Desktop Monitors</u></a></li>
+</ul></div>
 

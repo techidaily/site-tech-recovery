@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Workspace: Seamlessly Set Up a Second Monitor on Your M1 Mac Mini with Ease | Insights"
-date: 2025-01-18T03:39:22.216Z
-updated: 2025-01-23T03:47:23.542Z
+date: 2025-01-29T18:28:07.396Z
+updated: 2025-01-30T20:52:46.209Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
@@ -49,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -57,7 +53,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -69,7 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -78,6 +74,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,17 +122,16 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-breaking-ice-the-peak-of-chinas-sports-showcase-2022/"><u>[Updated] Breaking Ice The Peak of China's Sports Showcase, 2022</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-enhancing-discord-communication-with-tts-for-2024/"><u>[Updated] Enhancing Discord Communication with TTS for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elevate-your-ios-experience-top-5-ps2-simulators/"><u>[Updated] In 2024, Elevate Your iOS Experience Top 5 PS2 Simulators</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-navigating-the-nuances-of-inshot-video-segments/"><u>[Updated] Navigating the Nuances of Inshot Video Segments</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-hot-40-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Hot 40</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-vivo-y55s-5g-2023-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo Y55s 5G (2023) in Minutes | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/latest-ipad-generation-whats-new-in-apples-tablet-lineup/"><u>Latest iPad Generation: What's New in Apple's Tablet Lineup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-embedding-source-code-in-word-docs/"><u>Mastering the Art of Embedding Source Code in Word Docs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-poco-c65-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Poco C65 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-dac-why-its-essential-for-audio-enthusiasts/"><u>Understanding DAC: Why It's Essential for Audio Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-31-on-windows-a-step-by-point-approach/"><u>Unraveling Error Code 31 on Windows: A Step-By Point Approach</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-most-recent-addition-to-the-macbook-lineup/"><u>Unveiling the Most Recent Addition to the MacBook Lineup</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-harness-the-power-of-video-for-enhanced-facebook-traffic/"><u>[New] Harness the Power of Video for Enhanced Facebook Traffic</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-platform-prowess-finding-your-future-in-obstwitch-for-2024/"><u>[New] Platform Prowess Finding Your Future in OBS/Twitch for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808136846-solved-windows-10-wont-sleep-issue/"><u>[SOLVED] Windows 10 Won't Sleep Issue</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smooth-sailing-for-iphone-video-content-creators/"><u>[Updated] Smooth Sailing for iPhone Video Content Creators</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-seo-strategy-with-advanced-insights-from-cookiebot-technology/"><u>Boost Your SEO Strategy with Advanced Insights From Cookiebot Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/claritycapturex7-zoom-in-size-up-smartly-for-2024/"><u>ClarityCaptureX7 Zoom In, Size Up Smartly for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808111253-easy-installation-guide-for-directx-on-windows-11-and-10-quickly-done/"><u>Easy Installation Guide for DirectX on Windows 11 & 10 – Quickly Done!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-your-perfect-wake-up-call-with-our-top-7-alarm-app-picks/"><u>Find Your Perfect Wake-Up Call with Our Top 7 Alarm App Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808276940-get-your-free-up-to-date-dell-drivers-for-windows-11-here/"><u>Get Your Free Up-to-Date Dell Drivers for Windows 11 Here</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808183505-transform-your-dvd-collection-to-digital-files-on-windows-11-in-minutes/"><u>Transform Your DVD Collection to Digital Files on Windows 11 in Minutes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-equalizer-best-way-to-improve-audio/"><u>Windows 11 Equalizer - Best Way to Improve Audio</u></a></li>
 </ul></div>
 

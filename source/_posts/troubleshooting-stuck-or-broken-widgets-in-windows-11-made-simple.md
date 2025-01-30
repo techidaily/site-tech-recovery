@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Stuck or Broken Widgets in Windows 11 Made Simple
-date: 2024-08-19T12:52:58.991Z
-updated: 2024-08-20T12:52:58.991Z
+date: 2025-01-28T19:27:49.964Z
+updated: 2025-01-30T21:23:14.880Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae6fd86438e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have trouble restarting your computer with Windows 10, power on and off your PC 3 times in a row to force a hard reboot. Then[**restart in Safe mode**](https://tools.techidaily.com/drivereasy/download/) and perform the solutions below.
 
 ## **Method 2: Disable antivirus applications temporarily**
@@ -51,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
   
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 3: Run the System File Checker**
 
  If the above methods don’t help, the culprit could be your corrupted system files. You can run the System File Checker to help you fix this problem:
@@ -66,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae785615bf1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  3) Type**sfc /scannow** . Then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bff41b81.png)
@@ -77,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
  5) Check if you can log in without any problems now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## **Method 4: Create a new local administrator account**
 
  If you still can’t sign in, your current account might be at fault. You can create a new administrator account to fix it. Here is how:
@@ -88,31 +83,38 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7c07ec74b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Click**Other people** . (Note: If you’re on Windows 10 Home or Professional edition, you’ll see**Family & other people** here.) Then click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae789ee21f7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**I don’t have this person’s sign-in information** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78b1b29b7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Add a user without a Microsoft account** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78c3e6bfc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Enter the name, password and password hint. Then select**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78f859421.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## **Method 5: Update device drivers**
 
  Faulty installed device drivers could be the cause of this problem.  You should verify that all your devices have the right driver, and update those that don’t.
@@ -136,8 +138,9 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7b47c83bf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you still can’t sign into your profile after the above steps, feel free to leave us comments and we’ll provide as much help as we can.
 
 * [system](https://tools.techidaily.com/drivereasy/download/)
@@ -148,8 +151,6 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +158,23 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-secret-behind-crafting-mesmerizing-slow-motion-media-for-instagram-for-2024/"><u>[New] The Secret Behind Crafting Mesmerizing Slow Motion Media for Instagram for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-hd-visual-recorders-available/"><u>[Updated] Best HD Visual Recorders Available</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-reverse-image-search-instagram/"><u>2024 Approved How To Reverse Image Search Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-lg-media-and-distribution-avenues/"><u>A Comprehensive Guide to LG Media & Distribution Avenues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/analyzing-the-efficiency-and-effectiveness-of-the-line-messaging-service/"><u>Analyzing The Efficiency and Effectiveness of the LINE Messaging Service</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970347462-download-keyboard-driver-for-windows-7-easily-and-quickly/"><u>Download Keyboard Driver for Windows 7 - Easily & Quickly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tools-for-your-twitter-strategy-follow-and-interact-with-trending-topics/"><u>Essential Tools for Your Twitter Strategy: Follow and Interact With Trending Topics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-resolving-your-wiis-disc-reading-difficulties-quickly-and-easily/"><u>Expert Tips for Resolving Your Wiis' Disc Reading Difficulties Quickly and Easily</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ideal-defenders-for-iphone-se-the-best-case-selection-of-2022-engadget-insights/"><u>Ideal Defenders for iPhone SE - The Best Case Selection of 2022 | Engadget Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-live-views-a-guide-to-using-ios-16-features-on-your-iphone/"><u>Mastering Live Views: A Guide to Using iOS 16 Features on Your iPhone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/on-the-go-electronic-projects-with-crowview-notebook-assessment-toolkit/"><u>On-the-Go Electronic Projects with CrowView Notebook Assessment Toolkit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-enhancing-your-linkedin-presence-with-new-credentials-the-benefits-explained-zdnet-insights/"><u>Step-by-Step Guide: Enhancing Your LinkedIn Presence with New Credentials - The Benefits Explained | ZDNet Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-dealing-with-kernel-data-error-pages/"><u>Step-by-Step Solution for Dealing with Kernel Data Error Pages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fixes-for-xinput1nnot-found-and-missing-dll-issues/"><u>The Ultimate Fixes for 'Xinput1_nnot Found' And 'Missing DLL' Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tech-list-nine-crucial-devices-every-student-should-own/"><u>The Ultimate Tech List: Nine Crucial Devices Every Student Should Own</u></a></li>
+</ul></div>
 

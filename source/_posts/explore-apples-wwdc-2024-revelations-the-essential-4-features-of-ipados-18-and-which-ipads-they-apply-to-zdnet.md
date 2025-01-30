@@ -1,7 +1,7 @@
 ---
 title: "Explore Apple's WWDC 2024 Revelations: The Essential 4 Features of iPadOS 18 & Which iPads They Apply To | ZDNET"
-date: 2025-01-16T20:50:05.611Z
-updated: 2025-01-23T08:02:23.087Z
+date: 2025-01-24T17:53:35.844Z
+updated: 2025-01-30T19:37:28.153Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. AI all around
@@ -55,7 +55,7 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -65,7 +65,7 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -77,7 +77,7 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -87,7 +87,7 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -128,24 +128,18 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-laughing-lane-the-no-10-guide-to-memelore/"><u>[New] 2024 Approved Laughing Lane - The No. 10 Guide to Memelore</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-iphone-converter-top-6-free-applications-to-use/"><u>[New] The Ultimate iPhone Converter Top 6 Free Applications to Use</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-noise-reduction-for-videographers-best-freepriced-choices/"><u>[Updated] Noise Reduction for Videographers Best Free/Priced Choices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-top-10-most-accessible-costless-lut-tools-unveiled/"><u>[Updated] The Top 10 Most Accessible, Costless LUT Tools Unveiled</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-apple-podcast-listing-essentials/"><u>2024 Approved Apple Podcast Listing Essentials</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/change-your-flac-audio-tracks-into-high-quality-wav-files-for-free-using-movavis-online-conversion-platform/"><u>Change Your FLAC Audio Tracks Into High-Quality WAV Files for Free Using Movavi's Online Conversion Platform</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/eliminating-the-silence-techniques-to-get-your-iphone-ringing-correctly/"><u>Eliminating the Silence: Techniques to Get Your iPhone Ringing Correctly</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-effortless-screen-captures-for-pc-users-free-guide/"><u>In 2024, Effortless Screen Captures for PC Users (Free Guide)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-a59-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo A59 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-there-a-widespread-playstation-network-interruption-or-am-i-the-only-one-facing-errors/"><u>Is There a Widespread PlayStation Network Interruption, or Am I the Only One Facing Errors?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-and-efficient-ways-to-solve-magic-mouse-touch-issues/"><u>Quick & Efficient Ways to Solve Magic Mouse Touch Issues</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/realtek-asio-audio-device-driver-simple-installation-steps-for-windows-10-users/"><u>Realtek Asio Audio Device Driver | Simple Installation Steps for Windows 10 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/securing-the-right-a-guide-to-accessing-trustedinstaller-in-windows-nul-11/"><u>Securing the Right: A Guide to Accessing TrustedInstaller in Windows Nul 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-on-customizing-your-inbox-with-gmails-rule-creation/"><u>The Ultimate How-To on Customizing Your Inbox with Gmail's Rule Creation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-17-websites-offering-free-ebooks-a-comprehensive-list/"><u>Top 17 Websites Offering Free eBooks: A Comprehensive List</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-obtaining-the-correct-drivers-for-your-epson-xp-n400-printer-a-simple-how-to/"><u>Ultimate Guide to Obtaining the Correct Drivers for Your Epson XP N400 Printer: A Simple How-To</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-the-safest-email-services-online/"><u>Ultimate List of the Safest Email Services Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-to-locating-a-missing-or-forgotten-email-address-easily/"><u>Unlock the Secrets to Locating a Missing or Forgotten Email Address Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722895736091-your-checklist-for-selecting-the-perfect-smartwatch-unveiling-5-key-points-to-ponder/"><u>Your Checklist for Selecting the Perfect Smartwatch: Unveiling 5 Key Points to Ponder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-discovering-free-srt-excellence-our-top-8-picks-for-2024/"><u>[New] Discovering Free SRT Excellence Our Top 8 Picks for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/automate-email-attachment-openness-ms-word-read-mode-only/"><u>Automate Email Attachment Openness: MS Word Read Mode Only</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivating-your-curbsides-glow-inside-your-house/"><u>Captivating Your Curbside's Glow Inside Your House</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-correct-that-mia-d3dx9-library-problem-once-and-for-all/"><u>DIY: Correct That MIA D3DX9 Library Problem Once and For All</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fire-stick-and-mobile-hotspots-made-easy-a-step-by-step-guide/"><u>Fire Stick and Mobile Hotspots Made Easy: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xr-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XR to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-how-to-fix-continuous-crashes-of-necromunda-on-windows/"><u>Mastering Stability: How to Fix Continuous Crashes of Necromunda on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-the-absent-msvcr80dll-step-by-step-guide/"><u>Solving the Mystery of the Absent msvcr80.dll: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-creating-a-pdf-from-assorted-jpeg-photos/"><u>Step-by-Step Tutorial on Creating a PDF From Assorted JPEG Photos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-no-cost-driver-renewal-applications-july-2024-edition/"><u>The Ultimate List of No-Cost Driver Renewal Applications - July 2024 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-iphone-photo-potential-with-leading-line-techniques/"><u>Unlock iPhone Photo Potential with Leading Line Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-location-precision-with-google-maps-live-view-a-beginners-guide/"><u>Unlocking Location Precision with Google Maps Live View - A Beginner's Guide</u></a></li>
 </ul></div>
 

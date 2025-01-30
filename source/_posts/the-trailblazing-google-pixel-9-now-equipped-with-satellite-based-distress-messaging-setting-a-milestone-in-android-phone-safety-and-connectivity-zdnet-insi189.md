@@ -1,7 +1,7 @@
 ---
 title: "The Trailblazing Google Pixel 9: Now Equipped with Satellite-Based Distress Messaging, Setting a Milestone in Android Phone Safety and Connectivity | ZDNET Insights"
-date: 2025-01-18T19:32:34.350Z
-updated: 2025-01-23T04:58:07.804Z
+date: 2025-01-24T17:36:01.069Z
+updated: 2025-01-30T18:37:50.681Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,16 +49,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -69,7 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -78,6 +74,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,19 +122,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-freeze-non-picked-youtube-video-suggestions/"><u>[Updated] In 2024, Freeze Non-Picked YouTube Video Suggestions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatxt-influence-on-modern-media-production/"><u>ChaTxt Influence on Modern Media Production</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-epson-wf-3520-drivers-installed-on-your-windows-pc/"><u>Get the Latest Version of Epson WF-3520 Drivers Installed on Your Windows PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-g24-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto G24?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-resolve-nsp4r-not-found-errors-repair-tips-for-windows-users/"><u>How to Correctly Resolve ‘Nsp4r Not Found’ Errors: Repair Tips for Windows Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-html-web-design-with-these-top-8-gratis-windows-editor-solutions/"><u>Master HTML Web Design with These Top 8 Gratis Windows Editor Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-to-produce-a-professional-looking-video-from-photos-and-music/"><u>New In 2024, How to Produce a Professional-Looking Video From Photos and Music</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-to-disable-and-delete-copilot-on-windows-11/"><u>Step-by-Step Instructions to Disable and Delete Copilot on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-best-zero-internet-auto-race-games-of-2023-premium-fun-without-data-drain/"><u>The Best Zero-Internet Auto Race Games of 2023 - Premium Fun Without Data Drain!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-9-skype-interview-strategies-for-success/"><u>Top 9 Skype Interview Strategies for Success</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722887621585-unlocking-your-iphones-secrets-no-ejector-needed/"><u>Unlocking Your iPhone's Secrets: No Ejector Needed!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-the-best-animation-drawing-software-for-beginners-and-pros/"><u>Updated Unleash Your Creativity The Best Animation Drawing Software for Beginners and Pros</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-your-gaming-rig-with-logitech-g-pro-wireless-mouse-drivers-for-windows/"><u>Upgrade Your Gaming Rig with Logitech G Pro Wireless Mouse Drivers for Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-convenient-way-to-mute-youtube-channels-on-pcmobile/"><u>[New] The Convenient Way to Mute Youtube Channels on PC/Mobile</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-tier-windows-10-screen-capture-programs-unveiled-for-2024/"><u>[New] Top-Tier Windows 10 Screen Capture Programs Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-top-talents-merging-photography-and-sound-in-videos/"><u>[Updated] 2024 Approved Top Talents Merging Photography & Sound in Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-constructing-unique-instagram-post-images/"><u>[Updated] Constructing Unique Instagram Post Images</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-your-essential-list-of-hot-tiktok-items-now-on-amazon/"><u>[Updated] In 2024, Your Essential List of Hot TikTok Items Now on Amazon</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-master-the-art-of-vlogging-with-these-top-8-cameras/"><u>[Updated] Master the Art of Vlogging with These Top 8 Cameras</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-a-malfunctioning-samsung-audio-bar/"><u>Diagnosing and Repairing a Malfunctioning Samsung Audio Bar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tips-for-personalizing-your-chromecasts-visual-experience/"><u>Easy Tips for Personalizing Your Chromecast's Visual Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-to-address-and-correct-netflix-issue-nw-1-19/"><u>Expert Strategies to Address and Correct Netflix Issue NW-1-19</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-poco-m6-pro-4g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Poco M6 Pro 4G Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-razr-40-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Razr 40 Ultra by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-insights-potential-launch-date-price-point-and-specs-of-the-pixel-9/"><u>Insider Insights: Potential Launch Date, Price Point & Specs of the Pixel 9!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-macbook-model-whats-the-most-recent-release/"><u>Latest MacBook Model: What's the Most Recent Release?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sequencing-your-journey-the-ultimate-guide-to-viewing-the-star-trek-film-series/"><u>Sequencing Your Journey: The Ultimate Guide to Viewing the Star Trek Film Series</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-missing-jvmdll-error-on-your-computer/"><u>Solutions for Resolving 'Missing jvm.dll' Error on Your Computer</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-triad-of-metas-media-monopoly/"><u>The Triad of Meta's Media Monopoly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-biometric-systems-how-do-they-work/"><u>Understanding Biometric Systems: How Do They Work?</u></a></li>
 </ul></div>
 

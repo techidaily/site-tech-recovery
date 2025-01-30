@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Making a User-Friendly Windows N 7 Installation USB"
-date: 2024-08-19T12:51:21.708Z
-updated: 2024-08-20T12:51:21.708Z
+date: 2025-01-26T16:34:15.869Z
+updated: 2025-01-30T21:21:37.039Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267e
 
 If you’re looking to**update DirectX** on your Windows 11 or 10 computer, you’ve come to the right place. Read on and check it out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update DirectX in Windows 10 or 11
 
  If you don’t know the current version of DirectX on your computer, please start with[**Step 1: check your version of DirectX**](https://tools.techidaily.com/drivereasy/download/) .
@@ -31,23 +35,35 @@ Here’s how to check your DirectX version:
 
 1. On your keyboard, press**the**   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png)  , then copy & paste **dxdiag** into the box and click**dxdiag** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Check out your **DirectX version** in the first page of the report.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 2: Update DirectX
 
  Once you know that you are not running the latest DirectX, you can follow the steps below to update DirectX.
 
  Since there is no stand-alone package of DirectX available in Windows 10, you can only update DirectX via Windows Update.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### On Windows 10
 
 1. On your keyboard, press**the**   **Windows logo key**  and type**check** . Then click**Check for updates** .  
@@ -56,9 +72,6 @@ Here’s how to check your DirectX version:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 3. Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
@@ -67,19 +80,14 @@ Here’s how to check your DirectX version:
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus tip: Update your device drivers to improve your gaming experience
 
  If you want to ensure the stability of your computer and have more immersive gaming experience, it’s important to keep your drivers up-to-date. There are two ways you can update your device drivers: manually or automatically. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -113,8 +121,6 @@ Here’s how to check your DirectX version:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +128,24 @@ Here’s how to check your DirectX version:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-visual-storytelling-and-auditory-art-converting-instagrams-to-songs/"><u>[New] In 2024, Visual Storytelling & Auditory Art Converting Instagrams to Songs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-websites-boosting-youtube-video-popularity/"><u>[New] Prime Websites Boosting YouTube Video Popularity</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-abletons-guide-to-softening-transition-endings/"><u>[Updated] Ableton's Guide to Softening Transition Endings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-audio-amplified-todays-hits-backdropping-yt-shorts/"><u>[Updated] In 2024, Audio Amplified Today's Hits Backdropping YT Shorts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-delicious-spotlight-on-tiktok-farewells-for-2024/"><u>[Updated] The Delicious Spotlight on TikTok Farewells for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/finding-the-unfindable-retrieving-deleted-phone-calls-from-an-android-smartphone/"><u>Finding the Unfindable: Retrieving Deleted Phone Calls From an Android Smartphone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-hidden-app-dilemma-heres-how-you-can-show-them-once-more/"><u>IPhone Hidden App Dilemma? Here's How You Can Show Them Once More</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/merging-your-favorite-tunes-a-step-by-step-guide-to-combining-spotify-playlists/"><u>Merging Your Favorite Tunes: A Step-by-Step Guide to Combining Spotify Playlists</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rless-evolution-overshadowing-traditional-dslr-videography/"><u>Mirrorless Evolution Overshadowing Traditional DSLR Videography</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-ejector-tool-heres-how-to-safely-open-your-iphone-sim-case/"><u>No Ejector Tool? Here's How to Safely Open Your iPhone SIM Case!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-twitch-lag-uncover-7-proven-techniques-to-ensure-smooth-stream-playback/"><u>Say Goodbye to Twitch Lag! Uncover 7 Proven Techniques to Ensure Smooth Stream Playback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/summers-best-10-nostalgic-films-for-the-whole-family-for-2024/"><u>Summer's Best 10 Nostalgic Films for the Whole Family for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-must-have-tech-tools-for-academic-success/"><u>The Ultimate List of Must-Have Tech Tools for Academic Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-missing-fm20dll-error-effectively/"><u>Troubleshooting the MISSING fm20.dll Error Effectively</u></a></li>
+<li><a href="https://driver-install.techidaily.com/uncomplicated-scsi-driver-integration/"><u>Uncomplicated SCSI Driver Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-aim-how-did-aol-instant-messenger-change-online-communication/"><u>Understanding AIM - How Did AOL Instant Messenger Change Online Communication?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-new-in-ipados-version-18-launch-details-cost-free-access-and-key-enhancements/"><u>What's New in iPadOS Version 18? Launch Details, Cost-Free Access & Key Enhancements!</u></a></li>
+</ul></div>
 

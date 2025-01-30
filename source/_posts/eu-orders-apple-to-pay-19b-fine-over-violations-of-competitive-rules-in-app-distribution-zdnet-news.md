@@ -1,7 +1,7 @@
 ---
 title: EU Orders Apple to Pay €1.9B Fine Over Violations of Competitive Rules in App Distribution | ZDNET News
-date: 2025-01-18T02:16:51.608Z
-updated: 2025-01-22T19:31:37.833Z
+date: 2025-01-25T19:05:37.742Z
+updated: 2025-01-30T16:15:41.020Z
 tags:
   - apple
 categories:
@@ -85,24 +85,22 @@ This fine is another notch in the EU's belt to level European competition among 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-from-silence-to-symphony-transforming-facebook-videos-with-melodies/"><u>[New] From Silence to Symphony Transforming Facebook Videos with Melodies</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-best-practices-in-youtube-thumbnail-sizes-and-ratios/"><u>[Updated] In 2024, Best Practices in YouTube Thumbnail Sizes and Ratios</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-words-on-the-screen-crafting-clear-concise-dialogue/"><u>2024 Approved The Art of Words on the Screen Crafting Clear, Concise Dialogue</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-11-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 11 When Its Locked Within Seconds</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dealing-with-msiexecexe-not-found-effective-strategies-to-correct-missing-msi-dll-errors/"><u>Dealing with 'msiexec.exe Not Found': Effective Strategies to Correct Missing MSI DLL Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-connecting-array-of-bluetooth-speakers-to-a-sole-device/"><u>Expert Advice on Connecting Array of Bluetooth Speakers To A Sole Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-essence-of-aether-insight-and-enrollment-guide/"><u>Exploring the Essence of Aether – Insight and Enrollment Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-nvidia-rtx-gpus-what-you-need-to-know/"><u>Exploring the World of NVIDIA RTX GPUs - What You Need to Know</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>In 2024, Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/inspirational-homebuilds-for-snapshot-enthusiasts/"><u>Inspirational Homebuilds for Snapshot Enthusiasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-your-system-delivering-authentic-dolby-atmos-quality-sound/"><u>Is Your System Delivering Authentic Dolby Atmos Quality Sound?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/spotify-syncing-scenario-can-pairs-enjoy-music-streams-at-once/"><u>Spotify Syncing Scenario: Can Pairs Enjoy Music Streams at Once?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/synchronize-your-sounds-expert-tips-for-resolving-chromecast-audio-timing-delays/"><u>Synchronize Your Sounds: Expert Tips for Resolving Chromecast Audio Timing Delays</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-inshot-is-it-the-pinnacle-of-editing/"><u>[New] Exploring InShot Is It the Pinnacle of Editing?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterclass-5-in-best-mac-videography-software/"><u>[New] Masterclass 5 in Best Mac Videography Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gaming-history-told-by-top-video-makers/"><u>[Updated] In 2024, Gaming History Told by Top Video Makers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-download-the-official-samsung-m2020-printing-software-here/"><u>Find and Download the Official Samsung M2020 Printing Software Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-motorola-moto-g13-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Motorola Moto G13? Try These Fixes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-use-a-whiteboard-in-google-meet/"><u>How to Use a Whiteboard in Google Meet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme GT Neo 5</u></a></li>
+<li><a href="https://win11.techidaily.com/next-level-windows-paving-the-ai-way-forward/"><u>Next-Level Windows: Paving the AI Way Forward</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-adjusting-your-laptop-display-orientation/"><u>Step-by-Step Guide: Adjusting Your Laptop Display Orientation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-to-restore-windows-11s-greyed-out-sync-features/"><u>Step-by-Step Solution to Restore Windows 11'S Greyed-Out Sync Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-15-budget-friendly-webm-players-that-work-flawlessly-for-2024/"><u>Top 15 Budget-Friendly WebM Players That Work Flawlessly for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trouble-with-skype-on-windows-10-here-are-5-quick-fixes-to-reconnect-and-start-chatting-again/"><u>Trouble with Skype on Windows 10? Here Are 5 Quick Fixes to Reconnect and Start Chatting Again</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-how-to-fix-ssltls-handshake-errors-on-windows/"><u>Troubleshooting Guide: How to Fix SSL/TLS Handshake Errors on Windows</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

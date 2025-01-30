@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions to Speed Up Your Sluggish PC
-date: 2024-08-19T12:51:29.156Z
-updated: 2024-08-20T12:51:29.156Z
+date: 2025-01-24T19:58:31.280Z
+updated: 2025-01-30T20:45:32.798Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ Here’s how:
   
 ![speaker priority](https://images.drivereasy.com/wp-content/uploads/2020/12/double-click-on-the-speaker.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In the Properties window, select the**Enhancements** tab. Then check the option**Disable all enhancements** .  
   
 ![disable all enhancements speaker](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-all-enhancements-1.png)
@@ -56,34 +60,24 @@ Here’s how:
   
 ![default format](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-tab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, simply click**Apply > OK** . This should reduce audio dropouts. If it didn’t help you solve the issue, proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your audio driver
 
  The audio issue in your game may indicate that you’re using an audio driver that is out of date. If you can’t remember when was the last time you updated your drivers, then definitely do it now as this would fix your issue right away.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [**automatically**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your audio driver
 
  You can update your audio driver manually via Device Manager or go to your device’s manufacturer’s official website to download and install the correct driver for your system.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your audio driver (recommended)
 
  Updating drivers manually can be time-consuming because you need to find out the correct driver corresponding with your system. So if you are not comfortable doing this on your own, we recommend **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  as your great pick.
@@ -99,21 +93,23 @@ Here’s how it works:
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![update audio driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/click-update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drives, restart your computer for them to take effects. Then you can play your game and test if updating drivers helps you fix the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -128,8 +124,9 @@ Here’s how it works:
 ![launch Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/launch.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
 ## Fix 4: Disable fullscreen optimizations & high DPI scaling
@@ -146,13 +143,18 @@ Here’s how it works:
   
 ![disable fullscreen optimizations Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/check-disable-fullscreen-optimizations.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check the option**Override high DPI scaling behavior** and then click**OK** .  
   
 ![disable high DPI scaling Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-high-DPI-scaling-behaviro.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Click**Apply > OK** to save the changes.  
   
 ![save the changes](https://images.drivereasy.com/wp-content/uploads/2020/12/apply-the-changes.png)
@@ -177,12 +179,13 @@ Here’s how it works:
   
 ![set priority to high Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/set-priority-to-high.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  4) You’ll be directed to the**Details** tab and**FortniteClient-Win64** is highlighted. Right-click it and select**Set priority > Normal** .  
   
 ![set priority to normal Fortnite](https://images.drivereasy.com/wp-content/uploads/2020/12/set-priority-to-normal.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve done these, launch your game and test if this stops the delayed audio and the audio cutouts.
 
@@ -196,24 +199,20 @@ Here’s how it works:
 
 ![Fortnite Support A Creator](https://images.drivereasy.com/wp-content/uploads/2021/05/Fortnite-Support-A-Creator-1200x675.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Type or paste **`DRIVEREASY`**  into the dialogue box and then click**ACCEPT** .  
  That’s it! Your support is much appreciated!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/accept.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -222,4 +221,26 @@ Here’s how it works:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-editors-playbook-mastering-the-art-of-youtube-cuts/"><u>[New] The Editor's Playbook Mastering the Art of YouTube Cuts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-friendly-frenemies-top-social-vr-games/"><u>2024 Approved Friendly Frenemies Top Social VR Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/achieve-online-fame-with-these-10-key-methods-to-make-yourself-go-viral-on-instagram/"><u>Achieve Online Fame with These 10 Key Methods to Make Yourself Go Viral on Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/app-market-showdown-analyzing-differences-between-itunes-and-google-play-stores/"><u>App Market Showdown: Analyzing Differences Between iTunes and Google Play Stores</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dont-let-machines-define-your-documents-rethink-ai-summarization/"><u>Don’t Let Machines Define Your Documents: Rethink AI Summarization</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-in-house-dtv-reception-with-the-right-indoor-antenna-solutions/"><u>Enhance In-House DTV Reception with the Right Indoor Antenna Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-the-magic-order-of-watching-every-harry-potter-movie-correctly/"><u>Experience the Magic: Order of Watching Every Harry Potter Movie Correctly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-apples-immersive-3d-spatial-content-on-your-meta-quest-3-with-our-step-by-step-guide/"><u>Explore Apple's Immersive 3D Spatial Content on Your Meta Quest 3 with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-tips-resolving-constant-crashes-in-valheim-pc-edition/"><u>Fixes and Tips: Resolving Constant Crashes in Valheim PC Edition</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-a38-by-drfone-android/"><u>How to Bypass FRP from Oppo A38?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-break-free-from-youtube-top-5-innovative-video-editing-tools/"><u>In 2024, Break Free From Youtube Top 5 Innovative Video Editing Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-python24dll-is-missing-error-a-step-by-step-guide/"><u>Resolving the 'python24.dll Is Missing' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamp-your-chromecast-screen-with-personalized-backgrounds/"><u>Revamp Your Chromecast Screen with Personalized Backgrounds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-to-activate-two-factor-verification-for-your-twitch-channel/"><u>The Ultimate Walkthrough to Activate Two-Factor Verification for Your Twitch Channel</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/to-upgrade-or-not-assessing-the-value-of-minecraft-realms/"><u>To Upgrade or Not: Assessing the Value of Minecraft Realms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-11-gpt-challenges-for-crafting-dynamic-book-characters/"><u>Top 11 GPT Challenges for Crafting Dynamic Book Characters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-t-mobiles-intra-network-roaming-guidelines/"><u>Understanding T-Mobile's Intra-Network Roaming Guidelines</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-distort-disrupt-delight-10-glitch-video-editing-apps-for-ios-and-android/"><u>Updated In 2024, Distort, Disrupt, Delight 10 Glitch Video Editing Apps for iOS and Android</u></a></li>
+</ul></div>
 

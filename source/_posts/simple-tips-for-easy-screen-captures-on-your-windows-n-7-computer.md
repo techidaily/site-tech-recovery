@@ -1,7 +1,7 @@
 ---
 title: Simple Tips for Easy Screen Captures on Your Windows N 7 Computer
-date: 2024-08-19T12:54:06.560Z
-updated: 2024-08-20T12:54:06.560Z
+date: 2025-01-28T16:11:29.552Z
+updated: 2025-01-30T18:43:07.749Z
 tags:
   - win11
   - win10
@@ -61,8 +61,25 @@ If you want to capture a specific window, use this keyboard shortcut:
 
 1. Press**Windows logo key** , move your mouse pointer to the bottom-right corner of your screen, then move upward to invoke the menu.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-59-53.jpg)
 2. Type**Snipping Tool** in the search bar and click the result to open the program.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-10-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**New** to create a screenshot.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-14-28.jpg)
 4. You will be able to make simple edits before you save.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-15-50-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Use Snagit – an All-in-one screen capture software
 
@@ -75,6 +92,10 @@ If you want to capture a specific window, use this keyboard shortcut:
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Snagit, run the software.
 2. Click**Capture** to take a screenshot, or use the default hotkey – PrtScn key. You can drag the screen to include the area you need.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-12-57-1.jpg)
 3. Attached is an example of some useful tools available in the Snagit editor.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-12-50-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -89,8 +110,6 @@ If you want to capture a specific window, use this keyboard shortcut:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,8 +117,20 @@ If you want to capture a specific window, use this keyboard shortcut:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-virtual-wit-factory/"><u>[New] 2024 Approved Virtual Wit Factory</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rofessional-videographers-guide-to-efficient-color-keying-for-2024/"><u>[New] Professional Videographer's Guide to Efficient Color-Keying for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-aether-insights-into-its-being-and-strategies-for-integration/"><u>Decoding Aether – Insights Into Its Being & Strategies for Integration</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-canon-printer-software-compatible-with-windows-10-8-and-7/"><u>Download Canon Printer Software - Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/express-download-the-quickest-way-to-obtain-usbrs232-conversion-drivers/"><u>Express Download: The Quickest Way to Obtain USB/RS232 Conversion Drivers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/facebook-fam-bites-in-snapchat-spotlight/"><u>Facebook Fam Bites in Snapchat Spotlight</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/forced-restart-into-safe-mode-tips-for-windows-users/"><u>Forced Restart Into Safe Mode: Tips for Windows Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-note-30-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Note 30</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-correcting-d3dx933dll-error-messages-in-windows/"><u>Step-by-Step Tutorial: Correcting d3dx9_33.dll Error Messages in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-perfect-sequence-to-enjoy-every-transformers-movie/"><u>The Perfect Sequence to Enjoy Every Transformers Movie</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-twitch-chat-mysteries-unraveled-for-beginner-viewers/"><u>Top Twitch Chat Mysteries Unraveled for Beginner Viewers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/shing-creativity-converting-youtube-videos-into-captivating-gifs-for-2024/"><u>Unleashing Creativity Converting YouTube Videos Into Captivating GIFs for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

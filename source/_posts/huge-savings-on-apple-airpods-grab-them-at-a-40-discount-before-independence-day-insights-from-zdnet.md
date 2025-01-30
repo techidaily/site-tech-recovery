@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights From ZDNet"
-date: 2025-01-19T09:19:32.667Z
-updated: 2025-01-22T18:21:04.668Z
+date: 2025-01-23T17:29:33.957Z
+updated: 2025-01-30T18:01:36.009Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8fc6b51a-545c-47ed-9fa6-87cbc8d2712f%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,24 +62,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-mastering-digital-compositing-with-kinemasters-gs-capabilities-for-2024/"><u>[New] Mastering Digital Compositing with KineMaster's GS Capabilities for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-edge-enhancements-in-windows-10-release/"><u>[New] The Edge Enhancements in Windows 10 Release</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ac1st16dll-error-heres-how-you-can-fix-it/"><u>ac1st16.dll Error? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-no-cost-voice-over-ip-applications-to-try-in-202/"><u>Best No-Cost Voice Over IP Applications to Try in 202#.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/chatgpt-plus-is-it-a-smart-investment-top-5-benefits-of-registering-now/"><u>ChatGPT Plus: Is It a Smart Investment? Top 5 Benefits of Registering Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-most-effective-free-cross-border-communication-apps-our-favorites/"><u>Discover the Most Effective Free Cross-Border Communication Apps (Our Favorites)</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-15-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 15 to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-12-pro-max-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 12 Pro Max SIM Lock?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-a78-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo A78 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-videotoaudiotweeter-direct-output/"><u>In 2024, VideoToAudioTweeter Direct Output</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/need-to-retract-an-email-sent-through-microsoft-outlook-follow-these-easy-steps/"><u>Need to Retract an Email Sent Through Microsoft Outlook? Follow These Easy Steps!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/salvaging-silenced-chatgpt-tracks/"><u>Salvaging Silenced ChatGPT Tracks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/solve-video-playback-issues-fix-non-playable-mp4-files-on-windows-1011-macos-and-other-systems/"><u>Solve Video Playback Issues: Fix Non-Playable MP4 Files on Windows 10/11, macOS & Other Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-13-solutions-for-when-your-spotify-stops-playing-in-android-auto-mode/"><u>Top 13 Solutions for When Your Spotify Stops Playing in Android Auto Mode</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722886510150-top-ipad-offers-and-discounts-shop-smart-today/"><u>Top iPad Offers and Discounts: Shop Smart Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-frozen-macbook-air-tips-and-solutions-for-smooth-operation/"><u>Troubleshooting Frozen MacBook Air - Tips & Solutions for Smooth Operation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-how-to-watch-spider-man-no-way-home-online/"><u>Ultimate Guide: How to Watch 'Spider-Man: No Way Home' Online</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/winxvideo-ai-androidios/"><u>WinxVideo AI: 최신 기능과 사용자 친화적인 인터페이스가 있는 Android/iOS에서 제대로 설치하세요</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rom-chaos-to-order-youtube-playlists-unveiled-for-2024/"><u>[New] From Chaos to Order YouTube Playlists Unveiled for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-innovative-vocal-alteration-apps-beyond-echo-magic-for-2024/"><u>[New] Innovative Vocal Alteration Apps Beyond Echo Magic for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-top-8-no-cost-4k-uhd-players-for-win-and-mac-users/"><u>[Updated] 2024 Approved Top 8 No-Cost, 4K UHD Players for Win & Mac Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-comparing-messaging-services-discord-versus-skype-revealed-for-2024/"><u>[Updated] Comparing Messaging Services Discord Versus Skype Revealed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-icebound-duelists-celebrating-the-best-of-winter-olympics-snowboard-x/"><u>[Updated] Icebound Duelists Celebrating the Best of Winter Olympics Snowboard X</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-economical-4k-digital-video-devices/"><u>2024 Approved Economical 4K Digital Video Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-examining-audio-and-visual-content-podcasts-against-youtube/"><u>2024 Approved Examining Audio and Visual Content Podcasts Against YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-mobile-capture-the-ultimate-10-video-friendly-phones/"><u>2024 Approved Prime Mobile Capture The Ultimate 10 Video-Friendly Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>2024 Approved Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-methods-to-implement-and-test-a-website-ping-strategy/"><u>Easy Methods to Implement and Test a Website Ping Strategy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-undo-deletion-and-get-back-lost-emails-from-your-microsoft-outlook-inbox/"><u>How to Undo Deletion and Get Back Lost Emails From Your Microsoft Outlook Inbox</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-s18-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo S18? Try These Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-of-ipad-pro-m4-versus-macbook-air-which-one-wins-out/"><u>In-Depth Analysis of IPad Pro (M4) Versus MacBook Air: Which One Wins Out?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/messenger-solo-how-to-enjoy-chat-features-without-a-facebook-profile/"><u>Messenger Solo: How to Enjoy Chat Features without a Facebook Profile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/must-have-the-ultimate-list-of-5-key-services-for-twitch-content-creators/"><u>Must-Have: The Ultimate List of 5 Key Services for Twitch Content Creators</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/travel-smart-mastering-roku-connection-in-accommodations-and-academic-settings/"><u>Travel Smart: Mastering Roku Connection in Accommodations and Academic Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-step-by-step-tutorial-on-building-a-custom-projector-screen/"><u>Ultimate Step-by-Step Tutorial on Building a Custom Projector Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-apple-watch-series-x-anticipated-launch-details-cost-projections-and-latest-industry-buzz/"><u>Unveiling Apple Watch Series X: Anticipated Launch Details, Cost Projections & Latest Industry Buzz</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-meta-quest-3-lite-revealed-anticipated-costs-launch-timeline-and-potential-features/"><u>Upcoming Meta Quest 3 Lite Revealed: Anticipated Costs, Launch Timeline & Potential Features</u></a></li>
 </ul></div>
 

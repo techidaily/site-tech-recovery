@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Reviving a Defective Logitech K520 Keyboard - Fast and Simple Methods
-date: 2024-08-19T12:54:31.007Z
-updated: 2024-08-20T12:54:31.007Z
+date: 2025-01-24T19:54:33.024Z
+updated: 2025-01-30T19:01:52.411Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 
  If it still doesn’t work, it may suggest If the keyboard itself is faulty. If the keyboard works well on another computer, don’t worry! Just try the fixes below one by one to troubleshoot your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update the keyboard driver
 
  If the keyboard driver on your computer is faulty or corrupted, your Logitech K520 keyboard may also not function properly.
@@ -66,13 +70,18 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![Update all of your drivers by just 1 click with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2019/09/DE-Update-all-drivers.png)  
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if this fix works after you updated the keyboard driver. If not, try the next fix, below.
 
@@ -85,20 +94,19 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**appwiz.cpl** and press**Enter** to open the**Program and Features** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/appwiz-cpl.png)
 2. Locate the Logitech unifying software,**right-click** on it and select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uninstall-logitech-unifying-software.png)
 3. Download the latest version of Logitech unifying software from the official website of[Logitech.](https://support.logi.com/hc/en-us/articles/360025297913)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Restart the Human Interface Device Service
 
  You may also run into this issue if the Human Interface Device Service is stopped. In this case, you need to restart the Human Interface Device Service. Here’s how to do it:
@@ -106,14 +114,8 @@ See if this fix works for you. If not, try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**services.msc** and press**Enter** to open**the Services window** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/services-msc.png)
 2. In the**Name** list of services in the Details pane, locate**Human Interface Device Service** .**Double-click** on it to view its properties.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Human-Interface-Device-Service.png)
 3. Set its**Startup type** to**Automatic** . If the Service status is not Running, click the**Start** button below to restart the service. Then click OK to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-05_12-24-11.png)
 
  See if you can fix the problem after restarting the Human Interface Device Service.
@@ -132,8 +134,6 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +141,24 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-visual-clarity-on-kinemaster-projects/"><u>[New] Maximizing Visual Clarity on Kinemaster Projects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-capturing-and-crafting-your-essential-guide-to-gopro-4k-edits/"><u>[Updated] Capturing and Crafting Your Essential Guide to GoPro 4K Edits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-from-recordings-to-live-streaming-on-youtube-and-twitch-with-obs/"><u>[Updated] From Recordings to Live Streaming on YouTube & Twitch with OBS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-strategy-integrating-linktree-into-your-tiktok-bio/"><u>2024 Approved Seamless Strategy Integrating Linktree Into Your TikTok Bio</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-art-of-making-youtube-thumbnails-on-the-go-mobile/"><u>2024 Approved The Art of Making YouTube Thumbnails on the Go (Mobile)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazon-prime-video-how-to-disable-onscreen-text-for-an-uninterrupted-viewing-experience/"><u>Amazon Prime Video: How to Disable Onscreen Text for an Uninterrupted Viewing Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/android-16/"><u>Android 16</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-ways-to-screen-record-on-android-for-2024/"><u>Best Ways to Screen Record on Android for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fire-stick-remote-not-working-here-are-the-quick-fixes-you-need/"><u>Fire Stick Remote Not Working? Here Are the Quick Fixes You Need!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-correcting-the-missing-msvcr71dll-error-on-pc/"><u>Guide to Correcting the Missing MSVCR71.dll Error on PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-13-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone 13?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/identifying-key-features-that-set-the-ipad-apart-from-regular-tablets/"><u>Identifying Key Features That Set the iPad Apart From Regular Tablets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-m4-mac-mini-projected-costs-release-timeline-and-latest-technical-specifications/"><u>Inside the M4 Mac Mini: Projected Costs, Release Timeline, and Latest Technical Specifications</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/powerful-outdoor-beaming-tool-reviewed-the-unstoppable-romer-charge-free-flashlight/"><u>Powerful Outdoor Beaming Tool Reviewed: The Unstoppable Romer Charge-Free Flashlight</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/stay-secure-in-the-crypto-space-a-guide-by-yl-computing-on-spotting-and-dodging-scam-icos/"><u>Stay Secure in the Crypto Space: A Guide by YL Computing on Spotting & Dodging Scam ICOs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-process-for-discarding-software-from-your-mac-device/"><u>The Complete Process for Discarding Software From Your Mac Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-resolving-issues-with-the-apple-watch-touch-interface-not-working/"><u>Understanding & Resolving Issues with the Apple Watch Touch Interface Not Working</u></a></li>
+</ul></div>
 

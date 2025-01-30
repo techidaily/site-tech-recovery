@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet
-date: 2025-01-16T21:08:39.521Z
-updated: 2025-01-23T01:04:37.932Z
+date: 2025-01-28T17:36:34.807Z
+updated: 2025-01-30T19:18:36.976Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,6 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -51,10 +55,6 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,18 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-reassessing-manycam-search-for-a-top-contender-for-2024/"><u>[New] Reassessing ManyCam Search for a Top Contender for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-recommended-frame-rates-for-professional-slow-motion-videos-for-2024/"><u>[New] Recommended Frame Rates for Professional Slow-Motion Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-sky-high-savings-on-storages-an-insider-look-at-free-and-premium-cloud-services/"><u>[New] Sky High Savings on Storages An Insider Look at Free & Premium Cloud Services</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-unique-gaming-screen-capture-applications-for-2024/"><u>[New] Top 10 Unique Gaming Screen Capture Applications for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beat-the-streets-essential-strategies-for-success-in-subway-surfers/"><u>Beat the Streets: Essential Strategies for Success in Subway Surfers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/detailed-overview-of-every-game-unveiled-for-the-playstation-vr/"><u>Detailed Overview of Every Game Unveiled for the PlayStation VR²</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722888272655-download-iphones-owners-manuals-by-model-the-ultimate-resource-list-and-tutorial/"><u>Download iPhones' Owner's Manuals by Model - The Ultimate Resource List and Tutorial</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/harry-potter-cinematic-journey-a-structured-viewing-schedule/"><u>Harry Potter Cinematic Journey: A Structured Viewing Schedule</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-14-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 14? Learn All 4 Methods</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/r-your-online-presence-the-ultimate-guide-to-effective-freefire-tags-for-2024/"><u>Master Your Online Presence The Ultimate Guide to Effective FreeFire Tags for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-a-guide-to-getting-robocop-rogue-city-running-on-windows-and-mac/"><u>Overcoming Launch Problems: A Guide to Getting RoboCop: Rogue City Running on Windows & Mac</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-best-live-chat-apps-to-try-with-shopify-for-2024/"><u>Updated Best Live Chat Apps To Try With Shopify for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-seekingsuperiorcameraspost-mycam/"><u>[Updated] SeekingSuperiorCamerasPost-MyCam</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-huawei-nova-y71-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Huawei Nova Y71 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-steps-to-change-your-smartphones-display-cover/"><u>Complete Guide: Steps to Change Your Smartphone's Display Cover</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-review-of-premier-video-call-applications-for-groups/"><u>Comprehensive Review of Premier Video Call Applications for Groups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-top-12-free-disk-defragmenters-to-boost-your-system-in-july-2024/"><u>Discover the Top 12 Free Disk Defragmenters to Boost Your System in July 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-horizon-zero-dawn-gameplay-boosting-fps-and-performance-fixes/"><u>Enhance Horizon Zero Dawn Gameplay: Boosting FPS & Performance Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-ai-is-reshaping-our-future-exploring-its-remarkable-possibilities/"><u>How AI Is Reshaping Our Future: Exploring Its Remarkable Possibilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-consolidate-your-jpg-photos-into-one-efficient-pdf-format/"><u>How to Consolidate Your JPG Photos Into One Efficient PDF Format</u></a></li>
+<li><a href="https://discover-able.techidaily.com/how-to-efficiently-change-your-audio-from-m4a-to-crisp-lossless-flac-a-step-by-step-guide/"><u>How to Efficiently Change Your Audio From M4A to Crisp, Lossless FLAC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-transform-your-azw-ereader-file-into-a-portable-mobile-compatible-mobi-book/"><u>How To Transform Your AZW eReader File Into a Portable, Mobile Compatible MOBI Book</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/i-piu-ottimi-player-video-4k-ultra-hd-per-pcmac-download-gratuiti-con-valutazioni-esclusive/"><u>I Più Ottimi Player Video 4K Ultra HD per PC/Mac: Download Gratuiti Con Valutazioni Esclusive</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-microsoft-teams-a-step-by-step-guide-for-windows-users/"><u>Mastering Microsoft Teams: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimal-series-premium-webcam-grips-for-2024/"><u>Optimal Series Premium Webcam Grips for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/strategies-for-integrating-meta-ai-technology-into-your-instagram-presence/"><u>Strategies for Integrating Meta AI Technology Into Your Instagram Presence</u></a></li>
 </ul></div>
 

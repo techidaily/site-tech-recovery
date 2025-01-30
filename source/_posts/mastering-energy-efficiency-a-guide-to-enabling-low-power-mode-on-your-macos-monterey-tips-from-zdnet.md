@@ -1,7 +1,7 @@
 ---
 title: "Mastering Energy Efficiency: A Guide to Enabling Low Power Mode on Your macOS Monterey - Tips From ZDNet"
-date: 2025-01-16T20:50:38.681Z
-updated: 2025-01-22T21:17:14.765Z
+date: 2025-01-27T19:15:19.583Z
+updated: 2025-01-30T19:20:23.328Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
@@ -49,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,18 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-why-instagram-videos-flip-onto-their-sides/"><u>[New] 2024 Approved Why Instagram Videos Flip Onto Their Sides</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-the-zoom-meeting-experience-tips-for-fluid-online-discussion/"><u>[New] In 2024, Mastering the Zoom Meeting Experience Tips for Fluid Online Discussion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-churn-memetic-content-for-gif-hub/"><u>[Updated] 2024 Approved Churn Memetic Content for GIF Hub</u></a></li>
-<li><a href="https://facebook.techidaily.com/9-must-try-apps-to-keep-your-social-plan-on-track/"><u>9 Must-Try Apps to Keep Your Social Plan on Track</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/full-series-marathon-how-to-binge-dragon-ball-sequentially/"><u>Full Series Marathon - How To Binge Dragon Ball Sequentially</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-m6-pro-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-address-missing-d3dx9e933dll-file-on-your-pc/"><u>How to Address Missing d3dx9_e9_33.dll File on Your PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-use-the-meta-quest-microphone/"><u>How to Use the Meta Quest Microphone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/projector-buying-101-key-aspects-to-assess-before-making-your-decision/"><u>Projector Buying 101: Key Aspects to Assess Before Making Your Decision</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-managing-filefolder-removal-in-wix-uninstall-processes/"><u>Step-by-Step Guide: Managing File/Folder Removal in WiX Uninstall Processes</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-meta-key-shifts-in-their-privacy-guidelines/"><u>Unveiling Meta: Key Shifts in Their Privacy Guidelines</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-does-wi-fi-calling-mean/"><u>What Does Wi-Fi Calling Mean?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-lullabies-of-relaxation-prime-asmr-talents-for-2024/"><u>[New] Lullabies of Relaxation Prime ASMR Talents for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solved-how-to-back-up-drivers-on-windows-11-and-10/"><u>[SOLVED] How to Back up Drivers on Windows 11 & 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-crafting-dynamic-youtube-content-as-animated-gifs-without-downloads/"><u>[Updated] 2024 Approved Crafting Dynamic YouTube Content as Animated GIFs Without Downloads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ace-your-workflow-fast-signature-backdrop-elimination/"><u>2024 Approved Ace Your Workflow Fast Signature Backdrop Elimination</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-origin-not-loading-issues-fast-with-these-simple-steps/"><u>Fix 'Origin Not Loading' Issues Fast with These Simple Steps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-k11x-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo K11x?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-essential-user-manual-for-music-licensing-on-insta/"><u>In 2024, The Essential User Manual for Music Licensing on Insta</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-fix-dealing-with-persistent-elex-ii-freezes-and-shutdowns-on-windows-machines/"><u>Master the Fix: Dealing with Persistent Elex II Freezes and Shutdowns on Windows Machines</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-compatibility-hurdles-logitech-mouse-fixes-for-the-latest-windows-os/"><u>Overcoming Compatibility Hurdles: Logitech Mouse Fixes for the Latest Windows OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-excessive-ram-consumption-issues-in-windows-11/"><u>Resolving Excessive RAM Consumption Issues in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-the-rumble-how-to-fix-sony-playstation-4-audio-glitches/"><u>Reviving the Rumble: How to Fix Sony PlayStation 4 Audio Glitches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-wifi-connections-from-your-pc-running-windows-10/"><u>Step-by-Step Guide: Removing WiFi Connections From Your PC Running Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-updating-your-atheros-wifi-network-adapter-on-windows-10/"><u>Step-by-Step Guide: Updating Your Atheros WiFi Network Adapter on Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-nokia-g22-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Nokia G22 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-essential-video-editing-tools-every-creator-needs/"><u>Top 5 Essential Video Editing Tools Every Creator Needs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Kodi Installation Walkthrough for Xbox One Users - Updated Guide
-date: 2024-08-19T12:56:00.138Z
-updated: 2024-08-20T12:56:00.138Z
+date: 2025-01-24T20:29:18.063Z
+updated: 2025-01-30T17:14:54.789Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 
  DirectX is a set of drivers in Windows. It allows software, especially video games work directly, also well with your video and audio card in an ideal state. In other words, it ensures an improved video and audio performance when you’re playing video games.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## How do I install the latest version of DirectX on Windows 11 and 10?
 
  It’s easy to install the latest version of DirectX on Windows 11 an Windows 10: there is no stand-alone package for DirectX in Windows 11 and Windows 10 because the updates are available through Windows Update.
@@ -40,19 +37,17 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 
  If you’re not sure if you have the latest version of DirectX on your Windows 10,[**check it before the installation**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### On Windows 10
 
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 3. You should then have the latest version of DirectX on your Windows 10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -60,30 +55,35 @@ If you’re on Windows 10, and you’re searching for how to download**the lates
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### You can check the version of DirectX in this way
 
 1. Type **dxdiag**  in the search box and click **dxdiag**  from the result.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b6558124af5.png)
 2. Wait for a second. Then you can see your DirectX version.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b6562e5bfd8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bonus tip for improving visual and audio performance
 
  To improve your visual and audio performance on your Windows 10, you not only should have the latest version of DirectX, but also should keep your video and audio cards driver up-to-date. You can download the latest drivers from your computer manufacturer’s website.
@@ -103,6 +103,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -113,8 +117,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +124,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-film-download-highlights-no-8/"><u>[New] 2024 Approved Facebook Film Download Highlights - No. 8</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-and-simple-ipad-conversion-turn-jpgpng-into-pdf/"><u>[New] Quick and Simple iPad Conversion Turn JPG/PNG Into PDF</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-enhance-your-profile-with-free-imagery/"><u>2024 Approved Enhance Your Profile with Free Imagery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoid-common-mistakes-expert-advice-on-choosing-the-best-selfie-stick/"><u>Avoid Common Mistakes: Expert Advice on Choosing the Best Selfie Stick</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/budget-conscious-pc-capture-programs/"><u>Budget-Conscious PC Capture Programs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6s-plus-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6s Plus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keeping-your-mac-awake-effective-strategies-to-prevent-system-sleep-mode/"><u>Keeping Your Mac Awake: Effective Strategies to Prevent System Sleep Mode</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/navigate-the-best-free-photography-enhancers-worldwide-for-2024/"><u>Navigate the Best Free Photography Enhancers Worldwide for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722877981731-photoshop-crashes-fix-scratch-disk-full-mistakes-effortlessly/"><u>Photoshop Crashes? Fix 'Scratch Disk Full' Mistakes Effortlessly!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-tips-for-turning-off-facebook-access-on-android-smartphones/"><u>Quick Tips for Turning Off Facebook Access on Android Smartphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-missing-or-not-found-a-guide-to-the-opengl32dll-file/"><u>Resolving 'Missing' Or 'Not Found': A Guide to the OpenGL32.dll File</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-hr-workflow-with-these-5-ai-prompts/"><u>Revolutionize Your HR Workflow with These 5 AI Prompts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-to-correct-mfc42dll-not-detected-errors/"><u>The Ultimate Solution to Correct Mfc42.dll Not Detected Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-recommended-iphone-email-clients/"><u>Top Recommended iPhone Email Clients</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-are-rtx-graphics-cards-unlocking-the-secrets-behind-nvidias-latest-tech/"><u>What Are RTX Graphics Cards? Unlocking the Secrets Behind NVIDIA's Latest Tech</u></a></li>
+</ul></div>
 

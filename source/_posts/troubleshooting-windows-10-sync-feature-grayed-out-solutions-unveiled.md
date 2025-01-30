@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 10 Sync Feature Grayed Out - Solutions Unveiled
-date: 2024-08-19T12:55:45.223Z
-updated: 2024-08-20T12:55:45.223Z
+date: 2025-01-26T17:51:15.297Z
+updated: 2025-01-30T21:52:48.634Z
 tags:
   - win11
   - win10
@@ -58,17 +58,23 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae77d6e2c46.png) and**X** at the same time, then click**Command Prompt (Admin)** .
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bf508717.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) When prompted to give administrator permission, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae785615bf1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Type**sfc /scannow** . Then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bff41b81.png)
@@ -76,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
  4) The scan can take up to 15 minutes to finish. Wait until it’s done.
 
  5) Check if you can log in without any problems now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 4: Create a new local administrator account**
 
@@ -90,33 +100,25 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae789ee21f7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**I don’t have this person’s sign-in information** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78b1b29b7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click**Add a user without a Microsoft account** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78c3e6bfc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  5) Enter the name, password and password hint. Then select**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78f859421.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 5: Update device drivers**
 
  Faulty installed device drivers could be the cause of this problem.  You should verify that all your devices have the right driver, and update those that don’t.
@@ -133,9 +135,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7b3da7b57.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -152,8 +151,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +158,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-blending-words-with-pictures-adding-text-to-images-windowsmac/"><u>[New] In 2024, Blending Words with Pictures Adding Text to Images, Windows/Mac</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-prime-your-digital-footprint-efficient-channels-monikers/"><u>[New] In 2024, Prime Your Digital Footprint Efficient Channels' Monikers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-the-art-of-collages-thanks-to-picshot/"><u>[Updated] Master the Art of Collages, Thanks to Picshot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-sites-to-watch-your-favourite-music-videos-online-ranked/"><u>Best Sites to Watch Your Favourite Music Videos Online - Ranked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-setting-up-shared-network-storage-on-your-mac-computer/"><u>Complete Tutorial: Setting Up Shared Network Storage on Your Mac Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-success-easy-instructions-for-making-your-own-professional-grade-projector-screen/"><u>DIY Success: Easy Instructions for Making Your Own Professional-Grade Projector Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-incorporating-copilot-into-your-microsoft-teams-experience/"><u>Effective Strategies for Incorporating Copilot Into Your Microsoft Teams Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-video-magic-top-5-effect-tools/"><u>Free Video Magic Top 5 Effect Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-to-rectify-iphone-photo-out-of-focus/"><u>In 2024, Techniques to Rectify iPhone Photo Out-of-Focus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overhaue-hybrid-graphics-sync-windows-11-solves-issues/"><u>Overhaue Hybrid Graphics Sync: Windows 11 Solves Issues</u></a></li>
+<li><a href="https://fox-where.techidaily.com/simple-strategies-how-to-recover-lost-or-deleted-files-from-a-usb-drive/"><u>Simple Strategies: How to Recover Lost or Deleted Files From a USB Drive</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-powerhouse-behind-chatgpt-revealed-exploring-ownership-details/"><u>The Powerhouse Behind ChatGPT Revealed: Exploring Ownership Details</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-checklist-for-logitech-webcam-setup-for-2024/"><u>The Ultimate Checklist for Logitech Webcam Setup for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/transferieren-sie-ihre-4-wegen-nachrichten-auf-das-neue-iphone-14-13-12-oder-11-schritt-fur-schritt-anleitung/"><u>Transferieren Sie Ihre 4 Wegen Nachrichten Auf Das Neue iPhone 14, 13, 12 Oder 11: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-repair-how-to-fix-unpairing-problems-with-your-apple-watch/"><u>Troubleshoot & Repair: How To Fix Unpairing Problems with Your Apple Watch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tutorial-effortless-multi-tasking-with-split-screen-on-macbook-air/"><u>Tutorial: Effortless Multi-Tasking with Split Screen on MacBook Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-power-of-meta-ai-on-instagram-techniques-for-optimization/"><u>Unveiling the Power of Meta AI on Instagram - Techniques for Optimization</u></a></li>
+</ul></div>
 

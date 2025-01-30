@@ -1,7 +1,7 @@
 ---
 title: "Master Multi-Screen Setup: How To Hook Up Both Monitors to Your Notebook"
-date: 2024-08-19T12:53:22.581Z
-updated: 2024-08-20T12:53:22.581Z
+date: 2025-01-26T20:02:03.271Z
+updated: 2025-01-30T18:38:55.361Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 ## No Monitor Signal When Laptop Powers On? Here's the Fix
 
 Your screen remains black after turning on the PC? This is very frustrating, and you’re certainly not alone. Many Windows users are reporting this issue. But the good news is that you can fix it. Here’re 6 fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -36,6 +40,10 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
  If you boot into Automatic Repair, select **Troubleshoot**  \> **Advanced options** \> **Startup settings** \> **Restart** \>**Safe Mode with Networking** , then try running a system scan with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to detect broken or damaged system files and repair them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check if your monitor is working
 
  If your computer starts but displays nothing, you should check is if your monitor is working properly.
@@ -47,8 +55,9 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 **If your monitor works fine** , move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Reconnect your monitor to your computer
 
  A poor connection between your monitor and your computer might also be the cause of your problem. In this case, reconnecting the two devices is very likely the solution to your problem. Here is how to do it:
@@ -63,9 +72,6 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/analog-20871_640-1024x338.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Check to see if your**video cable** is damaged. If the video cable is fine, reconnect your computer to your monitor. Or, if you have**another video cable** available, try connecting the two devices using the new cable.
 
 **5)** Try turning on your computer to see if it can boot normally.
@@ -73,8 +79,9 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 If your computer fails again, read on and check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Disconnect your peripherals
 
  Sometimes, certain peripherals connected to your computer may also cause the black screen issue. Try disconnecting all your peripherals to see if that’s the core problem. Here is how to do it:
@@ -106,8 +113,9 @@ RAM looks like this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Put**your RAM** back into the slot.
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer.
@@ -128,9 +136,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Wait for 5 minutes, and then reinstall your**CMOS battery** .
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer to see if your problem persists.
@@ -143,9 +148,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/Fortect-tp-reviews.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here’s how to use Fortect to check for broken system components in just one click:
 
  1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
@@ -171,8 +173,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +180,20 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-navigating-youtubes-photo-publishing/"><u>[New] Navigating YouTube's Photo Publishing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unraveling-youtubes-viewer-metrics-a-deeper-look/"><u>[New] Unraveling YouTube's Viewer Metrics A Deeper Look</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-prime-alternatives-to-gopro-selecting-the-ultimate-camera/"><u>[Updated] In 2024, Prime Alternatives to GoPro Selecting the Ultimate Camera</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-capturecare-essential-guide-to-ig-photo-and-video-resize/"><u>2024 Approved CaptureCare Essential Guide to IG Photo & Video Resize</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-deep-dive-into-google-hangouts-how-does-it-work/"><u>A Deep Dive Into Google Hangouts: How Does It Work?</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-reno-10-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Reno 10 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/communications-kings-in-asia-top-3-languages/"><u>Communication's Kings in Asia: Top 3 Languages</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-excel-file-2021-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted Excel File 2021 | Stellar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-twitch-errors-determining-network-issues-versus-localized-problems/"><u>Navigating Twitch Errors: Determining Network Issues versus Localized Problems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/obs-and-wirecast-clash-which-tops-in-live-broadcasting/"><u>OBS and Wirecast Clash Which Tops in Live Broadcasting</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-battle-of-mobile-marketplaces-unpacking-the-differences-between-ios-app-store-and-google-play/"><u>The Battle of Mobile Marketplaces: Unpacking the Differences Between IOS App Store & Google Play</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-diagnosing-and-solving-haldll-errors-on-windows-xp-machines/"><u>The Ultimate Guide to Diagnosing and Solving Hal.dll Errors on Windows XP Machines</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tech-guide-smartphones-computers-and-ebooks-unveiled/"><u>The Ultimate Tech Guide: Smartphones, Computers and eBooks Unveiled!</u></a></li>
+</ul></div>
 

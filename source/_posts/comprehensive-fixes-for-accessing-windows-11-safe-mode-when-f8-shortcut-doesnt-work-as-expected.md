@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Fixes for Accessing Windows 11 Safe Mode When F8 Shortcut Doesn't Work as Expected
-date: 2024-08-19T12:51:27.030Z
-updated: 2024-08-20T12:51:27.030Z
+date: 2025-01-24T17:07:52.760Z
+updated: 2025-01-30T19:35:23.416Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ Want to take a screenshot on Windows 8 but don’t know how to do it? Here is th
 [1: Windows Built-in Features (Keyboard shortcuts and Programs)](https://www.drivereasy.com/knowledge/how-to-take-a-screenshot-on-windows-8-easily/#method1)
 
 [2: Use Snagit – an All-in-one screen capture software](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Windows Built-in Features (Keyboard shortcuts and Programs)
 
@@ -62,7 +66,16 @@ If you want to capture a specific window, use this keyboard shortcut:
 1. Press**Windows logo key** , move your mouse pointer to the bottom-right corner of your screen, then move upward to invoke the menu.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-59-53.jpg)
 2. Type**Snipping Tool** in the search bar and click the result to open the program.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-10-02.jpg)
 3. Click**New** to create a screenshot.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-14-28.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. You will be able to make simple edits before you save.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-15-50-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Use Snagit – an All-in-one screen capture software
 
@@ -75,6 +88,14 @@ If you want to capture a specific window, use this keyboard shortcut:
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Snagit, run the software.
 2. Click**Capture** to take a screenshot, or use the default hotkey – PrtScn key. You can drag the screen to include the area you need.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-12-57-1.jpg)
 3. Attached is an example of some useful tools available in the Snagit editor.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-12-50-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -89,8 +110,6 @@ If you want to capture a specific window, use this keyboard shortcut:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,8 +117,16 @@ If you want to capture a specific window, use this keyboard shortcut:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-expert-strategy-for-melding-gopro-vids-with-spherical-video-projects/"><u>[New] In 2024, Expert Strategy for Melding GoPro Vids with Spherical Video Projects</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unveiling-the-art-of-chromatic-mastery-in-video-editing-11-steps/"><u>[New] In 2024, Unveiling the Art of Chromatic Mastery in Video Editing (11 Steps)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-filmora-simplified-guide-to-an-engaging-youtube-anime-subscriber-bar/"><u>[Updated] In 2024, Filmora Simplified Guide to an Engaging YouTube Anime Subscriber Bar</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-tutorial-for-youtube-studio-editor-use/"><u>[Updated] The Essential Tutorial for YouTube Studio Editor Use</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55t-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Itel P55T Phone without Google Account?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inviting-photo-sharing-success-accepting-shared-albums-on-apple-iphone/"><u>Inviting Photo Sharing Success: Accepting Shared Albums on Apple iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-address-msstdfmtdll-is-not-found-system-issue/"><u>Steps to Address 'msstdfmt.dll' Is Not Found System Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-troubleshooting-manual-for-user32dll-errors-not-found/"><u>The Definitive Troubleshooting Manual for User32.dll Errors Not Found</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-pokemon-go-secrets-tips-for-new-trainers/"><u>Unraveling Pokémon GO Secrets: Tips for New Trainers</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->

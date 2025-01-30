@@ -1,7 +1,7 @@
 ---
 title: "[Solved] The Application Was Unable to Start Correctly 0Xc0000142"
-date: 2024-08-19T12:52:01.422Z
-updated: 2024-08-20T12:52:01.422Z
+date: 2025-01-24T19:43:07.500Z
+updated: 2025-01-30T21:38:21.467Z
 tags:
   - win11
   - win10
@@ -54,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
  If it still doesn’t work, it may suggest If the keyboard itself is faulty. If the keyboard works well on another computer, don’t worry! Just try the fixes below one by one to troubleshoot your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 1: Update the keyboard driver
 
  If the keyboard driver on your computer is faulty or corrupted, your Logitech K520 keyboard may also not function properly.
@@ -69,21 +66,23 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![Update all of your drivers by just 1 click with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2019/09/DE-Update-all-drivers.png)  
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if this fix works after you updated the keyboard driver. If not, try the next fix, below.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Reinstall Logitech unifying software
 
  You may also need to reinstall Logitech unifying software if the Logitech K520 keyboard not working issue persists. Here is how to do it:
@@ -91,8 +90,17 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**appwiz.cpl** and press**Enter** to open the**Program and Features** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/appwiz-cpl.png)
 2. Locate the Logitech unifying software,**right-click** on it and select**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uninstall-logitech-unifying-software.png)
 3. Download the latest version of Logitech unifying software from the official website of[Logitech.](https://support.logi.com/hc/en-us/articles/360025297913)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
 
@@ -103,20 +111,15 @@ See if this fix works for you. If not, try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**services.msc** and press**Enter** to open**the Services window** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/services-msc.png)
 2. In the**Name** list of services in the Details pane, locate**Human Interface Device Service** .**Double-click** on it to view its properties.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/Human-Interface-Device-Service.png)
-3. Set its**Startup type** to**Automatic** . If the Service status is not Running, click the**Start** button below to restart the service. Then click OK to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-05_12-24-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/Human-Interface-Device-Service.png)
+3. Set its**Startup type** to**Automatic** . If the Service status is not Running, click the**Start** button below to restart the service. Then click OK to save the changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-05_12-24-11.png)
+
  See if you can fix the problem after restarting the Human Interface Device Service.
 
 ---
@@ -133,8 +136,6 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +143,19 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-crafting-a-superior-fpv-drone-setup-choosing-right-propellers/"><u>[New] In 2024, Crafting a Superior FPV Drone Setup Choosing Right Propellers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-key-top-10-modifications-for-terraria-for-2024/"><u>[New] Key Top 10 Modifications for Terraria for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-masterclass-top-10-recorder-options-on-spotify/"><u>[Updated] 2024 Approved Masterclass Top 10 Recorder Options on Spotify</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-complete-tutorial-on-acquiring-asus-wireless-lan-device-drivers/"><u>A Complete Tutorial on Acquiring ASUS Wireless LAN Device Drivers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprendre-la-politique-de-remboursement-chez-movavi-guide-complet/"><u>Comprendre La Politique De Remboursement Chez Movavi - Guide Complet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/earn-music-for-less-with-this-simple-trick-to-obtain-spotifys-student-pricing-plan/"><u>Earn Music for Less with This Simple Trick to Obtain Spotify's Student Pricing Plan!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-mov-file-capture-in-win10-for-2024/"><u>Mastering MOV File Capture in Win10 for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-setup-connecting-airpods-for-optimal-use-with-macbook-air/"><u>Mastering the Setup: Connecting AirPods for Optimal Use with MacBook Air</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-javascript-dll-file-missing-a-step-by-step-guide/"><u>Solving the 'JavaScript' DLL File Missing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-risks-of-big-tech-dependency-in-public-services-lessons-from-recent-microsoft-outages/"><u>The Risks of Big Tech Dependency in Public Services: Lessons From Recent Microsoft Outages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uncovering-inexpensive-deals-for-your-gopro-camera/"><u>Uncovering Inexpensive Deals for Your GoPro Camera</u></a></li>
+<li><a href="https://article-helps.techidaily.com/video-mastery-without-relying-on-xsplit/"><u>Video Mastery Without Relying on Xsplit</u></a></li>
+</ul></div>
 

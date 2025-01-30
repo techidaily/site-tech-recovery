@@ -1,7 +1,7 @@
 ---
 title: "Navigating Artifical Intelligence in Apple Devices: Comprehensive Insight on Upcoming AI Features for iPhones, Macs & iPads | ZDNET Exclusive"
-date: 2025-01-16T05:53:50.327Z
-updated: 2025-01-22T17:55:20.793Z
+date: 2025-01-26T17:49:39.241Z
+updated: 2025-01-30T17:13:35.627Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Apple Intelligence?
 
 Apple
@@ -41,7 +37,7 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
@@ -64,7 +60,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -82,6 +78,10 @@ With context on what is on your iPhone, iPad, or Mac and screen awareness, Siri 
 The voice assistant will also be able to perform hundreds of new actions across Apple and third-party apps, like opening articles from a Reading List or looking up a specific photo in your library. 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
 
@@ -119,6 +119,10 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -132,7 +136,7 @@ When users make a Siri request that the voice assistant determines would be bett
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
@@ -150,10 +154,6 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -210,18 +210,18 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-download.techidaily.com/install-now-updated-acer-touchpad-software-compatible-with-windows-11-download/"><u>[Install Now] Updated Acer Touchpad Software Compatible with Windows 11 - Download</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/xploring-youtubes-latest-revenue-guidelines/"><u>[New] Exploring YouTube's Latest Revenue Guidelines</u></a></li>
-<li><a href="https://games-able.techidaily.com/acquiring-googles-console-style-gaming-experience-for-computer-use/"><u>Acquiring Google's Console-Style Gaming Experience for Computer Use</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722898798282-apple-music-continuous-stream-learn-how-to-stop-it/"><u>Apple Music Continuous Stream? Learn How to Stop It!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-poco-m6-pro-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Poco M6 Pro 4G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-connect-a-fire-stick-to-a-projector/"><u>How to Connect a Fire Stick to a Projector</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-laughter-legends-reviewing-goofy-in-the-vhs-era/"><u>In 2024, 'Laughter Legends' Reviewing Goofy in the VHS Era</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-high-fidelity-portals-to-ps3-gaming-on-pcs/"><u>In 2024, High-Fidelity Portals to Ps3 Gaming on PCs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/master-the-track-with-logitech-g29-racing-wheel-free-download-instructions-for-windows-users-on-versions-7810/"><u>Master the Track with Logitech G29 Racing Wheel: FREE Download Instructions for Windows Users on Versions 7/8/10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reconnect-your-apple-watch-effortlessly-with-these-ebye-effective-pairing-tips/"><u>Reconnect Your Apple Watch Effortlessly with These Ebye Effective Pairing Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-developer-cant-be-verified-error-a-guide-for-mac-users/"><u>Resolving 'Developer Can’t Be Verified'-Error: A Guide for Mac Users</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-retrieving-lost-files-while-keeping-the-initial-folder-hierarchy-in-tact/"><u>Step-by-Step Guide: Retrieving Lost Files While Keeping the Initial Folder Hierarchy In Tact</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-the-power-of-srt-editing-for-mac-users-for-2024/"><u>Unlocking the Power of SRT Editing for Mac Users for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-novice-necessities-your-first-steps-in-gopro-world/"><u>[Updated] Novice Necessities - Your First Steps in GoPro World</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pro-camera-powerhouses-the-2024-ultimate-list/"><u>[Updated] Pro Camera Powerhouses – The 2024 Ultimate List</u></a></li>
+<li><a href="https://win-studio.techidaily.com/seagate-backup-plus/"><u>如何利用Seagate Backup Plus外置硬盘進行有效網路隔空上傳：步驟舉荷解決策略</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-user-manual-navigating-through-different-ipados-releases/"><u>Complete User Manual: Navigating Through Different iPadOS Releases</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-our-expertly-chosen-selection-of-lgbtq-content-streaming-now-on-netflix/"><u>Discover Our Expertly Chosen Selection of LGBTQ Content Streaming Now on Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-the-curve-with-tesla-robotaxi-insights-projected-pricing-d-day-and-tech-details-uncovered/"><u>Get Ahead of the Curve with Tesla Robotaxi Insights: Projected Pricing, D-Day & Tech Details Uncovered!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-restore-excel-2010-file-stellar-by-stellar-guide/"><u>How Do I Restore Excel 2010 File ? | Stellar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-delete-a-windows-recovery-partition/"><u>How to Delete a Windows Recovery Partition</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-corrupted-video-files-in-quicktime-app/"><u>Mending Corrupted Video Files in QuickTime App</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-device-pathway-restrictions-in-windows/"><u>Overcoming Device Pathway Restrictions in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/shine-bright-in-photos-a-comprehensive-guide-to-selfie-light-mastery/"><u>Shine Bright in Photos: A Comprehensive Guide to Selfie Light Mastery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-role-and-utility-of-a-smartwatch-in-todays-tech-landscape/"><u>The Role & Utility of a Smartwatch in Today's Tech Landscape</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-12-flip-screen-cams-for-dynamic-videography-for-2024/"><u>Top 12 Flip-Screen Cams for Dynamic Videography for 2024</u></a></li>
 </ul></div>
 

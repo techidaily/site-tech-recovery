@@ -1,7 +1,7 @@
 ---
 title: Top 5 Secure Online Navigation Strategies for Newbies
-date: 2024-08-19T12:55:42.965Z
-updated: 2024-08-20T12:55:42.965Z
+date: 2025-01-23T17:34:57.054Z
+updated: 2025-01-30T20:42:25.086Z
 tags:
   - win11
   - win10
@@ -46,7 +46,15 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31dfc99cd5c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: **Meter your Wifi network**
 
@@ -60,11 +68,19 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e51d793cb.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Toggle the**Set as metered connection** switch**On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b31e598c92ca.jpg)
 
  4) Hopefully it solves your woes and you won’t see another ‘unsolicited’ Windows update on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 3: Change Group Policy Settings**
 
@@ -74,34 +90,26 @@ Windows Update is a feature that automatically checks and provide updates for ou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320075a239c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  3) Double-click on **Computer Configuration** \> **Administrative Templates** \>**Windows Components** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320153b5782.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Double-click on**Windows Update** \> **Configure Automatic Updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b32023756b85.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Choose**Disabled** , and then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320453ed059.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  It’s recommendable to select**Enabled** and**Notify for downloads and auto install** (see below) so that you can always get a confirmation message instead of an auto update (meanwhile still keeping a watchful eye for an important Windows update). Also, you might need to select**Enabled** if you are to upgrade your Windows to a higher version.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b320505e4030.jpg)
@@ -122,16 +130,14 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45814031f86.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Y ou can upgrade to the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) and click   **Update All**   to automatically download and install the correct version of   **ALL** the drivers that are missing or out of date on your system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b321850aaba5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Restart your computer to finish the update.
 
  That’s it  – 3 easy methods for you to turn off Windows Update on your computer  . Hope this helps and feel free to comment below if you have any further questions. ?
@@ -144,8 +150,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +157,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-enhancing-accessibility-with-vimeo-subtitles/"><u>[New] 2024 Approved Enhancing Accessibility with Vimeo Subtitles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ncovering-8-must-have-mirrorless-cams-for-video-creators-for-2024/"><u>[New] Uncovering 8 Must-Have Mirrorless Cams for Video Creators for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/"><u>[Updated] In 2024, Revolutionizing Advertising on Facebook with the Best Video Tactics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-step-by-step-guide-to-annotate-windows-photos-video-content-for-2024/"><u>[Updated] Step-by-Step Guide to Annotate Windows Photos Video Content for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-channels-for-your-roku/"><u>Discover the Best Free Channels for Your Roku</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/free-camera-screen-recorders-deep-dive-review-and-top-alternatives-for-2024/"><u>Free Camera Screen Recorders Deep Dive Review and Top Alternatives for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/gaining-authorization-from-trustedinstaller-to-make-changes-to-encrypted-files/"><u>Gaining Authorization From TrustedInstaller to Make Changes to Encrypted Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-diagnose-and-repair-when-system-search-cant-locate-mss32dll/"><u>Guide to Diagnose and Repair When System Search Can't Locate MSS32.DLL</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-picarts-quick-shield-for-facial-features/"><u>In 2024, PicArt's Quick Shield for Facial Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/innovative-ways-to-leverage-zoom-for-fb-live-for-2024/"><u>Innovative Ways to Leverage Zoom for FB Live for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-your-pcs-potential-with-these-7-optimized-speed-hacks/"><u>Maximize Your PC's Potential with These 7 Optimized Speed Hacks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/next-generation-connectivity-unveiling-what-comes-after-verizon-5g/"><u>Next Generation Connectivity: Unveiling What Comes After Verizon 5G</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/top-rated-complimentary-watermarking-tools-on-the-play-store-best-picks/"><u>Top Rated Complimentary Watermarking Tools on the Play Store: Best Picks</u></a></li>
+</ul></div>
 

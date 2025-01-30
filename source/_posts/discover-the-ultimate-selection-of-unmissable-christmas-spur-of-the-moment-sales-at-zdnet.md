@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Selection of Unmissable Christmas Spur-of-the-Moment Sales at ZDNet
-date: 2025-01-19T07:00:35.375Z
-updated: 2025-01-22T17:18:45.227Z
+date: 2025-01-28T21:17:35.136Z
+updated: 2025-01-30T18:09:57.613Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,21 +123,21 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-effective-screen-recording-with-a-focus-on-usability/"><u>[New] Effective Screen Recording with a Focus on Usability</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-improve-your-work-efficiency-leveraging-snap-photography-techniques-for-2024/"><u>[New] Improve Your Work Efficiency Leveraging Snap Photography Techniques for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-streamline-your-video-capture-on-youtube/"><u>[Updated] Streamline Your Video Capture on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/captivating-literary-book-trailers-for-2024/"><u>Captivating Literary Book Trailers for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-7-amazing-internet-games-your-little-ones-will-love/"><u>Discover 7 Amazing Internet Games Your Little Ones Will Love</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-extended-range-tcls-latest-additions-to-their-popular-q-and-s-class-smart-tv-collections/"><u>Discover the Extended Range: TCL's Latest Additions to Their Popular Q and S Class Smart TV Collections</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-email-safety-activating-dual-verification-on-google-mail/"><u>Enhance Email Safety: Activating Dual Verification on Google Mail</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/enhance-your-social-media-presence-with-the-top-instagram-visual-editor-software-in-vectors-2020-edition/"><u>Enhance Your Social Media Presence with the Top Instagram Visual Editor Software in Vectors, 2020 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fix-a-green-or-blue-screen-of-death-easy-to-follow-steps-and-tricks-to-rescue-your-tv-display/"><u>Fix a Green or Blue Screen of Death: Easy-to-Follow Steps and Tricks to Rescue Your TV Display</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v27-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo V27 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-high-performance-testing-results-for-top-m2-ssd-heatsinks-featuring-id-cooling-zero-series-reviewed/"><u>Inside the World of High-Performance: Testing Results for Top M.2 SSD Heatsinks, Featuring ID-Cooling Zero Series Reviewed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reactivating-a-dormant-snapchat-profile-a-step-by-step-guide/"><u>Reactivating a Dormant Snapchat Profile: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-superior-performance-of-evs-over-gas-powered-cars-explained/"><u>The Superior Performance of EVs Over Gas-Powered Cars Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-finding-and-restoring-erased-numbers-on-android-phones/"><u>The Ultimate Guide to Finding and Restoring Erased Numbers on Android Phones</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oppo-a1x-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Oppo A1x 5G Phone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users/"><u>[New] 2024 Approved Secrets of Saving Screenshots Tips & Tricks for Dell Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-quip-quarterly-event-oriented-joke-anthology/"><u>[New] In 2024, Quip Quarterly Event-Oriented Joke Anthology</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-voice-recording-for-powerpoint-visuals/"><u>[New] In 2024, Voice Recording for PowerPoint Visuals</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apple-watch-series-4-analysis-enhanced-excellence-unveiled/"><u>Apple Watch Series 4 Analysis: Enhanced Excellence Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bypassing-zoom-screen-sharing-obstacles-updated-tips-for-202n4/"><u>Bypassing Zoom Screen Sharing Obstacles - Updated Tips for 202N4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-steps-to-perform-a-full-factory-reset-on-your-acer-device/"><u>Complete Guide: Steps to Perform a Full Factory Reset on Your Acer Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connecting-your-beats-wireless-headphones-to-a-pc-a-step-by-step-guide/"><u>Connecting Your BEATS Wireless Headphones to a PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/direct-phone-call-capture-now-possible-with-apples-ios-18-say-goodbye-to-additional-apps-for-recordings-zdnet-innovations-in-mobile-technology/"><u>Direct Phone Call Capture Now Possible with Apple's iOS 18; Say Goodbye to Additional Apps for Recordings | ZDNet Innovations in Mobile Technology</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/los-reproductores-mp4-4k-ultra-hd-mas-eficaces-guia-completa-para-pcmac-usuarios/"><u>Los Reproductores MP4 4K Ultra HD Más Eficaces: Guía Completa Para PC/Mac Usuarios</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ordered-guide-how-to-watch-the-entire-dragon-ball-series/"><u>Ordered Guide: How to Watch the Entire Dragon Ball Series</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808092884-quick-fix-speeding-up-your-slow-windows-10-updates/"><u>Quick Fix: Speeding Up Your Slow Windows 10 Updates</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/silent-snapshots-avoiding-blurry-blows-for-2024/"><u>Silent Snapshots Avoiding Blurry Blows for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-underappreciated-film-phenoms-of-this-year-for-2024/"><u>The Underappreciated Film Phenoms of This Year for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808210268-transition-from-laminar-to-turbulent-flow-occurs-gradually-over-a-range-of-reynolds-numbers-not-abruptly-at-a-specific-point/"><u>Transition From Laminar to Turbulent Flow Occurs Gradually over a Range of Reynolds Numbers, Not Abruptly at a Specific Point</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-to-do-if-your-keyboard-doesnt-work/"><u>What to Do if Your Keyboard Doesn’t Work?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808087174-windows-10-wont-boot-or-start-try-easy-fixes/"><u>Windows 10 Won't Boot or Start? Try Easy Fixes!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Accelerate Your Windows 11 Performance to Peak Efficiency"
-date: 2024-08-19T12:56:15.570Z
-updated: 2024-08-20T12:56:15.570Z
+date: 2025-01-28T20:01:17.782Z
+updated: 2025-01-30T19:09:25.951Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  Whenever you feel it lagging or freezing on the Windows 11, problems could possibly come from anywhere from**low system storage** to**outdated drivers** or from**too many running programs** to**100% disk usage** . If you would like some tips to solve these issues without too much effort, this tutorial is exactly what you need.
 
  Below are 8 easy solutions to boost your computer performance on Windows 11 without having to play around too many critical settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these solutions
 
@@ -51,9 +55,17 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
  Or if the checking result is **You’re up to date,**  then you can just close the Setting windows.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-up-to-date.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this method doesn’t work for you, try the following below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 2:** **Update drivers**
 
@@ -65,13 +77,14 @@ If this method doesn’t work for you, try the following below.
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DEscan-1.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-UPDATE-1.jpg)
 4. Restart your PC to see if your computer still stutters after updating the drivers. If the problem still persists, you should try other methods in this post.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at[**support@drivereasy.com.**](https://tools.techidaily.com/drivereasy/download/)
 
@@ -84,18 +97,17 @@ If this method doesn’t work for you, try the following below.
 1. Right-click the**Windows icon** on the task bar and select**Task Manager** from the pop-up list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-Task-manager-2.jpg)
 2. Under the**Processes** tab, you will have detailed information on the right and the name of each process on the left. Select some processes using up most of the available resources and click**End task** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-emd-task.jpg)
 
 If this method doesn’t work for you, try the following below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## **Method** 4:**Adjust startup App** s
 
  Usually Windows 11 would run faster when you start your computer with less startup Apps. Disable some of the unnecessary startup Apps is a way to help with the lagging problem in Windows 11.
@@ -103,27 +115,27 @@ If this method doesn’t work for you, try the following below.
 1. Press the**Windows key** to open the Start menu, type**startup apps** in the search box and select it from the result that appears.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-type-sas.jpg)
 2. Click the**toggles** to**Off** for those Apps you want to keep them from automatically opening (especially those with**High impact** ).  
-![](https://images.drivereasy.com/wp-content/uploads/2022/04/Win-11-startup-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/04/Win-11-startup-app.jpg)
+
  After applying these settings, have a check to see if it works for you. If not, try next one below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Method** 5:**Uninstall rarely-used apps**
 
 1. Press the**Windows key** to open the Start menu, type**apps & features** in the search box and select it from the result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-type-af.jpg)
 2. Next, you will see a list of apps installed in your system. Click the**3-dots button** on the apps you rarely use and then select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-app-unistall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Some of the apps can not be uninstalled because they are critical built-in features of Windows 11.
 
@@ -136,14 +148,12 @@ If this method doesn’t work for you, try the following below.
 1. Press the**Windows key** to open the Start menu, type**visual effects** in the search box and select it from the result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-type-ve-1.jpg)
 2. If the**Transparency effects** and**Animation effects** are_on_ in the list, click on the**toggles** to turn them off.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Win-11-visual-effect.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After applying these settings, have a check to see if it works for you. If not, try the following below.
 
 ---
@@ -155,25 +165,20 @@ If this method doesn’t work for you, try the following below.
 1. Press the**Windows key** to open the Start menu, type**storage settings** in the search box and select it from the result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-type-ss.jpg)
 2. Click T**emporary files** in the right section.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-tf.jpg)
 3. Click**Remove files** .  
 **Note:** The system will autumnally select the files that can be safely deleted. If you also want to clear the Recycle bin which wouldn’t be autumnally selected, tick the check box before you make sure that there is nothing important in the Recycle bin.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-tf-remove.jpg)
 4. Click**Continue** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-tf-continue.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 If this method doesn’t work for you, try the following below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method** 8:**Run Disk Cleanup**
 
@@ -184,11 +189,13 @@ If this method doesn’t work for you, try the following below.
 2. Wait a while for the calculating.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-dc-wait.jpg)
 3. Under the Disk Cleanup tab, tick the check box from the list of**Files to delete** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-11-dc-ok.jpg)
 4. Click**Delete Files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-26_18-44-38.jpg)
 
 ---
@@ -205,8 +212,6 @@ If this method doesn’t work for you, try the following below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +219,24 @@ If this method doesn’t work for you, try the following below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/iscover-the-art-of-youtube-playlist-shuffling/"><u>[New] Discover the Art of YouTube Playlist Shuffling</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-chrome-compatibility-solving-media-errors/"><u>[Updated] 2024 Approved Chrome Compatibility Solving Media Errors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-everyone-should-have-one-video-collage-app-in-android-phone/"><u>[Updated] In 2024, Everyone Should Have One Video Collage App in Android Phone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-redmi-12-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi Redmi 12 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connecting-disney-plus-to-chromecast-made-easy-the-ultimate-tutorial/"><u>Connecting Disney Plus to Chromecast Made Easy - The Ultimate Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cutting-edge-smartphones-introduced-by-samsung/"><u>Cutting-Edge Smartphones Introduced by Samsung</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-hidden-login-credentials-a-guide-to-retrieving-saved-passwords-on-your-mac/"><u>Discovering Hidden Login Credentials: A Guide to Retrieving Saved Passwords on Your Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-chromebook-hang-ups-discover-these-8-remedies-now/"><u>Fix Chromebook Hang-Ups: Discover These 8 Remedies Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmonic-start-spots-music-gold-for-podcast-kicks-for-2024/"><u>Harmonic Start Spots Music Gold for Podcast Kicks for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-y78-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo Y78 5G Location | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/installation-mastery-deploying-windows-11-on-an-empty-hard-drive-the-ultimate-guide/"><u>Installation Mastery: Deploying Windows 11 on an Empty Hard Drive – The Ultimate Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/neo-qled-vs-oled-whats-the-difference/"><u>Neo QLED Vs. OLED: What's the Difference?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overwatch-fixed-graphics-driver-issues-no-more-crashes/"><u>Overwatch: Fixed Graphics Driver Issues - No More Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-play-time-on-roblox-know-if-its-a-server-issue-or-internet-problem/"><u>Troubleshooting Play Time on Roblox - Know If It's a Server Issue or Internet Problem?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-correcting-helperdll-file-not-found-issues/"><u>Troubleshooting: Correcting 'Helper.dll' File Not Found Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots and Recording Video on iPhone - Tips From ZDNet"
-date: 2025-01-18T19:24:40.071Z
-updated: 2025-01-23T00:28:56.980Z
+date: 2025-01-29T20:24:04.500Z
+updated: 2025-01-30T20:55:54.707Z
 tags:
   - apple
 categories:
@@ -20,10 +20,6 @@ Whether you're trying to demonstrate a bug to a tech support rep or you're demon
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to screen record on any iPhone
 
 * **Materials needed:** Any iPhone running iOS 14.0 or later
@@ -33,10 +29,6 @@ You'll find the necessary setting in the Control Center section of your Settings
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open your Settings app and find "Control Center"
 
 Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https://www.zdnet.com/article/apple-launches-ios-14-aims-for-siri-overhaul-better-app-organization/), but you'll need to enable it before you can use it. To do this, open your Settings app and find Control Center (as seen above in the red rectangle).
@@ -44,10 +36,6 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -69,10 +57,6 @@ While recording, your Screen Recording button will look like this (minus the red
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Begin screen recording
 
 When you're ready to begin recording, tap the Screen Recording button. This starts a 3-second countdown. At the end of it, the recording will begin. This countdown time can be used to close the Control Center and get back to the true subject of your Screen Recording before the video capture actually begins. 
@@ -82,6 +66,10 @@ While recording is active, the Screen Recording button in Control Center will tu
 Your clock will look like this as long as Screen Recording is active.
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 5: Record
 
@@ -99,15 +87,23 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
 
@@ -116,6 +112,10 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) \- A straightforward screen recorder app that works almost identically to the built-in process, but supports adding real-time narration using the iPhone's built-in microphones.
 * [RecordIt!](https://apps.apple.com/us/app/record-it-screen-recorder/id1245356545) \- A slightly more complex option that also allows for real-time narration or post-capture editing. It also supports face cam captures, so you can record your screen and yourself at the same time.
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How can I share my captured video?
 
@@ -153,22 +153,22 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-discovering-the-metaverses-hidden-joys/"><u>[New] In 2024, Discovering the Metaverse's Hidden Joys</u></a></li>
-<li><a href="https://common-error.techidaily.com/accelerate-your-league-of-legends-experience-fixing-download-delays-once-and-for-all/"><u>Accelerate Your League of Legends Experience – Fixing Download Delays Once and For All!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/crucial-factors-you-shouldnt-ignore-when-purchasing-a-smart-television/"><u>Crucial Factors You Shouldn't Ignore When Purchasing a Smart Television</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-for-seamless-installation-of-new-apple-ios-releases/"><u>Expert Advice for Seamless Installation of New Apple iOS Releases</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-itel-s23-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Itel S23</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722879531870-ipad-pro-m4-vs-macbook-air-m3-whats-the-difference/"><u>IPad Pro M4 vs MacBook Air M3: What's the Difference?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/locating-your-macbooks-model-id-a-step-by-step-guide/"><u>Locating Your MacBook's Model ID: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-embedding-source-code-in-your-word-documents/"><u>Mastering the Art of Embedding Source Code in Your Word Documents</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-software-updates-keeping-zoom-current-on-windows-and-macos-systems/"><u>Navigating Software Updates: Keeping Zoom Current on Windows and macOS Systems</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-fundamentals-of-vimeo-video-logging/"><u>The Fundamentals of Vimeo Video Logging</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-must-play-android-and-ios-gaming-apps/"><u>Top 8 Must-Play Android & iOS Gaming Apps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/uncovering-email-contact-information-with-respectful-practices/"><u>Uncovering Email Contact Information with Respectful Practices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-samsung-galaxy-z-fold-7-price-predictions-release-forecast-and-specs-revealed/"><u>Upcoming Samsung Galaxy Z Fold 7 - Price Predictions, Release Forecast & Specs Revealed</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-enhancing-audio-clarity-in-diy-home-film-production/"><u>Updated 2024 Approved Enhancing Audio Clarity in DIY Home Film Production</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1725285838037-dvd-dvd/"><u>윈엑스 DVD 제조기 정상 웹사이트: DVD 재생 라이브리틱, 비디오 보조 소프트와 전자계산기 전송</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726223425079-jpeggifmovavi/"><u>オンラインフリー変換: JPEGおよびGIFをMovaviでシームレスに変換する方法</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-adobe-photostability-effective-or-fanciful/"><u>[New] 2024 Approved Adobe PhotoStability Effective or Fanciful?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fundamental-equipment-for-channel-foundations/"><u>[New] 2024 Approved Fundamental Equipment for Channel Foundations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-multitasking-made-simple-understanding-chrome-pip-integration/"><u>[Updated] Multitasking Made Simple Understanding Chrome PIP Integration</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-mobile-video-assembly-software-for-smartphones/"><u>2024 Approved Top Mobile Video Assembly Software for Smartphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-investigates-ai-enabled-domestic-robotics-with-upcoming-releases-insights-from-zdnet/"><u>Apple Investigates AI-Enabled Domestic Robotics with Upcoming Releases - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-you-struggling-with-blizzard-battlenet-understanding-the-difference-between-server-downtime-and-personal-connection-issues/"><u>Are You Struggling with Blizzard Battle.net? Understanding the Difference Between Server Downtime and Personal Connection Issues</u></a></li>
+<li><a href="https://discover-able.techidaily.com/como-cambiar-facilmente-tu-musica-o-videos-desde-formato-flac-a-mp4-gratis-usando-el-servicio-en-linea-de-movavi/"><u>Cómo Cambiar Fácilmente Tu Música O Vídeos Desde Formato FLAC a MP4 Gratis Usando El Servicio en Línea De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-utilizing-samsung-apps-on-your-television-set/"><u>Comprehensive Guide to Utilizing Samsung Apps on Your Television Set</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/customized-advertising-experience-with-cookiebot-technology/"><u>Customized Advertising Experience with Cookiebot Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enjoy-the-entire-transformers-movie-franchise-in-the-correct-sequence/"><u>How To Enjoy The Entire Transformers Movie Franchise In The Correct Sequence</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-oppo-a79-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Oppo A79 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/m4-mac-mini-preview-what-to-expect-in-price-release-dates-and-advanced-tech-details/"><u>M4 Mac Mini Preview: What to Expect in Price, Release Dates & Advanced Tech Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-your-pcs-power-management-with-windows-10s-built-in-battery-diagnostic-report/"><u>Mastering Your PC’s Power Management with Windows 10'S Built-In Battery Diagnostic Report</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/resolving-java-vulnerabilities-effective-strategies-and-tips-cyberguardian/"><u>Resolving Java Vulnerabilities: Effective Strategies and Tips | CyberGuardian</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/retro-movie-roundup-top-10-iconic-film-gems-of-the-80s-to-stream-today/"><u>Retro Movie Roundup: Top 10 Iconic Film Gems of the '80S to Stream Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-operating-your-meta-quest-audio-device/"><u>Step-by-Step Instructions: Operating Your Meta Quest Audio Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-imessage-for-android-users-a-comprehensive-guide/"><u>Unlock iMessage for Android Users: A Comprehensive Guide</u></a></li>
 </ul></div>
 

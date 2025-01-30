@@ -1,7 +1,7 @@
 ---
 title: "Business Edition Assessment: Unveiling the Capabilities of Microsoft Surface Pro 8 - Reviews by ZDNet"
-date: 2025-01-19T17:53:43.046Z
-updated: 2025-01-23T05:05:58.640Z
+date: 2025-01-27T17:10:10.107Z
+updated: 2025-01-30T17:20:42.968Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A new-look Surface… kind of
@@ -51,6 +51,10 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -74,6 +78,10 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -90,10 +98,6 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -103,7 +107,7 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -130,10 +134,6 @@ Speaking of which, I had the Pro 8 connected to a monitor for the majority of my
 The ability to connect a tablet to an external display and have it actually work how it's supposed to is a huge boost for my productivity. I was able to have apps like Slack and iCloud email open on the Pro 8's screen, while writing in iA Writer on the larger external monitor with multiple Edge tabs open. 
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -169,11 +169,11 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,20 +212,24 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-leveraging-full-motion-video-on-iphones/"><u>[New] 2024 Approved Leveraging Full Motion Video on iPhones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-worlds-finest-screen-recording-software-no-deadline/"><u>[New] 2024 Approved World's Finest Screen Recording Software (No Deadline)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-zoom-for-the-first-timer-easy-to-follow-guidelines/"><u>[New] In 2024, Zoom for the First Timer Easy-to-Follow Guidelines</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/access-insta-content-anonymously-a-guide-to-non-account-browsing/"><u>Access Insta-Content Anonymously: A Guide to Non-Account Browsing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-alarm-app-selection-a-list-of-the-7-highest-rated-options/"><u>Best Alarm App Selection: A List of the 7 Highest-Rated Options</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-to-the-anker-powerful-beam-lantern-rugged-adventure-gear/"><u>Comprehensive Guide to the Anker Powerful Beam Lantern: Rugged Adventure Gear</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-guide-to-boot-windows-10-on-your-recently-installed-hard-disk/"><u>Effortless Guide to Boot Windows 10 on Your Recently Installed Hard Disk</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-streaming-espnplus-on-your-lg-smart-television/"><u>Guide to Streaming ESPN+ on Your LG Smart Television</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-handle-and-fix-the-critical-process-died-error-on-windows-pcs/"><u>How to Correctly Handle and Fix the Critical Process Died Error on Windows PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-link-your-ps-vr-headset-to-a-laptop-or-desktop-computer-successfully/"><u>How To Link Your PS VR Headset to a Laptop or Desktop Computer Successfully</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-top-asmr-content-creators-on-youtube/"><u>In 2024, Top ASMR Content Creators on YouTube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-x-year-phone-photoshoot-oldiphone-x-edition/"><u>In 2024, X-Year Phone Photoshoot – OldiPhone X Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-combat-against-lynels-in-the-legend-of-zelda-breath-of-the-wild/"><u>Mastering Combat Against Lynels in The Legend of Zelda: Breath of the Wild</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-future-of-home-audio-unveiled-klipschs-flexus-200/"><u>The Future of Home Audio Unveiled: Klipsch's Flexus 200</u></a></li>
-<li><a href="https://extra-information.techidaily.com/zippy-zeal-in-zoom-outs-adding-text-movement-on-stories/"><u>Zippy Zeal in Zoom-Outs Adding Text Movement on Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-15-revolutionary-metaverse-ventures-explored/"><u>[New] 15 Revolutionary Metaverse Ventures Explored</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-expert-tips-for-selecting-lenses-as-a-video-blogger/"><u>[Updated] 2024 Approved Expert Tips for Selecting Lenses as a Video Blogger</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-complete-story-of-facetune-from-picture-to-paradise/"><u>[Updated] 2024 Approved The Complete Story of Facetune From Picture to Paradise</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1-top-5-methods-to-transform-avi-files-into-high-quality-mkv-format/"><u>1. Top 5 Methods to Transform AVI Files Into High-Quality MKV Format</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722884770080-a-complete-guide-to-interpreting-your-windows-10-battery-status-report/"><u>A Complete Guide to Interpreting Your Windows 10 Battery Status Report</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/capture-the-moment-the-hottest-tiktok-trends-to-embrace-top-10-for-2024/"><u>Capture the Moment The Hottest TikTok Trends to Embrace (Top 10) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategy-to-erase-all-correspondences-via-gmails-handy-mobile-app/"><u>Comprehensive Strategy to Erase All Correspondences via Gmail's Handy Mobile App</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/future-ready-education-identifying-the-ers-best-cities-to-visit-new-york-paris-and-tokyo/"><u>Future-Ready Education: Identifying the Er's Best Cities to Visit - New York, Paris, and Tokyo</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-can-you-legally-download-netflix-titles-for-offline-viewing-on-a-laptop/"><u>How Can You Legally Download Netflix Titles for Offline Viewing on a Laptop?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-optimal-steadicam-devices-for-professional-drone-cinematography/"><u>In 2024, Optimal Steadicam Devices for Professional Drone Cinematography</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-summers-best-10-nostalgic-films-for-the-whole-family/"><u>In 2024, Summer's Best 10 Nostalgic Films for the Whole Family</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pc-gamers-handbook-for-becoming-a-pro-in-pokemon-unite/"><u>PC Gamer's Handbook for Becoming a Pro in Pokémon Unite</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-kids-online-experience-limiting-youtube-usage-on-an-ipad/"><u>Secure Your Kids' Online Experience: Limiting YouTube Usage on an iPad</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-latest-update-makes-data-retrieval-effortless-for-users-breaking-news/"><u>Stellar's Latest Update Makes Data Retrieval Effortless for Users - Breaking News!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-basics-of-dts-play-fi-technology-explained/"><u>The Basics of DTS Play-Fi Technology Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-best-free-racing-games-without-internet-play-anywhere/"><u>Top 5 Best Free Racing Games Without Internet | Play Anywhere!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-iphone-calls-that-dont-sound-alarm-tips-and-solutions/"><u>Troubleshooting iPhone Calls That Don't Sound Alarm - Tips & Solutions</u></a></li>
 </ul></div>
 

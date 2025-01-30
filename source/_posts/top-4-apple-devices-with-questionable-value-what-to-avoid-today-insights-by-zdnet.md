@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights by ZDNet"
-date: 2025-01-21T02:10:20.071Z
-updated: 2025-01-23T06:55:09.340Z
+date: 2025-01-24T18:11:45.304Z
+updated: 2025-01-30T18:54:31.747Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ Beyond that, Apple's lineup seems pretty strong, from the [M3 MacBook Air system
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **The 'Naughty' list**
 
 Don't buy these devices:
@@ -61,10 +57,14 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The 'Nice' list**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
@@ -75,10 +75,6 @@ Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Apple Watch Series 10**
 
 Apple Watch Series 10
@@ -86,6 +82,10 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -116,7 +116,7 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
@@ -133,6 +133,10 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 **Also: [M3 MacBook Pro buying advice: Who it's really for (and who should stick with M2 MacBook Air)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/)**
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Apple's 24-inch iMac**
 
@@ -169,10 +173,6 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 **Also: [Apple AirPods Pro (2nd Gen) review: Two major upgrades, tamed by one familiar flaw](https://www.zdnet.com/article/apple-airpods-pro-2-review/)**
 
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple AirTag**
 
@@ -214,22 +214,24 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-blending-past-memories-with-instagrams-vivid-filters/"><u>[New] In 2024, Blending Past Memories with Instagram's Vivid Filters</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-step-into-the-world-of-text-animation-14-must-see-examples/"><u>[New] In 2024, Step Into the World of Text Animation 14 Must-See Examples</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/capturing-online-broadcasts-with-quality-audio-the-leading-5-techniques/"><u>Capturing Online Broadcasts with Quality Audio: The Leading 5 Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-most-advanced-and-sleek-ceiling-audio-innovations-available-in-cuy-24/"><u>Discover the Most Advanced and Sleek Ceiling Audio Innovations Available in Cuy-24</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enjoy-cinema-on-the-go-12-free-streaming-services-app-list/"><u>Enjoy Cinema on the Go: 12 Free Streaming Services App List</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-unsyncing-icloud-photos-7-tips-for-iphone-users/"><u>Fix Unsyncing iCloud Photos: 7 Tips for iPhone Users</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-download-essential-software-for-your-logitech-k400-plus-wireless-combo-keyboard/"><u>Free Download: Essential Software for Your Logitech K400 Plus Wireless Combo Keyboard</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guide-pour-la-restauration-de-fichiers-effaces-ou-perdus-sur-clip-studio-paint-les-etapes-a-suivre/"><u>Guide Pour La Restauration De Fichiers Effacés Ou Perdus Sur Clip Studio Paint : Les Étapes À Suivre !</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-do-electric-cars-handle-extremely-low-or-high-temperatures/"><u>How Do Electric Cars Handle Extremely Low or High Temperatures?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-insider-insights-unpacking-the-dji-phantom-3-pro-features/"><u>In 2024, Insider Insights Unpacking the DJI Phantom 3 Pro Features</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-proven-winners-selecting-the-best-hdr-cameras/"><u>In 2024, Proven Winners Selecting the Best HDR Cameras</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-xbox-one-audio-issues-a-complete-guide-to-fixing-rust-stereo-mic-problems/"><u>Mastering Xbox One Audio Issues: A Complete Guide to Fixing Rust Stereo Mic Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-when-your-zoom-video-feature-fails-to-start/"><u>Step-by-Step Solutions When Your Zoom Video Feature Fails to Start</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-delicious-tv-top-10-netflix-cooking-show-picks/"><u>The Ultimate Guide to Delicious TV: Top 10 Netflix Cooking Show Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tutorial-for-switching-onoff-screen-keyboard-feature-on-microsofts-latest-os/"><u>Tutorial for Switching On/Off Screen Keyboard Feature on Microsoft's Latest OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-on-how-to-pair-your-ps4-gamepad/"><u>Ultimate Tutorial on How to Pair Your PS4 Gamepad</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wpcapsddll-file-errors-understanding-and-solving-the-issue/"><u>Wpcapsd.dll File Errors: Understanding and Solving the Issue</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-beatbox-your-way-up-the-ultimate-guide-for-top-10-music-vids-for-2024/"><u>[New] BeatBox Your Way Up The Ultimate Guide for Top 10 Music Vids for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-huawei-mate-and-p-series-phones-activating-built-in-recorders-for-screen-capture/"><u>[New] In 2024, Huawei Mate and P Series Phones Activating Built-In Recorders for Screen Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-influence-of-thumbnail-size-on-viewership-numbers/"><u>[New] The Influence of Thumbnail Size on Viewership Numbers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-world-through-your-lens-how-to-become-a-professional-travel-vlogger/"><u>[New] Unveiling the World Through Your Lens How To Become A Professional Travel Vlogger</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-come-recuperare-le-foto-di-sistema-dal-tuo-disco-rigido-esterno/"><u>1. Come Recuperare Le Foto Di Sistema Dal Tuo Disco Rigido Esterno?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-eliminating-lag-on-logitech-computer-devices/"><u>A Comprehensive Guide to Eliminating Lag on Logitech Computer Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-scrutiny-of-xstream-video-hubs-features/"><u>Comprehensive Scrutiny of XStream Video Hub's Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-to-follow-instructions-for-setting-up-a-dual-monitor-system-on-your-windows-7-pc/"><u>Easy-to-Follow Instructions for Setting Up a Dual Monitor System on Your Windows 7 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-top-5-favorite-vpns-for-optimizing-your-youtube-viewing-experience/"><u>Explore Our Top 5 Favorite VPNs for Optimizing Your YouTube Viewing Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-high-resource-consumption-by-compattelrunnerexe-on-pcs-running-win-10-and-7/"><u>Fixing High Resource Consumption by CompatTelRunner.exe on PCs Running Win 10 and 7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-get-permission-from-trustedinstaller-in-windows-11/"><u>How to Get Permission From TrustedInstaller in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-launch-microsoft-outlook-in-safe-mode-on-windows-10-a-step-by-step-guide-with-visuals/"><u>How to Launch Microsoft Outlook in Safe Mode on Windows 10: A Step-by-Step Guide with Visuals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-your-nvidia-gpu-with-new-drivers-made-for-windows-11-a-hassle-free-tutorial/"><u>How to Upgrade Your NVIDIA GPU with New Drivers Made for Windows 11: A Hassle-Free Tutorial</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/identifying-and-fixing-issues-with-non-responsive-graphics-cards-expert-advice-from-yl-software/"><u>Identifying and Fixing Issues with Non-Responsive Graphics Cards - Expert Advice From YL Software</u></a></li>
+<li><a href="https://network-issues.techidaily.com/kratos-fixed-enhanced-combat-flow/"><u>Kratos Fixed: Enhanced Combat Flow</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimizing-system-performance-managing-antimalware-service-executable-cpu-usage-in-windows-1110/"><u>Optimizing System Performance: Managing 'Antimalware Service Executable' CPU Usage in Windows 11/10</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/restoring-disconnected-devices-in-windows-11-simple-steps-to-reconnection/"><u>Restoring Disconnected Devices in Windows 11 - Simple Steps to Reconnection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-places-to-catch-professional-sports-events-for-free/"><u>The Best Places to Catch Professional Sports Events for Free</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-mastering-entryexit-from-iphone-recovery-modes/"><u>Unlock the Secrets: Mastering Entry/Exit From iPhone Recovery Modes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Use External Graphics Card for Your Laptop [EASILY]
-date: 2024-08-19T12:54:21.226Z
-updated: 2024-08-20T12:54:21.226Z
+date: 2025-01-27T16:19:13.246Z
+updated: 2025-01-30T20:52:45.171Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 2. [**Connect your Bluetooth speaker to your laptop**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Bonus tip: Update your Bluetooth driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Check your laptop Bluetooth settings
 
  All the screenshots shown below are from Windows 10, but the steps work in Windows 7 too.
@@ -39,6 +43,10 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2935c0967f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) The**Bluetooth Network Connection** shows you have Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2cc5bce058.png)
@@ -49,9 +57,6 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
  Don’t worry if you don’t see**Bluetooth Network Connection** . You can buy a USB Bluetooth receiver and plug it in any free USB port on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Connect your Bluetooth speaker to your laptop
 
  Make sure your Bluetooth speaker is within the right distance (typically around 10 meters) from your laptop. Then click the link below that applies to you, to scroll to the instructions for your operating system.
@@ -69,23 +74,14 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2c70ceeef6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Make sure the switch says**On** (if it says**Off** , click the switch). Click**Add Bluetooth or other device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae29a09682bc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Select**Bluetooth** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae29a7f03edd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  5) Click the name of your speaker, and then click **Pair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2fe00df014.jpg)
@@ -102,12 +98,13 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2ca246b1f3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the name of your speaker and click**Next** .
 
  The two devices should have connected successfully. You might also need to follow the on-screen instructions to complete the pairing process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip: Update your Bluetooth driver
 
@@ -124,11 +121,16 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update**   to do it for free if you like, but it’s partly manual.
 
@@ -155,8 +157,6 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +164,20 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-elevate-facebook-videos-with-synchronized-musical-charm/"><u>[New] 2024 Approved Elevate Facebook Videos with Synchronized Musical Charm</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-techniques-for-ensuring-quality-screen-recording-in-facetime-chats/"><u>[New] Techniques for Ensuring Quality Screen-Recording in FaceTime Chats</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unlocking-secrets-for-superior-asmr-viewing/"><u>[Updated] 2024 Approved Unlocking Secrets for Superior ASMR Viewing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-three-methods-to-capture-youtube-images-for-macwindows-users/"><u>2024 Approved Three Methods to Capture YouTube Images for Mac/Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-eyes-on-apple-watch-x-projections-for-pricing-arrival-dates-and-feature-breakdown-in-latest-speculations/"><u>All Eyes on Apple Watch X: Projections for Pricing, Arrival Dates & Feature Breakdown in Latest Speculations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-productivity-in-microsoft-teams-with-cutting-edge-ai-assistant-copilot/"><u>Boosting Productivity in Microsoft Teams with Cutting-Edge AI Assistant Copilot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-your-tech-syncing-chromecast-streams-with-your-amazon-fire-tv-stick/"><u>Connect Your Tech: Syncing Chromecast Streams with Your Amazon Fire TV Stick</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/crunch-time-cinema-discover-the-greatest-sports-movies-available-now/"><u>Crunch Time Cinema: Discover the Greatest Sports Movies Available Now</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-windows-10-history-trail-for-users/"><u>Deciphering Windows 10 History Trail for Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-audio-fusion-a-stepwise-approach-to-incorporating-srt-into-mp4s/"><u>In 2024, Master Audio Fusion A Stepwise Approach to Incorporating SRT Into MP4s</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-process-of-finding-iphone-owners-location-respectfully/"><u>Navigating the Process of Finding iPhone Owner’s Location Respectfully</u></a></li>
+<li><a href="https://blog-min.techidaily.com/trasforma-file-audio-aac-in-formato-m4r-online-e-gratuitamente-con-movavi/"><u>Trasforma File Audio AAC in Formato M4R Online E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-mastering-the-art-of-screenshots-on-xbox-one/"><u>Ultimate Tutorial: Mastering the Art of Screenshots on Xbox One</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: How To Locate Others On macOS Safely and Why It's Essential | Digital Strategies Blog"
-date: 2025-01-21T19:23:47.709Z
-updated: 2025-01-23T01:46:31.390Z
+date: 2025-01-23T17:54:57.964Z
+updated: 2025-01-30T20:47:06.360Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,21 +129,17 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-guide-to-profit-sharing-for-creators-of-video-clips/"><u>[Updated] 2024 Approved A Guide to Profit Sharing for Creators of Video Clips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-multimedia-hub-get-your-hands-on-the-13-in-1-docking-station-with-two-4k-hdmi-ports-for-only-49-explore-more-at-zdnet/"><u>Affordable Multimedia Hub: Get Your Hands on the 13-in-1 Docking Station with Two 4K HDMI Ports for Only $49 - Explore More at ZDNet!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/amend-wrecked-ogg-gif-video-files/"><u>Amend Wrecked Ogg, GIF Video Files</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/chromecast-silence-solution-fixing-the-absence-of-sound-issues/"><u>Chromecast Silence Solution: Fixing the Absence of Sound Issues</u></a></li>
-<li><a href="https://win-bits.techidaily.com/evaluating-graphics-card-performance-under-windows-os-tips-from-yl-software-experts/"><u>Evaluating Graphics Card Performance Under Windows OS: Tips From YL Software Experts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-all-facets-of-netflixs-online-content-delivery-network/"><u>Exploring All Facets of Netflix's Online Content Delivery Network</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-differences-between-ipad-mini-and-ipad-air-models/"><u>Exploring the Differences Between IPad Mini and iPad Air Models</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-enable-echo-dot-connectivity-starting-the-setup-process/"><u>How to Enable Echo Dot Connectivity: Starting the Setup Process</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-s18e-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo S18e FRP</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-tricks-to-improve-mobile-streaming-quality-on-chrome-browser/"><u>In 2024, Tricks to Improve Mobile Streaming Quality on Chrome Browser</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-youtube-settings-to-eliminate-video-skips/"><u>Mastering YouTube Settings to Eliminate Video Skips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revive-your-locked-ipad-methods-to-retrieve-or-reset-passcode/"><u>Revive Your Locked iPad: Methods to Retrieve or Reset Passcode</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/snappy-fortnite-visuals-in-no-time-for-2024/"><u>Snappy Fortnite Visuals in No Time for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-accessing-snapchat-via-your-computer/"><u>Step-by-Step Guide: Accessing Snapchat via Your Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transform-your-computer-into-a-social-hub-with-our-expert-tips-on-pc-based-snapchat-usage/"><u>Transform Your Computer Into a Social Hub with Our Expert Tips on PC-Based Snapchat Usage</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-conquer-youtube-searches-with-these-top-11-seo-strategies/"><u>[New] 2024 Approved Conquer YouTube Searches with These Top 11 SEO Strategies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-guide-to-youtube-fame-with-spectacular-music-videos/"><u>[New] In 2024, The Ultimate Guide to YouTube Fame with Spectacular Music Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-iphones-video-reduction-and-adjustment-tools/"><u>[Updated] Mastering iPhone's Video Reduction and Adjustment Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elite-collection-of-mobile-gaming-apps-you-cant-miss/"><u>Elite Collection of Mobile Gaming Apps You Can't Miss</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722845005228-google-pixel-9-unveiled-get-the-scoop-on-estimated-price-launch-date-and-hardware-specs-rumor-mill-alert/"><u>Google Pixel 9 Unveiled: Get the Scoop on Estimated Price, Launch Date & Hardware Specs - Rumor Mill Alert!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-your-content-writability-with-these-best-fonts/"><u>In 2024, Elevate Your Content' Writability with These Best Fonts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-for-windows-update-error-0x80073712/"><u>Quick Fix for Windows Update: Error 0X80073712</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roku-anywhere-ideal-appliances-and-tricks-for-school-lodgings-and-accommodations/"><u>Roku Anywhere: Ideal Appliances & Tricks for School Lodgings & Accommodations</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-your-digital-life-on-a-mac-a-deep-dive-into-hdd-encryption-and-rescue-procedures/"><u>Secure Your Digital Life on a Mac - A Deep Dive Into HDD Encryption & Rescue Procedures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-20-effective-chatgpt-prompt-examples-from-github/"><u>Top 20 Effective ChatGPT Prompt Examples From GitHub</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-resolving-the-504-gateway-timeout-issue/"><u>Troubleshooting Steps: Resolving the 504 Gateway Timeout Issue</u></a></li>
 </ul></div>
 
