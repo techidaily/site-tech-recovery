@@ -1,7 +1,7 @@
 ---
 title: Master Organization with These Exceptional Note-Taking Tools
-date: 2024-08-12T04:10:57.727Z
-updated: 2024-08-13T04:10:57.727Z
+date: 2025-02-07T05:27:09.995Z
+updated: 2025-02-11T16:33:11.362Z
 categories:
   - BestProducts
 description: This Article Describes Master Organization with These Exceptional Note-Taking Tools
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/jbUapkFnTHmD406yiIzXFrcNQAk=/400x300/fi
 
  Instructions in this article apply to Minecraft for all platforms including Windows, PS4, and Xbox One.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make an Awkward Potion in Minecraft
 
  Follow these steps to collect the materials and craft an Awkward Potion in Minecraft.  
@@ -23,39 +27,36 @@ thumbnail: https://www.lifewire.com/thmb/jbUapkFnTHmD406yiIzXFrcNQAk=/400x300/fi
 2. Make a**Crafting Table** with 4 wood planks. Any type of plank (**Warped Planks** , **Crimson Planks** , etc.) will do.  
 ![Make a Crafting Table with 4 wood planks.](https://www.lifewire.com/thmb/FrhprZpyD-UmvnQ8_WU_j2ywbTM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2b6becda954b4f6ca22144303a9d7a30.jpg)
 3. Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.  
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.](https://www.lifewire.com/thmb/_KMBsLRFlAKz_Vsv7IDm4NPdlsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-7747868208ee4f78a3588c8c7f34ed57.jpg)
 4. Craft a **Brewing Stand** . Put**1** **Blaze Rod** in the middle of the top row, then put **3 Cobblestones** in the middle row.  
 ![Put 1 Blaze Rod in the middle of the top row, then put 3 Cobblestones in the middle row.](https://www.lifewire.com/thmb/xhvaykHAzNU4zphBdJKIhTqT72A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-ca12414471df435c88e8e25d694c853e.jpg)
 5. Place the **Brewing Stand** on the ground and interact with it to bring up the brewing menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Place the Brewing Stand on the ground and interact with it to bring up the brewing menu.](https://www.lifewire.com/thmb/YfgJEhKKlkc-7vyOQvB0NpYmHxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-76b8ca6ad2c04b3c95e6a7c15bb0f401.jpg)
 6. Add**1** **Blaze Powder** to the box in the upper-left corner of the brewing menu to activate the **Brewing Stand** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add 1 Blaze Powder to the box in the upper-left corner to activate the Brewing Stand.](https://www.lifewire.com/thmb/ePA5ABxVZJ_IXRMUbvCLECLQryw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-132e911c37704b818f71e52c2a4c2b6e.jpg)
 7. Put a **Water Bottle** in one of the three boxes at the bottom of the brewing menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Add the Water Bottle to one of the three boxes at the bottom of the brewing menu.](https://www.lifewire.com/thmb/XN8yw9gjspE70SuTZBbP7LahfTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-483d26234f9a46d49dcc4cb51bdc1556.jpg)  
  Make up-to three potions at once by putting Water Bottles in the other bottom boxes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Put**1 Nether Wart** in the box at the top of the brewing menu.  
 ![Put 1 Nether Wart in the box at the top of the brewing menu.](https://www.lifewire.com/thmb/MjgshJ6DqtRW1P8bW7GvdnTRDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-7bb3bff99f2d4daebf1c93c83857ae01.jpg)
 9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Awkward Potion Recipe  
 
  Here are the materials required to brew an Awkward Potion in Minecraft:  
@@ -65,6 +66,10 @@ thumbnail: https://www.lifewire.com/thmb/jbUapkFnTHmD406yiIzXFrcNQAk=/400x300/fi
 * 1 Blaze Powder (craft with 1 Blaze Rod)  
 * 1 Water Bottle  
 * 1 Nether Wart  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Does an Awkward Potion Do in Minecraft?  
 
@@ -103,8 +108,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +115,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-expert-strategy-for-intertwining-gopro-footage-in-full-circle-cinematographic-works/"><u>[New] In 2024, Expert Strategy for Intertwining GoPro Footage in Full-Circle Cinematographic Works</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-rx-heritage-bundle/"><u>[Updated] 2024 Approved RX Heritage Bundle</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-smart-strategies-for-itunes-video-logging/"><u>[Updated] 2024 Approved The Smart Strategies for iTunes Video Logging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-does-rapid-subscription-improve-video-watching-for-2024/"><u>[Updated] Does Rapid Subscription Improve Video Watching for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-social-blade-the-comprehensive-guide-to-youtube-performance-tracking/"><u>2024 Approved Social Blade The Comprehensive Guide to YouTube Performance Tracking</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/contributions-by-all-departmental-staff-on-movie-sets-for-2024/"><u>Contributions by All Departmental Staff on Movie Sets for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/idos-3-the-latest-dos-emulation-software-now-available-on-apples-app-store/"><u>IDOS 3: The Latest DOS Emulation Software Now Available on Apple's App Store</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-explosive-growth-video-expectations-sky-high-views/"><u>In 2024, Explosive Growth Video Expectations Sky-High Views</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/most-anticipated-ios-18-benefit-for-dedicated-android-devotees/"><u>Most Anticipated iOS 18 Benefit for Dedicated Android Devotees</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/my-reasons-for-choosing-the-light-phone-3-the-ultimate-minimalist-smartphone-with-unique-design/"><u>My Reasons for Choosing the Light Phone 3: The Ultimate Minimalist Smartphone with Unique Design</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/outdated-phones-cant-support-android-auto-a-look-at-compatibility-changes/"><u>Outdated Phones Can't Support Android Auto: A Look at Compatibility Changes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-technical-glitches-in-far-cry-6-on-pc-expert-tips-and-solutions-applied/"><u>Overcome Technical Glitches in Far Cry 6 on PC - Expert Tips and Solutions Applied</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revival-of-total-wireless-introducing-budget-friendly-5g-options/"><u>Revival of Total Wireless: Introducing Budget-Friendly 5G Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/risks-of-performing-a-factory-reset-on-your-pixel/"><u>Risks of Performing a Factory Reset on Your Pixel</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-androids-mobile-data-problem-8-expert-tips-for-a-quick-resolution/"><u>Troubleshooting Android's Mobile Data Problem: 8 Expert Tips for a Quick Resolution</u></a></li>
+</ul></div>
 

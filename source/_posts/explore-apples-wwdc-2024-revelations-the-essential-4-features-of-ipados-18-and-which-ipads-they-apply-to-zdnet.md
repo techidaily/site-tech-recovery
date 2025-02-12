@@ -1,7 +1,7 @@
 ---
 title: "Explore Apple's WWDC 2024 Revelations: The Essential 4 Features of iPadOS 18 & Which iPads They Apply To | ZDNET"
-date: 2025-01-24T17:53:35.844Z
-updated: 2025-01-30T19:37:28.153Z
+date: 2025-02-09T20:58:19.093Z
+updated: 2025-02-11T19:37:29.274Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. AI all around
@@ -55,7 +55,7 @@ For one, Apple is planning to offer AI-generated emojis that show up in text mes
 Here's the big question: Which AI provider will Apple partner with to power [iOS 18's AI features](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/)? Some reports have said that Apple is nearing a deal with OpenAI; other reports have suggested the iPhone maker is also talking to Google about using Gemini, as well as to Anthropic. Which provider Apple chooses could significantly impact how AI features work in iOS 18.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Serious customization
@@ -65,7 +65,7 @@ One of the hallmarks of Apple's design philosophy over the years has centered on
 According to Gurman's sources, [Apple will allow full iOS 18 customization this year](https://www.zdnet.com/article/apple-is-finally-adding-an-ios-home-screen-feature-that-android-has-had-for-15-years/). The feature would enable you to change the colors of app icons and -- perhaps most remarkably -- to ditch the grid layout of apps in favor of a free form option of your choosing. Apple's iOS has lagged behind Google's Android in enabling home screen customization, so it's nice to see the company consider opening things up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. RCS
@@ -77,7 +77,7 @@ Although it's already been announced, Apple this year [will adopt](https://www.z
 Apple said earlier this year that it would launch RCS support for Android communication later in 2024\. Chances are, it'll launch on iOS 18, and finally, communicating with Android users will be streamlined for iPhone users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. An Apple Maps boost
@@ -87,7 +87,7 @@ According to several reports, Apple is planning a pretty big update to Apple Map
 For one, Apple is reportedly planning to offer users the opportunity to create custom routes, so they can decide for themselves if they want to take the scenic route or try to get to their destination in the fastest time possible. The company may also add a topographical mapping feature, but it's the ability to create a custom route -- a feature Google Maps has long offered -- that could be the most compelling improvement.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Smart Recaps, anyone?
@@ -128,18 +128,22 @@ In iOS 18, Apple is trying to address that with a rumored Smart Recaps feature. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-discovering-free-srt-excellence-our-top-8-picks-for-2024/"><u>[New] Discovering Free SRT Excellence Our Top 8 Picks for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/automate-email-attachment-openness-ms-word-read-mode-only/"><u>Automate Email Attachment Openness: MS Word Read Mode Only</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/captivating-your-curbsides-glow-inside-your-house/"><u>Captivating Your Curbside's Glow Inside Your House</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-correct-that-mia-d3dx9-library-problem-once-and-for-all/"><u>DIY: Correct That MIA D3DX9 Library Problem Once and For All</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fire-stick-and-mobile-hotspots-made-easy-a-step-by-step-guide/"><u>Fire Stick and Mobile Hotspots Made Easy: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-xr-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XR to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-stability-how-to-fix-continuous-crashes-of-necromunda-on-windows/"><u>Mastering Stability: How to Fix Continuous Crashes of Necromunda on Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-the-absent-msvcr80dll-step-by-step-guide/"><u>Solving the Mystery of the Absent msvcr80.dll: Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-creating-a-pdf-from-assorted-jpeg-photos/"><u>Step-by-Step Tutorial on Creating a PDF From Assorted JPEG Photos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-no-cost-driver-renewal-applications-july-2024-edition/"><u>The Ultimate List of No-Cost Driver Renewal Applications - July 2024 Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlock-iphone-photo-potential-with-leading-line-techniques/"><u>Unlock iPhone Photo Potential with Leading Line Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-location-precision-with-google-maps-live-view-a-beginners-guide/"><u>Unlocking Location Precision with Google Maps Live View - A Beginner's Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-6-ways-to-screen-record-netflix-on-mac/"><u>[New] 2024 Approved 6 Ways to Screen Record Netflix on Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-filmmakers-handbook-building-effective-luts/"><u>[New] A Filmmaker's Handbook Building Effective LUTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-toolwiz-photography-companion-a-thorough-2023-breakdown/"><u>[New] Toolwiz Photography Companion A Thorough 2023 Breakdown</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-stabilized-mobile-shooting-with-precision-mounts/"><u>[Updated] 2024 Approved Stabilized Mobile Shooting with Precision Mounts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-tech-support-resolving-problems-with-unresponsive-samsung-smart-television-applications/"><u>DIY Tech Support: Resolving Problems with Unresponsive Samsung Smart Television Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-snaps-expert-advice-on-finding-the-ultimate-camera-arm-companion/"><u>Elevate Your Snaps: Expert Advice on Finding the Ultimate Camera-Arm Companion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-novice-to-pro-a-beginners-roadmap-to-playing-pokemon-unite-on-pc/"><u>From Novice to Pro: A Beginner's Roadmap to Playing Pokémon Unite on PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-m6-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco M6 5G Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nubia-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nubia</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-show-and-hide-the-on-screen-keyboard-feature-in-windows-11/"><u>Mastering the Art of Show and Hide: The On-Screen Keyboard Feature in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimizing-pc-control-a-step-by-step-guide-to-leveraging-the-google-home-mobile-interface-on-desktop-systems/"><u>Optimizing PC Control: A Step-by-Step Guide to Leveraging the Google Home Mobile Interface on Desktop Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/risks-of-crafting-windows-11-keys-via-ai-bots/"><u>Risks of Crafting Windows 11 Keys via AI Bots</u></a></li>
+<li><a href="https://techtrends.techidaily.com/score-an-amazing-bang-for-a-cent-iphone-15-pro-max-on-amazon-exclusive-details-inside-tech-bargains-uncovered/"><u>Score an Amazing Bang-for-a-Cent iPhone 15 Pro Max on Amazon: Exclusive Details Inside | Tech Bargains Uncovered</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamlessly-integrating-airpods-into-your-macbook-air-experience/"><u>Seamlessly Integrating AirPods Into Your MacBook Air Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-psn-account-securely/"><u>Step-by-Step Guide: Setting Up Your PSN Account Securely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-unanticipated-error-messages-in-wins-secure/"><u>Tackling Unanticipated Error Messages in WINS Secure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unboxing-samsungs-latest-innovation-the-galaxy-z-fold-series-6-pricing-details-and-release-schedule-revealed/"><u>Unboxing Samsung's Latest Innovation - The Galaxy Z Fold Series 6: Pricing Details and Release Schedule Revealed</u></a></li>
 </ul></div>
 

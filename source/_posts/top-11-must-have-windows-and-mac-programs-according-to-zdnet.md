@@ -1,7 +1,7 @@
 ---
 title: Top 11 Must-Have Windows & Mac Programs According to ZDNet
-date: 2025-01-27T19:01:12.182Z
-updated: 2025-01-30T19:47:48.088Z
+date: 2025-02-10T09:25:22.204Z
+updated: 2025-02-12T02:49:25.733Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ Show less
 [View now at Microsoft](https://microsoft-us.evyy.net/c/159047/434427/3327?u=https://www.microsoft.com/en-us/microsoft-365/business//&subid1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&sharedId=zdnet)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft 365 apps for Business
@@ -54,14 +54,10 @@ Show less
 
 [View now at Tweeten](https://tweetenapp.com/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tweeten
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It's TweetDeck on steroids
@@ -77,6 +73,10 @@ Show less
 [View now at OneNote](https://www.onenote.com/)
 
 ## OneNote
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### An infinitely expandable notebook
 
@@ -106,11 +106,11 @@ Show less
 
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
-## Quicken Home and Business
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Quicken Home and Business
 
 ### I hate it, but I use it
 
@@ -119,10 +119,6 @@ A gazillion years ago, a famous household brand sold a lot of mouthwash with ads
 The good news is that Quicken's support staff is responsive and knowledgeable, and the user base is so large that you can quickly find an answer if you run into one of those quarterly bugs. And the $104-a-year subscription is tax-deductible.
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Browser and extensions
 
@@ -146,10 +142,6 @@ Show less
 
 ## 1Password
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Everyone needs a password manager
 
 When I set up a new PC, Mac, or mobile device, the first thing I install, without exception, is the 1Password browser extension. (For a full review, see: [1Password: My favorite password manager is an essential security tool.](https://www.zdnet.com/article/1password-my-favorite-password-manager-is-an-essential-security-tool/)) It has every feature you expect from this class of software, including a robust password generator that can create and save truly random, unguessable credentials, as well as support for two-factor authentication. My family plan costs $5 a month and makes it easy to share credentials for online services with my wife.
@@ -162,10 +154,14 @@ Show less
 
 [View now at Workona](https://workona.com/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Workona
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The cleanest way to organize browser tabs
@@ -181,6 +177,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Spotify Music
 
@@ -198,10 +198,6 @@ Show less
 
 ## VLC Media Player
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Free, open source, handles every format imaginable
 
 This free, open source tool has been around forever. (I wrote about it nearly a decade ago, when it was the best [free alternative DVD player](https://www.zdnet.com/article/if-vlc-can-ship-a-free-dvd-player-why-cant-microsoft/) on the market.) It plays just about every media format (including Blu-ray discs), it doesn't require downloading dodgy codec packs to work, and it runs on every conceivable platform. On Windows 10, make sure to install the [full Windows package](http://www.videolan.org/vlc/download-windows.html), not the limited-feature variant in the Windows Store.
@@ -212,10 +208,14 @@ Show less
 
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MediaMonkey
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A Swiss Army knife for digital media
@@ -256,16 +256,24 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-boosting-tiktok-engagement-using-zoom-features/"><u>[Updated] Boosting TikTok Engagement Using Zoom Features</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-revive-missing-fb-watch-icon-solutions/"><u>2024 Approved Revive Missing FB Watch Icon - Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/cutthroat-countdown-best-zombies-in-gaming-unveiled-for-2024/"><u>Cutthroat Countdown Best Zombies In Gaming Unveiled for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-correcting-binkw32dll-is-absent-system-messages-effectively/"><u>Guide to Correcting 'binkw32.dll Is Absent' System Messages Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-discover-whose-fingers-gave-love-to-your-insta-pic/"><u>How to Discover Whose Fingers Gave Love to Your Insta-Pic?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-facebook-cover-videos-tips-and-configuration-guide/"><u>In 2024, Mastering Facebook Cover Videos Tips & Configuration Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-iphone-picture-crop-with-ios-16-a-step-by-step-guide/"><u>Mastering the Art of iPhone Picture Crop with iOS 16: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stream-ultra-realistic-3d-movies-with-ease-through-your-home-device-via-fandango/"><u>Stream Ultra-Realistic 3D Movies with Ease Through Your Home Device via Fandango</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-hdr-tutorial-for-exceptional-portraits/"><u>The Ultimate HDR Tutorial for Exceptional Portraits</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/top-8-3d-websites-with-stunning-gold-text-visuals/"><u>Top 8 3D Websites with Stunning Gold Text Visuals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-video-communication-tools-list/"><u>[New] Essential Video Communication Tools List</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722862316820-2024s-elite-list-of-8-premium-parental-supervision-services-revealed-here/"><u>2024'S Elite List of 8 Premium Parental Supervision Services Revealed Here!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-and-amusement-can-artifice-intelligence-like-chatgpt-truly-make-us-rofl/"><u>AI and Amusement: Can Artifice Intelligence Like ChatGPT Truly Make Us ROFL?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amazon-prime-video-and-the-simple-process-of-subtitle-removal/"><u>Amazon Prime Video and the Simple Process of Subtitle Removal</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/eliminating-the-apple-security-warning-hoax-a-step-by-step-guide-by-malwarefox/"><u>Eliminating the Apple Security Warning Hoax: A Step-by-Step Guide by MalwareFox</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-criteria-for-selecting-an-optimal-gaming-machine/"><u>Essential Criteria for Selecting an Optimal Gaming Machine</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-repair-steps-for-when-microsoft-outlook-fails-to-connect/"><u>Expert Advice: Repair Steps for When Microsoft Outlook Fails to Connect</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722863728169-expert-analysis-of-western-digital-data-lifeguard-a-comprehensive-software-diagnostics-review/"><u>Expert Analysis of Western Digital Data Lifeguard: A Comprehensive Software Diagnostics Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/get-ready-to-download-best-ios-apps-transforming-fb-videos-for-2024/"><u>Get Ready to Download Best iOS Apps Transforming FB Videos for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-12-prowindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone 12 Pro/Windows/Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enable-gmail-for-seamless-communication-via-apple-watch/"><u>How To Enable Gmail for Seamless Communication via Apple Watch</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-y100i-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y100i Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionize-your-videos-with-top-10-free-srt-converters/"><u>In 2024, Revolutionize Your Videos with Top 10 Free SRT Converters</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-nokia-xr21-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Nokia XR21</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-mapi32dll-file-not-found-comprehensive-troubleshooting-guide/"><u>Resolving 'Mapi32.dll' File Not Found: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722869732105-solve-your-steam-dilemma-resolving-missing-dll-files-quickly/"><u>Solve Your Steam Dilemma: Resolving Missing .dll Files Quickly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-11-motivational-films-that-will-uplift-your-spirits/"><u>Top 11 Motivational Films That Will Uplift Your Spirits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tier-gaming-live-broadcast-tools-for-2024/"><u>Top-Tier Gaming Live Broadcast Tools for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trouble-accessing-twitch-heres-how-to-know-if-its-a-service-disruption-or-local-problem/"><u>Trouble Accessing Twitch? Here's How to Know if It's a Service Disruption or Local Problem</u></a></li>
 </ul></div>
 

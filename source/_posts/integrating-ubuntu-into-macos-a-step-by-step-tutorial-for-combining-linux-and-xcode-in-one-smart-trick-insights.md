@@ -1,7 +1,7 @@
 ---
 title: "Integrating Ubuntu Into macOS: A Step-by-Step Tutorial for Combining Linux and Xcode in One Smart Trick Insights"
-date: 2025-01-28T19:35:44.697Z
-updated: 2025-01-30T20:50:20.542Z
+date: 2025-02-06T18:57:54.531Z
+updated: 2025-02-12T03:14:37.545Z
 tags:
   - apple
 categories:
@@ -28,10 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -39,10 +43,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,6 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -59,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,7 +73,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,19 +126,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-optimized-processes-for-effective-live-streaming-on-computer/"><u>[New] 2024 Approved Optimized Processes for Effective Live Streaming on Computer</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-expanding-horizons-the-vr-in-classroom-effect-for-2024/"><u>[New] Expanding Horizons The VR in Classroom Effect for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-customize-and-captivate-thumbnail-magic-for-shorts/"><u>[Updated] 2024 Approved Customize & Captivate Thumbnail Magic for Shorts</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-enhancing-engagement-on-facebook-a-beginners-roadmap/"><u>[Updated] 2024 Approved Enhancing Engagement on Facebook A Beginner’s Roadmap</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-capturewin10-top-tier-recorder/"><u>2024 Approved CaptureWin10 Top-Tier Recorder</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-mastering-your-movements-the-complete-guide-to-slow-mo-in-tiktok/"><u>2024 Approved Mastering Your Movements The Complete Guide to Slow Mo in TikTok</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/can-electric-cars-endure-temperature-extremes-insights-on-ev-functionality-in-harsh-climates/"><u>Can Electric Cars Endure Temperature Extremes? Insights on EV Functionality in Harsh Climates</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-samsungs-photo-enhancing-tools/"><u>In 2024, Exploring Samsung’s Photo Enhancing Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-f04-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy F04 to Protect Your Individual Information</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/permanent-termination-process-disabling-and-removing-your-yahoo-mail-account/"><u>Permanent Termination Process: Disabling and Removing Your Yahoo Mail Account</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-using-snappy-driver-installer-version-113/"><u>The Ultimate Guide to Using Snappy Driver Installer Version 1.13</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-for-dll-file-not-found-messages-including-msvcr71dll/"><u>Troubleshooting Techniques for 'DLL File Not Found' Messages, Including MSVCR71.dll</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-solutions-for-resolving-the-msvcrt10dll-component-missing-problem/"><u>Ultimate Solutions for Resolving the msvcrt10.dll Component Missing Problem</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-iphone-model-17-price-predictions-arrival-date-technical-details-and-fresh-gossip-overview/"><u>Upcoming iPhone Model 17: Price Predictions, Arrival Date, Technical Details & Fresh Gossip Overview</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-android-freedom-the-most-popular-top-10-fb-video-extraction-tools/"><u>[New] 2024 Approved Android Freedom The Most Popular Top 10 FB Video Extraction Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unveiling-the-art-of-documenting-real-time-facetime-discussions/"><u>[New] In 2024, Unveiling the Art of Documenting Real-Time FaceTime Discussions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-optimizing-profits-on-youtube-studio-for-all-device-users/"><u>[Updated] 2024 Approved Optimizing Profits on YouTube Studio for All-Device Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-of-free-system-boosters-for-2prise-registry-cleaner-edition/"><u>Discover the Ultimate List of Free System Boosters for 2Prise: Registry Cleaner Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-your-display-with-amd-radeon-video-card-drivers-update-2410/"><u>Enhancing Your Display with AMD Radeon Video Card Drivers Update 24.10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-efficiency-a-users-manual-to-anthropics-cutting-edge-claudes-3-prompt-library/"><u>Maximizing Efficiency: A User’s Manual to Anthropic's Cutting-Edge Claudes 3 Prompt Library</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-missing-winhttpdll-errors-essential-troubleshooting-techniques/"><u>Overcoming Missing Winhttp.dll Errors: Essential Troubleshooting Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steering-towards-innovation-the-top-2024-pioneers-in-self-driving-cars/"><u>Steering Towards Innovation: The Top 2024 Pioneers in Self-Driving Cars</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-or-fresh-install-of-nvidia-graphics-card-drivers-made-easy/"><u>Update or Fresh Install of NVIDIA Graphics Card Drivers Made Easy</u></a></li>
 </ul></div>
 

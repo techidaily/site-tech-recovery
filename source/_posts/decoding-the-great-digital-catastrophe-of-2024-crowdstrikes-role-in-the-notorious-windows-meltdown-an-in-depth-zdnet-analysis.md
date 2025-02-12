@@ -1,7 +1,7 @@
 ---
 title: "Decoding The Great Digital Catastrophe of 2024: CrowdStrike's Role in the Notorious Windows Meltdown | An In-Depth ZDNet Analysis"
-date: 2025-01-26T19:21:52.281Z
-updated: 2025-01-30T18:39:26.625Z
+date: 2025-02-06T05:57:03.008Z
+updated: 2025-02-12T01:25:41.989Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,19 +176,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/apple-iphone-xs-max-reviewed-why-it-stands-as-the-finest-in-its-class-despite-a-hefty-price-tag/"><u>Apple iPhone XS Max Reviewed: Why It Stands as the Finest in Its Class, Despite a Hefty Price Tag</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/boost-your-playback-speed-how-intel-quick-sync-enhances-video-decompression/"><u>Boost Your Playback Speed: How Intel Quick Sync Enhances Video Decompression</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comparing-microsofts-outlook-and-googles-gmail-for-optimal-email-management/"><u>Comparing Microsoft's Outlook and Google's Gmail for Optimal Email Management</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-analysis-unboxing-and-testing-the-third-gen-apple-tv-4k/"><u>Expert Analysis: Unboxing and Testing the Third Gen Apple TV 4K</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-steamepic-store-crashes-while-playing-the-outer-worlds-on-pc/"><u>Fixing Steam/Epic Store Crashes While Playing The Outer Worlds on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-enable-and-manage-picture-in-picture-on-your-android-screen/"><u>How to Enable & Manage Picture-in-Picture on Your Android Screen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-select-the-perfect-dash-camera-unveiling-9-critical-tips-for-informed-shopping/"><u>How to Select the Perfect Dash Camera: Unveiling 9 Critical Tips for Informed Shopping</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-se-2022-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone SE (2022)? How to Fix it?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/netflix-playback-issues-follow-these-tips-to-resume-your-favorite-title-without-trouble/"><u>Netflix Playback Issues? Follow These Tips to Resume Your Favorite Title Without Trouble!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps5-purchase-is-it-justified-discover-the-five-compelling-reasons-to-level-up-your-gaming-experience/"><u>PS5 Purchase: Is It Justified? Discover the Five Compelling Reasons to Level Up Your Gaming Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-youtubes-audio-player-issues-in-windows-10-a-comprehensive-guide/"><u>Resolving YouTube's Audio Player Issues in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sequential-watchlist-experience-the-legendary-bond-journey/"><u>Sequential Watchlist: Experience the Legendary Bond Journey</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-remedy-restoring-visibility-of-youtube-comments/"><u>Step-by-Step Remedy: Restoring Visibility of YouTube Comments</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-pushing-the-limits-of-visual-impact-in-ae-titles/"><u>[New] Pushing the Limits of Visual Impact in AE Titles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-shoot-smart-comparing-gopro-models-intensively/"><u>[New] Shoot Smart Comparing GoPro Models Intensively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conquering-challenges-advanced-hdr-workflows-in-ps/"><u>[Updated] Conquering Challenges Advanced HDR Workflows in PS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-crafting-impeccable-crossfades-with-premiere-pro/"><u>[Updated] Crafting Impeccable Crossfades with Premiere Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-gastronomy-gurus-the-elite-of-food-vlogs/"><u>[Updated] Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/aol-email-woes-determining-if-its-server-troubles-or-user-error/"><u>AOL Email Woes: Determining if It's Server Troubles or User Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/freiwilliges-lernen-in-kunstlicher-intelligenz-lifewires-handbuch-mit-15-kursvorschlagen/"><u>Freiwilliges Lernen in Künstlicher Intelligenz: Lifewires Handbuch Mit 15 Kursvorschlägen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-huawei-p10s-network-performance-and-coverage/"><u>In 2024, Exploring Huawei P10's Network Performance & Coverage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-feasible-to-operate-multiple-channels-on-youtube-at-once/"><u>Is It Feasible to Operate Multiple Channels on YouTube at Once?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-tv-shopping-a-savvy-consumers-guide-to-buying-a-new-television/"><u>Navigating TV Shopping: A Savvy Consumer's Guide to Buying a New Television</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-video-editing-mastery-top-effects-to-elevate-your-videos/"><u>New Video Editing Mastery Top Effects to Elevate Your Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tackling-troublesome-subwoofer-whirring-expert-fixes-revealed/"><u>Tackling Troublesome Subwoofer Whirring: Expert Fixes Revealed!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-13-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi 13 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-essential-super-mario-bros-experiences-every-pc-player-should-enjoy/"><u>Top 6 Essential Super Mario Bros. Experiences Every PC Player Should Enjoy</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "An 8-Hour Test Run with the Apple Vision Pro: Satisfaction Levels Assessed by ZDNet"
-date: 2025-01-25T19:40:23.072Z
-updated: 2025-01-30T16:56:50.901Z
+date: 2025-02-06T01:03:51.234Z
+updated: 2025-02-11T23:59:27.843Z
 tags:
   - apple
 categories:
@@ -26,13 +26,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -50,6 +50,10 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. View the initial Check In notification
 
 The recipient receives a notification alerting them that you sent them a Check In with a specific time. After tapping OK, the recipient is asked if they want to allow critical alerts, which they should do. A text message then displays the time when they'll receive the alert that you reached your destination.
@@ -66,11 +70,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -82,10 +94,6 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
@@ -93,7 +101,7 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
@@ -104,19 +112,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,18 +154,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-comprehensive-guide-to-vsco-image-enhancement-for-2024/"><u>[New] Comprehensive Guide to VSCO Image Enhancement for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-video-capturing-warriors-choosing-between-obs-and-fraps-for-2024/"><u>[New] Video Capturing Warriors Choosing Between OBS and Fraps for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-newcomers-playbook-for-channel-creation-and-income-growth/"><u>[Updated] 2024 Approved Newcomer’s Playbook for Channel Creation & Income Growth</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/access-free-literature-on-your-ipad-with-these-8-trusted-online-resources/"><u>Access Free Literature on Your iPad with These 8 Trusted Online Resources</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-techniques-for-converting-your-favorite-audiobooks-into-compact-disks-a-comprehensive-guide/"><u>Best Techniques for Converting Your Favorite Audiobooks Into Compact Disks: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comment-deverrouiller-le-drm-de-les-fichiers-adobe-une-aide-pour-la-suppression-du-drm-des-pdf-and-epub/"><u>Comment Déverrouiller Le DRM De Les Fichiers Adobe: Une Aide Pour La Suppression Du DRM Des PDF & ePub</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/connect-to-a-real-time-tiktok-livestayers-world-for-2024/"><u>Connect to a Real-Time TikTok Livestayer's World for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-the-mystery-of-unexpected-digital-rights-management-issues/"><u>Deciphering the Mystery of Unexpected Digital Rights Management Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-vulnerabilities-on-the-rise-top-8-concerns-for-a-deteriorating-landscape/"><u>Generative AI Vulnerabilities on the Rise – Top 8 Concerns for a Deteriorating Landscape</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-s17t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo S17t Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-groundwork-for-animate-infographic-creation/"><u>In 2024, Groundwork for Animate Infographic Creation</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-windows-11-potential-latest-apps-and-games/"><u>In 2024, Unleash Windows 11 Potential Latest Apps & Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unleash-creativity-on-snapchat-with-immersive-boomerangs/"><u>[New] 2024 Approved Unleash Creativity on Snapchat with Immersive Boomerangs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-dissecting-digital-dynamics-comparative-channel-analysis/"><u>[Updated] Dissecting Digital Dynamics Comparative Channel Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-crack-the-code-unearthing-hidden-gems-in-youtubes-archive/"><u>[Updated] In 2024, Crack the Code Unearthing Hidden Gems in YouTube's Archive</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-easy-walkthrough-for-old-facebook-stories-on-laptops-and-phones/"><u>2024 Approved Easy Walkthrough for Old Facebook Stories on Laptops & Phones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-perfect-inversion-youtube-reverse-guidebook/"><u>2024 Approved The Perfect Inversion YouTube Reverse Guidebook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/aac-naar-wmv-verzamelen-gratuitie-webwinkel-movavi-online-converter/"><u>AAC Naar Wmv Verzamelen - Gratuitie Webwinkel Movavi Online Converter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/au-flac-online-movavi/"><u>AU FLAC 파일 쉽거나 비용 없이 Online에서 전환하는 기본 지침 - MOVAVI</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/faites-de-votre-caf-une-plateforme-web-gratuite-grace-a-movavi-guerilla-seo/"><u>Faites De Votre CAF Une Plateforme Web Gratuite Grâce À Movavi - Guérilla SEO</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-narzo-60-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme Narzo 60 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y02t-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y02T to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/no-cost-web-tool-transform-your-m4v-files-into-mp4-with-moviemaker-pro/"><u>No-Cost Web Tool: Transform Your M4V Files Into MP4 with MovieMaker Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-20-artificial-intelligence-photo-editing-apps-by-movavi/"><u>Top 20 Artificial Intelligence Photo Editing Apps by Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trasforma-i-tuoi-video-mpeg-in-animazioni-gif-senza-costi-usando-movavicom/"><u>Trasforma I Tuoi Video MPEG in Animazioni GIF Senza Costi Usando Movavi.com</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-creativity-free-animation-techniques/"><u>Unlocking Creativity Free Animation Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo V29 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

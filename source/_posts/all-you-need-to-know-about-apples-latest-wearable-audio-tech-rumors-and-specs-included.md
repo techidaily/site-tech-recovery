@@ -1,7 +1,7 @@
 ---
 title: All You Need to Know About Apple's Latest Wearable Audio Tech, Rumors & Specs Included!
-date: 2024-08-12T04:14:45.328Z
-updated: 2024-08-13T04:14:45.328Z
+date: 2025-02-06T03:32:09.932Z
+updated: 2025-02-12T06:49:08.799Z
 categories:
   - BestProducts
 description: This Article Describes All You Need to Know About Apple's Latest Wearable Audio Tech, Rumors & Specs Included!
@@ -21,48 +21,44 @@ thumbnail: https://www.lifewire.com/thmb/pJ3j07mu0IBk2CogSudtG2sLkUI=/540x405/fi
 
  Apple may be working on a small wearable device that projects audio beams at the user's ears to let them hear audio without headphones. News of this device came in a patent filing granted to the company in May 2024\. This article explains what the patent covers, what the product might be, and what we know about it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Apple Wearable Device With Direct Audio Release Date?
 
  There's not a lot to go on about this device, just the patent—and not all patents lead to products. In fact, Apple and other tech companies receive hundreds and thousands of patents every year, and not all of that technology makes it to market.
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 Apple, Inc / USPTO
@@ -82,15 +78,16 @@ Apple, Inc / USPTO
 
  Directional audio using parametric speakers may sound futuristic, but it already exists in a few products.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Microphones for Commands, User Identification, and Callibration
 
  The patented device would also contain microphones. These could be used for commands with a[virtual assistant](https://www.lifewire.com/virtual-assistants-4138533) like Apple Intelligence or Siri.
 
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
  Lifewire delivers all the latest news and opinions about[ear buds and other wearable devices](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Some articles in these areas that might interest you include:
@@ -101,14 +98,11 @@ Apple, Inc / USPTO
 
 [What Is Apple Intelligence?](https://www.lifewire.com/what-is-apple-gpt-7571221)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,4 +111,20 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook.techidaily.com/behind-the-scenes-of-your-newsfeed-4-customization-ways/"><u>Behind the Scenes of Your Newsfeed: 4 Customization Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beyond-zero-emissions-measuring-the-true-sustainability-of-evs/"><u>Beyond Zero Emissions: Measuring the True Sustainability of EVs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-access-startup-recovery-on-a-mac-computer/"><u>How to Access Startup Recovery on a Mac Computer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-character-choreography-compendiums/"><u>In 2024, Character Choreography Compendiums</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-motorola-defy-2-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Motorola Defy 2 Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-worth-getting-chatgpt-plus-here-are-five-convincing-motivators-you-need-to-know/"><u>Is It Worth Getting ChatGPT Plus? Here Are Five Convincing Motivators You Need to Know</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-creating-personalized-whatsapp-soundtracks/"><u>Step-by-Step Creating Personalized WhatsApp Soundtracks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-guide-transforming-your-yt-gaming-content-with-hashtags/"><u>Step-by-Step Guide Transforming Your YT Gaming Content with Hashtags</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-walkthrough-to-crafting-your-email-signature-in-godaddy-mail-client/"><u>The Complete Walkthrough to Crafting Your Email Signature in Godaddy Mail Client</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dangers-in-ai-chatbots-creating-windows-11-keys/"><u>The Dangers in AI Chatbots Creating Windows 11 Keys</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-infinix-note-30-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Infinix Note 30 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-apple-watchs-cellular-connectivity-issues-a-step-by-step-guide/"><u>Troubleshooting Apple Watch's Cellular Connectivity Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-is-an-rtx-graphics-card/"><u>What Is an RTX Graphics Card?</u></a></li>
+</ul></div>
 

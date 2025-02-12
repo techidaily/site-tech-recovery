@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to the M3 MacBook Air with Apple Silicon - The New Standard for Everyday Use Unveiled !
-date: 2025-01-29T21:10:53.982Z
-updated: 2025-01-30T21:43:13.869Z
+date: 2025-02-09T19:54:16.377Z
+updated: 2025-02-12T03:58:28.262Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 ---
@@ -71,10 +67,6 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How I tested the M3 MacBook Air
 
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
@@ -82,7 +74,7 @@ In terms of qualitative testing, I wrote this article on the M3 MacBook Air and 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
@@ -114,7 +106,7 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -159,6 +151,10 @@ Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 **A USB-C port on the right side:** With the M3 MacBook Air becoming more and more of a pro-capable laptop, the biggest thing that it needs is more expansion ports. The two USB-C 4 / Thunderbolt 3 ports limit the amount of pro-level things you can do with the machine without using cumbersome expansion docks and hubs. The fact that both of the USB-C ports are on the left side can also be awkward and inconvenient at times. Apple could solve both problems by simply adding one more USB-C port to the right side of the M3 MacBook Air. 
@@ -175,6 +171,10 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca2bd4d6e-b885-4395-a878-1ce6720d9d63%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca2bd4d6e-b885-4395-a878-1ce6720d9d63%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -186,7 +186,7 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -235,19 +235,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-submerged-splendor-top-underwater-video-techniques-with-gopro/"><u>[Updated] Submerged Splendor Top Underwater Video Techniques with GoPro</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint/"><u>[Updated] Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-invisible-footage-methods-to-obfuscate-private-elements/"><u>2024 Approved Invisible Footage Methods to Obfuscate Private Elements</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cat5-vs-cat6-network-wiring-which-one-suits-your-needs-better/"><u>Cat5 Vs. Cat6 Network Wiring: Which One Suits Your Needs Better?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-for-fixing-optical-drive-ejection-problems-on-your-computer/"><u>Expert Advice for Fixing Optical Drive Ejection Problems on Your Computer</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-draft-distinctive-visual-identities-from-templates-for-free/"><u>In 2024, Draft Distinctive Visual Identities From Templates for Free</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-list-of-beautiful-wedding-clips-youtube-and-vimeo/"><u>In 2024, The Ultimate List of Beautiful Wedding Clips - Youtube & Vimeo</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphones-and-androids-face-off-determining-the-ideal-smartphone-for-you/"><u>IPhones and Androids Face-Off: Determining the Ideal Smartphone for You</u></a></li>
-<li><a href="https://fox-that.techidaily.com/is-your-find-my-iphone-not-working-discover-why-and-fix-it-here/"><u>Is Your Find My iPhone Not Working? Discover Why and Fix It Here!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-nuances-a-newbies-guide-to-understanding-twitch-chat/"><u>Navigating the Nuances: A Newbie's Guide to Understanding Twitch Chat</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-resolving-a-401-prohibited-error-on-websites/"><u>Step-by-Step Guide: Resolving a 401 Prohibited Error on Websites</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-y100-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo Y100 5G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-to-picking-an-outstanding-selfie-pole-a-guide-with-six-tips/"><u>Unlock The Secrets To Picking An Outstanding Selfie Pole - A Guide With Six Tips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/vidcoder-compatibility-with-macos-is-it-supported/"><u>VidCoder Compatibility with macOS: Is It Supported?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-masterpiece-makers-editing-images-with-invisible-text/"><u>[New] Masterpiece Makers Editing Images with Invisible Text</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-4k-laptop-choices-for-gamers/"><u>[New] Premier 4K Laptop Choices for Gamers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-funimate-unlocked-a-complete-experience/"><u>[Updated] In 2024, Funimate Unlocked A Complete Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-soundbite-strategies-transform-your-voice-records/"><u>[Updated] Soundbite Strategies Transform Your Voice Records</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-xiaomi-redmi-note-13-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Xiaomi Redmi Note 13 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-videos-from-any-format-to-mac-with-movavi-supported-file-types/"><u>Convert Videos From Any Format to Mac with Movavi: Supported File Types</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertir-facilement-vos-fichiers-mpeg-a-m4a-gratuitement-sur-internet-via-movavi/"><u>Convertir Facilement Vos Fichiers MPEG À M4A Gratuitement Sur Internet via Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/descargar-la-conversion-de-video-gratuita-mp4-a-mpeg-online-con-movavi/"><u>Descargar La Conversión De Vídeo Gratuita: MP4 a MPEG Online Con Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-best-rechargeable-powerbank-devices-for-the-new-year/"><u>Expert Review: Best Rechargeable PowerBank Devices for the New Year</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-integrating-vimeo-to-instagram-posts/"><u>In 2024, Integrating Vimeo to Instagram Posts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mejorar-tus-videos-en-windows-nx-el-top-7-de-reunificadores-video-mas-poderosos/"><u>Mejorar Tus Videos en Windows nX: El Top 7 De Reunificadores Vídeo Más Poderosos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-aifwav-ai/"><u>MOVAVI 在線 AIF到WAV簡單轉換器 - 最新AI語音分析與保存技術</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-online-convertir-archivo-wmv-a-formato-de-video-vob-sin-coste/"><u>Movavi Online: Convertir Archivo WMV a Formato De Video VOB Sin Coste</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-latest-picks-top-10-2d-animation-tools-free-and-paid-options/"><u>New In 2024, Latest Picks Top 10 2D Animation Tools Free & Paid Options</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/spine-chilling-sfx-tutorial-crafting-halloween-visual-effects-with-pcdj-and-shaders-pro-insights/"><u>Spine-Chilling SFX Tutorial: Crafting Halloween Visual Effects with PCDJ & Shaders | Pro Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-your-videos-effortlessly-convert-wmv-to-mjpeg-online-at-no-cost-using-movavis-service/"><u>Transform Your Videos Effortlessly: Convert WMV to MJPEG Online at No Cost Using Movavi's Service</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wi-fi-cr2-movavi/"><u>무료 Wi-Fi용 CR2 이미지를 다운로드 및 교리하는 방법 - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/3gpp-mov-movavi/"><u>オンラインでストレスなしに、3GPP MOVコンバータ - 無料Movaviツール紹介!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crackle: Watch Free Movies and TV Online"
-date: 2024-08-12T04:13:37.639Z
-updated: 2024-08-13T04:13:37.639Z
+date: 2025-02-08T18:42:15.132Z
+updated: 2025-02-12T09:14:14.635Z
 categories:
   - BestProducts
 description: "This Article Describes Crackle: Watch Free Movies and TV Online"
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix an iPhone That Won't Ring
 
  Try these common fixes in the order that we present them:
@@ -34,32 +31,39 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
    1. Tap**Settings** \>**Phone** \>**Blocked Contacts** .  
    2. Tap**Edit** .  
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
- If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
    2. Tap the name of the person whose calls you're missing, and then tap**Edit** .  
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## If None of These Tips Fixed the Problem
 
  If you tried all these tips and still don't hear your incoming calls, it's time to consult the experts.[Make an Apple Genius Bar appointment](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at your local Apple Store or[contact an Apple-authorized service provider](https://support.apple.com/repair) , and bring in your iPhone for inspection and repair.
@@ -67,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -108,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +120,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginners-blueprint-for-viral-video-seo/"><u>[New] 2024 Approved Beginner's Blueprint for Viral Video SEO</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-diy-audio-excellence-no-mic-necessary/"><u>[New] 2024 Approved DIY Audio Excellence No Mic Necessary</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-8-drawing-apps-for-ipados/"><u>[New] 2024 Approved Top 8 Drawing Apps for iPadOS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-cutting-edge-filmmaking-the-essential-cinematic-tips-of-24/"><u>[New] Cutting Edge Filmmaking The Essential Cinematic Tips of '24</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-contents-reach-in-youtube-shorts-formats/"><u>[New] In 2024, Elevate Your Content's Reach in YouTube Shorts Formats</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-pathway-autoplay-youtube-videos-within-fb-networks-for-2024/"><u>[New] The Ultimate Pathway Autoplay YouTube Videos Within FB Networks for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-secrets-of-crafting-captivating-instagram-videos/"><u>[Updated] The Secrets of Crafting Captivating Instagram Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-connecting-and-sharing-drives-on-mac-computers/"><u>Complete Tutorial: Connecting and Sharing Drives on Mac Computers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crystal-clear-audiovideo-top-webcams-for-podcasting/"><u>Crystal-Clear Audio/Video Top Webcams for Podcasting</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-edge-filmmaking-techniques-youtubes-insights-and-competitors/"><u>Cutting-Edge Filmmaking Techniques YouTube's Insights & Competitors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-guide-to-boosting-collaboration-with-slack-at-your-job/"><u>The Comprehensive Guide to Boosting Collaboration with Slack at Your Job</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-rapid-plus-tct-202-new-releases-in-3d-printers-filaments-and-beyond/"><u>The Ultimate Guide to Rapid + TCT 202ˈ: New Releases in 3D Printers, Filaments, and Beyond</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-of-netflix-originals-targeted-at-the-teen-audience/"><u>Top Picks of Netflix Originals Targeted at the Teen Audience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-dll-issues-fixes-for-when-gsdll32-is-nowhere-to-be-found/"><u>Troubleshooting 'Missing DLL' Issues: Fixes for When Gsdll32 Is Nowhere to Be Found</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-is-an-hdcp-problem-comprehensive-guide-to-fixing-it/"><u>What Is an HDCP Problem? – Comprehensive Guide to Fixing It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-connectivity-for-home-theaters-a-step-by-step-guide-to-streaming-perfection/"><u>Wireless Connectivity for Home Theaters: A Step-by-Step Guide to Streaming Perfection</u></a></li>
+</ul></div>
 

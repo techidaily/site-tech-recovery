@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Doc Craft: The Ultimate Guide to the Top MacOS Document Creation App - Unleash Your Productivity!"
-date: 2025-01-28T16:42:29.678Z
-updated: 2025-01-30T18:00:20.486Z
+date: 2025-02-10T02:56:54.604Z
+updated: 2025-02-11T16:20:43.557Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,22 +129,19 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-aural-archive-discussion-and-judgment/"><u>[New] In 2024, Aural Archive Discussion & Judgment</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harmonize-your-favorites-creating-custom-youtube-playlists-for-2024/"><u>[Updated] Harmonize Your Favorites Creating Custom YouTube Playlists for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-instagrams-secrets-for-creating-must-watch-unboxings/"><u>2024 Approved Instagram's Secrets for Creating Must-Watch Unboxings</u></a></li>
-<li><a href="https://facebook.techidaily.com/carolyn-everson-ends-tenure-at-facebook/"><u>Carolyn Everson Ends Tenure at Facebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-for-adding-and-watching-apple-tv-on-your-fire-stick-platform/"><u>Easy Steps for Adding and Watching Apple TV on Your Fire Stick Platform</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-tricks-to-record-and-transmit-audio-messages-using-an-iphone/"><u>Easy Tricks to Record & Transmit Audio Messages Using an iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-your-experience-mastering-the-art-of-quick-settings-on-android-phones-and-tablets/"><u>Enhance Your Experience: Mastering the Art of Quick Settings on Android Phones and Tablets</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/highly-rated-portable-optical-drives-for-home-and-office-use-2-groovy-listings/"><u>Highly Rated Portable Optical Drives for Home and Office Use, 2 Groovy Listings</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-15-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 15 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-insert-youtube-playlists-seamlessly-into-a-website-for-2024/"><u>How to Insert YouTube Playlists Seamlessly Into a Website for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-6-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 6 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revolutionary-connectivity-awaits-explore-the-newly-launched-apple-iphone/"><u>Revolutionary Connectivity Awaits – Explore the Newly Launched Apple iPhone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-on-downloading-the-latest-ios-software-upgrade/"><u>The Complete Walkthrough on Downloading the Latest iOS Software Upgrade</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-best-visual-voicemail-solutions-of-2024/"><u>The Ultimate List: Best Visual Voicemail Solutions of 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722859438272-top-rated-key-trackers-a-comprehensive-guide/"><u>Top Rated Key Trackers : A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-common-issues-encountered-in-bios-post-sequence/"><u>Troubleshooting Common Issues Encountered in BIOS POST Sequence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-of-digital-time-travel-with-the-wayback-machine-user-manual/"><u>Unlock the Secrets of Digital Time Travel with the Wayback Machine User Manual</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-sky-high-drone-competition-guide-plus-5-innovative-fpv-systems/"><u>[Updated] 2024 Approved Sky High Drone Competition Guide + 5 Innovative FPV Systems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-art-of-influence-essential-marketing-expressions-explained/"><u>[Updated] The Art of Influence Essential Marketing Expressions Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turning-popular-sounds-on-tiktok-into-personal-cellphone-alarms/"><u>[Updated] Turning Popular Sounds on TikTok Into Personal Cellphone Alarms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/arw-movavi/"><u>「網路免費ARW換版服務 - Movavi」</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-3gp-file-to-free-gif-format-online-with-movavi-converter/"><u>Convert 3GP File to Free GIF Format Online with Movavi Converter</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-get-started-in-editing-videos-via-windows-11s-movie-maker/"><u>In 2024, Get Started in Editing Videos via Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-optimizing-youtube-content-for-higher-visibility/"><u>In 2024, Optimizing YouTube Content for Higher Visibility</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mov-m4amovavi/"><u>MOV から M4Aへ簡単変換：無料オンラインツール集【MOVAVI】</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavis-cost-free-online-tool-for-changing-mp3-files-into-ogv-format/"><u>Movavi's Cost-Free Online Tool for Changing MP3 Files Into OGV Format</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/my-experience-swapping-my-macbook-for-a-dell-xps-15-no-regrets-gadget-review/"><u>My Experience Swapping My MacBook for a Dell XPS 15 - No Regrets! | Gadget Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/os-mais-incriveis-modelos-de-photocollage-on-line-gratuitos-aperfeicoar-sua-presenca-digital/"><u>Os Mais Incriveis Modelos De Photocollage On-Line Gratuitos – Aperfeiçoar Sua Presença Digital</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-finest-collage-software-android-edition-explored/"><u>The Finest Collage Software Android Edition Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-pc-diary-a-deep-dive-into-cutting-edge-hardware-analysis/"><u>Tom's PC Diary: A Deep Dive Into Cutting-Edge Hardware Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/verslindige-momente-jpeg-bestanden-omzetten-in-omb-zonder-belemmeringen-de-expertise-van-movavi/"><u>Verslindige Momente: JPEG-Bestanden Omzetten in OMB, Zonder Belemmeringen - De Expertise Van Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Connecting Your Logitech Mouse with PC/Mac
-date: 2024-08-12T04:15:25.540Z
-updated: 2024-08-13T04:15:25.540Z
+date: 2025-02-05T03:11:05.617Z
+updated: 2025-02-12T01:03:35.202Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate Guide to Connecting Your Logitech Mouse with PC/Mac
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/GzbV9KftDUEvjjaPo5ud_v6-X1g=/400x300/fi
 ---
 
 ## IPhone Users' Ultimate How-To: Jumping Into Shared Photo Collections with Ease
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * To accept a shared album invitation, tap notification >**For You** \>**Accept** .
@@ -18,8 +23,9 @@ thumbnail: https://www.lifewire.com/thmb/GzbV9KftDUEvjjaPo5ud_v6-X1g=/400x300/fi
  This article explains how to accept a shared album invitation on the iPhone. You can create shared albums yourself, but to enjoy those created by other people, you have to accept an invitation.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Accept a Shared Album Invitation on iPhone
 
  Ready to accept an invitation to join a shared[photo album on iPhone](https://www.lifewire.com/iphone-photo-albums-4103845) ? Follow these steps:
@@ -31,24 +37,21 @@ thumbnail: https://www.lifewire.com/thmb/GzbV9KftDUEvjjaPo5ud_v6-X1g=/400x300/fi
  Depending on your notification settings, you may see a badge on the Photos app icon when there's a pending invitation.
 3. If you're not taken to it right away, tap**For You** .
 4. The shared album invitation details appear on this screen. Tap**Accept** to join the album.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![iPhone with photo album notification, badge, and accept highlighted](https://www.lifewire.com/thmb/5FOEsgyOhpxg5kgqG3RIx3-3-uM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Accept-b061220ac8b84f79b2192c518b8eb653.jpg)
 5. The shared album is added to the top of the screen. Tap the name of the album to view its photos.
 6. All of the photos in the album are displayed here. Depending on the settings of the album, you may be able to add your own photos to it by tapping the**\+ (Plus)** sign.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![iPhone Shared Album with album name and "add" highlighted](https://www.lifewire.com/thmb/JdOT4mhtqybWV8lem-ocSCTWK8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sharedalbums-e918328c14cb40f381fe193804936cf1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you've accepted a share album invitation, you can control how you see the photos in the album. Tap**...** and the menu gives you options including**Sort** ,**Filter** (to see only photos or videos), to see where all photos were taken on a map, or to play the photos as a slideshow, among other choices.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Leave a Shared Photo Album on iPhone
 
  If you've decided you no longer want to be part of a shared album, you can leave the album by following these steps:
@@ -57,16 +60,14 @@ The powerful video editing program for your Windows PC</a>
 2. Tap**For You** .
 3. Tap the album you want to leave.
 4. Tap the person icon (or**...** \>**Shared Album Details** ).  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone with Photos app, For You, and person icon highlighted](https://www.lifewire.com/thmb/cT_4U_RW7AO6FB8dxe9PvcX_pfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Foryou-32ab9b28b3c24c4fa7cf4fb5d8f8f897.jpg)
 5. Tap**Unsubscribe** .
 6. In the confirmation pop-up, tap**Unsubscribe** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![iPhone shared photo album with Unsubscribe highlighted on two screens](https://www.lifewire.com/thmb/GjQTXPTilhfLwbtE3_8BtmCqsLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unsubscribe-d3016b5886984a38bbf0675d85e4d0ba.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Don't want to leave a shared album, but annoyed by notifications when new photos or other changes are made? You can turn off notifications for an album by going to the album > person icon > moving the**Notifications** slider to**off/white** .
 
@@ -101,8 +102,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +109,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-innovative-techniques-for-fisheye-sphere-capture/"><u>[New] 2024 Approved Innovative Techniques for Fisheye Sphere Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elite-arsenal-choosing-the-top-7-fps/"><u>[New] In 2024, Elite Arsenal Choosing the Top 7 FPS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-google-collages-how-to-achieve-it-in-a-blink-of-an-eye/"><u>[New] In 2024, Google Collages How to Achieve It in A Blink of an Eye</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamline-your-pc-screens-free-app/"><u>[New] In 2024, Streamline Your PC Screens, Free App</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-professionals-picks-best-editors-for-online-streams/"><u>[Updated] Professionals' Picks Best Editors for Online Streams</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/custom-ai-solutions-at-your-fingertips-introducing-openais-gpt-store-for-immediate-use/"><u>Custom AI Solutions at Your Fingertips – Introducing OpenAI’s GPT Store for Immediate Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-5-social-apps-to-expand-your-circle-of-friends/"><u>Discover the Best 5 Social Apps to Expand Your Circle of Friends</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-movie-sites-for-children-our-picks/"><u>Discover the Best Free Movie Sites for Children, Our Picks!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-tech-hacking-writing-software-for-your-multi-purpose-universal-remote/"><u>DIY Tech Hacking: Writing Software for Your Multi-Purpose Universal Remote</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-high-end-technology-without-breaking-your-bank-top-picks/"><u>Experience High-End Technology without Breaking Your Bank: Top Picks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-locate-your-lost-airpods-using-the-find-my-app-11-ways/"><u>How to Locate Your Lost AirPods Using the Find My App - 11 Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-turn-off-microsoft-copilot-integration-in-your-windows-11-system/"><u>How To Turn Off Microsoft Copilot Integration In Your Windows 11 System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rumors-surrounding-apples-revolutionary-home-robot-what-to-know-about-pricing-and-launch-dates/"><u>Rumors Surrounding Apple's Revolutionary Home Robot - What to Know About Pricing & Launch Dates?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-take-if-your-wii-system-fails-to-recognize-dvd-or-game-disc/"><u>Steps to Take if Your Wii System Fails to Recognize DVD or Game Disc</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+</ul></div>
 

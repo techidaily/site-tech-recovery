@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Customizing Font Settings in Windows 11"
-date: 2024-08-12T04:13:54.409Z
-updated: 2024-08-13T04:13:54.409Z
+date: 2025-02-06T17:07:03.600Z
+updated: 2025-02-11T19:07:06.934Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Customizing Font Settings in Windows 11"
@@ -10,15 +10,16 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 ---
 
 ## Unlock the Potential of Your Windows 11 by Running Android Apps with These Simple Steps
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Know
 
 * An Android emulator like**BlueStacks** is the best way to play Android games and run other Android apps on Windows.
 * To control your phone from Windows 10, install**AirDroid** and turn on**Screen Mirroring** and**Remote Control** .
 
  This article describes two ways to use Android apps on a Windows 10 PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install BlueStacks to Run Android Apps on a PC
 
@@ -33,8 +34,13 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 [The 12 Best Apps for 2024](https://www.lifewire.com/best-mobile-apps-4157439)  
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use AirDroid to Mirror Android on Windows 10  
 
  AirDroid is a free app that runs on Android, so you need an Android device to use this method. Once it's installed, you can view your phone live on your computer screen. If you enable remote control, you can even control your phone from Windows 10.
@@ -44,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 6. Tap**Continue** on the permission request to access your phone's files.
 7. Tap the toggle next to**Allow access to manage all files** .
 8. Tap**Allow** on the prompt for AirDroid to run in the background.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Continue, Allow access toggle, and Allow button highlighted in the AirDroid app for Android.](https://www.lifewire.com/thmb/CbexqTWDoZy3jmF_-4qqKdbIQzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B5-RunAndroidAppsonWindows10-annotated-29aacbf2e127466f85d7a7c443b512e2.jpg)
 9. Select**OK** on the Security & Remote Features screen to continue setup.
 10. Go to**Screen Mirroring** \>**Grant permission** \>**Still enable** to turn on screen mirroring functionality. This is necessary if you want to see your Android apps and screen from your computer.  
@@ -56,39 +59,38 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 13. Tap the toggle next to**Allow display over other apps** .  
 ![Continue, AirDroid, and the toggle highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/fsJsiMEafExGn_8nR-dfrcR-3qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B10-RunAndroidAppsonWindows10-annotated-0317e836163041fb8fdc907e4c24a251.jpg)
 14. Return to AirDroid and go to**Remote Control** \>**Enable remote control** \>**Still enable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Remote Control, Enable remote control, and Still enable highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/TwYRkcvTt5VICEB4zjl6wuqUaFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B11-RunAndroidAppsonWindows10-annotated-11ed8c49a76f4a19996a181f0675c9ad.jpg)
 15. Now you need to install a small add-on from the Play Store to actually enable remote control access between your computer and phone. To do this, follow the on-screen prompts to select**Download and install** \>**Download** \>**Install** .  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Download and install, Download, and Install buttons highlighted in AirDroid and Play Store.](https://www.lifewire.com/thmb/GuTDLA0vCwUfKRPNfUJUL8RL6OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B12-RunAndroidAppsonWindows10-annotated-838eade9103c4f5f9c31b048bc90e969.jpg)
 16. Return to AirDroid and tap**Grant permissions** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 17. Tap the toggle next to**Use AirDroid Control Add-on** , then tap**Allow** on the prompt.  
 ![Grant permissions, Use AirDroid, and Allow buttons highlighted in AirDroid and Settings for Android.](https://www.lifewire.com/thmb/9wwRzJ1bk6CSlYqjShS8rRLl3Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B14-RunAndroidAppsonWindows10-annotated-f8f7e76cfbbb487b9b21a58fcd38c6e5.jpg)
 18. Tap**Done** on the screen that says remote control is enabled.
 19. Tap the**Transfer** tab at the bottom of AirDroid, followed by**AirDroid Web** .
 20. On your computer, enter the[IP address](https://www.lifewire.com/what-is-an-ip-address-2625920) and port number shown in the AirDroid app.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Done, Transfer, AirDroid Web, and Option 2 paragraph highlighted in AirDroid.](https://www.lifewire.com/thmb/8yoCK74talFlTYj-YCYm5lIzqdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B17-RunAndroidAppsonWindows10-annotated-093199afced14217a49962e06818d393.jpg)
 21. When AirDroid opens on your computer, use one of the sign in options at the bottom to log in to the same account you signed in to from your phone.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sign in with options highlighted at the bottom of AirDroid on Windows.](https://www.lifewire.com/thmb/yihdd2n5vliGiBjdZ0a0lgTyd2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B18-RunAndroidAppsonWindows10-annotated-af9b005584844c549e138ac9586debbf.jpg)
 22. Select your Android device from the**Choose a device** prompt.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Google Pixel 7a highlighted in AirDroid on Windows](https://www.lifewire.com/thmb/rSTxohWXD6GAQ3V44jNWjAE0Zy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-select-device-0a3031475b7f42a1992483aaf18147f7.png)
 23. Select**Mirroring** from the AirDroid desktop on your computer.  
 ![Mirroring highlighted on the AirDroid desktop on Windows.](https://www.lifewire.com/thmb/MZkSyFVGUy34i_WC0wxca7axxn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B20-RunAndroidAppsonWindows10-annotated-240867983f69412f8df605137bf2b1db.jpg)
 24. You'll see your whole Android screen on your Windows computer. You can launch apps from either device to see them displayed on your Windows 10 PC.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![A Pixel 7 phone mirrored to a Windows computer](https://www.lifewire.com/thmb/8asRQPV_NwnOvS7jDbFVKsTq4l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-screen-mirroring-8f3fe1ffb7e24040b82dea79dff7b029.png)
 
  FAQ
@@ -122,8 +124,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-eradicating-grayscale-issues-with-youtube-video/"><u>[Updated] In 2024, Eradicating Grayscale Issues with YouTube Video</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-to-learn-4-youtube-channels-unlocking-the-secrets-of-background-substitution/"><u>[Updated] In 2024, Free-to-Learn 4 YouTube Channels Unlocking the Secrets of Background Substitution</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-leveraging-obs-establishing-an-efficient-countdown-clock/"><u>[Updated] Leveraging OBS Establishing an Efficient Countdown Clock</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-selecting-effective-youtube-tags/"><u>[Updated] The Art of Selecting Effective YouTube Tags</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easily-disable-pin-lock-on-windows-11-with-these-simple-steps/"><u>Easily Disable Pin Lock on Windows 11 with These Simple Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-securing-your-next-read-iphoneipad-and-the-books-app-purchase-guide/"><u>Essential Tips for Securing Your Next Read: IPhone/iPad and the Books App Purchase Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-jscriptdll-absent-or-missing-issues-quick-solutions-for-web-developers/"><u>Fixing jScript.DLL Absent or Missing Issues: Quick Solutions for Web Developers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-10-proplus-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 10 Pro+ 5GFRP Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-gameplay-essential-upgrades-for-win-11-gamers/"><u>Maximizing Gameplay: Essential Upgrades for Win 11 Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-complete-guide-to-fixing-hitman-3s-persistent-cannot-connect-to-server-error/"><u>The Complete Guide to Fixing Hitman 3'S Persistent 'Cannot Connect to Server' Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolve-libcurldll-missing-windows-error/"><u>Troubleshooting Guide: Resolve 'libcurl.dll Missing' Windows Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbo-charging-steam-downloads-for-windows-users/"><u>Turbo-Charging Steam Downloads for Windows Users</u></a></li>
+</ul></div>
 

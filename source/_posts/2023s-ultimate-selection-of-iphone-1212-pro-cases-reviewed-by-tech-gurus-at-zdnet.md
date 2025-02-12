@@ -1,7 +1,7 @@
 ---
 title: 2023'S Ultimate Selection of iPhone 12/12 Pro Cases Reviewed by Tech Gurus at ZDNET
-date: 2025-01-27T21:53:08.860Z
-updated: 2025-01-30T20:06:16.270Z
+date: 2025-02-09T06:33:08.882Z
+updated: 2025-02-12T04:56:05.507Z
 tags:
   - apple
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/56f090148dcdfaa4905d043e11211cb7bc
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -44,11 +48,11 @@ Pros
 Cons 
 * Slightly pricey
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Pela case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best iPhone 12 case overall
 
@@ -97,14 +101,10 @@ Cons
 * Clear design may yellow
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bodyguardz Ace Pro
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best budget iPhone 12 case
 
@@ -129,15 +129,7 @@ Pros
 Cons 
 * Shipping can take up to 12 business days for US orders and up to 23 business days for non-US orders
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Casetify cases
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best customizable iPhone 12 case
 
@@ -160,11 +152,11 @@ Pros
 Cons 
 * May still yellow over time
 
-## ESR Air Armor
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## ESR Air Armor
 
 ### Best clear iPhone 12 case
 
@@ -190,11 +182,11 @@ Pros
 Cons 
 * Price varies
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Incipio Organicore
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best eco-friendly iPhone 12 case
 
@@ -216,6 +208,10 @@ Pros
 
 Cons 
 * May show scratches easily
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nomad Rugged case
 
@@ -296,10 +292,6 @@ The best iPhone 12 case is the Pela case, chosen for its environmental safety, d
 | Speck Products Presidio Edition  | $23       | 13 feet             |
 | Totallee case                    | $19       | Unspecified         |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which iPhone case is right for you?
 
 Each case on this list has unique pros and cons. One case might be a better choice for you, depending on the features you can't live without. 
@@ -325,13 +317,13 @@ If you've invested in a top-notch smartphone like an iPhone 12 or 12 Pro, you'll
 * **Style:** Custom cases, like Casetify cases, emphasize personalization, while cases made of leather or compostable materials emphasize lifestyle choices or texture preferences. Your phone case can be a reflection of you and your values. Make sure to choose a case that feels good and looks good -- chances are, you'll be looking at it a lot.
 * **Features:** The cases on this list come with a number of added features, including antimicrobial protection and MagSafe compatibility.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does wireless charging work with a case?
 
 Wireless charging does work with phone cases. Almost all of the cases on this list are MagSafe-compatible. Usually, cases with a slimmer profile are more likely to be compatible. Most cases specify whether or not they are MagSafe-compatible, so make sure to check out the product specifications to verify if wireless charging works with the case of your choice. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which case is best for iPhone 12?
 
@@ -341,9 +333,17 @@ The Pela case is my favorite because it combines drop protection with environmen
 
 Yes. OtterBox cases are durable, and I added an OtterBox option to my list of favorite alternatives. Some OtterBox lines are made with partially recycled materials. You can also alter the bulkiness of your OtterBox, depending on how much protection you need.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the safest case for iPhone 12 Pro?
 
 The Pela case is made out of non-toxic materials and has been tested for safety. It's free of phthalates, BPA, cadmium, and lead and is verified to meet child safety standards in the U.S., Canada, Europe, Australia, and New Zealand. You can compost it in a home composting environment or an industrial composting facility. Each case on this list keeps your phone safe to varying degrees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do you need a case for iPhone 12?
 
@@ -389,15 +389,21 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-crafting-video-magic-summit/"><u>[Updated] Crafting Video Magic Summit</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-sites-like-famebit-where-you-can-find-youtube-sponsorships/"><u>[Updated] Sites Like FameBit Where You Can Find YouTube Sponsorships</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-uncloaked-resolved-youtube-shorts-gone-miss/"><u>[Updated] Uncloaked Resolved YouTube Shorts Gone Miss</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-honor-90-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor 90 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722904111702-how-can-you-know-if-theyve-checked-your-messages-uncover-the-secrets/"><u>How Can You Know If They've Checked Your Messages? Uncover the Secrets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-tell-if-twitch-is-really-down-or-if-theres-a-local-problem/"><u>How To Tell If Twitch Is Really Down or If There's A Local Problem</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nubia-red-magic-8s-proplus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nubia Red Magic 8S Pro+ without App | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/master-the-art-of-audio-format-shifting-a-step-by-step-guide-on-switching-from-soundcloud-to-mp4/"><u>Master the Art of Audio Format Shifting: A Step-by-Step Guide on Switching From SoundCloud to MP4</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simplifying-your-inbox-a-comprehvew-on-how-to-categorize-messages-using-gmail-labels/"><u>Simplifying Your Inbox: A Comprehvew on How to Categorize Messages Using Gmail Labels</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-researchers-handbook-to-referencing-conversational-ai-tools-such-as-chatgpt/"><u>The Researcher’s Handbook to Referencing Conversational AI Tools Such as ChatGPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tickler-toolkit-image-mashup/"><u>[New] Tickler Toolkit Image Mashup</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-discover-the-enhanced-features-of-2023s-samsung-bd-j5900/"><u>[Updated] 2024 Approved Discover the Enhanced Features of 2023'S Samsung BD-J5900</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-journey-of-a-movie-maker-youtube-tutorials-and-more/"><u>[Updated] Journey of a Movie Maker YouTube Tutorials & More</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-proven-techniques-for-effective-video-transfer-ios-to-mac-for-2024/"><u>[Updated] Proven Techniques for Effective Video Transfer IOS to MAC for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-movavi-business-video-tools-compra-profissional-de-edicao-e-compartilhamento/"><u>1. Movavi Business Video Tools - Compra Profissional De Edição E Compartilhamento</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725290580161-windows-10113/"><u>必見！Windows 10/11で使える代表的なフリーコーデックパックの上位3つを紹介する - ストリーミングのたびに活用</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/202-4/"><u>發現202 4年的好用免費音樂製作工具: 入門者上位選擇列表</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/classic-cinematography-technique-transforming-footage-into-stunning-black-and-white-visuals/"><u>Classic Cinematography Technique: Transforming Footage Into Stunning Black & White Visuals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/como-convertir-archivo-asf-en-mp4-online-sin-coste-guia-de-movavi/"><u>Cómo Convertir Archivo ASF en MP4 Online Sin Coste: Guía De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-your-video-content-instantly-vob-to-flac-without-cost-using-top-web-tools/"><u>Convert Your Video Content Instantly: VOB to FLAC Without Cost Using Top Web Tools!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertir-gratuitement-des-fichiers-webp-en-format-tiff-en-ligne-easy-conversion-avec-movavi/"><u>Convertir Gratuitement Des Fichiers WebP en Format TIFF en Ligne - Easy Conversion Avec Movavi</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/decoding-fb-lives-multiscreen-mastery-techniques/"><u>Decoding FB Live's Multiscreen Mastery Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-hp-scanjet-drivers-now-compatible-with-windows-1087/"><u>Download Updated HP Scanjet Drivers Now - Compatible with WINDOWS 10/8/7</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-update-or-generate-a-custom-table-of-contents-in-your-epub-book-with-flipbook-a-step-by-step-guide/"><u>How to Update or Generate a Custom Table of Contents in Your ePub Book with FlipBook - A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-poco-c51-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Poco C51</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-hoe-video-gaming-experiences-mastering-both-online-and-offline-adventures/"><u>Top 10 Hoe Video Gaming Experiences: Mastering Both Online and Offline Adventures</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Challenges: EV Performance in Extreme Thermal Environments"
-date: 2024-08-12T04:11:17.173Z
-updated: 2024-08-13T04:11:17.173Z
+date: 2025-02-08T00:39:03.790Z
+updated: 2025-02-12T04:20:34.436Z
 categories:
   - BestProducts
 description: "This Article Describes Navigating the Challenges: EV Performance in Extreme Thermal Environments"
@@ -23,14 +23,16 @@ thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228
  Electric vehicle range in extreme cold and heat may not be as dire as you expect though and, for the record, gas-powered vehicles aren’t immune from temperature extremes either. Still, it's advantageous to understand how heat and cold impact EVs.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Temperature Generally Affects Electric Car Batteries 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![An overhead view of an EV's lithium ion battery.](https://www.lifewire.com/thmb/PCIEIMaVKLmsy8FYcB1gH5PmQks=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/LithiumionbatteryofanEV_Westend61_Getty-de12313f778243f1ae701060be61c5a3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Westend61/Getty
 
@@ -52,9 +54,6 @@ Westend61/Getty
 
 [  How Long to Expect Your EV Battery to Last (and How to Extend Its Life) ](https://www.lifewire.com/how-long-will-ev-battery-last-5201587) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Temperature Specifically Affects EV Range 
 
  Temperature issues don’t just affect the battery itself. It can also impact an EV’s overall range. 
@@ -72,10 +71,11 @@ Westend61/Getty
 
  However, gasoline-powered vehicles still experience troubles in extreme weather situations, too, including reduced fuel economy in cold temperatures due to other factors. According to the U.S. Department of Energy,[ gas-powered vehicle fuel economy drops by about 15 percent](https://www.fueleconomy.gov/feg/coldweather.shtml) when the temperature dips to 20 degrees Fahrenheit compared to fuel economy in balmier conditions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://www.lifewire.com/data:image/svg+xml,%3Csvg width=%271500%27 height=%271000%27 xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  PHOTO:
 
@@ -85,9 +85,6 @@ Bailey Mariner
 
  According to the U.S. Department of Energy,[ a gas-powered car can have its range decreased by over 25 percent](https://www.fueleconomy.gov/feg/hotweather.shtml) when running the A/C in extremely hot weather. In comparison, the average EV can be expected to reach about 80 percent of its rated range in conditions where the ambient temperature is 104 degrees. In that particular situation, an EV is likely to beat a gas-powered vehicle in terms of retaining more of its range.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Heat Pumps vs. Resistive Heaters in EVs 
 
  Both resistive heaters and heat pumps can be used in EVs. The benefit of using a heat pump in an EV instead of a resistive heater is that heat pumps are simply more energy efficient. 
@@ -101,13 +98,18 @@ Bailey Mariner
  Heat pumps are typically capable of operating in EVs in temperatures down to about 25 to 30 degrees Fahrenheit, although efficiency does drop off the colder it gets. In even colder temperatures, it becomes more efficient to switch over to a resistive heater.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  9 Ways to Manage Range in Extreme Weather Conditions 
 
  While it’s true that EV range can be reduced by both extremely hot and cold weather, there are a number of things you can do to improve the range of an EV in extreme weather conditions: 
 
 ![A thermometer showing Celsius and Fahrenheit temps against a blue sky with light clouds.](https://www.lifewire.com/thmb/tDbSwvUy-6HtJbQj-IVHx1Jsd1U=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Thermometor_celsiusandF_Kameleon007_Getty-765dddd365544edfbcfd93b31bcf4342.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Kameleon007/Getty
 
@@ -129,8 +131,6 @@ Kameleon007/Getty
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +138,24 @@ Kameleon007/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/hannel-command-center-mastering-your-digital-domain-for-2024/"><u>[New] Channel Command Center Mastering Your Digital Domain for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-10-virtual-world-games-on-ios-and-android/"><u>[Updated] Best 10 Virtual World Games on iOS & Android</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-discover-the-best-beat-detectors-free-and-easy-to-use/"><u>[Updated] In 2024, Discover the Best Beat Detectors – Free & Easy to Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accelerate-your-workflow-mastering-swift-application-launches-with-keyboard-commands-in-windows-11/"><u>Accelerate Your Workflow: Mastering Swift Application Launches with Keyboard Commands in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-great-free-substitutes-for-adobe-creative-suite-on-pc-download-affinity-photo-and-illustrator-today/"><u>Discover GREAT FREE Substitutes for Adobe Creative Suite on PC: Download Affinity Photo & Illustrator Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-10-crucial-safety-protocols-endorsed-by-tech-departments-for-user-protection/"><u>Expert Advice: 10 Crucial Safety Protocols Endorsed by Tech Departments for User Protection</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/my-journey-towards-a-fully-integrated-smart-house-on-prime-day/"><u>My Journey Towards a Fully-Integrated Smart House on Prime Day</u></a></li>
+<li><a href="https://facebook.techidaily.com/optimized-content-for-work-opportunity-postings-on-social-media/"><u>Optimized Content for Work Opportunity Postings on Social Media</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/power-and-performance-unleashed-the-ultimate-look-at-the-lenovo-thinkpad-z16-gen-2-featuring-amd-technology/"><u>Power and Performance Unleashed: The Ultimate Look at the Lenovo ThinkPad Z16 Gen 2 Featuring AMD Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-refreshing-your-windows-pcs-sound-card-driver/"><u>Step-by-Step Guide: Refreshing Your Windows PC's Sound Card Driver</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-how-to-master-zoom-in-windows-10-for-2024/"><u>Step-by-Step How to Master Zoom in Windows 10 for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-process-for-transferring-your-vcenter-installation-easy-shift-to-newer-host-servers-including-vmotion-considerations/"><u>Step-by-Step Process for Transferring Your vCenter Installation - Easy Shift to Newer Host Servers, Including vMotion Considerations</u></a></li>
+<li><a href="https://common-error.techidaily.com/streamline-your-workflow-with-windows-10-file-explorer-help/"><u>Streamline Your Workflow with Windows 10 File Explorer Help</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-meta-verification-value-for-investment/"><u>Understanding Meta Verification: Value for Investment?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-complications-of-apples-do-it-yourself-repair-scheme/"><u>Unraveling the Complications of Apple's Do-It-Yourself Repair Scheme</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-artemis-1-liftoff-by-nasa-tips-on-streaming-the-event-live/"><u>Upcoming Artemis 1 Liftoff by NASA - Tips on Streaming the Event Live</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: EU Orders Apple to Pay €1.9B Fine Over Violations of Competitive Rules in App Distribution | ZDNET News
-date: 2025-01-25T19:05:37.742Z
-updated: 2025-01-30T16:15:41.020Z
+date: 2025-02-08T23:02:03.712Z
+updated: 2025-02-12T07:49:30.693Z
 tags:
   - apple
 categories:
@@ -85,22 +85,20 @@ This fine is another notch in the EU's belt to level European competition among 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-inshot-is-it-the-pinnacle-of-editing/"><u>[New] Exploring InShot Is It the Pinnacle of Editing?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-masterclass-5-in-best-mac-videography-software/"><u>[New] Masterclass 5 in Best Mac Videography Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gaming-history-told-by-top-video-makers/"><u>[Updated] In 2024, Gaming History Told by Top Video Makers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-download-the-official-samsung-m2020-printing-software-here/"><u>Find and Download the Official Samsung M2020 Printing Software Here</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-motorola-moto-g13-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Motorola Moto G13? Try These Fixes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/how-to-use-a-whiteboard-in-google-meet/"><u>How to Use a Whiteboard in Google Meet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme GT Neo 5</u></a></li>
-<li><a href="https://win11.techidaily.com/next-level-windows-paving-the-ai-way-forward/"><u>Next-Level Windows: Paving the AI Way Forward</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-adjusting-your-laptop-display-orientation/"><u>Step-by-Step Guide: Adjusting Your Laptop Display Orientation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-to-restore-windows-11s-greyed-out-sync-features/"><u>Step-by-Step Solution to Restore Windows 11'S Greyed-Out Sync Features</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-15-budget-friendly-webm-players-that-work-flawlessly-for-2024/"><u>Top 15 Budget-Friendly WebM Players That Work Flawlessly for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trouble-with-skype-on-windows-10-here-are-5-quick-fixes-to-reconnect-and-start-chatting-again/"><u>Trouble with Skype on Windows 10? Here Are 5 Quick Fixes to Reconnect and Start Chatting Again</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-how-to-fix-ssltls-handshake-errors-on-windows/"><u>Troubleshooting Guide: How to Fix SSL/TLS Handshake Errors on Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-exclusive-discounts-on-economical-gopro-cameras-for-2024/"><u>[New] Exclusive Discounts on Economical GoPro Cameras for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-master-meetings-the-ultimate-list-of-10-free-recorders/"><u>[New] In 2024, Master Meetings The Ultimate List of 10 Free Recorders</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-master-the-art-of-audible-social-media-posts-without/"><u>[Updated] Master the Art of Audible Social Media Posts (Without)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-freeframe-studio-gameplay-capture-made-simple-in-24/"><u>2024 Approved FreeFrame Studio Gameplay Capture Made Simple in '24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-spark-10c-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Spark 10C</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simplifying-multitasking-with-androids-picture-in-picture-functionality/"><u>Simplifying Multitasking with Android's Picture-in-Picture Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-effective-solutions-for-non-functioning-samsung-soundbars/"><u>Solving Common Issues: Effective Solutions for Non-Functioning Samsung Soundbars</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-turning-off-closed-captions-on-amazon-prime-for-better-viewing/"><u>Step by Step: Turning Off Closed Captions on Amazon Prime for Better Viewing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-rated-apps-for-instagrams-vertical-igtv-content-enhancement/"><u>Top-Rated Apps for Instagram's Vertical IGTV Content Enhancement</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-d3dx925dll-error-effective-strategies-and-tips/"><u>Troubleshooting Missing d3dx9_25.dll Error: Effective Strategies and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-capturing-images-with-your-computer-screen/"><u>Ultimate Guide: Capturing Images with Your Computer Screen</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

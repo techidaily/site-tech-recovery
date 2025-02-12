@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Insights on Pros and Cons From ZDNet Editors
-date: 2025-01-26T20:44:34.469Z
-updated: 2025-01-30T17:26:55.457Z
+date: 2025-02-06T08:47:18.259Z
+updated: 2025-02-11T18:42:45.033Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,18 +124,18 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>[Updated] From Selfies to Subscribers Jake Paul’s Online Odyssey</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-review-of-the-robust-and-elite-fugetek-ft-568-selfie-stick-for-capturing-perfect-photos/"><u>Comprehensive Review of the Robust and Elite Fugetek FT-568 Selfie Stick for Capturing Perfect Photos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-email-troubles-could-aol-mail-be-the-culprit-or-might-there-be-another-issue/"><u>Deciphering Email Troubles: Could AOL Mail Be the Culprit or Might There Be Another Issue?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-eliminating-crackling-sounds-from-pc-speakers-on-windowss/"><u>Expert Advice: Eliminating Crackling Sounds From PC Speakers on Windowss</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722123130639-explore-the-best-no-cost-substitutes-for-openain-sora-top-6-picks-revealed/"><u>Explore the Best No-Cost Substitutes for OpenAI'n Sora: Top 6 Picks Revealed</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-find-x6-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo Find X6 Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-expert-video-upload-techniques-for-youtube-via-premiere/"><u>In 2024, Expert Video Upload Techniques for YouTube via Premiere</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-complete-manual-to-perfect-proportions-in-youtube-videosshortsads/"><u>In 2024, The Complete Manual to Perfect Proportions in YouTube Videos/Shorts/Ads</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/m4-mac-mini-news-and-expected-price-release-date-specs-and-more-rumors/"><u>M4 Mac Mini: News and Expected Price, Release Date, Specs; and More Rumors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-streaming-from-pclaptop-to-tv-using-hdmi-connection/"><u>Step-by-Step Tutorial: Streaming From PC/Laptop to TV Using HDMI Connection</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ltimate-12-selection-of-smart-flip-screen-vlog-cameras/"><u>The Ultimate 12 Selection of Smart Flip-Screen Vlog Cameras</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-repairing-your-non-functional-macbook-pro-keyboard/"><u>Troubleshooting Guide: Repairing Your Non-Functional MacBook Pro Keyboard</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-dividing-drama-how-to-split-vimeo-videos/"><u>[New] In 2024, Dividing Drama How to Split Vimeo Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-30-pro-windows-10-secrets-revealed/"><u>[New] Top 30 Pro Windows 10 Secrets Revealed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-best-flying-toys-for-kids-and-family-fun-for-2024/"><u>[Updated] Best Flying Toys for Kids & Family Fun for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-complete-guide-to-iphone-voice-memos-setup-for-2024/"><u>[Updated] The Complete Guide to iPhone Voice Memos Setup for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparing-competitors-how-recuva-leads-the-charge-in-data-rescue-tools/"><u>Comparing Competitors: How Recuva Leads the Charge in Data Rescue Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ructing-youtube-video-content-that-resonates-with-viewers/"><u>Constructing YouTube Video Content That Resonates with Viewers</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1726028695991-dvd-ripper-pro/"><u>DVD Ripper Proインストール・アンインストールの完全ガイド:迷いなく実行するためのヒント</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971057638-effortless-installation-get-your-wacom-drivers-now/"><u>Effortless Installation: Get Your Wacom Drivers Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elite-gamers-guide-to-optimal-compact-computing-machines/"><u>Elite Gamer's Guide to Optimal Compact Computing Machines</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-restore-and-replace-a-lost-d3d9dll-file-effectively/"><u>How to Restore and Replace a Lost d3d9.dll File Effectively</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-science-of-writing-gripping-documentaries/"><u>In 2024, The Science of Writing Gripping Documentaries</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-pros-playbook-mastering-the-art-of-capturing-ps4-gaming-for-2024/"><u>The Pro's Playbook Mastering the Art of Capturing PS4 Gaming for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/xbox-one-wont-connect-a-comprehensive-guide-to-correcting-the-no-signal-error/"><u>Xbox One Won't Connect: A Comprehensive Guide to Correcting the 'No Signal' Error</u></a></li>
 </ul></div>
 

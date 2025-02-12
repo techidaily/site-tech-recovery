@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights From ZDNet"
-date: 2025-01-23T17:29:33.957Z
-updated: 2025-01-30T18:01:36.009Z
+date: 2025-02-09T20:32:35.475Z
+updated: 2025-02-12T07:51:30.600Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8fc6b51a-545c-47ed-9fa6-87cbc8d2712f%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,24 +62,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/rom-chaos-to-order-youtube-playlists-unveiled-for-2024/"><u>[New] From Chaos to Order YouTube Playlists Unveiled for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-innovative-vocal-alteration-apps-beyond-echo-magic-for-2024/"><u>[New] Innovative Vocal Alteration Apps Beyond Echo Magic for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-top-8-no-cost-4k-uhd-players-for-win-and-mac-users/"><u>[Updated] 2024 Approved Top 8 No-Cost, 4K UHD Players for Win & Mac Users</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-comparing-messaging-services-discord-versus-skype-revealed-for-2024/"><u>[Updated] Comparing Messaging Services Discord Versus Skype Revealed for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-icebound-duelists-celebrating-the-best-of-winter-olympics-snowboard-x/"><u>[Updated] Icebound Duelists Celebrating the Best of Winter Olympics Snowboard X</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-economical-4k-digital-video-devices/"><u>2024 Approved Economical 4K Digital Video Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-examining-audio-and-visual-content-podcasts-against-youtube/"><u>2024 Approved Examining Audio and Visual Content Podcasts Against YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-mobile-capture-the-ultimate-10-video-friendly-phones/"><u>2024 Approved Prime Mobile Capture The Ultimate 10 Video-Friendly Phones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>2024 Approved Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-methods-to-implement-and-test-a-website-ping-strategy/"><u>Easy Methods to Implement and Test a Website Ping Strategy</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-undo-deletion-and-get-back-lost-emails-from-your-microsoft-outlook-inbox/"><u>How to Undo Deletion and Get Back Lost Emails From Your Microsoft Outlook Inbox</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-s18-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo S18? Try These Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-of-ipad-pro-m4-versus-macbook-air-which-one-wins-out/"><u>In-Depth Analysis of IPad Pro (M4) Versus MacBook Air: Which One Wins Out?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/messenger-solo-how-to-enjoy-chat-features-without-a-facebook-profile/"><u>Messenger Solo: How to Enjoy Chat Features without a Facebook Profile</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/must-have-the-ultimate-list-of-5-key-services-for-twitch-content-creators/"><u>Must-Have: The Ultimate List of 5 Key Services for Twitch Content Creators</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/travel-smart-mastering-roku-connection-in-accommodations-and-academic-settings/"><u>Travel Smart: Mastering Roku Connection in Accommodations and Academic Settings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-step-by-step-tutorial-on-building-a-custom-projector-screen/"><u>Ultimate Step-by-Step Tutorial on Building a Custom Projector Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-apple-watch-series-x-anticipated-launch-details-cost-projections-and-latest-industry-buzz/"><u>Unveiling Apple Watch Series X: Anticipated Launch Details, Cost Projections & Latest Industry Buzz</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-meta-quest-3-lite-revealed-anticipated-costs-launch-timeline-and-potential-features/"><u>Upcoming Meta Quest 3 Lite Revealed: Anticipated Costs, Launch Timeline & Potential Features</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-elite-edits-10-superior-alternatives-to-vimeo-cameos/"><u>[New] Elite Edits 10 Superior Alternatives to Vimeo Cameos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-thrilling-adventures-captured-pro-hero5-and-super-sj7/"><u>[Updated] Thrilling Adventures Captured Pro Hero5 & Super SJ7</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-comparing-future-cloud-bill-predictions/"><u>2024 Approved Comparing Future Cloud Bill Predictions</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-websites-easy-alarm-ringtone-downloads/"><u>2024 Approved Ultimate Websites Easy Alarm Ringtone Downloads</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970175-9781088235546-con-el-amor-no-se-juega/"><u>Con el Amor no se Juega | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cross-compatibility-success-syncing-your-logitech-bluetooth-mouse-with-a-variety-of-receivers/"><u>Cross-Compatibility Success: Syncing Your Logitech Bluetooth Mouse with a Variety of Receivers.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-rumors-surrounding-apples-electric-vehicle-uncover-potential-price-points-and-features/"><u>Exclusive Rumors Surrounding Apple's Electric Vehicle: Uncover Potential Price Points and Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/msvcr80dll-error-solutions-how-to-restore-the-missing-file-effectively/"><u>mSVCR80.DLL Error Solutions: How to Restore the Missing File Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-major-league-baseball-the-show-21-servers-back-online/"><u>Resolved: Major League Baseball The Show 21 Servers Back Online</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/transforming-social-media-videography-to-hd-clarity-fb-for-2024/"><u>Transforming Social Media Videography to HD Clarity (FB) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-photography-success-6-key-tips-for-picking-outstanding-selfie-props/"><u>Unlocking Photography Success: 6 Key Tips for Picking Outstanding Selfie Props</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-apple-ring-anticipated-costs-launch-timeline-features-and-latest-buzz/"><u>Unveiling the Apple Ring: Anticipated Costs, Launch Timeline, Features & Latest Buzz</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-tesla-mobile-device-anticipated-price-launch-timeline-and-potential-features/"><u>Unveiling the Tesla Mobile Device: Anticipated Price, Launch Timeline & Potential Features</u></a></li>
 </ul></div>
 

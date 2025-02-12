@@ -1,7 +1,7 @@
 ---
 title: \\[A = W \\Times L \\
-date: 2025-01-27T20:45:43.845Z
-updated: 2025-01-30T16:15:21.239Z
+date: 2025-02-10T18:23:24.646Z
+updated: 2025-02-12T08:34:36.589Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | **Google Pixel 6 Pro** | **iPhone 13 Pro**                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                             |
@@ -45,11 +41,19 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Colors                 | Cloudy White, Sorta Sunny, Stormy Black                                                                                                                                      | Alpine Green, Silver, Gold, Graphite, Sierra Blue                                                                                                                                                                                                                                                                                                           |
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 ---
 
 ##  You should buy the Google Pixel 6 Pro if…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You want fun and experimental camera features
 
@@ -68,7 +72,7 @@ While Apple's iPhones have made significant improvements to battery life since t
 CNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want a sleek, innovative design
@@ -81,11 +85,11 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 
 [Buy the Google Pixel 6 Pro $418.88 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HYR2NC8%2Fref%3Dasc%5Fdf%5FB09HYR2NC81727521200000%3Fcreative%3D395261%26creativeASIN%3DB09HYR2NC8%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5b1293-c7f0-4074-bebc-aa1278013569%7Cdtp&dtb=1)
 
-##  You should buy the iPhone 13 Pro if...
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+##  You should buy the iPhone 13 Pro if...
 
 ###  1\. You want cinematic camera features
 
@@ -99,10 +103,6 @@ The iPhone 13 Pro also features new photographic styles. Different from your typ
 
 Lastly, Cinematic Mode shoots videos with a soft, out-of-focus background so that the subject of interest and the depth map are kept separate. With AI processing, the focus can intelligently shift when the subject turns around and his or her back is then facing the camera. Overall, the special mode gives a more movie-like quality to your iPhone videos 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You own other Apple products (AirPods, Apple Watch, iPad, MacBook, etc.)
 
 There's a reason for Apple's cult following and customer loyalty. Its products have always followed a "strength in numbers" philosophy, enhancing existing services when more than one device is integrated. This interlocking of hardware and software is best described as Apple's walled garden, making it difficult for users to switch out once they're invested. 
@@ -112,7 +112,7 @@ While not an actual product, the Apple ecosystem is still very much part of the 
 Image: Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
@@ -153,14 +153,20 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-ios-and-desktop-leaders-in-effortless-video-to-file-conversion-for-2024/"><u>[New] IOS and Desktop Leaders in Effortless Video to File Conversion for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unlock-the-power-of-product-placements-a-comprehensive-guide-for-youtubers/"><u>[Updated] 2024 Approved Unlock the Power of Product Placements A Comprehensive Guide for YouTubers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-virtual-quest-evaluating-current-progress-and-potential-hurdles-for-2024/"><u>[Updated] The Virtual Quest Evaluating Current Progress & Potential Hurdles for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-10-leading-substitutes-for-chatgpt-in-todays-market/"><u>Discover the 10 Leading Substitutes for ChatGPT in Today's Market</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-seamless-integration-of-multiple-audio-layers-creating-a-consolidated-master-file/"><u>New In 2024, Seamless Integration of Multiple Audio Layers Creating a Consolidated Master File</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-tecno-spark-go-2023-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Tecno Spark Go (2023) FRP</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722865361052-the-next-big-thing-detailed-specs-and-pricing-of-the-forthcoming-apple-ring-revealed/"><u>The Next Big Thing? Detailed Specs and Pricing of the Forthcoming Apple Ring Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899120997-upcoming-google-tv-streaming-device-latest-info-on-costs-launch-timeline-features-and-hidden-gossip/"><u>Upcoming Google TV Streaming Device - Latest Info on Costs, Launch Timeline, Features & Hidden Gossip!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-to-look-forward-to-at-the-next-google-update-rumors-news-and-highlights/"><u>What to Look Forward to at the Next Google Update: Rumors, News, and Highlights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-choice-optimal-free-srt-translation-services/"><u>[Updated] Mastering Choice Optimal Free SRT Translation Services</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-thorough-examination-of-gecata-recorder-for-2024/"><u>[Updated] Thorough Examination of Gecata Recorder for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-rapid-fire-creation-of-google-collage-photos/"><u>2024 Approved Rapid-Fire Creation of Google Collage Photos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehve-guide-adding-an-extra-layer-of-defense-with-gmails-dual-authentication-process/"><u>Comprehve Guide: Adding An Extra Layer of Defense with Gmail's Dual Authentication Process</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-digital-to-analog-converters-dac-necessity-or-not-for-your-devices/"><u>Decoding Digital-to-Analog Converters (DAC): Necessity or Not for Your Devices?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-printer-to-computer-file-transfer-tutorial-for-effortless-printing-solutions/"><u>DIY Printer-to-Computer File Transfer Tutorial for Effortless Printing Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminate-interference-a-step-by-step-guide-to-fixing-noisy-outputs-from-the-arctiaudio-7-in-windows-environments/"><u>Eliminate Interference: A Step-by-Step Guide to Fixing Noisy Outputs From the ArctiAudio 7 in Windows Environments</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-low-cost-hd-cameras-for-sports-enthusiasts/"><u>Essential Low-Cost HD Cameras for Sports Enthusiasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sensory-storytelling-crafting-engaging-food-videos/"><u>In 2024, Sensory Storytelling Crafting Engaging Food Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unveiling-the-secrets-of-vr-filmmaking-with-advanced-techniques-using-adobe-premiere-pro/"><u>In 2024, Unveiling the Secrets of VR Filmmaking with Advanced Techniques Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/infusing-action-into-portraits-motion-blur-with-picsart-for-2024/"><u>Infusing Action Into Portraits Motion Blur with Picsart for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/mastering-multilingual-pcs-alter-the-default-keyboard-setting-in-windows-1nce-with-yl-solutions/"><u>Mastering Multilingual PCs: Alter the Default Keyboard Setting in Windows 1Nce with YL Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-uninterruptible-power-supply-ups-systems/"><u>Top-Rated Uninterruptible Power Supply (UPS) Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-mastering-the-safe-list-feature-in-gmail/"><u>Ultimate Guide: Mastering the Safe List Feature in Gmail</u></a></li>
 </ul></div>
 

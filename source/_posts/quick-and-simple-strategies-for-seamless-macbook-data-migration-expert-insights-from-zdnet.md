@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet
-date: 2025-01-28T17:36:34.807Z
-updated: 2025-01-30T19:18:36.976Z
+date: 2025-02-11T08:30:08.281Z
+updated: 2025-02-11T18:51:48.352Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +44,6 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -55,6 +51,10 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,20 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-seekingsuperiorcameraspost-mycam/"><u>[Updated] SeekingSuperiorCamerasPost-MyCam</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-huawei-nova-y71-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Huawei Nova Y71 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-steps-to-change-your-smartphones-display-cover/"><u>Complete Guide: Steps to Change Your Smartphone's Display Cover</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-review-of-premier-video-call-applications-for-groups/"><u>Comprehensive Review of Premier Video Call Applications for Groups</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-top-12-free-disk-defragmenters-to-boost-your-system-in-july-2024/"><u>Discover the Top 12 Free Disk Defragmenters to Boost Your System in July 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-horizon-zero-dawn-gameplay-boosting-fps-and-performance-fixes/"><u>Enhance Horizon Zero Dawn Gameplay: Boosting FPS & Performance Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-ai-is-reshaping-our-future-exploring-its-remarkable-possibilities/"><u>How AI Is Reshaping Our Future: Exploring Its Remarkable Possibilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-consolidate-your-jpg-photos-into-one-efficient-pdf-format/"><u>How to Consolidate Your JPG Photos Into One Efficient PDF Format</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-efficiently-change-your-audio-from-m4a-to-crisp-lossless-flac-a-step-by-step-guide/"><u>How to Efficiently Change Your Audio From M4A to Crisp, Lossless FLAC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-transform-your-azw-ereader-file-into-a-portable-mobile-compatible-mobi-book/"><u>How To Transform Your AZW eReader File Into a Portable, Mobile Compatible MOBI Book</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/i-piu-ottimi-player-video-4k-ultra-hd-per-pcmac-download-gratuiti-con-valutazioni-esclusive/"><u>I Più Ottimi Player Video 4K Ultra HD per PC/Mac: Download Gratuiti Con Valutazioni Esclusive</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-microsoft-teams-a-step-by-step-guide-for-windows-users/"><u>Mastering Microsoft Teams: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimal-series-premium-webcam-grips-for-2024/"><u>Optimal Series Premium Webcam Grips for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/strategies-for-integrating-meta-ai-technology-into-your-instagram-presence/"><u>Strategies for Integrating Meta AI Technology Into Your Instagram Presence</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-crucial-6-platforms-enhancing-commercial-relations-for-2024/"><u>[Updated] Crucial 6 Platforms Enhancing Commercial Relations for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-your-video-subtitles-on-youtube/"><u>[Updated] Perfect Your Video Subtitles on YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-star-moment-analysis/"><u>2024 Approved Vimeo Star Moment Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-iphone-users-disable-or-erase-default-system-apps/"><u>Can iPhone Users Disable or Erase Default System Apps?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comparison-ps5-slim-vs-standard-ps5-key-differences-revealed/"><u>Comparison: PS5 Slim Vs. Standard PS5 - Key Differences Revealed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-google-pixel-fold-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Google Pixel Fold Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-fixes-for-your-msxml4dll-file-not-being-located-or-accessible/"><u>Easy Fixes for Your MsXML4.dll File Not Being Located or Accessible</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elite-selection-of-keyboard-palm-supports-whats-new/"><u>Elite Selection of Keyboard Palm Supports - What's New</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-wireless-earbud-connectivity-abbyys-guide-on-pairing-and-securing-passwords/"><u>Enhancing Wireless Earbud Connectivity: ABBYY's Guide on Pairing & Securing Passwords</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-engage-in-tiktok-duets-a-comprehensive-guide/"><u>How to Engage in TikTok Duets - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-restore-libcurldll-a-comprehensive-error-fix-guide/"><u>How To Restore Libcurl.dll: A Comprehensive Error Fix Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-uncover-hidden-5ghz-networks-in-windows-11-using-7-tips/"><u>How to Uncover Hidden 5GHz Networks in Windows 11 Using 7 Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/luxury-meets-value-exceptional-high-end-tech-on-a-shoestring/"><u>Luxury Meets Value: Exceptional High-End Tech on a Shoestring</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/resolving-hardware-issues-effectively-with-tips-from-yl-tech-experts/"><u>Resolving Hardware Issues Effectively with Tips From YL Tech Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tailoring-your-route-adding-multiple-destinations-on-google-maps-easily/"><u>Tailoring Your Route: Adding Multiple Destinations on Google Maps Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-incorporating-text-captions-into-your-ig-stories/"><u>The Ultimate Tutorial on Incorporating Text Captions Into Your IG Stories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-recommended-smartwatch-applications-for-your-android-device/"><u>Top Recommended Smartwatch Applications for Your Android Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgrade-your-viewing-experience-with-tcls-enhanced-q-and-s-series-lineup-now-including-1-19-cutting-edge-models/"><u>Upgrade Your Viewing Experience With TCL's Enhanced Q and S Series Lineup, Now Including 1 19 Cutting-Edge Models</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity on Mac: Crafting Customized Focus Modes in macOS Monterey to Dodge Distractions | ZDNET Insights"
-date: 2025-01-12T17:34:16.711Z
-updated: 2025-01-16T23:19:13.241Z
+date: 2025-02-10T04:59:36.078Z
+updated: 2025-02-12T06:58:21.353Z
 tags:
   - apple
 categories:
@@ -26,15 +26,23 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -45,7 +53,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -55,10 +63,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -76,10 +80,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,17 +140,19 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/est-practices-in-youtube-keyword-selection/"><u>[New] Best Practices in YouTube Keyword Selection</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/lean-soundscape-youtube-audio-enhancement-guide-for-2024/"><u>[New] Clean Soundscape YouTube Audio Enhancement Guide for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-to-ioss-best-psp-gaming-tools/"><u>[New] The Ultimate Guide to iOS's Best PSP Gaming Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-efficient-live-gaming-broadcasting-on-xbox-for-2024/"><u>[Updated] Efficient Live Gaming Broadcasting on Xbox for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-comprehensive-guide-to-perfecting-facetime-call-screen-captures/"><u>[Updated] In 2024, Comprehensive Guide to Perfecting FaceTime Call Screen Captures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-the-new-apple-m3-pro-and-max-chipsets-insights-for-savvy-shoppers/"><u>Comprehensive Guide to the New Apple M3, Pro, and Max Chipsets: Insights for Savvy Shoppers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-improvements-for-android-how-it-can-surpass-ios-as-the-preferred-mobile-os-zdnet-insights/"><u>Essential Improvements for Android: How It Can Surpass iOS as the Preferred Mobile OS (ZDNet Insights)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-how-to-effortlessly-migrate-your-whatsapp-messages-and-contacts-from-an-android-phone-to-an-iphone/"><u>Guide: How to Effortlessly Migrate Your WhatsApp Messages and Contacts From an Android Phone to an iPhone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-tecno-spark-go-2023-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Tecno Spark Go (2023) Phone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tech-insight-how-apple-is-advancing-ai-based-domestic-bots-showcasing-two-innovative-creations-the-verge/"><u>Tech Insight: How Apple Is Advancing AI-Based Domestic Bots, Showcasing Two Innovative Creations | The Verge</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-amazon-offers-in-september-2024-exclusive-insights/"><u>Top Amazon Offers in September 2024 - Exclusive Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-gopro-innovations-a-side-by-side-exploration/"><u>[New] 2024 Approved GoPro Innovations A Side-by-Side Exploration</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-micro-business-video-advertising-insights/"><u>[New] 2024 Approved Micro-Business Video Advertising Insights</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-experts-list-of-tools-for-accelerating-your-facebook-vids/"><u>[Updated] 2024 Approved The Expert's List of Tools for Accelerating Your Facebook Vids</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-mr-beast-financial-evolution-analysis/"><u>2024 Approved Mr. Beast Financial Evolution Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726225076553-movavi-wmv-m4v/"><u>移動網站無需付費，使用 Movavi 轉換工具從 WMV改成 M4V</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ape-to-mp4-quick-and-easy-free-online-tool-by-movavi/"><u>APE to MP4 - Quick and Easy Free Online Tool by Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cambia-facilmente-imagenes-webp-a-formato-jpg-sin-coste-guia-de-movavi/"><u>Cambia Fácilmente Imágenes WEBP a Formato JPG Sin Coste: Guía De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cambia-tus-archivos-mp4-a-formato-de-video-mov-sin-coste-con-el-convertidor-mas-rapido-y-facil-online-movavi/"><u>Cambia Tus Archivos MP4 a Formato De Vídeo MOV Sin Coste Con El Convertidor Más Rápido Y Fácil Online: Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-screenshot-edits-on-your-mac-the-ultimate-guide-to-6-cost-free-tools-by-movavi/"><u>Mastering Screenshot Edits on Your Mac: The Ultimate Guide to 6 Cost-Free Tools by Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-airplay-errors-effective-strategies-and-tips-for-uninterrupted-playback/"><u>Resolving AirPlay Errors: Effective Strategies and Tips for Uninterrupted Playback</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-on-the-latest-computer-components/"><u>Tom's Tech: Insights on the Latest Computer Components</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/troubleshooting-guide-successfully-overcoming-vcenters-file-system-and-network-service-hurdles/"><u>Troubleshooting Guide: Successfully Overcoming vCenter's File System & Network Service Hurdles</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728466942551-windows-11-3/"><u>Windows 11における最優秀なデータクリア戦略: 上位3選択肢</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/amv-movavi-style/"><u>オンラインでのただ今無料AMV変換 - Movavi Style</u></a></li>
 </ul></div>
 

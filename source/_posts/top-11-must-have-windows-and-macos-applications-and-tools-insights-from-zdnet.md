@@ -1,7 +1,7 @@
 ---
 title: Top 11 Must-Have Windows & macOS Applications and Tools - Insights From ZDNet
-date: 2025-01-14T00:58:08.281Z
-updated: 2025-01-17T00:29:33.373Z
+date: 2025-02-04T16:37:25.707Z
+updated: 2025-02-12T05:29:38.695Z
 tags:
   - apple
 categories:
@@ -18,10 +18,6 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [Home Office Tours ZDNet contributors welcome you inside their home-based workspaces and show off the tech gear that drives their productivity.  Read now](https://www.zdnet.com/topic/home-office-tours/)
@@ -34,6 +30,10 @@ Of course, this selection reflects my work habits and my personal preferences. Y
 
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Productivity
 
 Show less 
@@ -41,10 +41,6 @@ Show less
 [View now at Microsoft](https://microsoft-us.evyy.net/c/159047/434427/3327?u=https://www.microsoft.com/en-us/microsoft-365/business//&subid1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&sharedId=zdnet)
 
 ## Microsoft 365 apps for Business
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It's not just a bundle anymore
 
@@ -71,6 +67,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at OneNote](https://www.onenote.com/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## OneNote
 
@@ -102,11 +102,11 @@ Show less
 
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
-## Quicken Home and Business
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Quicken Home and Business
 
 ### I hate it, but I use it
 
@@ -124,10 +124,6 @@ Show less
 
 ## Microsoft Edge (Chromium)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The only browser I need on the desktop
 
 For as long as I can remember, I've used at least two browsers on the desktop. If a site balked at loading in one browser, I switched to the other and carried on. That all stopped last year when Microsoft finally gave up on its dreams of maintaining the ancient Trident rendering engine and decided to embrace the de facto open-source Chromium standard. The new Microsoft Edge browser is, as far as most websites are concerned, just another instance of Google Chrome, with support for all the extensions written for that juggernaut. The big difference is that Edge includes tracking prevention features that keep companies like Facebook and Google and, yes, even Microsoft from building a dossier of your online movements.
@@ -141,7 +137,7 @@ Show less
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1Password
@@ -174,11 +170,11 @@ Show less
 
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Spotify Music
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### No music app is perfect, but Spotify is best all around
 
@@ -193,10 +189,14 @@ Show less
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VLC Media Player
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Free, open source, handles every format imaginable
 
@@ -209,13 +209,13 @@ Show less
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MediaMonkey
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A Swiss Army knife for digital media
@@ -256,22 +256,24 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-illuminating-path-to-stellar-android-video-quality/"><u>[New] Illuminating Path to Stellar Android Video Quality</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elevate-video-quality-with-vlcs-high-resolution-webcam-recording/"><u>[New] In 2024, Elevate Video Quality with VLC's High-Resolution Webcam Recording</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ultimate-guide-to-use-video-enhancer-22/"><u>[Updated] 2024 Approved Ultimate Guide To Use Video Enhancer 2.2</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-achieving-youtube-mastery-with-effective-use-of-creator-studio-tools/"><u>[Updated] Achieving YouTube Mastery with Effective Use of Creator Studio Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-i-found-liquid-inside-my-iphones-charger-port-what-can-i-do-expert-solutions-unveiled/"><u>1. 'I Found Liquid Inside My iPhone's Charger Port: What Can I Do?' Expert Solutions Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beginners-blueprint-for-configuring-your-new-ipad-insights/"><u>Beginner's Blueprint for Configuring Your New iPad: Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/buying-apple-vision-pro-simplified-insider-tips-for-perfect-face-scans-and-ordering-success-techadvice/"><u>Buying Apple Vision Pro Simplified: Insider Tips for Perfect Face Scans and Ordering Success | TechAdvice</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/comparative-guide-to-pt-button-usage-europe-and-brazil/"><u>Comparative Guide to PT Button Usage, Europe and Brazil</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-charging-and-temperature-control-discover-how-to-keep-your-iphoneipadmac-fresh-with-zdnets-top-3-in-1-magsafe-dock/"><u>Effortless Charging & Temperature Control: Discover How to Keep Your iPhone/iPad/Mac Fresh with ZDNet's Top 3-in-1 MagSafe Dock!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-top-screen-changers-for-vivid-virtual-imagery/"><u>In 2024, Top Screen Changers for Vivid Virtual Imagery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximize-efficiency-on-macos-using-speedy-shortcut-actions-insider-tips-and-tricks-from-zdnet/"><u>Maximize Efficiency on macOS Using Speedy Shortcut Actions - Insider Tips & Tricks From ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/secure-your-newest-ipad-9th-generation-at-a-steal-only-250-post-apple-launch-check-out-now-on-zdnet/"><u>Secure Your Newest iPad (9Th Generation) at a Steal - Only $250 Post-Apple Launch! Check Out Now on ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-upgrading-to-current-targus-displaylink-drivers-on-win-1187/"><u>Step-by-Step Tutorial: Upgrading to Current Targus DisplayLink Drivers on Win 11/8/7</u></a></li>
-<li><a href="https://win11.techidaily.com/top-6-windows-11-compatible-android-apps-worth-your-time/"><u>Top 6 Windows 11 Compatible Android Apps Worth Your Time</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-protectors-for-iphone-16-and-pro-models-comprehensive-review-by-tech-gurus-zdnet/"><u>Top-Rated Protectors for iPhone 16 & Pro Models : Comprehensive Review by Tech Gurus - ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-choosing-the-perfect-ipad-pro-case-in-202email-protected-thoroughly-reviewed-and-recommended-toms-hardware/"><u>Ultimate Guide to Choosing the Perfect iPad Pro Case in 202([Email Protected]) - Thoroughly Reviewed and Recommended | Tom's Hardware</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/windows-11-outlook-backup-made-easy/"><u>Windows 11 Outlook Backup Made Easy</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-amplify-your-snapchat-experience-with-easy-voice-customization/"><u>[New] In 2024, Amplify Your Snapchat Experience with Easy Voice Customization</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-beyond-imagination-vr-powered-movies/"><u>[New] In 2024, Beyond Imagination VR-Powered Movies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-sharpen-your-focus-tips-for-zooming-inout-on-instagram-stories/"><u>[Updated] Sharpen Your Focus Tips for Zooming In/Out on Instagram Stories</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-zooming-in-a-guide-to-tight-shots-in-microsoft-teams-for-2024/"><u>[Updated] Zooming In A Guide to Tight Shots in Microsoft Teams for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-movavi-video-suite-purchase-guide-secure-discounted-deals-for-safe-downloads/"><u>1. Movavi Video Suite Purchase Guide - Secure Discounted Deals for Safe Downloads</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/20235-dvdmp4/"><u>2023年のトップ5: DVDからMP4へ自由給付で変換する効果的な方法</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-from-basic-to-advanced-understanding-dynamic-range-imaging/"><u>2024 Approved From Basic to Advanced Understanding Dynamic Range Imaging</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-compatibility-startech-drivers-for-windows-operating-systems-windows-1087/"><u>Fixing Compatibility: StarTech Drivers for Windows Operating Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transform-rmvb-files-to-mp4-format-with-movavi/"><u>Free Online Conversion: Transform RMVB Files to MP4 Format with Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-online-converter-flac-in-m4r-format-transformeren/"><u>Gratis Online Converter - Flac in M4r Format Transformeren</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-verbeterde-konvertor-van-bmp-naar-jpeg-online-veilig-en-efficient-met-movavi/"><u>Gratuit Verbeterde Konvertor Van BMP Naar JPEG: Online Veilig en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuito-online-convertidor-de-archivos-aif-a-m4a-con-movavi-version-gratuita/"><u>Gratuito Online: Convertidor De Archivos AIF a M4A Con Movavi - Versión Gratuita</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-motorola-moto-g84-5g-by-drfone-android/"><u>How to Bypass FRP from Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726220809867-movavi/"><u>Movavi 유럽에서 무제한 제공 - 이미지, 영상 및 비디오 편집 기술</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movaviwav3gp/"><u>Movaviで簡単な方法：WAVからフリーオンラインの3GPへの変換</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-complete-users-manual-to-youtube-editing-via-finalcut-pro/"><u>The Complete User's Manual to YouTube Editing via FinalCut Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-stop-blender-from-crashing-on-windowsmac-os/"><u>Troubleshooting Steps to Stop Blender From Crashing on Windows/Mac OS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unveiling-the-action-potential-of-polaroids-camplus/"><u>Unveiling the Action Potential of Polaroid's Cam+</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726221884033-aiffogg-movavi/"><u>이제는 AIFF/OGG로 바꾸기: 무료 인터넷 변환 해커를 위해 Movavi가 제공하는 가장 강력한 도구</u></a></li>
 </ul></div>
 

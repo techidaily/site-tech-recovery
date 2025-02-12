@@ -1,7 +1,7 @@
 ---
 title: "The Unplanned Buy: How I Ended Up Snagging Apple's Newest $17 USB-C EarPods During Amazon's Prime Day - Insights"
-date: 2025-01-11T17:23:51.444Z
-updated: 2025-01-17T02:51:07.922Z
+date: 2025-02-06T02:00:43.906Z
+updated: 2025-02-12T08:00:45.837Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Secondly, the microphone quality on Apple's wired EarPods is some of the best I'
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07954c1a-32c2-42e1-801d-d6490068090c%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,16 +71,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-postmycam-seeking-top-notch-alternatives-for-2024/"><u>[Updated] PostMyCam Seeking Top-Notch Alternatives for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-indispensable-ios-16-tools-a-step-by-step-guide-based-on-zdnets-insights/"><u>Discover the Indispensable iOS 16 Tools: A Step-by-Step Guide Based on ZDNet's Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dyson-unveils-ontrac-wireless-a-challenger-to-apples-airpods-pro-and-max-tech-insights-on-zdnet/"><u>Dyson Unveils OnTrac Wireless: A Challenger to Apple's AirPods Pro & Max - Tech Insights on ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/insight-into-autopilot-mode-discovering-the-reason-behind-self-starting-windows-11-systems/"><u>Insight Into Autopilot Mode: Discovering the Reason Behind Self-Starting Windows 11 Systems</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-best-free-mpeg-video-stitching-software/"><u>New The Best Free MPEG Video Stitching Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/reverse-viewing-crafts-creative-youtube-video-methods-for-2024/"><u>Reverse Viewing Crafts Creative Youtube Video Methods for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-anker-super-bright-luminous-torch-robust-and-dependable-lighting-solution/"><u>Review of the Anker Super Bright Luminous Torch - Robust and Dependable Lighting Solution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/safely-patch-and-enhance-with-the-latest-macos-14er-release-update-without-worry-zdnet/"><u>Safely Patch and Enhance with the Latest macOS 14.er Release - Update Without Worry | ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/switched-from-high-end-vr-devices-to-budget-friendly-xr-glasses-a-game-changer-zdnet-insights/"><u>Switched From High-End VR Devices to Budget-Friendly XR Glasses – A Game Changer! | ZDNET Insights</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-nighttime-narratives-in-pixels/"><u>[New] In 2024, Nighttime Narratives in Pixels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-10-strategies-for-youtube-to-mpeg-conversion/"><u>[New] Top 10 Strategies for YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-watch-over-instagrams-friendship-shifts/"><u>[New] Watch Over Instagram's Friendship Shifts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversao-efetiva-do-formato-wav-em-flv-com-o-movavi-ferramenta-online-gratuita-atendendo-as-suas-necessidades/"><u>Conversão Efetiva Do Formato WAV Em FLV Com O Movavi: Ferramenta Online Gratuita Atendendo Às Suas Necessidades!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-des-fichiers-audio-vers-flac-gratuite-sur-movavi-guide-etape-par-etape/"><u>Conversion Des Fichiers Audio Vers FLAC Gratuite Sur Movavi – Guide Étape Par Étape</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-gratuite-de-fichiers-ogg-en-mpeg-sur-internet-movavi/"><u>Conversion Gratuite De Fichiers OGG en MPEG Sur Internet - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-libre-de-fichiers-m2ts-a-mp4-avec-movavi/"><u>Conversion Libre De Fichiers M2TS À MP4 - Avec Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/les-meilleures-solutions-de-montage-pour-vos-videos-gopro-top-13-recommandations/"><u>Les Meilleures Solutions De Montage Pour Vos Vidéos GoPro : Top 13 Recommandations</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximize-productivity-with-these-4-expert-tricks-for-using-windows-11-file-explorer-tabs-every-day/"><u>Maximize Productivity with These 4 Expert Tricks for Using Windows 11 File Explorer Tabs Every Day</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-converti-file-aiff-a-wav-gratuito-online/"><u>Movavi - Converti File AIFF a WAV Gratuito Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-online-free-converter-effortlessly-transform-wma-to-mp3-flac-and-more/"><u>Movavi Online Free Converter: Effortlessly Transform WMA to MP3, FLAC & More</u></a></li>
+<li><a href="https://common-error.techidaily.com/pdf-wont-print-discover-swift-and-easy-troubleshooting-tips/"><u>PDF Won't Print? Discover Swift and Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/quick-steps-to-record-iphoneipad-screens-for-online-videos/"><u>Quick Steps to Record iPhone/iPad Screens for Online Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-hidden-delights-of-pokemon-shining-pearl-unearthing-gaming-bliss/"><u>The Hidden Delights of Pokemon Shining Pearl: Unearthing Gaming Bliss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-essential-apps-for-securely-backing-up-your-iphone-on-mac/"><u>Top 4 Essential Apps for Securely Backing Up Your iPhone on Mac</u></a></li>
 </ul></div>
 

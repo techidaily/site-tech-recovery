@@ -1,7 +1,7 @@
 ---
 title: "Efficient Workflow Tips: Using the Screensplit Feature on MacBook Air for Enhanced Productivity"
-date: 2024-08-12T04:10:56.551Z
-updated: 2024-08-13T04:10:56.551Z
+date: 2025-02-08T05:20:47.656Z
+updated: 2025-02-12T00:57:56.302Z
 categories:
   - BestProducts
 description: "This Article Describes Efficient Workflow Tips: Using the Screensplit Feature on MacBook Air for Enhanced Productivity"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 ---
 
 ## Efficient Workflow Tips: Using the Screensplit Feature on MacBook Air for Enhanced Productivity
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Hover your mouse over the**Green Circle** (full-screen button) in the left corner of an open window.
@@ -20,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 
  Split View is only available for[macOS 10.15 Catalina](https://www.lifewire.com/macos-catalina-4692636) or later. On older versions of macOS, you’ll need to use a different method to access a similar feature, explained below. If you still can’t access it, make sure your MacBook Air’s system software is up to date.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is the Shortcut for Split Screen on Mac?
 
  Having more than one monitor is essential if you regularly work with multiple windows or apps at the same time on your MacBook Air. However, if you don’t have access to an external monitor, macOS has a built-in solution: Split View.
@@ -34,35 +36,32 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 1. Hover your mouse over the**Green Circle** (full-screen button) in the left corner of an open window. A drop-down menu should appear.  
 ![MacBook Air with Lifewire website open and green dot menu highlighted](https://www.lifewire.com/thmb/qIK-hOcPpNi26E2hn9ABUwx-ib0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Greendotmenu-644017cc34b74ab08e3116c4e051d306.jpg)
 2. Click on either**Tile Window to Left of Screen** or**Tile Window to Right of Screen** to display your current window on the left or right side of your screen, respectively.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![MacBook Air with Lifewire website open and Tiling options highlighted](https://www.lifewire.com/thmb/doZhWFV7eXZ8_FqKkUr0NW6jC3c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Tileoptions-533d4230371441a78ef8cbe1ac054a1e.jpg)
 3. Depending on what you selected, your current window will be on the left or right of the screen.  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Selecting second window in Mac Split View.](https://www.lifewire.com/thmb/XPbpubdxX7CxXrliBPngZg5V6TQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-do-split-screen-on-a-macbook-air-d085becc70464af4af4070b3b8db178d.jpg)
 4. On the other half of the screen, you’ll see all of your other open windows. Click the one you want to view, and it should snap into place beside the original window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Split view between Lifewire and Apple home pages on Google Chrome for Mac.](https://www.lifewire.com/thmb/x9FQUuRcpsMmovvnN_-Se9XX1OM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-do-split-screen-on-a-macbook-air-01c3445392a446f3918a88fe65f6e04f.jpg)
 5. To switch window positions, click and drag one to the left or right. The windows should swap places.  
 ![Swapping window positioning in Mac Split View.](https://www.lifewire.com/thmb/GAwIa1w8f77NK8-gBbBHusTCjRY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-do-split-screen-on-a-macbook-air-cfa17d37feff42d497f36d89c8511b4c.jpg)
 6. If you’d like one window to be larger than the other, you can resize them by clicking and dragging the border between the two windows. Both windows will still fill the entire screen.  
  In macOS Monterey (12.0) and later, you can also swap out apps in Split View and make either pane switch to full screen.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adjusting window sizing in Mac Split View with window border highlighted](https://www.lifewire.com/thmb/ky3DzDBOWrxCjrhndHnTSpdFrq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Resizewindowborder-8af934138964454391c58ee55601ccf8.jpg)
 7. To exit Split View, hover over the top of the screen until the grey menu bar reappears. Next, hover over the green circle button and select**Exit Full Screen** . Alternatively, you can click the green circle button.  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![MacBook Air website with Exit Full Screen highlighted](https://www.lifewire.com/thmb/RVpGTM72IBamY9sxdq9WmLr-0W0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Exitfullscreen-e847fb5e1a44486a981675dd367db301.jpg)  
  Sometimes, exiting full screen will cause one of your windows to disappear. If this happens to you, it’s most likely because something put the window in a separate view in[Mission Control.](https://www.lifewire.com/assign-mac-apps-to-open-in-specific-desktop-space-2260812) On your keyboard, tap**F3** (it looks like a series of rectangles) to open Mission Control, and you should see your lost window in the bar at the top of your screen.  
 [How to Connect a MacBook Air to a Monitor](https://www.lifewire.com/connect-monitor-to-macbook-air-5192977)  
@@ -87,20 +86,15 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
  If you have macOS Catalina or later installed and still can’t access Split View, make sure it’s enabled by following the steps below:
    8. Click the**Apple Menu** .
    9. Select**System Preferences** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Selecting System Preferences from Apple Menu on Mac desktop.](https://www.lifewire.com/thmb/AT4sp2cD3Beo1IheLO6LBwWi3y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SystemPreferences-160902a7424c425ca3f1db702db4a8ae.jpg)
    10. Click**Mission Control** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Selecting Mission Control from Mac System Preferences.](https://www.lifewire.com/thmb/70YcgJiWcCWWw-8xubpZZzUJapI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MissionControl-c80efa1f457e4e39a0ce93d76f1bfeb2.jpg)
    11. Ensure**Displays have separate Spaces** is selected.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Mission Control settings in Mac System Preferences with "Displays have separate Spaces" highlighted](https://www.lifewire.com/thmb/KZRt3NLpeVf-QkSjk6E3D8vx96s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayshaveseparatefaces-f4ce44168f12424f9a0739d255350714.jpg)
 
  FAQ
@@ -134,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +135,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-ultimate-resource-for-creating-professional-impactful-videodumps/"><u>[Updated] 2024 Approved The Ultimate Resource for Creating Professional, Impactful Videodumps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unplugged-enjoyment-best-indoor-gaming-apps-on-mobile-devices-for-2024/"><u>[Updated] Unplugged Enjoyment Best Indoor Gaming Apps on Mobile Devices for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/advancing-excellence-comparing-pixel-phone-evolution-v8-vs-v9-updates-unveiled/"><u>Advancing Excellence: Comparing Pixel Phone Evolution - V8 Vs. V9 Updates Unveiled</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/assessing-the-limitations-samsung-and-ubreakifix-partnership-analysis/"><u>Assessing the Limitations: Samsung and uBreakiFix Partnership Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-15-inch-laptop-picks-for-2eplust-year-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top Rated 15-Inch Laptop Picks for 2E+t Year - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://win-superb.techidaily.com/troubleshooting-solutions-repair-your-faulty-sound-card-with-ease-tech-advice-by-yl/"><u>Troubleshooting Solutions: Repair Your Faulty Sound Card with Ease - Tech Advice by YL</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-google-fi-a-comparative-analysis-with-traditional-mobile-providers/"><u>Understanding Google Fi: A Comparative Analysis with Traditional Mobile Providers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-our-desire-for-advanced-functions-in-todays-mobile-devices/"><u>Understanding Our Desire for Advanced Functions in Today's Mobile Devices</u></a></li>
+</ul></div>
 

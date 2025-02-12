@@ -1,7 +1,7 @@
 ---
 title: Unlocking Location Precision with Google Maps Live View - A Beginner's Guide
-date: 2024-08-12T04:14:36.940Z
-updated: 2024-08-13T04:14:36.940Z
+date: 2025-02-08T20:34:05.088Z
+updated: 2025-02-11T19:26:48.579Z
 categories:
   - BestProducts
 description: This Article Describes Unlocking Location Precision with Google Maps Live View - A Beginner's Guide
@@ -14,8 +14,9 @@ thumbnail: https://www.lifewire.com/thmb/ESpSACPfCBA4Zo7eo-0xJ_bvDyw=/400x300/fi
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  What to Know
 
 * Enter a location > tap **Directions** \> select the **walking** transportation mode >**Live View** .
@@ -24,9 +25,6 @@ Close
 
  This article explains how to use Live View in Google Maps when your mode of travel is walking. Using your device camera, you’ll see on-screen instructions directing you right to the spot.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ##  Use Live View in Google Maps 
 
  Live View becomes available when you choose walking directions in the Google Maps app.
@@ -35,18 +33,16 @@ Close
 2. When Google Maps finds the correct location, tap **Directions** .
 3. Select the **walking** icon at the top below the destination name.
 4. At the bottom, choose **Live View** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Live View on Google Maps showing Walking icon and Live View button ](https://www.lifewire.com/thmb/LJsAWdlkxrLIRP7167v0utcL02U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1--Use-Live-View-on-Google-Maps1-87ffad6bd1fb4afcac55b24f09bbf4c0.jpg)
 5. The first time you use Live View, you’ll see prompts explaining the feature, asking you to be safe, and requesting access to your camera. Review and tap to move through the prompts and provide camera access.
 6. Point your camera toward buildings, street signs, or other landmarks that help Google Maps guide you.
 7. Follow the onscreen directions as you walk to your destination.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Walking directions in Google Maps](https://www.lifewire.com/thmb/bEQTg438oL27uh5IUQZ_l1nRJ4g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-Use-Live-View-on-Google-Maps-0bb79c7877b64ba9bf56ea9567039856.jpg)  
  When you arrive at your destination, your phone will vibrate.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Exit Live View in Google Maps 
 
@@ -60,10 +56,11 @@ Close
 * To return to Live View, tap the **Live View** icon on the 2D map.
 * To stop the route and directions completely, select the **X** (Android) or **Exit** (iPhone).
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Live View with directions in Google Maps](https://www.lifewire.com/thmb/1YLs4JwGMQgkJNu0XocZYSoF1a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-Use-Live-View-on-Google-Maps-15820dc3196c4e118c305edd3919b8d9.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Switch Between Live and Map View Automatically 
 
@@ -73,15 +70,19 @@ Close
 
 ![Google Maps showing Navigation chosen in Settngs and Live View toggle ](https://www.lifewire.com/thmb/bWHD2Hj5liPzMW7cDlHMq7_0ZA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-Use-Live-View-on-Google-Maps-d7dfa94d9d8c4ab4831a1c56b79b4d5e.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To turn on this setting while navigating, exit **Live View** , swipe up in 2D map view, and select **Settings** . Then, turn on the toggle for **Live View** below Walking Options.
 
  Alternatively, if available, swipe up from the 2D directions view and toggle on**Tilt up to change view** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![Settings in the navigation actions and the toggle next to Live View](https://www.lifewire.com/thmb/hN98kxFTj5gxDtG4aThU3yM5Se8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C2-Use-Live-View-on-Google-Maps-2b4e3d59d7ca494f83a2fb4554771676.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [  5 Tips for Using Google Maps Street View ](https://www.lifewire.com/using-google-maps-street-view-3486679) 
 
@@ -112,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +120,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-quintessential-selection-5-must-have-mac-snipers/"><u>[New] The Quintessential Selection 5 Must-Have Mac Snipers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-flashglimpse-crafter/"><u>[Updated] 2024 Approved FlashGlimpse Crafter</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-audiovisual-excellence-top-5-premium-slow-motion-gear/"><u>[Updated] Audiovisual Excellence Top 5 Premium Slow-Motion Gear</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-adeptness-at-mobile-app-development-for-luts/"><u>2024 Approved Adeptness at Mobile App Development for LUTs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/awaken-on-time-with-these-7-exceptional-smartphone-alarm-applications/"><u>Awaken on Time with These 7 Exceptional Smartphone Alarm Applications</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/come-suddividere-in-sezioni-il-tuo-piano-di-ripristino-dei-dati-metodi-seo-ottimizzati/"><u>Come Suddividere in Sezioni Il Tuo Piano Di Ripristino Dei Dati: Metodi SEO Ottimizzati</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-grow-your-instagram-audience-tips-and-tricks/"><u>Effective Strategies to Grow Your Instagram Audience: Tips & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-guide-to-selecting-premier-notetaking-apps-for-modern-ipad-users/"><u>Essential Guide to Selecting Premier Notetaking Apps for Modern iPad Users</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/generation-de-fichiers-flac-a-partir-de-fichiers-caf-le-guide-complet-et-gratuit-chez-movavi/"><u>Génération De Fichiers FLAC À Partir De Fichiers CAF : Le Guide Complet Et Gratuit Chez Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-not-found-or-absent-errors-with-d3dx934dll-file/"><u>How To Repair Not Found or Absent Errors with d3dx9_34.dll File</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-lava-yuva-2-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Lava Yuva 2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-real-time-communication-in-mozilla-thunderbird-with-ease/"><u>Navigating Real-Time Communication in Mozilla Thunderbird with Ease</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-nvidia-geforce-gtx-950-code-43-error-steps-to-successfully-fix-it-on-windows-10/"><u>Overcoming the NVIDIA GeForce GTX 950 Code 43 Error: Steps to Successfully Fix It on Windows 10</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/ready-to-use-established-sql-linking-dashboard/"><u>Ready-to-Use Established SQL Linking Dashboard</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-wi-fi-connection-issues-on-your-surface-pro-a-step-by-step-guide/"><u>Solving Wi-Fi Connection Issues on Your Surface Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-common-issues-why-doesnt-my-youtube-function-properly/"><u>Troubleshooting Common Issues: Why Doesn't My YouTube Function Properly?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-wininetdll-absence-in-your-system-steps-to-take/"><u>Troubleshooting Wininet.dll Absence in Your System - Steps to Take</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-the-8-greatest-mobile-video-games/"><u>Ultimate List of the 8 Greatest Mobile Video Games</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Activating Push Alerts: Setting Up Slack App Notifications on Apple Watch - Tutorial"
-date: 2025-01-24T16:29:55.746Z
-updated: 2025-01-30T18:52:43.836Z
+date: 2025-02-08T03:13:50.070Z
+updated: 2025-02-12T02:32:53.208Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -55,16 +59,12 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -99,7 +99,7 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -122,12 +122,16 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -135,10 +139,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,22 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-making-every-photo-on-iphone-blurry-with-4-tricks-up-your-sleeve/"><u>[New] In 2024, Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-join-the-giggle-roll-and-tearful-talks-on-instagram-memes/"><u>[Updated] 2024 Approved Join the Giggle-Roll and Tearful Talks on Instagram Memes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-ig-video-trends-building-your-next-marketing-plan/"><u>[Updated] In 2024, Navigating IG Video Trends Building Your Next Marketing Plan</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-for-your-xbox-ones-no-signal-snag/"><u>Comprehensive Solutions for Your Xbox One's 'No Signal' Snag</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-most-effective-free-software-update-solutions-today/"><u>Discover the Most Effective Free Software Update Solutions Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-methods-for-embedding-descriptive-titles-into-your-ig-stories/"><u>Easy Methods for Embedding Descriptive Titles Into Your IG Stories</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-experience-with-these-6-must-use-gestures-for-the-samsung-galaxy-devices/"><u>Enhance Your Experience with These 6 Must-Use Gestures for the Samsung Galaxy Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oneplus-12-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from OnePlus 12 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-effortlessly-change-wmv-video-format-to-flv-discover-the-best-6-strategies/"><u>How To Effortlessly Change WMV Video Format to FLV: Discover The Best 6 Strategies</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-s24-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy S24 by Name | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-avoid-high-costs-buying-budget-friendly-gopros/"><u>In 2024, Avoid High Costs Buying Budget-Friendly GoPros</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722902703247-multiply-the-whole-number-2-by-the-denominator-3-to-get-6/"><u>Multiply the Whole Number 2 by the Denominator 3 to Get 6.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/netflix-trouble-heres-how-to-fix-the-using-a-proxyvpn-error-message/"><u>Netflix Trouble? Here's How to Fix the 'Using a Proxy/VPN' Error Message</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722903549667-rpcrt4dll-not-found-heres-how-you-can-repair-the-issue-easily/"><u>RPCRT4.DLL Not Found? Here's How You Can Repair the Issue Easily!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/say-goodbye-to-crop-borders-displaying-complete-images-in-high-definition-on-instagram/"><u>Say Goodbye to Crop Borders: Displaying Complete Images in High Definition on Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-clearing-up-lines-and-streaks-on-your-tv-screen-at-home/"><u>Troubleshooting Guide: Clearing Up Lines and Streaks on Your TV Screen at Home</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-connecting-your-logitech-mouse-with-pcmac/"><u>Ultimate Guide to Connecting Your Logitech Mouse with PC/Mac</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-discovering-bargains-inexpensive-gopro-purchasing-guide/"><u>[Updated] Discovering Bargains Inexpensive GoPro Purchasing Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-vector-editors-as-acid-pro-successors/"><u>2024 Approved Innovative Vector Editors as ACID Pro Successors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-timeline-enhancement-incor-written-by-assistant/"><u>2024 Approved Timeline Enhancement Incor Written by Assistant</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209509763-corsair-hs50-headset-mic-errors-learn-how-to-fix-it-and-restore-sound/"><u>Corsair HS50 Headset Mic Errors? Learn How to Fix It and Restore Sound!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-selecting-the-best-television-model-for-your-household-needs/"><u>Expert Advice: Selecting the Best Television Model for Your Household Needs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-attract-more-instagram-followers/"><u>How to Attract More Instagram Followers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-your-pc-when-it-refuses-to-power-off-on-windows-11-step-by-step-guide/"><u>How to Fix Your PC When It Refuses to Power Off on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-citations-the-ultimate-guide-to-referencing-chatgpt-in-your-work/"><u>Mastering Citations: The Ultimate Guide to Referencing ChatGPT in Your Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-lg-tv-channels-critical-details-every-user-should-know/"><u>Mastering LG TV Channels: Critical Details Every User Should Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/psvr-on-pc-learn-the-essentials-of-connecting-sonys-virtual-reality-headset-with-a-computer/"><u>PSVR on PC? Learn the Essentials of Connecting Sony's Virtual Reality Headset with a Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-network-not-registered-issue-on-your-samsung-device/"><u>Solving the 'Network Not Registered' Issue on Your Samsung Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sony-virtual-reality-gear-unveiled-discover-rumored-price-points-launch-dates-and-hardware-info/"><u>Sony Virtual Reality Gear Unveiled? Discover Rumored Price Points, Launch Dates & Hardware Info</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-to-buy-games-directly-on-oculus-meta-quest-2/"><u>Step-by-Step Process to Buy Games Directly on Oculus (Meta) Quest 2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-essential-apps-every-student-and-parent-needs-for-academic-success/"><u>Top 6 Essential Apps Every Student & Parent Needs for Academic Success!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-list-best-no-cost-lut-downloads-for-2024/"><u>Ultimate List Best No-Cost LUT Downloads for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-itel-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Itel Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-lawsuit-how-sarah-silverman-and-peers-challenge-ai-leaders-openai-and-meta/"><u>Unveiling the Lawsuit: How Sarah Silverman and Peers Challenge AI Leaders OpenAI & Meta</u></a></li>
 </ul></div>
 

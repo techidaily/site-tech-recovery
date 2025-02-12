@@ -1,7 +1,7 @@
 ---
 title: Top Four AI Enhancements Required for iPhones to Match Android's Capabilities - Insights From ZDNet
-date: 2025-01-25T21:42:58.336Z
-updated: 2025-01-30T19:06:29.477Z
+date: 2025-02-05T05:18:12.045Z
+updated: 2025-02-12T02:38:19.226Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,24 +126,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-whats-new-in-vr/"><u>[New] In 2024, What's New in VR?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-comprehensively-curated-list-15-prime-gear-for-gopro/"><u>[Updated] 2024 Approved Comprehensively Curated List 15 Prime Gear for GoPro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-crafting-photos-into-engaging-videos-in-pixiz/"><u>[Updated] Step-by-Step Crafting Photos Into Engaging Videos in Pixiz</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-top-earning-youtube-star-globally/"><u>[Updated] Top Earning YouTube Star Globally</u></a></li>
-<li><a href="https://games-able.techidaily.com/500-hp-victus-15l-gaming-desktops-top-budget-pick-for-gamers-revealed-by-zdnet/"><u>$500 HP Victus 15L Gaming Desktops: Top Budget Pick for Gamers Revealed by ZDNet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-navigating-twitters-algorithm-to-amplify-your-message/"><u>2024 Approved Navigating Twitter's Algorithm to Amplify Your Message</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-iphone-models-for-an-enhanced-mobile-gaming-experience/"><u>Best iPhone Models for an Enhanced Mobile Gaming Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/chronological-viewing-pathway-mastering-the-sequence-of-x-men-movies/"><u>Chronological Viewing Pathway: Mastering The Sequence of X-Men Movies</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/compatibility-using-airpods-on-a-nintendo-console/"><u>Compatibility: Using AirPods on a Nintendo Console</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/customizing-your-windows-10-experience-step-by-step-guide-to-changing-taskbar-colors/"><u>Customizing Your Windows 10 Experience: Step-by-Step Guide to Changing Taskbar Colors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-expert-strategies-for-efficient-video-editing-with-gopro-studio/"><u>In 2024, Expert Strategies for Efficient Video Editing with GoPro Studio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-process-to-set-trending-tiktok-beats-as-your-cellphone-alarm/"><u>In 2024, Step-by-Step Process to Set Trending TikTok Beats as Your Cellphone Alarm</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-digital-relationships-safely-how-to-identify-and-reject-impostor-connection-offers/"><u>Navigating Digital Relationships Safely: How to Identify and Reject Impostor Connection Offers</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-connectivity-issues-via-winvpn/"><u>Overcoming Windows Connectivity Issues via WinVPN</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/scholarly-perks-on-demand-how-to-access-lower-prices-from-tidal-for-students/"><u>Scholarly Perks on Demand: How to Access Lower Prices From Tidal for Students</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-road-awaits-insights-on-the-upcoming-sony-car-afelea-prices-launch-dates-and-more-details-uncovered/"><u>The Road Awaits: Insights on the Upcoming Sony Car (Afelea) – Prices, Launch Dates & More Details Uncovered</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-y36-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo Y36 for Parents | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-on-watching-spider-man-no-way-home-online/"><u>Ultimate Guide on Watching 'Spider-Man: No Way Home' Online</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/universal-ipad-restart-procedure-for-every-generation-and-version/"><u>Universal iPad Restart Procedure for Every Generation and Version</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138583180-9781462016730-a-real-life-christian-spiritual-journey/"><u>A Real-Life Christian Spiritual Journey | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-z-flip-5-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy Z Flip 5 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-rcs-messaging-an-insight-into-advanced-chat-functions/"><u>Decoding RCS Messaging: An Insight Into Advanced Chat Functions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-superior-case-options-for-your-raspberry-pi-top-picks/"><u>Discovering Superior Case Options for Your Raspberry Pi - Top Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-and-techniques-to-successfully-overcome-bios-whea-faults-on-your-computer/"><u>Expert Tips and Techniques to Successfully Overcome BIOS 'WHEA' Faults on Your Computer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-samsung-galaxy-tab-a-202ebe594f38f7b9b-spotlight-on-one-missing-element/"><u>Exploring the Samsung Galaxy Tab A (202Ebe594f38f7b9b): Spotlight on One Missing Element</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722899078319-fix-slow-internet-resetting-network-parameters-on-your-mac-might-be-the-solution/"><u>Fix Slow Internet? Resetting Network Parameters on Your Mac Might Be the Solution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-dual-screen-on-apple-devices-via-safari-for-2024/"><u>Harness the Power of Dual Screen on Apple Devices via Safari for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/immersive-escape-games-for-iphoneipad-discover-alternatives-to-the-room-and-myst/"><u>Immersive Escape Games for iPhone/iPad: Discover Alternatives to 'The Room' And 'Myst'</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-youtube-title-creation-the-perfect-formula/"><u>In 2024, Mastering YouTube Title Creation The Perfect Formula</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-bandwidth-top-wired-solutions-for-gamers/"><u>Optimal Bandwidth: Top Wired Solutions For Gamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sharing-your-favorite-tunes-a-guide-to-using-spotify-with-pals/"><u>Sharing Your Favorite Tunes: A Guide to Using Spotify with Pals</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/152279-9780743222969-tarot-made-easy/"><u>Tarot Made Easy | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-10-most-surprising-and-less-known-emoji-truths/"><u>The 10 Most Surprising and Less Known Emoji Truths</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-wireless-standards-exploring-ieees-80211-be-ax-ac-bgn-and-a/"><u>The Ultimate Guide to Wireless Standards: Exploring IEEE's 802.11 Be, Ax, Ac, B/G/N & A</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-parent-control-applications-and-solutions-our-best-picks-for-2amo24/"><u>Top 8 Parent Control Applications & Solutions - Our Best Picks for 2Amo24</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-gratis-tus-archivos-tiff-a-linea-guia-completa-con-movavi/"><u>Transforma Gratis Tus Archivos TIFF a Línea: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-corrupted-haldll-in-windows-xp-systems/"><u>Troubleshooting Steps for Corrupted Hal.dll in Windows XP Systems</u></a></li>
 </ul></div>
 

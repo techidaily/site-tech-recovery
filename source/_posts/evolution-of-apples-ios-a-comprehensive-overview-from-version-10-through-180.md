@@ -1,7 +1,7 @@
 ---
 title: "Evolution of Apple's iOS: A Comprehensive Overview From Version 1.0 Through 18.0"
-date: 2024-08-12T04:11:03.505Z
-updated: 2024-08-13T04:11:03.505Z
+date: 2025-02-09T03:06:07.215Z
+updated: 2025-02-12T07:48:04.198Z
 categories:
   - BestProducts
 description: "This Article Describes Evolution of Apple's iOS: A Comprehensive Overview From Version 1.0 Through 18.0"
@@ -19,6 +19,10 @@ Close
 
  See our article[ What is iOS?](https://www.lifewire.com/what-is-ios-1994355) for a lot more on this innovative mobile operating system and how it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS 18 
 
  Apple previewed[ iOS 18](https://www.lifewire.com/ios-18-8552216) at[ WWDC](https://www.lifewire.com/wwdc-5101136) in June 2024\. It will be available to the public in Fall 2024.
@@ -31,14 +35,6 @@ Close
 
  Other notable updates include a new Passwords app for managing credentials, Game Mode for optimizing gaming performance, improved photo organization with topics and carousels, and enhanced Safari features like Highlights and Reader. The Wallet app adds Tap to Cash for easy Apple Cash transfers and new options for accessing credit card rewards and installment plans.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## iOS 17 
 
  Apple announced[ iOS 17](https://www.lifewire.com/ios-17-news-and-rumors-6753498) at the June 2023 WWDC and then rolled it out to the public in Fall 2023.
@@ -60,8 +56,9 @@ Close
  iOS 16 also featured an Apple Maps redesign and new features, such as cycling, lookaround, and multi-stop routing. The iOS upgrade also offers improvements to Spatial Audio that allow for the personalization of audio on AirPods.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## iOS 15 
 
 ![Screenshots of iOS 15](https://www.lifewire.com/thmb/ykVCd1DMEVQorsAL-MaaXk3mC3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple_iPhone12Pro-iOS15-3up_060721-1f8dd95d23364d638c00788b9360724f.jpg) 
@@ -103,15 +100,13 @@ Apple Inc.
 * [ iPhone 6 series](https://www.lifewire.com/iphone-6-vs-iphone-6-plus-1999576) . All iPhone models from the 6S series and up are supported.
 * [ 6th Gen. iPod touch](https://www.lifewire.com/history-of-ipod-touch-1999653) . Only the 7th Gen. iPod touch is supported.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iOS 14 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![iOS 14 screenshots](https://www.lifewire.com/thmb/ZvBt94JcNdydFE2s1dgkRGvXwp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-14-9f6e598c28e3478a9e680bb0fe3fde7e.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple
 
@@ -200,11 +195,12 @@ Apple Inc.
 
 * N/A
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ iOS 11](https://www.lifewire.com/can-you-use-the-latest-ios-4141436) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot of iOS 11](https://www.lifewire.com/thmb/TtDWLhEfsvGO_8Dduk4_Jqxltf8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-11-593d3f773df78c537b62c5ac.jpg) 
 
 Apple Inc.
@@ -232,9 +228,6 @@ Apple Inc.
 * iPad 4
 * iPad 3
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ iOS 10](https://www.lifewire.com/what-devices-compatible-ios-10-4053167) 
 
 ![Promo material for iOS 10](https://www.lifewire.com/thmb/z0aT2Ca68KrhjYRraX2WhogEgy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-10-575f1faf3df78c98dc4256c1.jpg) 
@@ -265,11 +258,12 @@ Apple Inc.
 * iPad 2
 * 1st gen. iPad mini
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ iOS 9](https://www.lifewire.com/devices-compatibility-ios-9-1999748) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshots of Apple Maps](https://www.lifewire.com/thmb/dWh60jzQRA2AOcGfOil5hyKG5po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS9_apps-5728cddf5f9b589e34bfb973.jpg) 
 
 Apple, Inc. 
@@ -294,14 +288,8 @@ Apple, Inc.
 
 * N/A
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ iOS 8](https://www.lifewire.com/iphone-compatible-ios-8-1999214) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone 5s with iOS 8](https://www.lifewire.com/thmb/zi_LhQ-7cFRXzy0FrNnFdA-ZHnI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone5-ios8-56a5352e3df78cf77286eecf.jpg) 
 
 Apple, Inc. 
@@ -331,13 +319,11 @@ Apple, Inc.
 * iPhone 4
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ iOS 7](https://www.lifewire.com/is-iphone-compatible-with-ios-7-2000226) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Material design in iOS 7](https://www.lifewire.com/thmb/NBSZqBzI5HlyCyrOTwS0mCE36fo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ios-7-598c78e0054ad90011729fb8.jpg) 
 
 Corbis News / Getty Images
@@ -391,9 +377,6 @@ marco\_1186 / Flickr
 
 * ​None, but iPhone 3GS, iPhone 4, and iPad 2 couldn't use all features of iOS 6
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ iOS 5](https://www.lifewire.com/compare-iphone-models-1999430) 
 
 ![iOS 5 on an iPhone 4](https://www.lifewire.com/thmb/ia0igBXlOLO94d82mylEVUQiHzk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-4S-597fa2c268e1a20011b02463.jpg) 
@@ -425,13 +408,11 @@ Francis Dean / Getty Images
 * 3rd gen. iPod touch
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ iOS 4](https://www.lifewire.com/upgrade-iphones-operating-system-2000293) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone 4 in black](https://www.lifewire.com/thmb/thaO7rMhgmPNvfHVT7NvyTLXHXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-4-598c7fba054ad9001173586b.jpg) 
 
 Ramin Talaie / Getty Images
@@ -464,6 +445,10 @@ Ramin Talaie / Getty Images
 
 ![iPhone 3GS in the box](https://www.lifewire.com/thmb/315GtEY4darI4H7pYOII3SIsxI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-3GS-598884eb0d327a00113cd98f.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Sullivan / Getty Images News
 
 **Support ended:**  2012  
@@ -480,12 +465,13 @@ Justin Sullivan / Getty Images News
 * [ Spotlight​ search​](https://www.lifewire.com/spotlight-search-definition-1994352)
 * [ Recording videos](https://www.lifewire.com/how-much-video-can-iphone-record-2000304)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iOS 2 
 
 ![iPhone 3G in an Apple Store](https://www.lifewire.com/thmb/e7btg9umq1lis3_Un_1HBtbg3qM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-3G-598c809baf5d3a0011e1cfd7.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jason Kempin / Getty Images
 
@@ -503,6 +489,10 @@ Jason Kempin / Getty Images
 
 * [ App Store​](https://www.lifewire.com/download-iphone-apps-at-app-store-2000650)
 * Improved Maps app​
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 1 
 
@@ -558,8 +548,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -567,4 +555,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-excellent-audio-capture-on-demand-for-2024/"><u>[Updated] Excellent Audio Capture on Demand for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-smart-guide-to-procuring-premium-image-banners/"><u>[Updated] The Smart Guide to Procuring Premium Image Banners</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-speed-dueling-devices-wheel-vs-modern-touch-interface/"><u>High-Speed Dueling Devices: Wheel Vs. Modern Touch Interface</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-play-8t-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Play 8T Location by Number | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-itel-a60s-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Itel A60s Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-mobility-with-twelve-south-compass-pro-a-detailed-review-of-design-and-durability/"><u>Mastering Mobility with Twelve South Compass Pro - A Detailed Review of Design & Durability</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/maximize-your-online-presence-10-best-free-video-hosting-sites/"><u>Maximize Your Online Presence 10 Best Free Video Hosting Sites</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-fcpx-error-free-workflow-tips-tricks-and-techniques/"><u>New FCPX Error-Free Workflow Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/saying-goodbye-to-windows-mmr-a-look-back-at-the-journey-through-augmented-worlds/"><u>Saying Goodbye to Windows MMR: A Look Back at the Journey Through Augmented Worlds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-your-linux-pc-a-7-step-guide-to-enhanced-safety/"><u>Securing Your Linux PC: A 7-Step Guide to Enhanced Safety</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/showing-the-mouse-trail-how-to-save-your-display-with-a-visible-cursor-in-windows-10/"><u>Showing the Mouse Trail: How to Save Your Display with a Visible Cursor in Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simplifying-the-experience-upcoming-tweaks-aimed-at-boosting-usability-of-wsl/"><u>Simplifying the Experience? Upcoming Tweaks Aimed at Boosting Usability of WSL</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/slash-battery-drain-on-your-winning-pc-with-simple-tweaks-for-longer-life/"><u>Slash Battery Drain on Your Winning PC with Simple Tweaks for Longer Life!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-correcting-troubleshooting-errors-in-windows-11-and-windows-10/"><u>Step-by-Step Guide to Correcting Troubleshooting Errors in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-switching-your-keyboard-layout-in-windows-11/"><u>Step-by-Step Guide: Switching Your Keyboard Layout in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-opening-rar-compressed-folders-without-costs-on-pc-and-mac-systems/"><u>Step-by-Step Tutorial: Opening RAR Compressed Folders Without Costs on PC & Mac Systems</u></a></li>
+</ul></div>
 

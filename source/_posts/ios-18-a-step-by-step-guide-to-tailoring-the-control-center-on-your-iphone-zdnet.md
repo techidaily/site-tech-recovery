@@ -1,7 +1,7 @@
 ---
 title: "IOS 18: A Step-by-Step Guide to Tailoring the Control Center on Your iPhone - ZDNet"
-date: 2025-01-14T23:24:09.314Z
-updated: 2025-01-17T03:24:12.034Z
+date: 2025-02-05T16:50:05.691Z
+updated: 2025-02-11T22:44:42.835Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,10 +48,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -55,7 +55,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -65,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,18 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-personalized-gift-boxes-unlocked-the-best-online-shopping-spots/"><u>[New] Personalized Gift Boxes Unlocked The Best Online Shopping Spots</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-thinkers-playground-top-10-mind-bending-rooms-for-2024/"><u>[Updated] Thinkers' Playground Top 10 Mind-Bending Rooms for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-spectacular-gratis-switch-gaming-tools/"><u>2024 Approved Spectacular Gratis Switch Gaming Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ideal-ipad-models-for-children-in-202n-a-ranking/"><u>Discover the Ideal iPad Models for Children in 202N - A Ranking</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exclusive-presidents-holiday-discount-alert-grab-a-cut-priced-macbook-pro-equipped-with-powerful-m3-pro-chip-from-zdnet-for-200-less/"><u>Exclusive President’s Holiday Discount Alert! Grab a Cut-Priced MacBook Pro Equipped with Powerful M3 Pro Chip From ZDNet for $200 Less!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-stuttering-problems-in-halo-infinite-a-comprehensive-guide/"><u>How to Fix Stuttering Problems in Halo Infinite – A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-infinix-hot-40-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Infinix Hot 40 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/latest-innovations-in-subtitle-technology-whats-coming-next/"><u>Latest Innovations in Subtitle Technology: What's Coming Next?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/passare-da-flac-a-wma-online-senza-costi-effettoconvertitore-facile-e-gratuito/"><u>Passare Da FLAC a WMA Online Senza Costi - EffettoConvertitore Facile E Gratuito</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-motorola-moto-e13-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Motorola Moto E13</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-15-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-rated-tablets-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Tablets - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upgrade-or-not-expert-advice-on-choosing-the-iphone-16-perspectives-by-zdnet-editors/"><u>Upgrade or Not? Expert Advice on Choosing the iPhone 16 - Perspectives by ZDNet Editors</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-insiders-look-at-top-9-free-platforms-for-designing-youtube-logos/"><u>[Updated] 2024 Approved Insider's Look at Top 9 FREE Platforms for Designing YouTube Logos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionary-chromatic-shots-with-uhd-blade-tech/"><u>2024 Approved Revolutionary Chromatic Shots with UHD Blade Tech</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-8-plus-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 8 Plus is off? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/expert-insights-streamlining-filters-integration-in-media-production-for-2024/"><u>Expert Insights Streamlining Filters Integration in Media Production for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transform-mkv-videos-into-wmv-format-with-ease/"><u>Free Online Conversion: Transform MKV Videos Into WMV Format with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/geautomatiseerd-online-wegrensconverteren-uit-webm-naar-wav-gratis-van-movavi/"><u>Geautomatiseerd Online Wegrensconverteren: Uit Webm Naar Wav - Gratis Van Movavi!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-customize-your-windows-11-wallpaper-and-theme-a-guide-by-yl-computing/"><u>How to Customize Your Windows 11 Wallpaper and Theme - A Guide by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-d3derr-notavailable-mistake-in-windows-systems/"><u>How To Overcome the 'D3DERR NOTAVAILABLE' Mistake in Windows Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-downloading-and-enjoying-ifunny-memes/"><u>In 2024, The Complete Guide to Downloading and Enjoying iFunny Memes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-gratuito-per-trasformare-video-3gp-a-3g2-usando-lapplicazione-di-conversione-di-movavi/"><u>Online Gratuito per Trasformare Video 3Gp a 3G2 Usando L'applicazione Di Conversione Di Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-issues-with-star-wars-squadrons-crashing-problems-a-detailed-fix-list/"><u>Overcome Issues with Star Wars: Squadrons Crashing Problems – A Detailed Fix List</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tourner-votre-audio-ifc-en-m4r-sans-frais-guide-rapide-et-facile-avec-audiofileonlineconversion/"><u>Tourner Votre Audio IFC en M4R Sans Frais - Guide Rapide Et Facile Avec AudioFileOnlineConversion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-insights-from-toms-computer-gear-exploration/"><u>Unveiling the Insights From Tom's Computer Gear Exploration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wtv-mpeg/"><u>WTV 모비크 파일을 원격용 MPEG로 전환 - 무세</u></a></li>
 </ul></div>
 

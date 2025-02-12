@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Non-Functional Xbox Series X or S Earphones
-date: 2024-08-12T04:14:55.288Z
-updated: 2024-08-13T04:14:55.288Z
+date: 2025-02-08T23:59:09.938Z
+updated: 2025-02-11T22:05:50.685Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Fix for Non-Functional Xbox Series X or S Earphones
@@ -13,8 +13,9 @@ thumbnail: https://www.lifewire.com/thmb/9aAIrmerqE-lXFve1ScHyZbz_Ps=/540x405/fi
  Friends in party chat can’t hear you over the[Xbox Network](https://www.lifewire.com/what-is-xbox-live-3563186) , and you can’t hear them either? Maybe you can hear your friends while they can’t hear you (or the other way around). There’s a chance that your headset is just broken, but try these fixes before you completely write it off.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solutions to Try When Your Xbox Headset Isn't Working
 
  Are you trying to use your wireless Xbox One headset with your Xbox Series X or S? If it stopped working when you switched consoles, it may not be compatible. Check with the manufacturer to see if your headset is fully compatible with the Xbox Series X or S.
@@ -48,8 +49,9 @@ thumbnail: https://www.lifewire.com/thmb/9aAIrmerqE-lXFve1ScHyZbz_Ps=/540x405/fi
  Due to the typical cost of repairs compared to replacement cost, it often makes more sense to just buy a new Xbox headset rather than pay for repairs
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Causes an Xbox Series X or S Headset to Stop Working?
 
  This type of problem can be caused by issues with the headset itself, the controller, the adapter if you’re using a wireless headset, and even incorrectly configured privacy settings on your[Xbox Series X or S](https://www.lifewire.com/xbox-series-x-vs-xbox-series-s-5083862) .
@@ -85,8 +87,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +94,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-optimal-instagram-posting-times-a-comprehensive-overview/"><u>[New] In 2024, Optimal Instagram Posting Times A Comprehensive Overview</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-interactive-image-merging-for-desktop-enthusiasts-for-2024/"><u>[New] Interactive Image Merging for Desktop Enthusiasts for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1726028379188-dvd/"><u>無料ソフトウェアで簡単に、日本語サポート付きDVDのオーディオを取得！</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-on-sharing-your-printer-across-various-gadgets/"><u>Easy Tutorial on Sharing Your Printer Across Various Gadgets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-ways-to-monitor-your-online-data-usage-at-home-or-work/"><u>Easy Ways to Monitor Your Online Data Usage at Home or Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-twitch-game-indispensable-tools-and-services-for-top-tier-streamers/"><u>Elevate Your Twitch Game: Indispensable Tools and Services for Top-Tier Streamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-move-towards-electric-cars-what-does-it-mean/"><u>Exploring the Move Towards Electric Cars: What Does It Mean?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-how-to-determine-the-internal-temperature-of-a-macbook/"><u>Guide: How To Determine The Internal Temperature Of A MacBook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-tecno-spark-10-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Tecno Spark 10 5G</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-unlocking-revenue-with-strategic-snapchat-promotions/"><u>In 2024, Unlocking Revenue with Strategic Snapchat Promotions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/indispensable-twitch-streaming-solutions-the-ultimate-top-5-picks-for-content-creators/"><u>Indispensable Twitch Streaming Solutions: The Ultimate Top 5 Picks for Content Creators</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-hp-laserjet-pro-m127fn-software-and-drivers-free-download-links/"><u>Latest HP LaserJet Pro M127FN Software and Drivers - Free Download Links</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-animations-and-crafting-custom-visual-impact/"><u>Mastering Animations & Crafting Custom Visual Impact</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-multi-location-drops-in-google-mapping-platform/"><u>Mastering Multi-Location Drops in Google Mapping Platform</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-list-of-no-cost-sound-sites-for-filmmakers-for-2024/"><u>The Ultimate List of No-Cost Sound Sites for Filmmakers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-strategies-for-saving-data-with-smart-texting-habits/"><u>Top Strategies for Saving Data with Smart Texting Habits</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-brand-growth-on-facebook-the-strength-of-pages-over-personal/"><u>Unlocking Brand Growth on Facebook: The Strength of Pages Over Personal</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/yahoo-mail-deletion-explained-how-to-ensure-total-removal-of-your-account/"><u>Yahoo Mail Deletion Explained: How To Ensure Total Removal of Your Account</u></a></li>
+</ul></div>
 

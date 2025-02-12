@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Top Upcoming Enhancements for iPhone, iPad, Mac with AI Integration Announced by Apple This Autumn - Features Revealed on ZDNet"
-date: 2025-01-24T18:27:05.202Z
-updated: 2025-01-30T16:20:06.682Z
+date: 2025-02-08T03:47:08.327Z
+updated: 2025-02-12T08:34:40.610Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -65,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -94,6 +94,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +112,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,6 +121,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -132,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,6 +154,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,24 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-frame-rate-considerations-for-high-quality-videos/"><u>[Updated] 2024 Approved Frame Rate Considerations for High-Quality Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-9-ultimate-free-online-editors-for-content-creators/"><u>[Updated] In 2024, 9 Ultimate Free Online Editors for Content Creators</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-guide-to-successfully-saving-your-iptv-streams/"><u>[Updated] In 2024, Guide to Successfully Saving Your IPTV Streams</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-14-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-successful-uploads-on-google-podcast/"><u>2024 Approved Step-by-Step Successful Uploads on Google Podcast</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/como-combinar-y-mezclar-tu-obra-musical-con-estos-10-mejores-herramientas-en-linea/"><u>Cómo Combinar Y Mezclar Tu Obra Musical Con Estos 10 Mejores Herramientas en Línea</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-future-of-google-pixel-phones-unpacked-rumors-on-10th-editions-launch-window-potential-pricing-and-features/"><u>Deciphering Future of Google Pixel Phones - Unpacked Rumors on 10Th Edition's Launch Window, Potential Pricing, and Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/embracing-the-future-with-verizons-5g-network/"><u>Embracing the Future with Verizon's 5G Network</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-ahead-of-tech-news-price-point-and-specs-for-the-upcoming-samsung-galaxy-z-fold-6/"><u>Get Ahead of Tech News: Price Point & Specs for the Upcoming Samsung Galaxy Z Fold 6</u></a></li>
-<li><a href="https://techtrends.techidaily.com/grand-unveiling-of-the-latest-apple-iphone-a-revolutionary-journey/"><u>Grand Unveiling of the Latest Apple iPhone: A Revolutionary Journey</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-msstdfmtdll-file-absence-on-windows-computers/"><u>How to Correctly Address Msstdfmt.dll File Absence on Windows Computers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mailcom-email-how-long-can-you-expect-to-use-this-service-before-renewal/"><u>mail.com Email: How Long Can You Expect To Use This Service Before Renewal?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/meta-quest-3-an-in-depth-look-at-its-specs-availability-date-and-how-much-it-costs/"><u>Meta Quest 3 - An In-Depth Look at Its Specs, Availability Date & How Much It Costs</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/election-made-easy-optimal-picks-for-vloggers-educators-and-more-for-2024/"><u>Mic Selection Made Easy Optimal Picks for Vloggers, Educators & More for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/navigating-the-depths-of-periscope-usage/"><u>Navigating the Depths of Periscope Usage</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-deleting-reposts-on-tiktok-and-managing-posts-effectively/"><u>The Ultimate Guide to Deleting Reposts on TikTok and Managing Posts Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-complimentary-online-platforms-for-live-sports/"><u>Top 5 Complimentary Online Platforms for Live Sports</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-intermittent-connectivity-is-the-entire-nintendo-switch-online-network-down-or-are-you-alone-in-this-quandary/"><u>Understanding Intermittent Connectivity - Is the Entire Nintendo Switch Online Network Down, or Are You Alone in This Quandary?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/word-basics-how-to-insert-and-customize-lines-efficiently/"><u>Word Basics: How to Insert and Customize Lines Efficiently</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-cultivating-a-loyal-viewership-base-on-youtube-for-2024/"><u>[Updated] Cultivating a Loyal Viewership Base on Youtube for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ogg-aac-movavi/"><u>網路直接 OGG到 AAC無限制傳輸 - 使用 Movavi轉換工具</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ceskoslovenske-pravidelnosti-top-20-konvertoru-videa-pro-windows-gratkovy-programovaci-oddil-bez-platu/"><u>Československé Pravidelnosti Top 20 Konvertorů Videa Pro Windows: Grátkový Programovací Oddíl Bez Platu</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elevate-your-tech-experience-launch-of-intels-new-ultra-series-processors-based-on-innovative-lunar-lake-design-set-to-arrive-early-september/"><u>Elevate Your Tech Experience: Launch of Intel's New Ultra Series Processors, Based on Innovative Lunar Lake Design – Set to Arrive Early September</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-online-konvertisseur-and-uitkomsten/"><u>Gratis, Online Konvertisseur, and Uitkomsten.</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-a2-by-drfone-android/"><u>How to Bypass FRP from Oppo A2?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oneplus-12r-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone OnePlus 12R Phone? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lenovos-lightest-warrior-a-detailed-look-at-the-thinkpad-x1-nano-for-modern-laptop-seekers/"><u>Lenovo's Lightest Warrior: A Detailed Look at the ThinkPad X1 Nano for Modern Laptop Seekers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-3gpp-m4a/"><u>Movavi: 가상 공간을 이용한 3GPP M4A 비주얼 자동화 - 무료</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-future-of-audio-crafting-androids-most-innovative-digital-audio-workstations-for-todays-sound-engineers/"><u>New 2024 Approved The Future of Audio Crafting Androids Most Innovative Digital Audio Workstations for Todays Sound Engineers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/primetracking-ptgl300ma-personal-gps-tracker-review/"><u>PrimeTracking PTGL300MA Personal GPS Tracker Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-15-avances-en-herramientas-de-correccion-de-video-para-2024-opciones-gratuitas-y-con-suscripcion/"><u>Top 15 Avances en Herramientas De Corrección De Video Para 2024: Opciones Gratuitas Y Con Suscripción</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-15-screnshooter-free-lultimo-settembre-2024-una-guida-completa-da-movavi/"><u>Top 15 Screnshooter Free - L'Ultimo Settembre 2024: Una Guida Completa Da Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforma-archivos-de-video-a-avi-en-linea-gratuita-una-guia-sencilla-para-convertir-y-compartir-formatos-multimedia-con-eficiencia-mediante-movavi/"><u>Transforma Archivos De Vídeo a AVI en Línea Gratuita: Una Guía Sencilla Para Convertir Y Compartir Formatos Multimedia Con Eficiencia Mediante Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-resetting-a-forgotten-code-on-your-apple-device/"><u>Unlock the Secrets of Resetting a Forgotten Code on Your Apple Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-photos-movavi/"><u>무세액의 Google Photos 아카이브에서 오띰민 비디오를 원자시 윙어 - Movavi 도구 사용</u></a></li>
 </ul></div>
 

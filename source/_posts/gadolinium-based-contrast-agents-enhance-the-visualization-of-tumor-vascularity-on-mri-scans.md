@@ -1,7 +1,7 @@
 ---
 title: Gadolinium-Based Contrast Agents Enhance the Visualization of Tumor Vascularity on MRI Scans.
-date: 2025-01-28T17:52:02.533Z
-updated: 2025-01-30T22:23:00.447Z
+date: 2025-02-09T23:43:39.522Z
+updated: 2025-02-11T21:46:47.300Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,18 +129,20 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchat-savvy-elevating-your-photographic-style-with-app-edits/"><u>[New] 2024 Approved Snapchat Savvy Elevating Your Photographic Style with App Edits</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-leading-6-low-cost-superior-4k-tv-projectors/"><u>[New] In 2024, Leading 6 Low-Cost, Superior 4K TV Projectors</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-smartphone-entertainment-at-no-cost-our-top-picks-of-live-streamers/"><u>[Updated] 2024 Approved Smartphone Entertainment at No Cost Our Top Picks of Live Streamers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-analysis-of-srt-unpacking-its-significance/"><u>[Updated] Expert Analysis of SRT Unpacking Its Significance</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/call-of-duty-wwii-troubleshooting-navigating-past-error-code-4128-easily/"><u>Call of Duty WWII Troubleshooting - Navigating Past Error Code 지 4128 Easily!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-you-secure-an-official-verified-emblem-on-instagram/"><u>How Can You Secure an Official Verified Emblem on Instagram?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-codec-rivalry-assessing-the-next-step-in-video-encoding/"><u>In 2024, Codec Rivalry Assessing the Next Step in Video Encoding</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-redmi-note-13-pro-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi Redmi Note 13 Pro 5G Device SIM</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mac-users-guide-setting-up-two-displays-seamlessly/"><u>Mac Users Guide: Setting Up Two Displays Seamlessly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-for-successful-downloading-of-latest-ios-update/"><u>Steps for Successful Downloading of Latest iOS Update</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-latest-on-samsung-z-fold-4-specs-revealed-expected-price-points-and-launch-date/"><u>The Latest on Samsung Z Fold 4: Specs Revealed, Expected Price Points, and Launch Date</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/your-path-to-engaging-content-dive-into-our-free-youtube-ad-gallery-for-2024/"><u>Your Path to Engaging Content – Dive Into Our Free YouTube Ad Gallery for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-4k-cameras-and-their-perfect-gimbals/"><u>[New] Excellent 4K Cameras & Their Perfect Gimbals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-5-revelatory-tactics-for-novices-in-digital-advertising-for-2024/"><u>[New] Top 5 Revelatory Tactics for Novices in Digital Advertising for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-visionary-vector-top-10-mac-drawing-suites-zero-price/"><u>[Updated] Visionary Vector Top 10 Mac Drawing Suites (Zero Price!)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevating-social-media-stardom-with-dji-drones-livestreams/"><u>2024 Approved Elevating Social Media Stardom with DJI Drones' Livestreams</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-15-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 15 | Stellar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/alternative-methods-for-charging-your-smartphone-when-youre-out-of-juice/"><u>Alternative Methods for Charging Your Smartphone When You're Out of Juice</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-practices-top-5-audio-recording-approaches-on-windows-11-platform/"><u>Best Practices Top 5 Audio Recording Approaches on Windows 11 Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722860457429-explore-these-10-amazing-complimentary-email-addresses-today/"><u>Explore These 10 Amazing Complimentary Email Addresses Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-cross-platform-experience-running-android-on-your-new-windows-11-pc/"><u>Exploring the Cross-Platform Experience: Running Android on Your New Windows 11 PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-turtle-beach-microphone-issues-troubleshooting-guide/"><u>Fixing Turtle Beach Microphone Issues: Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-correcting-openal32dll-is-missing-from-system-files/"><u>Guide to Correcting 'OpenAL32.dll' Is Missing From System Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/popular-teen-movies-for-young-adults-to-watch-on-netflix/"><u>Popular Teen Movies for Young Adults to Watch on Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-puzzle-of-cmos-checksum-mismatches/"><u>Solving the Puzzle of CMOS Checksum Mismatches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-the-missing-python24dll-component/"><u>Step-by-Step Fix for the Missing Python24.dll Component</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-your-zebra-zp450-a-step-by-step-driver-update-and-download-manual/"><u>Troubleshooting Your Zebra ZP450: A Step-by-Step Driver Update and Download Manual</u></a></li>
 </ul></div>
 

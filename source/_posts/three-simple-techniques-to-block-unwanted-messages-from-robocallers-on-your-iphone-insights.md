@@ -1,7 +1,7 @@
 ---
 title: Three Simple Techniques to Block Unwanted Messages From Robocallers on Your iPhone - Insights
-date: 2025-01-29T22:07:44.220Z
-updated: 2025-01-30T20:03:02.891Z
+date: 2025-02-08T20:20:44.037Z
+updated: 2025-02-11T18:48:44.465Z
 tags:
   - apple
 categories:
@@ -26,9 +26,17 @@ The good news is that you can stop these text messages using a feature already i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to stop spam text messages on iPhone
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open Settings
 
@@ -37,10 +45,6 @@ Open the Settings app on your iPhone, scroll down until you can access Apps, and
 Tap on Messages to access the settings for your Messages app.
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Scroll until you find 'Filter Unknown Messages'
 
@@ -51,6 +55,10 @@ Scroll down to find the Filter Unknown Messages option and turn it on. This opti
 Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
 
@@ -74,11 +82,11 @@ The message inbox will now default to show messages from people in your contact 
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I stop spam calls on iPhone?
 
@@ -95,10 +103,6 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I report junk messages on iPhone?
 
 The tutorial above will let you live in ignorant bliss of whoever is trying to reach you, but you can also go a step further and report messages as junk. Here's how you can report junk messages on your iPhone:
@@ -109,7 +113,7 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I block a sender on my iPhone?
@@ -126,10 +130,6 @@ If you keep getting messages from the same sender after reporting them, you can 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -167,18 +167,18 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-manuals.techidaily.com/automate-your-aws-file-transfer-comprehensive-guide-on-using-the-s3-sync-cli-command/"><u>Automate Your AWS File Transfer: Comprehensive Guide on Using the S3 Sync CLI Command</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/enhancing-videos-with-professional-voiceovers-for-2024/"><u>Enhancing Videos with Professional Voiceovers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-display-driver-start-fails-in-windows/"><u>Essential Fixes for “Display Driver Start” Fails in Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-conversion-change-mp4-to-avi-using-movavis-easy-to-use-tool/"><u>Free Online Conversion: Change MP4 to AVI Using Movavi's Easy-to-Use Tool</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723807894259-how-to-rip-dvds-to-windows-11-easy-steps/"><u>How to Rip DVDs to Windows 11? Easy Steps!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximize-your-signal-with-the-clearstream-eclipse-a-top-tier-performance-in-a-user-friendly-package/"><u>Maximize Your Signal With The ClearStream Eclipse: A Top-Tier Performance in a User-Friendly Package</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-impact-of-these-developments-on-transaction-speeds-energy-consumption-and-network-security/"><u>The Impact of These Developments on Transaction Speeds, Energy Consumption, and Network Security</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-2024-playbook-for-acquiring-and-installing-minecraft-mods-successfully/"><u>The Ultimate 2024 Playbook for Acquiring & Installing Minecraft Mods Successfully</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tips-for-repairing-the-application-couldnt-begin-properly-issue-with-error-code-0xc0000142/"><u>Tips for Repairing the 'Application Couldn't Begin Properly' Issue with Error Code 0xC0000142</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-higher-fps-gaming-potential-with-our-proven-boosting-tactics/"><u>Unlock Higher FPS Gaming Potential with Our Proven Boosting Tactics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-creativity-the-4-premier-free-cad-solutions-you-should-know-about/"><u>Unlocking Creativity: The 4 Premier Free CAD Solutions You Should Know About</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/levating-youtube-productions-with-effective-video-lighting/"><u>[New] Elevating YouTube Productions with Effective Video Lighting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-checklist-for-installing-vrecorder-for-2024/"><u>[Updated] Ultimate Checklist for Installing VRecorder for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-troubleshooting-steps-for-dealing-with-missing-fm20dll-files/"><u>Comprehensive Troubleshooting Steps for Dealing with Missing fm20.dll Files</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/fixing-iphone-and-computer-connection-issues-step-by-step-guide/"><u>Fixing iPhone and Computer Connection Issues - Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/getting-ready-heres-the-lowdown-on-ps-vita-launch-timeline-pricing-info-specs-breakdown-and-buy-sites/"><u>Getting Ready? Here's the Lowdown on PS Vita: Launch Timeline, Pricing Info, Specs Breakdown & Buy Sites!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-spark-20-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Spark 20</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/iphone-backup-problem-fixed-itunes-now-works-as-expected/"><u>IPhone Backup Problem Fixed: ITunes Now Works as Expected</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-fact-5-hrams-role-high-resolution-accurate-mass-spectrometry-provides-precise-mz-values-enabling-the-distinction-of-molecular-formulas-with-high-confide75/"><u>Key Fact #5: HRAM's Role - High-Resolution Accurate Mass Spectrometry Provides Precise M/Z Values, Enabling the Distinction of Molecular Formulas with High Confidence.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-complete-guide-to-downloading-setting-up-and-using-obs-on-macos/"><u>The Complete Guide to Downloading, Setting up and Using OBS on macOS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-untold-perks-of-electric-vehicle-ownership-premium-parking-and-carpool-lane-access-awaits/"><u>The Untold Perks of Electric Vehicle Ownership: Premium Parking and Carpool Lane Access Awaits</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-antivirus-programs-expert-reviews-and-comparisons/"><u>Top Rated Antivirus Programs : Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ussd-explained-what-you-need-to-know-about-this-mobile-network-technology/"><u>USSD Explained: What You Need To Know About This Mobile Network Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/winning-against-windows-woes-proven-methods-for-speeding-up-a-snails-pace-windows-11-setup/"><u>Winning Against Windows Woes: Proven Methods for Speeding Up a Snail's Pace Windows 11 Setup</u></a></li>
 </ul></div>
 

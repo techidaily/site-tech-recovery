@@ -1,7 +1,7 @@
 ---
 title: Top 7 Tips for Optimizing UI/UX on Apple's VisionOS - Insights
-date: 2025-01-27T17:03:38.034Z
-updated: 2025-01-30T16:34:23.143Z
+date: 2025-02-04T23:34:35.844Z
+updated: 2025-02-11T20:40:52.147Z
 tags:
   - apple
 categories:
@@ -53,7 +53,7 @@ That way, they're not suddenly dropped into a whole new world, but they can slow
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Identify your key moments
@@ -66,6 +66,10 @@ Apple uses its Photos app as an example. A key moment for Apple's Photos app mig
 
 In a writing app, VRification might involve going from a typical windowed user interface for most writing to a focus mode that shuts out the outside world and lets your users concentrate, by providing a calming background and perhaps some calming music. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Adjust UI elements to accommodate the new environment
 
 Some UI elements translate directly from iPadOS to VisionOS, but others aren't an exact match. Apple has a [spatial design guidelines video](https://developer.apple.com/videos/play/wwdc2023/10072/) that's well worth watching to come up to speed. 
@@ -75,7 +79,7 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Utilize grid systems where appropriate
@@ -85,7 +89,7 @@ Apple says that apps designed with the [iPadOS grid system](https://developer.ap
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
@@ -98,10 +102,6 @@ To that end, even if you're building a non-entertainment app that would normally
 
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  6\. Focus on key details, but don't overwhelm
 
 Apple recommends always rendering a ground plane so users feel grounded. If you're putting someone inside a theatre, provide key details (like a stage, lighting, and curtains), but don't get carried away trying to reproduce the cola stains in the carpet or that unique crackle that comes from walking over scraps of petrified popcorn. If you're rendering an outdoor landscape, show slowly moving clouds but keep things subtle. 
@@ -109,7 +109,7 @@ Apple recommends always rendering a ground plane so users feel grounded. If you'
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
@@ -159,20 +159,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-30-psd-text-files-unrestricted-zero-price/"><u>[New] Top 30 PSD Text Files Unrestricted, Zero Price</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-gopro-hero5-black-secrets-elevating-your-cinematic-craft-for-2024/"><u>[Updated] GoPro Hero5 Black Secrets Elevating Your Cinematic Craft for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/automating-communication-a-complete-guide-to-planned-text-messages-on-your-iphone/"><u>Automating Communication: A Complete Guide to Planned Text Messages on Your iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-elite-circle-the-creme-de-la-creme-of-popular-sites-on-the-internet/"><u>Explore the Elite Circle: The Crème De La Crème of Popular Sites on the Internet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/fine-tuning-minecrafts-ram-for-better-gaming-results-for-2024/"><u>Fine-Tuning Minecraft's RAM for Better Gaming Results for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-textbooks-to-tech-how-students-can-score-big-savings-on-lenovo-devices/"><u>From Textbooks to Tech: How Students Can Score Big Savings on Lenovo Devices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-f04-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy F04 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-branding-in-videos-incorporating-logoswatermarks-for-youtube-content/"><u>In 2024, Branding in Videos Incorporating Logos/Watermarks for YouTube Content</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oneplus-open-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your OnePlus Open Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rotating-videos-using-windows-movie-maker-a-step-by-step-guide-and-other-options/"><u>Rotating Videos Using Windows Movie Maker: A Step-by-Step Guide and Other Options</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-building-a-portable-wi-fi-movie-hub-for-student-living-spaces/"><u>Step-by-Step Tutorial on Building a Portable Wi-Fi Movie Hub for Student Living Spaces</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-eliminating-horizontal-and-vertical-lines-from-your-tv/"><u>Step-by-Step Tutorial: Eliminating Horizontal and Vertical Lines From Your TV</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-purchasing-and-downloading-oculus-quest-2-games/"><u>Ultimate Guide: Purchasing & Downloading Oculus Quest ^2 Games</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-your-inactive-snapchat-expert-methods-for-reactivation/"><u>Unlocking Your Inactive Snapchat: Expert Methods for Reactivation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wearing-sterile-gloves-is-essential-for-maintaining-asepsis-during-the-procedure-but-it-doesnt-specify-how-much-sterile-solution-should-be-obtained/"><u>Wearing Sterile Gloves Is Essential for Maintaining Asepsis During the Procedure, but It Doesn't Specify How Much Sterile Solution Should Be Obtained.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-examining-screen-capture-efficacy-obs-studio-vs-fraps/"><u>[Updated] 2024 Approved Examining Screen Capture Efficacy OBS Studio vs Fraps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-keep-the-momentum-ios-and-android-gif-savings/"><u>[Updated] 2024 Approved How to Keep the Momentum IOS & Android GIF Savings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-visual-ventures-a-guide-to-social-video-growth/"><u>[Updated] Visual Ventures A Guide to Social Video Growth</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/1732515323714-ylu/"><u>不被市场波动左右，一直前行到价值目标：YL软件的专业见解—以U兄·无数世界探索为启示</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726227629827-heic-jpg/"><u>採用最佳免費 HEIC 改成 JPG 工具，全新熱門轉換方式逐一介紹！</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726221261452-mpeg-mp3-movavi/"><u>網上自由轉化 MPEG 成 MP3 - 利用 Movavi 音頻格式更改器</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-en-ligne-sans-frais-de-webm-vers-m4a-avec-movavi-guide-complet/"><u>Conversion en Ligne Sans Frais De Webm Vers M4A Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/deconstructing-the-best-podcast-title-examples/"><u>Deconstructing the Best Podcast Title Examples</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-gaming-experience-fixes-to-eliminate-hogwarts-legacys-stutter-issues/"><u>Enhance Gaming Experience - Fixes to Eliminate Hogwarts Legacy's Stutter Issues</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/expert-tips-on-jump-cuts-for-dynamic-video-editing/"><u>Expert Tips on Jump Cuts for Dynamic Video Editing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavis-no-cost-tool-to-transform-video-object-streaming-vos-to-windows-media-audio-wma/"><u>Movavi's No-Cost Tool to Transform Video Object Streaming (VOS) to Windows Media Audio (.WMA)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726228164844-movavi-202/"><u>Movavi视频编辑器 202</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-a-step-by-step-solution-for-the-coprocessor-driver-not-detected-glitch/"><u>Windows 11: A Step-by-Step Solution for the Coprocessor Driver Not Detected Glitch</u></a></li>
 </ul></div>
 

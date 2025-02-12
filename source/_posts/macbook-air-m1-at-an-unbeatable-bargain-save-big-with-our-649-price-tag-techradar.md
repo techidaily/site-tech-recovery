@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air M1 at an Unbeatable Bargain: Save Big with Our $649 Price Tag! | TechRadar"
-date: 2025-01-25T20:25:03.631Z
-updated: 2025-01-30T17:19:46.595Z
+date: 2025-02-07T04:43:31.929Z
+updated: 2025-02-12T05:27:53.749Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,16 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-recovery.techidaily.com/fixed-snipping-tool-not-working-on-windows-1011/"><u>[Fixed] Snipping Tool Not Working on Windows 10/11</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-symphony-in-softness-playback-reduction-guide/"><u>[Updated] 2024 Approved Symphony in Softness Playback Reduction Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-how-to-enable-grid-view-on-google-meet-to-see-every-participant/"><u>[Updated] How to Enable Grid View on Google Meet to See Every Participant?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-type-of-gpu-installed-on-your-computer-with-easy-methods/"><u>Discover the Type of GPU Installed on Your Computer with Easy Methods</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-your-graphics-processor-top-5-strategies-for-identification/"><u>Discover Your Graphics Processor: Top 5 Strategies for Identification</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-tech-help-how-to-perform-a-full-system-clear-on-hp-laptops-a-step-by-step-walkthrough/"><u>DIY Tech Help: How to Perform a Full System Clear on HP Laptops – A Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easily-launch-outlooks-safe-mode-in-windows-11-detailed-instructions-and-visual-aids-included/"><u>Easily Launch Outlook's Safe Mode in Windows 11 - Detailed Instructions and Visual Aids Included</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-fixes-how-to-enter-biosboot-on-windows-11-pcs/"><u>Easy Fixes: How to Enter BIOS/Boot on Windows 11 PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-ways-to-determine-your-computers-bios-firmware-in-windows-11/"><u>Effortless Ways to Determine Your Computer's BIOS Firmware in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-computers-performance-by-checking-ram-rates-in-windows-1011/"><u>Elevate Your Computer's Performance by Checking RAM Rates in Windows 10/11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/end-your-fortnite-suffering-top-tips-to-overcome-lag-issues/"><u>End Your Fortnite Suffering: Top Tips to Overcome Lag Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enjoy-classic-rpg-gaming-with-fallout-3-a-how-to-guide-for-windows-11-users/"><u>Enjoy Classic RPG Gaming with Fallout 3: A How-To Guide for Windows 11 Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/get-your-free-copy-of-winx-media-downloader-expert-dvd-extractor-and-high-definition-video-transcoder-official-release/"><u>Get Your Free Copy of WinX Media Downloader: Expert DVD Extractor & High Definition Video Transcoder - Official Release</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oneplus-ace-3-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from OnePlus Ace 3 Phones with/without a PC</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-natural-luminescence-in-home-interiors-simple-steps/"><u>In 2024, Natural Luminescence in Home Interiors Simple Steps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ating-youtubes-creative-commons-framework-effectively/"><u>Navigating YouTube's Creative Commons Framework Effectively</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-conflicts-easy-access-to-your-printer/"><u>Resolving Conflicts: Easy Access to Your Printer</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/step-by-step-instructions-for-adjusting-power-configurations-via-the-control-panel-tips-from-yl-software-experts/"><u>Step-by-Step Instructions for Adjusting Power Configurations via the Control Panel – Tips From YL Software Experts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/beats-and-briefs-music-incorporation-guide-on-fb-stories/"><u>Beats and Briefs Music Incorporation Guide on FB Stories</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-mend-your-rust-mic-comprehensive-troubleshooting-techniques/"><u>Diagnose and Mend Your Rust Mic: Comprehensive Troubleshooting Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-15-exceptional-free-bootloader-antivirus-apps/"><u>Discover 15 Exceptional Free Bootloader Antivirus Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-features-of-a-web-enabled-television-setup/"><u>Navigating the Features of a Web-Enabled Television Setup</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restore-broken-mpeg-files-using-top-rated-mp4-recovery-tools/"><u>Restore Broken MPEG Files Using Top-Rated MP4 Recovery Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-right-way-to-find-someones-work-or-private-email-address/"><u>The Right Way to Find Someone's Work or Private Email Address</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-honor-x9a-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Honor X9a Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-guide-premier-live-streaming-plus-local-channels-2024/"><u>Ultimate Guide Premier Live Streaming + Local Channels 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-screen-mirroring-how-to-connect-to-your-samsung-smart-tv-from-afar/"><u>Unlocking Screen Mirroring: How to Connect to Your Samsung Smart TV From Afar</u></a></li>
 </ul></div>
 

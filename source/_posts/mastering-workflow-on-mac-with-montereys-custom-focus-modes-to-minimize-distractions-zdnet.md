@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2025-01-28T20:19:54.343Z
-updated: 2025-01-30T17:48:39.589Z
+date: 2025-02-06T06:12:20.721Z
+updated: 2025-02-12T07:24:06.951Z
 tags:
   - apple
 categories:
@@ -27,21 +27,17 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -52,6 +48,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -59,6 +59,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -76,10 +80,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,16 +140,19 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-20-best-video-editors-compatible-with-dji-videos/"><u>[New] 20 Best Video Editors Compatible with DJi Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unveiling-the-hidden-treasure-troves-of-snapchat-tones-for-2024/"><u>[New] Unveiling the Hidden Treasure Troves of Snapchat Tones for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solved-how-to-configure-vpn-on-android-quickly-and-easily/"><u>[SOLVED] How to Configure VPN on Android | Quickly & Easily!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lenovo-thinkphone-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Lenovo ThinkPhone Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://win-answers.techidaily.com/lost-ark-optimization-guide-resolving-lag-and-improving-frame-rates-effectively/"><u>Lost Ark Optimization Guide: Resolving Lag and Improving Frame Rates Effectively</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/maciphoneipadipoddvdvideo/"><u>MacからiPhone・iPad・iPodへのDVD＆Videoファイルバックアップと再生手順</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-excessive-cpu-consumption-by-antivirus-processes-on-modern-windows-operating-systems/"><u>Resolving Excessive CPU Consumption by Antivirus Processes on Modern Windows Operating Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revitalize-your-pc-the-simplest-guide-to-refreshing-windows-11/"><u>Revitalize Your PC: The Simplest Guide to Refreshing Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-configuring-remote-desktop-access-on-windows-10/"><u>Step-by-Step Guide to Configuring Remote Desktop Access on Windows 10</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-renaming-your-account-in-windows-1-10/"><u>Step-by-Step Guide: Renaming Your Account in Windows 1지 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/your-roadmap-for-seamless-tech-transitions/"><u>Your Roadmap for Seamless Tech Transitions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-examining-realities-intertwined-what-is-mixed-reality/"><u>[Updated] Examining Realities Intertwined What Is Mixed Reality?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-from-vlogs-to-virality-jake-paul-the-online-phenomenon-for-2024/"><u>[Updated] From Vlogs to Virality Jake Paul, the Online Phenomenon for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-optimize-video-quality-with-expertise-in-studio-editor-use-for-2024/"><u>[Updated] Optimize Video Quality with Expertise in Studio Editor Use for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/assessing-the-moisture-resistance-capabilities-of-the-upcoming-iphone-generation/"><u>Assessing the Moisture Resistance Capabilities of the Upcoming iPhone Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-user-corrections-improve-ai-learning-in-chatgpt-platforms/"><u>Can User Corrections Improve AI Learning in ChatGPT Platforms?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-amber-and-emergency-alerts-on-your-iphone-an-easy-guide/"><u>Disabling AMBER and Emergency Alerts on Your iPhone: An Easy Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-hottest-free-movie-selections-on-youtube-for-july-2n24/"><u>Discover the Hottest Free Movie Selections on YouTube for July 2N'24!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722895907636-evaluating-the-advantages-of-wi-fi-mesh-network-technology/"><u>Evaluating the Advantages of Wi-Fi Mesh Network Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-10-gimbal-models-enhancing-smartphone-and-dslr-shots/"><u>In 2024, Pinnacle 10 Gimbal Models Enhancing Smartphone and DSLR Shots</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-simultaneous-scheduling-on-iphoneandroid-with-zoom-desktop-timeline/"><u>In 2024, Simultaneous Scheduling on iPhone/Android with Zoom Desktop Timeline</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes-for-2024/"><u>Intergalactic Visions The Best Sci-Fi Movies in Virtual Universes for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/retrieve-past-alerts-a-guide-to-viewing-previous-notifications-on-your-iphone/"><u>Retrieve Past Alerts: A Guide to Viewing Previous Notifications on Your iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-linking-your-amazon-firestick-with-an-hd-or-full-hd-projector/"><u>Step-by-Step Guide: Linking Your Amazon Firestick with an HD or Full HD Projector</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlock-the-power-of-pinterest-top-5-free-extractors-at-hand-for-2024/"><u>Unlock the Power of Pinterest Top 5 Free Extractors at Hand for 2024</u></a></li>
 </ul></div>
 

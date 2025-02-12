@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Selection of Unmissable Christmas Spur-of-the-Moment Sales at ZDNet
-date: 2025-01-28T21:17:35.136Z
-updated: 2025-01-30T18:09:57.613Z
+date: 2025-02-08T06:14:31.251Z
+updated: 2025-02-12T07:16:18.239Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,21 +123,18 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-secrets-of-saving-screenshots-tips-and-tricks-for-dell-users/"><u>[New] 2024 Approved Secrets of Saving Screenshots Tips & Tricks for Dell Users</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-quip-quarterly-event-oriented-joke-anthology/"><u>[New] In 2024, Quip Quarterly Event-Oriented Joke Anthology</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-voice-recording-for-powerpoint-visuals/"><u>[New] In 2024, Voice Recording for PowerPoint Visuals</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/apple-watch-series-4-analysis-enhanced-excellence-unveiled/"><u>Apple Watch Series 4 Analysis: Enhanced Excellence Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bypassing-zoom-screen-sharing-obstacles-updated-tips-for-202n4/"><u>Bypassing Zoom Screen Sharing Obstacles - Updated Tips for 202N4</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-steps-to-perform-a-full-factory-reset-on-your-acer-device/"><u>Complete Guide: Steps to Perform a Full Factory Reset on Your Acer Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connecting-your-beats-wireless-headphones-to-a-pc-a-step-by-step-guide/"><u>Connecting Your BEATS Wireless Headphones to a PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/direct-phone-call-capture-now-possible-with-apples-ios-18-say-goodbye-to-additional-apps-for-recordings-zdnet-innovations-in-mobile-technology/"><u>Direct Phone Call Capture Now Possible with Apple's iOS 18; Say Goodbye to Additional Apps for Recordings | ZDNet Innovations in Mobile Technology</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/los-reproductores-mp4-4k-ultra-hd-mas-eficaces-guia-completa-para-pcmac-usuarios/"><u>Los Reproductores MP4 4K Ultra HD Más Eficaces: Guía Completa Para PC/Mac Usuarios</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ordered-guide-how-to-watch-the-entire-dragon-ball-series/"><u>Ordered Guide: How to Watch the Entire Dragon Ball Series</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808092884-quick-fix-speeding-up-your-slow-windows-10-updates/"><u>Quick Fix: Speeding Up Your Slow Windows 10 Updates</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/silent-snapshots-avoiding-blurry-blows-for-2024/"><u>Silent Snapshots Avoiding Blurry Blows for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-underappreciated-film-phenoms-of-this-year-for-2024/"><u>The Underappreciated Film Phenoms of This Year for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808210268-transition-from-laminar-to-turbulent-flow-occurs-gradually-over-a-range-of-reynolds-numbers-not-abruptly-at-a-specific-point/"><u>Transition From Laminar to Turbulent Flow Occurs Gradually over a Range of Reynolds Numbers, Not Abruptly at a Specific Point</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-to-do-if-your-keyboard-doesnt-work/"><u>What to Do if Your Keyboard Doesn’t Work?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808087174-windows-10-wont-boot-or-start-try-easy-fixes/"><u>Windows 10 Won't Boot or Start? Try Easy Fixes!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-demystifying-recmeisters-advanced-screen-capture-technology/"><u>[New] Demystifying Recmeister's Advanced Screen Capture Technology</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-quicktweetgrabber-swiftly-secure-tweets-videos-on-iphone-for-2024/"><u>[New] QuickTweetGrabber Swiftly Secure Tweets' Videos on iPhone for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-what-is-slug-line-and-how-to-use-for-2024/"><u>[New] What Is Slug Line and How to Use for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-action-filming-elevated-in-depth-review-of-sj-cam-s6/"><u>2024 Approved Action Filming Elevated In-Depth Review of SJ-CAM S6</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-13-mini-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 13 mini Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-the-mysterious-black-window-in-windows-11-systems/"><u>Diagnosing and Repairing the Mysterious Black Window in Windows 11 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-guide-intel-optane-drivers-for-windows-troubleshooting-solved/"><u>Download & Update Guide: Intel Optane Drivers for Windows - Troubleshooting Solved!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-presentations-with-voice-to-text-in-ppt/"><u>Enhancing Presentations with Voice-to-Text in PPT</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/how-can-i-share-videos-to-instagram-for-2024/"><u>How Can I Share Videos to Instagram for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-redmi-k70-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Redmi K70 Lock Screen Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-best-tv-streaming-options-viewers/"><u>The Ultimate List: Best TV Streaming Options Viewers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-samsungs-z-fold-004-official-release-info-plus-specifications-reviewed/"><u>Unveiling Samsung's Z Fold 004: Official Release Info + Specifications Reviewed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-significance-deciphering-the-act-of-tagging-others/"><u>Unveiling the Significance: Deciphering the Act of Tagging Others</u></a></li>
 </ul></div>
 

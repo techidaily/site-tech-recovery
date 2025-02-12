@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights by ZDNet"
-date: 2025-01-24T18:11:45.304Z
-updated: 2025-01-30T18:54:31.747Z
+date: 2025-02-10T02:10:24.226Z
+updated: 2025-02-12T04:05:46.607Z
 tags:
   - apple
 categories:
@@ -48,6 +48,10 @@ Beyond that, Apple's lineup seems pretty strong, from the [M3 MacBook Air system
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The 'Naughty' list**
 
 Don't buy these devices:
@@ -57,14 +61,10 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **The 'Nice' list**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
@@ -84,7 +84,7 @@ Kerry Wan/ZDNET
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
@@ -115,10 +115,6 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Apple 14-inch and 16-inch MacBook Pro**
 
 This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M3 to the [insanely powerful M3 Max](https://www.zdnet.com/article/apples-m3-m3-pro-and-m3-max-chipsets-everything-you-should-know-before-buying/). Here are the specs:
@@ -134,10 +130,6 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -152,6 +144,10 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -173,6 +169,10 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 **Also: [Apple AirPods Pro (2nd Gen) review: Two major upgrades, tamed by one familiar flaw](https://www.zdnet.com/article/apple-airpods-pro-2-review/)**
 
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Apple AirTag**
 
@@ -214,24 +214,17 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-beatbox-your-way-up-the-ultimate-guide-for-top-10-music-vids-for-2024/"><u>[New] BeatBox Your Way Up The Ultimate Guide for Top 10 Music Vids for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-huawei-mate-and-p-series-phones-activating-built-in-recorders-for-screen-capture/"><u>[New] In 2024, Huawei Mate and P Series Phones Activating Built-In Recorders for Screen Capture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-influence-of-thumbnail-size-on-viewership-numbers/"><u>[New] The Influence of Thumbnail Size on Viewership Numbers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-world-through-your-lens-how-to-become-a-professional-travel-vlogger/"><u>[New] Unveiling the World Through Your Lens How To Become A Professional Travel Vlogger</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1-come-recuperare-le-foto-di-sistema-dal-tuo-disco-rigido-esterno/"><u>1. Come Recuperare Le Foto Di Sistema Dal Tuo Disco Rigido Esterno?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-eliminating-lag-on-logitech-computer-devices/"><u>A Comprehensive Guide to Eliminating Lag on Logitech Computer Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-scrutiny-of-xstream-video-hubs-features/"><u>Comprehensive Scrutiny of XStream Video Hub's Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-to-follow-instructions-for-setting-up-a-dual-monitor-system-on-your-windows-7-pc/"><u>Easy-to-Follow Instructions for Setting Up a Dual Monitor System on Your Windows 7 PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-our-top-5-favorite-vpns-for-optimizing-your-youtube-viewing-experience/"><u>Explore Our Top 5 Favorite VPNs for Optimizing Your YouTube Viewing Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-high-resource-consumption-by-compattelrunnerexe-on-pcs-running-win-10-and-7/"><u>Fixing High Resource Consumption by CompatTelRunner.exe on PCs Running Win 10 and 7</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-get-permission-from-trustedinstaller-in-windows-11/"><u>How to Get Permission From TrustedInstaller in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-launch-microsoft-outlook-in-safe-mode-on-windows-10-a-step-by-step-guide-with-visuals/"><u>How to Launch Microsoft Outlook in Safe Mode on Windows 10: A Step-by-Step Guide with Visuals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-upgrade-your-nvidia-gpu-with-new-drivers-made-for-windows-11-a-hassle-free-tutorial/"><u>How to Upgrade Your NVIDIA GPU with New Drivers Made for Windows 11: A Hassle-Free Tutorial</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/identifying-and-fixing-issues-with-non-responsive-graphics-cards-expert-advice-from-yl-software/"><u>Identifying and Fixing Issues with Non-Responsive Graphics Cards - Expert Advice From YL Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/kratos-fixed-enhanced-combat-flow/"><u>Kratos Fixed: Enhanced Combat Flow</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/optimizing-system-performance-managing-antimalware-service-executable-cpu-usage-in-windows-1110/"><u>Optimizing System Performance: Managing 'Antimalware Service Executable' CPU Usage in Windows 11/10</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/restoring-disconnected-devices-in-windows-11-simple-steps-to-reconnection/"><u>Restoring Disconnected Devices in Windows 11 - Simple Steps to Reconnection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-best-places-to-catch-professional-sports-events-for-free/"><u>The Best Places to Catch Professional Sports Events for Free</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-mastering-entryexit-from-iphone-recovery-modes/"><u>Unlock the Secrets: Mastering Entry/Exit From iPhone Recovery Modes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-gen-stabilizing-tools-for-youtube-videographers/"><u>[Updated] Next-Gen Stabilizing Tools for YouTube Videographers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-s18-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo S18 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-step-by-step-guide-troubleshooting-your-broken-xbox-one-pen/"><u>Complete Step-by-Step Guide: Troubleshooting Your Broken Xbox One Pen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-find-my-iphone-issues-overcoming-connectivity-problems-and-retracing-your-device/"><u>Fixing Find My iPhone Issues: Overcoming Connectivity Problems and Retracing Your Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-capture-your-gaming-success-on-win10/"><u>In 2024, How to Capture Your Gaming Success on Win10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-xiaomi-civi-3-disney-100th-anniversary-edition-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi Civi 3 Disney 100th Anniversary Edition Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/innovative-ways-to-power-up-your-smartphone-when-you-lose-the-charger/"><u>Innovative Ways to Power Up Your Smartphone When You Lose the Charger</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-16-a-breakthrough-in-user-friendly-maintenance-compared-to-older-models-insights-from-apple-zdnet/"><u>IPhone 16: A Breakthrough in User-Friendly Maintenance Compared to Older Models - Insights From Apple | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mobile-privacy-tips-concealing-phone-numbers-from-calls-and-texts-on-android/"><u>Mobile Privacy Tips: Concealing Phone Numbers From Calls and Texts on Android</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-new-technology-informed-opinions-from-toms-world-of-gear/"><u>Navigating New Technology: Informed Opinions From Tom's World of Gear</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-minecrafts-darkness-ultimate-guide-to-overcoming-the-black-screen-challenge/"><u>Say Goodbye to Minecraft's Darkness: Ultimate Guide to Overcoming the Black Screen Challenge !</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-buyers-guide-educational-computers-that-will-boost-your-grades/"><u>The Definitive Buyer's Guide: Educational Computers That Will Boost Your Grades</u></a></li>
 </ul></div>
 

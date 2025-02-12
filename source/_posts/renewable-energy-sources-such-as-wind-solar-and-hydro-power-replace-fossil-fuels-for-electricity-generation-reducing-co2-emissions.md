@@ -1,7 +1,7 @@
 ---
 title: Renewable Energy Sources Such as Wind, Solar, and Hydro Power Replace Fossil Fuels for Electricity Generation, Reducing CO2 Emissions.
-date: 2025-01-23T19:37:44.782Z
-updated: 2025-01-30T19:52:15.652Z
+date: 2025-02-09T03:54:44.845Z
+updated: 2025-02-11T18:35:09.585Z
 tags:
   - apple
 categories:
@@ -24,11 +24,19 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### SPECIAL FEATURE
 
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -57,7 +65,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
@@ -100,6 +108,10 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2017: The start of the AI/ML smartphone era
 
 It's difficult to nail down exactly when machine learning found its way into smartphones, but a good case can be made for 2017\. That year, [Google released the Pixel 2](https://blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/), which got a portrait mode that blurred backgrounds, and improved processing for HDR images.
@@ -127,7 +139,7 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Image quality
@@ -143,10 +155,6 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -167,10 +175,6 @@ Some early facial recognition applications demonstrated bias. They were using ve
 This technique pits a "generator" algorithm against a "discriminator" algorithm process, where the discriminator provides feedback to the generator to drive improvement. The resulting learned effects, or style transfer processes, mimic the styles of various artists and techniques. This allows users to apply complex artistic styles to their photos, and for the resulting images to appear stylistically relevant. It also has [resulted in lawsuits](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/).
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
 
@@ -193,10 +197,6 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -254,15 +254,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-7-crucial-tiktok-utilities-for-enhanced-viral-progress-for-2024/"><u>[New] 7 Crucial TikTok Utilities for Enhanced Viral Progress for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-lut-techniques-for-professional-color-grading-and-correction/"><u>[New] LUT Techniques for Professional Color Grading and Correction</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-customizing-windows-photos-to-enjoy-music-on-every-picture/"><u>2024 Approved Customizing Windows Photos to Enjoy Music on Every Picture</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/best-5-web-video-recorders-for-2024/"><u>Best 5 Web Video Recorders for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-installupdate-the-ch340-usb-to-serial-driver-in-windows-10-easily/"><u>How to Install/Update the CH340 USB-to-Serial Driver in Windows 10 Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-turn-off-automatic-windows-11-update-installations-in-just-a-few-steps/"><u>How to Turn Off Automatic Windows 11 Update Installations in Just a Few Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolved-fixing-the-silent-console-how-to-restore-audio-on-your-ps4/"><u>Resolved: Fixing the Silent Console - How to Restore Audio on Your PS4</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-you-must-format-the-disk-error-essential-steps/"><u>Resolving 'You Must Format the Disk' Error - Essential Steps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-connection-problems-making-your-seagate-external-work-with-windows-11/"><u>Resolving Connection Problems: Making Your Seagate External Work with Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-or-install-new-drivers-on-epson-scanners-with-these-direct-downloads/"><u>Update or Install New Drivers on Epson Scanners with These Direct Downloads</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-discover-the-serenade-iphone-and-its-symphony-of-podcasts/"><u>[New] 2024 Approved Discover the Serenade IPhone and Its Symphony of Podcasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-e-identity-enhancement-drawing-your-playful-iconography/"><u>[New] 2024 Approved E-Identity Enhancement Drawing Your Playful Iconography</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-inshot-showdown-expert-review-of-best-editing-software/"><u>[Updated] In 2024, InShot Showdown Expert Review of Best Editing Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-video-file-processing-movs-in-windows-11-edition/"><u>[Updated] Mastering Video File Processing MOVs in Windows 11 Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-srt-decoding-for-windows-and-mac-users/"><u>[Updated] SRT Decoding for Windows & Mac Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-avi-video-conversion-software-ranked-effortlessly-change-your-videos/"><u>Best AVI Video Conversion Software Ranked - Effortlessly Change Your Videos!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-innovation-of-dts-play-fi-in-modern-home-entertainment-systems/"><u>Decoding the Innovation of DTS Play-Fi in Modern Home Entertainment Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-downloading-and-managing-apps-on-your-samsung-smart-television/"><u>Guide: Downloading and Managing Apps on Your Samsung Smart Television</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-narzo-60x-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme Narzo 60x 5G Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-pick-the-best-gaming-pc-important-criteria-every-player-should-check/"><u>How to Pick the Best Gaming PC: Important Criteria Every Player Should Check</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simplify-tech-transitions-smartphone-vr-integration-guide/"><u>In 2024, Simplify Tech Transitions Smartphone-VR Integration Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insight-into-facebook-understanding-its-beginnings-appeal-factors-and-core-components/"><u>Insight Into Facebook: Understanding Its Beginnings, Appeal Factors, and Core Components</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/mastering-image-management-utilizing-aomei-image-deploy-for-secure-boot-procedures/"><u>Mastering Image Management: Utilizing AOMEI Image Deploy for Secure Boot Procedures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-picture-in-picture-mode-on-android-devices/"><u>Mastering the Art of Picture-in-Picture Mode on Android Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-factory-resetting-your-dell-computer/"><u>Step-by-Step Guide: Factory Resetting Your Dell Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-gaming-consoles-of-2024/"><u>The Best Gaming Consoles of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-steps-to-achieve-official-verification-badge-on-instagram/"><u>Ultimate Guide: Steps to Achieve Official Verification Badge on Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-secured-login-information-tips-for-finding-mac-passwords/"><u>Unlocking Secured Login Information: Tips for Finding Mac Passwords</u></a></li>
 </ul></div>
 

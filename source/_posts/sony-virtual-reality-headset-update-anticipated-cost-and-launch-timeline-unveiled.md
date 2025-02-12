@@ -1,7 +1,7 @@
 ---
 title: "Sony Virtual Reality Headset Update: Anticipated Cost & Launch Timeline Unveiled"
-date: 2024-08-12T04:12:14.848Z
-updated: 2024-08-13T04:12:14.848Z
+date: 2025-02-04T20:23:50.802Z
+updated: 2025-02-12T06:42:38.672Z
 categories:
   - BestProducts
 description: "This Article Describes Sony Virtual Reality Headset Update: Anticipated Cost & Launch Timeline Unveiled"
@@ -21,40 +21,44 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  Apple may be working on a small wearable device that projects audio beams at the user's ears to let them hear audio without headphones. News of this device came in a patent filing granted to the company in May 2024\. This article explains what the patent covers, what the product might be, and what we know about it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## What Is the Apple Wearable Device With Direct Audio Release Date?
 
  There's not a lot to go on about this device, just the patent—and not all patents lead to products. In fact, Apple and other tech companies receive hundreds and thousands of patents every year, and not all of that technology makes it to market.
 
  Given that there are no rumors of an actual product using this technology, it's too early to know a release date for this unnamed device (if it gets released at all).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lifewire's Release Date Estimate
 
  We don't expect to see this direct audio device until late 2025 or 2026 (or maybe even later).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pre-Order Information
 
  Given that there aren't even rumors of a product here, there's no pre-order information to share right now. We'll update this article if that changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Price Rumors
 
  The rumor mill doesn't have anything to say about prices for an Apple wearable with direct audio. If and when such a product is released, we expect it would cost at least as much as AirPods Pro ($249). It wouldn't surprise us if the price tag were higher.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Apple Wearable Device With Direct Audio Features
 
  Apple's patent for this wearable computing device ([Patent #US 11979721 B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11979721) ) describes a gadget that can be worn on clothes and contains a set of speakers and microphones. The speakers beam audio to the wearer's ears, while the microphones take voice commands (probably to Apple's digital assistant, Siri).
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Patent drawing of an Apple wearable device with direct audio](https://www.lifewire.com/thmb/bpw_abDVlHe6Q57SQBo0eDLP8K8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/apple-wearable-audio-device-e517a826f13a414dbecdc3bca50d826b.jpg)
 
 Apple, Inc / USPTO
@@ -66,9 +70,6 @@ Apple, Inc / USPTO
 * Directional audio
 * Microphones for commands, user identification, and calibration.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Directional Audio
 
  The patent discusses an array of parametric speakers that send sound beams to the wearer's ears (this is called directional audio).
@@ -84,8 +85,9 @@ Apple, Inc / USPTO
  The patent also mentions user identification—presumably the device would get to know your voice and maybe even use it as a password (the HomePod does something similar with[Personal Requests](https://www.lifewire.com/how-to-set-up-apple-homepod-4800071) )—and calibration (likely to gauge background noise and vocal volume to attune the device to the user and its surroundings).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Apple Wearable Device With Direct Audio
 
  Lifewire delivers all the latest news and opinions about[ear buds and other wearable devices](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Some articles in these areas that might interest you include:
@@ -96,14 +98,11 @@ Apple, Inc / USPTO
 
 [What Is Apple Intelligence?](https://www.lifewire.com/what-is-apple-gpt-7571221)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +111,23 @@ Apple, Inc / USPTO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-applying-apple-music-to-your-videos/"><u>[Updated] Expert Tips for Applying Apple Music to Your Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-update-essential-strategies-for-social-media-savvy/"><u>[Updated] Facebook Update Essential Strategies for Social Media Savvy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonic-hurdle-jumpstarts-best-tunes-to-initiate-audio-starts/"><u>[Updated] Harmonic Hurdle Jumpstarts Best Tunes to Initiate Audio Starts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-for-virtual-reality-content-android-friendly-for-2024/"><u>[Updated] The Ultimate Guide for Virtual Reality Content (Android-Friendly) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-best-picks-for-family-internet-management-apps-and-services-top-8/"><u>2024'S Best Picks for Family Internet Management Apps & Services (Top 8)</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/best-6-free-mobile-and-desktop-applications-for-windows-10-and-phone-get-them-now/"><u>Best 6 FREE Mobile & Desktop Applications for Windows 10 and Phone - Get Them Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gmail-troubleshooting-how-to-recover-accidentally-deleted-mail/"><u>Gmail Troubleshooting - How to Recover Accidentally Deleted Mail</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-pathway-to-visual-storytelling-on-youtube/"><u>In 2024, The Ultimate Pathway to Visual Storytelling on YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pc-integration-techniques-for-sony-playstation-vr-systems-explained/"><u>PC Integration Techniques for Sony PlayStation VR Systems Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rokus-missing-subtitles-heres-how-you-can-turn-them-on-again/"><u>Roku's Missing Subtitles? Here's How You Can Turn Them On Again!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-repairing-msvcrt10dll-not-found-mishaps-on-windows/"><u>The Ultimate Guide: Repairing 'msvcrt10.dll' Not Found Mishaps on Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/for-handling-numerous-youtube-clips-concurrently-for-2024/"><u>Tips for Handling Numerous YouTube Clips Concurrently for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/triumph-over-troubled-tech-strategies-to-correctly-address-0x00000078-blue-screen-issue/"><u>Triumph Over Troubled Tech: Strategies to Correctly Address 0X00000078 Blue Screen Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/x-user-decluttering-techniques-when-and-how-to-clean-up-your-feed-effectively/"><u>X User Decluttering Techniques - When and How to Clean Up Your Feed Effectively</u></a></li>
+</ul></div>
 

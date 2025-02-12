@@ -1,7 +1,7 @@
 ---
 title: "Securing Gmail with an Extra Layer of Safety: Turn On 2FA Now!"
-date: 2024-08-12T04:13:09.830Z
-updated: 2024-08-13T04:13:09.830Z
+date: 2025-02-04T20:39:59.106Z
+updated: 2025-02-12T03:37:23.320Z
 categories:
   - BestProducts
 description: "This Article Describes Securing Gmail with an Extra Layer of Safety: Turn On 2FA Now!"
@@ -10,9 +10,6 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 ---
 
 ## Securing Gmail with an Extra Layer of Safety: Turn On 2FA Now
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Know
 
 * Go to**myaccount.google.com** \>**Security** \>**2-Step Verification** \>**Turn on 2-step Verification** .
@@ -26,28 +23,33 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
  Google makes this really easy. Here's what to do to enable 2FA for Gmail from a desktop browser:
 
 1. Sign in to your Gmail account and select your profile picture or icon.  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sign in to your Gmail account and select your profile picture or icon.](https://www.lifewire.com/thmb/XpGVEa_ydf-r8r0RK-2OQ5L6JOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1Selectprofilepictureannotated-b3b1edd70b1948cc8d6091e63afb34cd.jpg)
 2. Select**Manage your Google Account** .  
 ![Gmail settings with Manage Your Google Account highlighted](https://www.lifewire.com/thmb/Pe8Udf4nXir7HB95nGOhC-KCE6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2SelectManageyourGoogleaccountannotated-0942870e67344a68ab7dcd590f811a3d.jpg)
 3. Select**Security** from the left pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Google account settings with security highlighted](https://www.lifewire.com/thmb/DT1Ur_GliGS23dPL4-8cNO_xCo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3SelectSecurityannotated-66dc87f916d84806827da2b0f5d00e34.jpg)
 4. Select**2-Step Verification** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google account settings with 2-Step Verification highlighted](https://www.lifewire.com/thmb/9XxGsRBl70sZTynCu2tUQ3eSEnc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4Select2-StepVerificationannotated-941372db1c7e4a07824aabddbcbb988a.jpg)
 5. Select**Turn on 2-step Verification** .  
 ![The 2-step Verification page in a Google account](https://www.lifewire.com/thmb/iraHGXouvGeotZQsz-JDpMIx49Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-step-verification-google-account-3845649f01274321ae0acdbea57290ef.png)
 6. Enter your phone number, then select**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The 'Add a phone number' prompt for 2-step verification in a Google account](https://www.lifewire.com/thmb/1K92pSgXKDaOn_Ymr2X_Sin0Cqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-account-add-phone-number-2-step-verification-a48263c5e08c427799171ef33eb356f5.png)
 7. Enter the verification code Google sent to your phone, then select**Verify** \>**Done**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![The 'Verify this phone number' 2FA prompt in a Google account](https://www.lifewire.com/thmb/ncnHnWrzCxpHsg42S95xzn-O0Zo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-step-verification-number-google-5663bb0d29ab4c46af293060352c54bb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn Off Gmail Two-Factor Authentication
 
@@ -56,35 +58,36 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 1. Select your profile picture or icon at the top right of Gmail, then select**Manage your Google Account** .  
 ![Gmail settings with Manage Your Google Account highlighted](https://www.lifewire.com/thmb/Pe8Udf4nXir7HB95nGOhC-KCE6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2SelectManageyourGoogleaccountannotated-0942870e67344a68ab7dcd590f811a3d.jpg)
 2. Select**Security** on the left, then scroll down the page and choose**2-Step Verification** . Sign in to your Google account when asked.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The security settings open in a Google account](https://www.lifewire.com/thmb/RVVk6fqNdXlR4-7BDZzrL4WlceU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-security-settings-32dd15fd96f54ffc9499123c84a9f854.png)
 3. Select**Turn off 2-Step Verification** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Turn Off 2FA button in a Google account](https://www.lifewire.com/thmb/ouv8QX1HVIk0KoYzioHNlzR-sSU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/disable-two-step-verification-google-7a947d5206084cf4bbc8f6d59a949fc4.png)
 4. Google shows a warning message asking you to confirm that you really want to disable 2-Step Verification. If you're sure, select**Turn off** .  
 ![Google confirmation message with the Turn Off button](https://www.lifewire.com/thmb/eZoqXK_DwHcHAJUYqrcu9uTEC-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/turn-off-2fa-gmail-2b5b0ce807164afca9b4be86270a53e6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up Alternate Verification Steps for Your Gmail Account
 
  If you want to set up different forms of verification as a backup to a text message, Google provides several options. Here's how to change the second form of verification:
 
 1. Return to your Google account settings by selecting your profile image at the top followed by**Manage your Google Account** \>**Security** \>**2-Step Verification** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Security settings for a Google account with 2FA enabled](https://www.lifewire.com/thmb/awa8LnI_ob1tQVHmWXeGBiHObZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-security-settings-cbf9e7719c1847fcb54b626a94168973.png)
 2. Scroll down to the**Second steps** section.
 3. Pick any of the available options, which include**Passkeys and security keys** ,**Google prompt** , and[Authenticator](https://www.lifewire.com/how-to-set-up-google-authenticator-4689012) . This is also where you can get[backup codes for your Google account](https://www.lifewire.com/how-to-use-google-backup-codes-4172457) .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The list of Google's 2-step verification methods](https://www.lifewire.com/thmb/0mC55xoqifGaJGNsFpQPjFkWGEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-step-verification-google-account-8857e154647241098b43075f4b9e2f28.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Why Use Gmail Two-Factor Authentication?
 
  Your email account contains a lot of valuable information. It's likely the account you use for everything, from your online banking to your social media accounts and potentially work-related tasks.
@@ -94,8 +97,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Two-factor authentication adds a layer of security by necessitating more than just your password for account access. By demanding an additional item, such as your phone, during login, it effectively prevents access, even if someone knows your password.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Gmail Two-Factor Authentication Works
 
  Depending on the 2FA method you chose during setup, Google will send you a code unique to your account. This might come via a text message to the number on file, a code in the Google Authenticator app, or a prompt on another device where you're already signed in. Each code is only usable once and expires within minutes, so it's very secure.
@@ -122,8 +126,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +133,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-your-social-reach-with-dual-display-facebook-streaming-for-2024/"><u>[New] Maximizing Your Social Reach with Dual Display Facebook Streaming for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-comprehensive-guide-to-capturing-perfect-instagram-covers-for-2024/"><u>[New] The Comprehensive Guide to Capturing Perfect Instagram Covers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-simply-your-way-of-capturing-igtv-on-devices/"><u>[Updated] 2024 Approved Simply Your Way of Capturing IGTV on Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boost-your-earnings-on-youtube-shorts-a-guide-for-2024/"><u>[Updated] Boost Your Earnings on YouTube Shorts A Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-list-of-iphone-selfie-perks-8/"><u>2024 Approved The Ultimate List of IPhone Selfie Perks #8</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-guide-for-when-openal32dll-is-absent-or-lost/"><u>Fix Guide for When openAL32.dll Is Absent or Lost</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-11-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme 11 5G Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-a-broken-spacebar-under-windows-11/"><u>Solving the Issue of a Broken Spacebar Under Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fixes-for-missing-dll-files-on-your-computer/"><u>Step-by-Step Fixes for Missing DLL Files on Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-install-applications-on-your-samsung-smart-television/"><u>Steps to Install Applications on Your Samsung Smart Television</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/swift-systems-for-securing-presentations/"><u>Swift Systems for Securing Presentations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sync-to-local-time-changing-the-hour-and-minute-on-your-kindle-device/"><u>Sync to Local Time: Changing the Hour and Minute on Your Kindle Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-essential-guidelines-when-selecting-a-superior-selfie-stick/"><u>Top 6 Essential Guidelines When Selecting a Superior Selfie Stick</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-essential-factors-to-evaluate-when-shopping-for-a-smart-television/"><u>Top 7 Essential Factors to Evaluate When Shopping for a Smart Television</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-your-lost-iphone-xs-potentials-with-these-tricks/"><u>Unlock Your Lost iPhone X's Potentials with These Tricks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apple Vision Pro Sets Stage with Microsoft Office Suite at Launch - A Closer Look by ZDNet Experts
-date: 2025-01-11T20:04:29.528Z
-updated: 2025-01-16T23:39:01.479Z
+date: 2025-02-11T08:30:28.013Z
+updated: 2025-02-11T17:14:03.453Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
@@ -53,7 +49,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -95,7 +91,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -105,10 +101,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -145,6 +137,10 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -156,6 +152,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -170,7 +170,7 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -212,19 +212,19 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturecraft-in-depth-analysis-of-screen-capture-tech-for-2024/"><u>[New] CaptureCraft In-Depth Analysis of Screen Capture Tech for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-guide-to-budget-friendly-phone-video-conferencing-iphone-and-android/"><u>[New] In 2024, Ultimate Guide to Budget-Friendly Phone Video Conferencing (iPhone & Android)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-how-to-make-every-discord-livestree-a-timeless-treasure/"><u>[Updated] How to Make Every Discord Livestree a Timeless Treasure</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-impact-a-guide-to-customizing-game-banners/"><u>[Updated] Maximizing Impact A Guide to Customizing Game Banners</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unlock-the-secrets-for-a-viral-instagram-account-gain-fans-and-verified-status-in-less-than-150-characters/"><u>[Updated] Unlock the Secrets for a Viral Instagram Account Gain Fans and Verified Status in Less Than 150 Characters</u></a></li>
-<li><a href="https://games-able.techidaily.com/6-things-we-liked-about-java-games/"><u>6 Things We Liked About Java Games</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amazons-must-have-bargains-in-august-2e24-find-out-more-with-zdnet/"><u>Amazon's Must-Have Bargains in August 2E24: Find Out More with ZDNet!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/choosing-the-perfect-ipad-for-your-child-check-out-our-2022-picks/"><u>Choosing the Perfect iPad for Your Child? Check Out Our 2022 Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-productivity-with-dual-displays-on-your-m3-macbook-pro-compatible-as-the-m3-macbook-air/"><u>Enhance Productivity with Dual Displays on Your M3 MacBook Pro - Compatible as the M3 MacBook Air</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-your-hands-on-the-latest-from-apples-wwdc-top-3-products-for-immediate-purchase-find-out-where-to-preorder-zdnet/"><u>Get Your Hands On the Latest From Apple's WWDC: Top 3 Products for Immediate Purchase - Find Out Where to Preorder | ZDNET</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-7-plus-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 7 Plus Without a Home Button</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-note-50-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme Note 50 Phone with Broken Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/live-updates-from-the-apple-wwdc-keynote-latest-on-ai-innovations-with-siri-and-whats-new-in-ios-18-techspot/"><u>Live Updates From the Apple WWDC Keynote: Latest on AI Innovations with Siri and What's New in iOS 18 | TechSpot</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-more-errors-with-nvidia-driver-installation/"><u>No More Errors with Nvidia Driver Installation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-decreasing-mix-intensity-step-by-step/"><u>[New] 2024 Approved Decreasing Mix Intensity Step by Step</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-gopro-feature-list-matchup/"><u>[New] The Ultimate Gopro Feature List Matchup</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-bur-background-in-google-meet/"><u>2024 Approved How to Bur Background in Google Meet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-asus-rog-phone-8-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Asus ROG Phone 8 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-ogv-naar-mp4-konverteren-onlinelastige-sollicitatie/"><u>Gratuit OGV Naar MP4 Konverteren - Onlinelastige Sollicitatie</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-ip110-software-update-and-drivers-for-multiple-windows-versions/"><u>Latest Canon IP110 Software Update and Drivers for Multiple Windows Versions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/les-applications-de-partage-decran-avise-le-classement-des-meilleurs-logiciels-en-2021-movavi/"><u>Les Applications De Partage D'Écran Avisé: Le Classement Des Meilleurs Logiciels En 2021 - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mpeg-asfonline/"><u>MPEG ASFファイルを問題なく変換:無料のOnlineツール</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-windows-ui-adding-menus-and-subitems/"><u>Reimagining Windows UI: Adding Menus and Subitems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003742979-resolving-the-endless-cycle-stop-fuser-from-hitting-pc-blackouts-now/"><u>Resolving the Endless Cycle: Stop Fuser From Hitting PC Blackouts Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-exporting-your-video-from-adobe-after-effects/"><u>Step-by-Step Guide to Exporting Your Video From Adobe After Effects</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transcodage-gratuit-dun-fichier-video-m1v-en-format-avi-tutorial-avec-movavi/"><u>Transcodage Gratuit D'un Fichier Vidéo .m1v en Format AVI - Tutorial Avec Movavi</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unleash-the-power-of-time-lapse-expert-tips-for-final-cut-pro-users/"><u>Updated Unleash the Power of Time Lapse Expert Tips for Final Cut Pro Users</u></a></li>
 </ul></div>
 

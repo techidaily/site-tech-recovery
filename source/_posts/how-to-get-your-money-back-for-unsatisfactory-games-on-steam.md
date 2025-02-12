@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Money Back for Unsatisfactory Games on Steam
-date: 2024-08-12T04:11:32.327Z
-updated: 2024-08-13T04:11:32.327Z
+date: 2025-02-09T20:34:45.578Z
+updated: 2025-02-11T16:16:09.522Z
 categories:
   - BestProducts
 description: This Article Describes How to Get Your Money Back for Unsatisfactory Games on Steam
@@ -14,37 +14,40 @@ thumbnail: https://www.lifewire.com/thmb/7_hzfMPT6kyXKm9gRalWzkN5BgM=/400x300/fi
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
 
 1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
-2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do When You Can't Connect to Discord
 
  There are several things you can try if Discord seems to be working fine for everyone else, but you're still having[connection issues](https://www.lifewire.com/fix-connection-issues-discord-5086484) :
@@ -62,8 +65,9 @@ thumbnail: https://www.lifewire.com/thmb/7_hzfMPT6kyXKm9gRalWzkN5BgM=/400x300/fi
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -95,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +106,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-diving-into-instagrams-visual-story-segments/"><u>[New] 2024 Approved Diving Into Instagram's Visual Story Segments</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-hitting-your-targets-with-these-8-social-media-planners/"><u>[New] In 2024, Hitting Your Targets with These 8 Social Media Planners</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-premier-venues-fueling-youtube-visibility/"><u>[Updated] In 2024, Premier Venues Fueling YouTube Visibility</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transcoding-ttml-and-ssa-into-easy-to-use-srt-format/"><u>[Updated] Transcoding TTML & SSA Into Easy-to-Use SRT Format</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-vr-on-the-go-smartphones-top-10-choices-for-2024/"><u>[Updated] VR on the Go Smartphones' Top 10 Choices for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/5-important-tips-to-bear-in-mind-before-acquiring-an-old-ipad-device/"><u>5 Important Tips to Bear in Mind Before Acquiring an Old iPad Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/considering-chatgpt-plus-subscription-learn-why-its-worth-the-price-with-these-aturdays-5-reasons/"><u>Considering ChatGPT Plus Subscription? Learn Why It's Worth the Price with These Aturdays 5 Reasons</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-progression-of-ipados-a-chronological-versions-overview/"><u>Decoding the Progression of iPadOS: A Chronological Versions Overview</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/find-someone-fast-our-picks-of-the-top-8-search-engines/"><u>Find Someone Fast: Our Picks of the Top 8 Search Engines</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/fixing-soundless-headphone-connections-expert-advice-from-yl-software-professionals/"><u>Fixing Soundless Headphone Connections: Expert Advice From YL Software Professionals</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/full-access-to-sierras-documents-and-desktop-in-the-cloud/"><u>Full Access to Sierra's Documents and Desktop in the Cloud</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-easily-screen-capture-in-windows-11-4-techniques-explored/"><u>How to Easily Screen Capture in Windows 11: 4 Techniques Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-ieframedll-errors/"><u>How to Fix Ieframe.dll Errors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-perfecting-your-recordings-using-nvidia-recorder/"><u>In 2024, Perfecting Your Recordings Using NVIDIA Recorder</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sky-high-insights-comprehensive-phantom-4-breakdown-for-2024/"><u>Sky-High Insights Comprehensive Phantom 4 Breakdown for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-resolve-android-parse-issues-with-these-8-techniques/"><u>Troubleshoot and Resolve Android Parse Issues with These 8 Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-new-updates-an-in-depth-look-at-every-macos-version-available/"><u>Unveiling New Updates: An In-Depth Look at Every macOS Version Available</u></a></li>
+</ul></div>
 

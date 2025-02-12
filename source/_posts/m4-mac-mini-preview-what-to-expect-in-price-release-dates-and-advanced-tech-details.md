@@ -1,7 +1,7 @@
 ---
 title: "M4 Mac Mini Preview: What to Expect in Price, Release Dates & Advanced Tech Details"
-date: 2024-08-12T04:11:20.498Z
-updated: 2024-08-13T04:11:20.498Z
+date: 2025-02-05T06:03:27.880Z
+updated: 2025-02-11T21:38:54.954Z
 categories:
   - BestProducts
 description: "This Article Describes M4 Mac Mini Preview: What to Expect in Price, Release Dates & Advanced Tech Details"
@@ -28,15 +28,13 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
  That said, Marc Gurman of Bloomberg—the most plugged-in of Apple reporters—[ says that the M4 Mac Mini will debut](https://www.bloomberg.com/news/newsletters/2024-04-14/humane-ai-pin-review-the-device-isn-t-going-to-kill-apple-s-iphone-luziqlew) in late 2024 or early 2025\. Apple often introduces new Macs in the fall (usually in October or November, after the latest iPhone has gone on sale), so this is a safe bet.  
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Lifewire's Release Date Estimate
 
  We expect the M4 Mac Mini to become available in late 2024 or, at the latest, early 2025.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  The Mac Mini M4 will go on sale soon after its official announcement. We'll update this article with its on-sale date when that's available.
@@ -48,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
  If that holds true, expect the Mac Mini M4 to start at $599\. The current entry-level model delivers an[ M2 processor](https://www.lifewire.com/why-the-new-m2-mac-mini-is-the-perfect-second-computer-7098470) , 8GB of RAM, and a 256GB hard drive for that price. At the high end, the current model costs $1,299 for an M2 Pro chip, 16GB of RAM, and a 512GB hard drive. There's also likely to be a model at an in-between price point.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Mac Mini M4 Features 
 
  There aren't a lot of rumors about the Mac Mini M4's features, so we'll update this article as information becomes available. Many features of the Mac Mini are unlikely to change from the current model, however.
@@ -57,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
  Some things to expect from the next-generation Mini are:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### M4 Processor 
 
  As its name suggests, this Mac Mini will be built around Apple's next-generation M4 processor. That means that the Mac Mini will jump from using the M2 to the M4, without ever offering[ a model built using Apple's M3 chip](https://www.lifewire.com/m3-mac-mini-7571458) .
@@ -70,15 +70,17 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
  The M4 Pro model may offer more processor cores and higher performance than the base model.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Same Size and Weight 
 
  The rumor mill says the Mac Mini M4 will use the same enclosure, and thus have the same size and weight, as[ the current M2 models](https://www.apple.com/mac-mini/specs/) . If that's the case, that means the Mac Mini will continue to be a tiny powerhouse, weighing 2.6-2.8 pounds and being 7.75 inches wide, 7.75 inches deep, and 1.41 inches tall.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest News About the Mac Mini M4 
 
  Stay up to date on all the latest news, rumors, and opinions with Lifewire's[ coverage of desktop and laptop computers](https://www.lifewire.com/computer-laptop-tablet-news-4797030) . You might be interested in these articles about other Apple products:
@@ -103,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +112,21 @@ thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-perfect-your-playback-implementing-a-countdown-in-obs/"><u>[Updated] 2024 Approved Perfect Your Playback Implementing a Countdown in OBS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-immediate-recovery-of-lost-snapshots/"><u>2024 Approved Immediate Recovery of Lost Snapshots</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Identify malfunctioning hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-process-for-efficient-use-of-macs-preview-app/"><u>In 2024, Step-by-Step Process for Efficient Use of Mac's Preview App</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-ultimate-free-resource-pack-high-quality-pp-samples/"><u>In 2024, The Ultimate Free Resource Pack High-Quality PP Samples</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-high-quality-blu-ray-software-variants-pcmac/"><u>In 2024, Top 10 High-Quality Blu-Ray Software Variants (PC/Mac)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-note-30i-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Note 30i</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726028404920-powerpoint/"><u>PowerPointにて音声の記録方法 - ステップバイステップガイド</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/this-title-targets-users-looking-for-guidance-on-accessing-wwdc-content-as-well-as-highlights-what-insights-they-might-gain-from-attending-or-watching/"><u>This Title Targets Users Looking for Guidance on Accessing WWDC Content, as Well as Highlights What Insights They Might Gain From Attending or Watching.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-16-essential-nasa-technologies-integrated-into-daily-life/"><u>Top 16 Essential NASA Technologies Integrated Into Daily Life</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-the-way-we-take-notes-with-googles-innovative-notebooklm/"><u>Transforming the Way We Take Notes with Google's Innovative NotebookLM</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-resolving-issues-with-chatgpt-login-failures/"><u>Troubleshooting Steps: Resolving Issues with ChatGPT Login Failures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-dex-a-comprehensive-guide-to-decentralized-cryptocurrency-exchanges/"><u>Understanding DEX: A Comprehensive Guide to Decentralized Cryptocurrency Exchanges</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-staking-a-key-concept-in-cryptocurrencies-explained/"><u>Understanding Staking: A Key Concept in Cryptocurrencies Explained</u></a></li>
+</ul></div>
 

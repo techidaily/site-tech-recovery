@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2025-01-27T17:48:42.193Z
-updated: 2025-01-30T16:44:36.810Z
+date: 2025-02-06T08:43:59.632Z
+updated: 2025-02-12T03:41:33.216Z
 tags:
   - apple
 categories:
@@ -21,6 +21,10 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best AT&T deals
 
@@ -116,6 +120,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -140,10 +148,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these AT&T phone deals?
 
 When we made our selection for the best AT&T deals, we wanted to include options based on the following criteria: 
@@ -155,37 +159,33 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,17 +236,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easy-obs-youtube-live-streaming-guide/"><u>[New] 2024 Approved Easy OBS YouTube Live Streaming Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-premium-chromebook-capture-app/"><u>[New] 2024 Approved Premium Chromebook Capture App</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/can-a-128gb-drive-handle-huge-video-files-in-2024/"><u>Can a 128GB Drive Handle Huge Video Files, In 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-trio-of-pioneering-technological-advanceby-industry-experts/"><u>Exploring the Trio of Pioneering Technological Advanceby Industry Experts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-your-iphone-torch-problems-with-these-12-effective-repair-techniques/"><u>Overcome Your iPhone Torch Problems with These 12 Effective Repair Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-android-wi-fi-login-issues-step-by-step-guide/"><u>Solving Android Wi-Fi Login Issues: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-assassins-creed-odyssey-pc-freeze-issues-ultimate-guide/"><u>Solving Assassin's Creed Odyssey PC Freeze Issues: Ultimate Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-core-variations-between-ht-systems-and-stereo-sound-receivers-explained/"><u>The Core Variations Between HT Systems and Stereo Sound Receivers Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-9-essential-technology-tools-students-must-have-in-their-backpacks/"><u>Top 9 Essential Technology Tools Students Must Have in Their Backpacks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-unstick-a-laptop-when-it-freezes-during-boot-up/"><u>Troubleshooting: How to Unstick a Laptop When It Freezes During Boot Up</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-haldll-issues-on-windows-111087-and-vista/"><u>Ultimate Guide: Resolving hal.dll Issues on Windows 11/10/8/7 and Vista</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/unlocking-stills-from-videos-top-10-conversion-tools-for-2024/"><u>Unlocking Stills From Videos Top 10 Conversion Tools for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-echo-chambers-tech-updates/"><u>[Updated] In 2024, Echo Chambers Tech Updates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-streamline-task-management-with-safaris-picture-in-picture/"><u>[Updated] Streamline Task Management with Safari's Picture In Picture</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-closer-inspect-of-the-stunning-dell-p2715q-monitors-capabilities/"><u>2024 Approved A Closer Inspect of the Stunning Dell P2715Q Monitor's Capabilities</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/accurate-boundary-conditions-are-crucial-for-modeling-real-world-transient-heat-scenarios-effectively/"><u>Accurate Boundary Conditions Are Crucial for Modeling Real-World Transient Heat Scenarios Effectively.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ethical-techniques-to-find-phone-numbers-through-online-research/"><u>Ethical Techniques to Find Phone Numbers Through Online Research</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-scoop-on-apple-watch-x-projected-price-points-expected-debut-date-and-specs-plus-rumored-details-inside/"><u>Get the Scoop on Apple Watch X: Projected Price Points, Expected Debut Date & Specs; Plus Rumored Details Inside!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2016-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2016 Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-navigate-the-world-of-tags-for-superior-content-performance/"><u>In 2024, Navigate the World of Tags for Superior Content Performance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/pixel-power-unveiling-youtubes-twitter-crew-for-2024/"><u>Pixel Power Unveiling YouTube's Twitter Crew for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/retrieving-removed-contacts-a-guide-to-recovering-deleted-mobile-numbers-on-android/"><u>Retrieving Removed Contacts: A Guide to Recovering Deleted Mobile Numbers on Android</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-tips-rebooting-your-samsung-bar-for-optimal-audio-performance/"><u>Ultimate Troubleshooting Tips: Rebooting Your Samsung Bar for Optimal Audio Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Biometric Systems: How Do They Work?"
-date: 2024-08-12T04:10:15.714Z
-updated: 2024-08-13T04:10:15.714Z
+date: 2025-02-05T00:51:14.850Z
+updated: 2025-02-12T09:27:28.105Z
 categories:
   - BestProducts
 description: "This Article Describes Understanding Biometric Systems: How Do They Work?"
@@ -15,9 +15,6 @@ Close
 
 [ Artificial intelligence](https://www.lifewire.com/what-is-artificial-intelligence-5119206) is converging with biometrics to help provide more security in computers and[ smartphones](https://www.lifewire.com/what-makes-a-smartphone-smart-579597) . This article explains the topic.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Biometrics Defined 
 
  Biometrics is defined as the study and application of scientific and/or technological methods designed to measure, analyze, and/or record a human’s unique physiological or behavioral characteristics.
@@ -27,22 +24,9 @@ Close
  In fact, many of us already use biometrics now in the[ forms of our fingerprints](https://www.lifewire.com/understanding-finger-scanners-4150464) and our faces.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Biometrics Are Used in Daily Life 
 
  Although biometrics has been used by various industries for decades, modern tech has helped it gain more public awareness. For example, many of the latest smartphones feature fingerprint scanners and/or[ facial recognition](https://www.lifewire.com/how-facial-recognition-is-learning-to-read-masked-faces-5089684) to unlock devices.
@@ -59,9 +43,6 @@ Key features:
 
  However, the collection, storage, and handling of biometric data (particularly with regards to consumer tech) often brings up concerns about personal privacy, security, and identity protection.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ##  Biometric Types and Screening Characteristics 
 
  There are a number of biometric characteristics in use today, each with different means of collection, measurement, evaluation, and application. Physiological characteristics used in biometrics relate to the_shape and/or composition_ of the body. Some examples are (but not limited to):
@@ -94,14 +75,16 @@ Key features:
  These factors also help determine if one biometric solution may be better to apply in a situation than another. But cost and the overall collection process are also considered. For example, fingerprint and face scanners are small, inexpensive, fast, and easy to implement into mobile devices. This is why smartphones feature those instead of hardware for analyzing body odor or vein geometry!
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Biometrics Work in Everyday Life 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![A thumb in the process of recording a print with black ink](https://www.lifewire.com/thmb/lb87r1wJMdq1q8wkKjYUpAyKYsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680792625-5a0f120547c2660037ff8cdf.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Law enforcement agencies regularly collect fingerprints to help establish crime scenes and identify individuals.  MAURO FERMARIELLO/SCIENCE PHOTO LIBRARY / Getty Images 
 
@@ -125,12 +108,17 @@ Key features:
 
  Matching involves a scoring process that calculates degrees of similarity, errors (e.g. imperfections from the collection process), natural variances (i.e. some human characteristics can experience subtle changes over time), and more. If a score passes the minimum mark for matching, then the system succeeds at identifying/authenticating the individual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Biometric Identification vs. Authentication (Verification) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A close up of hands holding smartphones using biometric access for mobile banking apps](https://www.lifewire.com/thmb/tRyYGEDb1mQpT__SniNb5GInrbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-657174560-5a0f125f89eacc0037a6bbc6.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fingerprint scanners are a growing type of security feature to be incorporated in mobile devices.  mediaphotos / Getty Images 
 
@@ -171,8 +159,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +166,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ptimal-tripod-setup-for-smooth-professional-videography/"><u>[New] Optimal Tripod Setup for Smooth, Professional Videography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breaking-down-asus-pa32u-a-4k-professional-review/"><u>[Updated] Breaking Down ASUS PA32U A 4K Professional Review</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-lenovo-thinkphone-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Lenovo ThinkPhone without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-based-identity-confirmation-elevated-with-trustids-integration-of-abbyy-optical-character-recognition-technology/"><u>Cloud-Based Identity Confirmation Elevated with TrustID's Integration of ABBYY Optical Character Recognition Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-breakdown-of-wi-fi-technologies-be-ac-ax-bgn-specifications-unveiled/"><u>Comprehensive Breakdown of Wi-Fi Technologies: Be, Ac, AX, B/G/N Specifications Unveiled</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/data-resurrector-stellars-lifesaver-tool/"><u>Data Resurrector - Stellar's Lifesaver Tool</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-upgrade-of-amd-smbus-drivers-download-and-update-process-for-quicker-performance/"><u>Easy Upgrade of AMD SMBus Drivers – Download & Update Process for Quicker Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-activating-auto-login-functionality-on-a-windows-computer/"><u>Guide to Activating Auto-Login Functionality on a Windows Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-securely-get-and-install-linksys-ae250-wireless-router-updated-firmware-now/"><u>How to Securely Get & Install Linksys AE250# Wireless Router Updated Firmware Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Hot 40 Phone without Any Data Loss</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210002025-9781601635594-instant-healing/"><u>Instant Healing | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-chatgpts-moderation-hurdles-best-practices-to-rectify-errors/"><u>Navigating Through ChatGPT's Moderation Hurdles: Best Practices to Rectify Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uber-vs-taxi-which-is-the-more-economical-option/"><u>Uber Vs. Taxi: Which Is the More Economical Option?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unfixing-the-auto-focus-glitch-on-your-iphone-camera-tips-and-tricks/"><u>Unfixing the Auto-Focus Glitch on Your iPhone Camera - Tips & Tricks</u></a></li>
+</ul></div>
 

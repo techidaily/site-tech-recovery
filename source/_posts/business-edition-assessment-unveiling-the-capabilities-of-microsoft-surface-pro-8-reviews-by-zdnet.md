@@ -1,7 +1,7 @@
 ---
 title: "Business Edition Assessment: Unveiling the Capabilities of Microsoft Surface Pro 8 - Reviews by ZDNet"
-date: 2025-01-27T17:10:10.107Z
-updated: 2025-01-30T17:20:42.968Z
+date: 2025-02-08T03:39:07.957Z
+updated: 2025-02-11T21:11:58.340Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A new-look Surface… kind of
@@ -51,10 +51,6 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -79,7 +75,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -106,10 +102,6 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### More Microsoft
 
 * [Is Microsoft really going to cut off security updates for your 'unsupported' Windows 11 PC?](https://www.zdnet.com/article/is-microsoft-really-going-to-cut-off-security-updates-for-my-unsupported-windows-11-pc/)
@@ -135,6 +127,10 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -144,6 +140,10 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -157,6 +157,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -168,10 +172,6 @@ So, iPad or Surface Pro 8? With so much uncertainty over the future of iPadOS, I
 If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro, I'll say this: you can't go wrong with either device, as long as you know what you're getting yourself into. The iPad Pro can do a lot of things, but only a few things really well. Whereas the Surface Pro 8 can do a lot of things really well, but it has its fair share of hiccups and gotchas as well.
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -212,24 +212,17 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-15-revolutionary-metaverse-ventures-explored/"><u>[New] 15 Revolutionary Metaverse Ventures Explored</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-expert-tips-for-selecting-lenses-as-a-video-blogger/"><u>[Updated] 2024 Approved Expert Tips for Selecting Lenses as a Video Blogger</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-complete-story-of-facetune-from-picture-to-paradise/"><u>[Updated] 2024 Approved The Complete Story of Facetune From Picture to Paradise</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1-top-5-methods-to-transform-avi-files-into-high-quality-mkv-format/"><u>1. Top 5 Methods to Transform AVI Files Into High-Quality MKV Format</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722884770080-a-complete-guide-to-interpreting-your-windows-10-battery-status-report/"><u>A Complete Guide to Interpreting Your Windows 10 Battery Status Report</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/capture-the-moment-the-hottest-tiktok-trends-to-embrace-top-10-for-2024/"><u>Capture the Moment The Hottest TikTok Trends to Embrace (Top 10) for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategy-to-erase-all-correspondences-via-gmails-handy-mobile-app/"><u>Comprehensive Strategy to Erase All Correspondences via Gmail's Handy Mobile App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/future-ready-education-identifying-the-ers-best-cities-to-visit-new-york-paris-and-tokyo/"><u>Future-Ready Education: Identifying the Er's Best Cities to Visit - New York, Paris, and Tokyo</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-you-legally-download-netflix-titles-for-offline-viewing-on-a-laptop/"><u>How Can You Legally Download Netflix Titles for Offline Viewing on a Laptop?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo V27 Pro? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-optimal-steadicam-devices-for-professional-drone-cinematography/"><u>In 2024, Optimal Steadicam Devices for Professional Drone Cinematography</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-summers-best-10-nostalgic-films-for-the-whole-family/"><u>In 2024, Summer's Best 10 Nostalgic Films for the Whole Family</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pc-gamers-handbook-for-becoming-a-pro-in-pokemon-unite/"><u>PC Gamer's Handbook for Becoming a Pro in Pokémon Unite</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/secure-your-kids-online-experience-limiting-youtube-usage-on-an-ipad/"><u>Secure Your Kids' Online Experience: Limiting YouTube Usage on an iPad</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellars-latest-update-makes-data-retrieval-effortless-for-users-breaking-news/"><u>Stellar's Latest Update Makes Data Retrieval Effortless for Users - Breaking News!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-basics-of-dts-play-fi-technology-explained/"><u>The Basics of DTS Play-Fi Technology Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-best-free-racing-games-without-internet-play-anywhere/"><u>Top 5 Best Free Racing Games Without Internet | Play Anywhere!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-iphone-calls-that-dont-sound-alarm-tips-and-solutions/"><u>Troubleshooting iPhone Calls That Don't Sound Alarm - Tips & Solutions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-next-gen-peripherals-exploring-virtual-reality-accessories-for-2024/"><u>[New] Next-Gen Peripherals Exploring Virtual Reality Accessories for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unlock-social-media-success-a-comprehensive-10-step-plan-for-2024/"><u>[New] Unlock Social Media Success A Comprehensive 10-Step Plan for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-low-cost-gaming-setups-keyboard-picks/"><u>[Updated] 2024 Approved Ultimate Low-Cost Gaming Setups Keyboard Picks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-transition-from-local-to-global-stream-spotify-playlists-on-youtube/"><u>[Updated] In 2024, Easy Transition From Local to Global Stream Spotify Playlists on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/11-le-top-des-annees-2023/"><u>11 – Le Top Des Années 2023</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/vobwavmovavi/"><u>線上免費VOB檔改成WAV聲音格式，簡介Movavi的錄音工具</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conversion-gratuit-de-la-musique-wma-vers-le-format-mp4-avec-movavi-facile-et-rapide/"><u>Conversion Gratuit De La Musique WMA Vers Le Format MP4 Avec Movavi - Facile Et Rapide !</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-effortlessly-convert-youtube-audio-top-4-low-cost-apps/"><u>In 2024, Effortlessly Convert YouTube Audio - Top 4 Low-Cost Apps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone SE?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/live-streaming-the-champions-league-a-comprehensive-guide/"><u>Live Streaming the Champions League: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trasforma-i-tuoi-file-swf-in-formato-m4v-gratuitamente-con-movavi-guida-rapida/"><u>Trasforma I Tuoi File SWF in Formato M4V Gratuitamente Con Movavi - Guida Rapida</u></a></li>
 </ul></div>
 

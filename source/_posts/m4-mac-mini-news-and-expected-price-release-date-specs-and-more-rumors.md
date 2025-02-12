@@ -1,7 +1,7 @@
 ---
 title: "M4 Mac Mini: News and Expected Price, Release Date, Specs; and More Rumors"
-date: 2024-08-12T04:10:29.712Z
-updated: 2024-08-13T04:10:29.712Z
+date: 2025-02-06T22:27:45.331Z
+updated: 2025-02-11T21:29:59.604Z
 categories:
   - BestProducts
 description: "This Article Describes M4 Mac Mini: News and Expected Price, Release Date, Specs; and More Rumors"
@@ -22,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
  Apple's next-generation Mac Mini is expected to be built around the[ Apple M4 chip](https://www.lifewire.com/apple-m4-chip-8640914) , come in two versions, and cost the same as current models. This article collects all of the news and rumors about the Mac Mini M4, including its features, price, release date, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Is the M4 Mac Mini Release Date? 
 
  We don't know the M4 Mac Mini release date just yet, and Apple doesn't release new Mac Minis on a consistent schedule[ the way it does iPhones](https://www.lifewire.com/iphone-17-8612548) .
@@ -31,8 +32,9 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
  That said, Marc Gurman of Bloomberg—the most plugged-in of Apple reporters—[ says that the M4 Mac Mini will debut](https://www.bloomberg.com/news/newsletters/2024-04-14/humane-ai-pin-review-the-device-isn-t-going-to-kill-apple-s-iphone-luziqlew) in late 2024 or early 2025\. Apple often introduces new Macs in the fall (usually in October or November, after the latest iPhone has gone on sale), so this is a safe bet.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Lifewire's Release Date Estimate
 
  We expect the M4 Mac Mini to become available in late 2024 or, at the latest, early 2025.
@@ -42,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
  The Mac Mini M4 will go on sale soon after its official announcement. We'll update this article with its on-sale date when that's available.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Mac Mini M4 Price Rumors 
 
  The Mac Mini M4 will likely cost about the same as current models. Apple often keeps the prices of new models of existing products the same year after year, so this makes sense.
@@ -51,17 +54,15 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
  If that holds true, expect the Mac Mini M4 to start at $599\. The current entry-level model delivers an[ M2 processor](https://www.lifewire.com/why-the-new-m2-mac-mini-is-the-perfect-second-computer-7098470) , 8GB of RAM, and a 256GB hard drive for that price. At the high end, the current model costs $1,299 for an M2 Pro chip, 16GB of RAM, and a 512GB hard drive. There's also likely to be a model at an in-between price point.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Mac Mini M4 Features 
 
  There aren't a lot of rumors about the Mac Mini M4's features, so we'll update this article as information becomes available. Many features of the Mac Mini are unlikely to change from the current model, however.
 
  Some things to expect from the next-generation Mini are:
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### M4 Processor 
 
  As its name suggests, this Mac Mini will be built around Apple's next-generation M4 processor. That means that the Mac Mini will jump from using the M2 to the M4, without ever offering[ a model built using Apple's M3 chip](https://www.lifewire.com/m3-mac-mini-7571458) .
@@ -73,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
  The M4 Pro model may offer more processor cores and higher performance than the base model.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Same Size and Weight 
 
  The rumor mill says the Mac Mini M4 will use the same enclosure, and thus have the same size and weight, as[ the current M2 models](https://www.apple.com/mac-mini/specs/) . If that's the case, that means the Mac Mini will continue to be a tiny powerhouse, weighing 2.6-2.8 pounds and being 7.75 inches wide, 7.75 inches deep, and 1.41 inches tall.
@@ -103,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +112,26 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-master-obs-on-macos-download-setup-and-get-to-work/"><u>[New] In 2024, Master OBS on macOS Download, Setup & Get to Work</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-insiders-guide-to-elevating-conference-calls-with-effects-and-masks/"><u>[Updated] 2024 Approved The Insider's Guide to Elevating Conference Calls with Effects and Masks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigate-a-sea-of-tiktok-saves-with-proper-editing-know-how/"><u>[Updated] Navigate a Sea of TikTok Saves with Proper Editing Know-How</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comparing-digital-dimensions-metaverse-and-multiverse/"><u>Comparing Digital Dimensions Metaverse & Multiverse</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-access-a-tutorial-on-enabling-autologin-functionality-on-windows-computers/"><u>Effortless Access: A Tutorial on Enabling Autologin Functionality on Windows Computers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/from-couch-to-camera-earning-through-personal-vlogging/"><u>From Couch-to-Camera Earning Through Personal Vlogging</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-your-windows-11-search-back-on-track-expert-solutions-inside/"><u>Get Your Windows 11 Search Back on Track – Expert Solutions Inside!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-effectively-sanitize-your-televisions-remote-device/"><u>How to Effectively Sanitize Your Television's Remote Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-mix-fold-3-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mailcom-determining-when-your-email-address-will-be-deactivated/"><u>Mail.com: Determining When Your Email Address Will Be Deactivated</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/master-your-movements-with-sabrents-high-precision-compact-corded-traveling-mouse/"><u>Master Your Movements with Sabrent's High-Precision, Compact, Corded Traveling Mouse</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-basilisk-v3-pro-peak-gaming-speed-and-ultra-low-delays/"><u>Razer Basilisk V3 Pro: Peak Gaming Speed & Ultra-Low Delays</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rumors-vs-facts-on-tesla-botataxi-insights-into-pricing-availability-specs/"><u>Rumors Vs. Facts on Tesla Botataxi - Insights Into Pricing, Availability, Specs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-installation-of-latest-amd-vega-driver-versions-for-enhanced-gaming-experience/"><u>Seamless Installation of Latest AMD Vega Driver Versions for Enhanced Gaming Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-the-windows-recovery-environment-from-your-pc/"><u>Step-by-Step Guide: Removing the Windows Recovery Environment From Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-sending-instant-messages-through-mozilla-thunderbirds-integrated-chat/"><u>The Definitive Guide to Sending Instant Messages Through Mozilla Thunderbird's Integrated Chat</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-mfc42dll-file-cannot-be-found-issues/"><u>Ultimate Guide: Resolving 'MFC42.DLL File Cannot Be Found' Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-tiktok-clips-on-a-big-screen-best-methods-and-apps-for-enhanced-viewing/"><u>Watch TikTok Clips on a Big Screen: Best Methods and Apps for Enhanced Viewing</u></a></li>
+</ul></div>
 

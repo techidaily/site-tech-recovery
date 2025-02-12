@@ -1,7 +1,7 @@
 ---
 title: Identifying and Locating Hidden AirTags Around You - Insights From ZDNet
-date: 2025-01-28T17:32:36.499Z
-updated: 2025-01-30T21:21:06.379Z
+date: 2025-02-06T18:35:18.870Z
+updated: 2025-02-12T03:00:03.296Z
 tags:
   - apple
 categories:
@@ -18,10 +18,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple
 
 * [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-compatible-with-apples-ios-18-and-which-ones-arent/)
@@ -31,10 +27,6 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -42,7 +34,7 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
@@ -57,6 +49,10 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -65,14 +61,10 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Enable the Collaboration feature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
@@ -83,6 +75,10 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -90,6 +86,10 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -149,21 +149,21 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tubebuddy-the-key-to-youtube-dominance/"><u>[New] TubeBuddy The Key to YouTube Dominance</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premiers-choice-5-best-slow-motion-cams/"><u>[Updated] Premier's Choice 5 Best Slow-Motion Cams</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/alternative-approaches-to-eject-and-replace-your-iphone-sim-card/"><u>Alternative Approaches to Eject and Replace Your iPhone SIM Card</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bypassing-the-no-match-blues-strategies-for-finding-love-on-bumble/"><u>Bypassing the No-Match Blues: Strategies for Finding Love on Bumble</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722895947210-comparing-cat5-and-cat6-network-cables-key-features-and-differences/"><u>Comparing Cat5 and Cat6 Network Cables: Key Features & Differences</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dual-tasking-made-simple-with-macbook-air-split-screen-techniques/"><u>Dual Tasking Made Simple with MacBook Air Split Screen Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-itel-a05s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Itel A05s Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-logitech-g-pro-x-headset-when-it-stops-functioning/"><u>How to Fix Your Logitech G Pro X Headset When It Stops Functioning</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-stop-showing-subtitles-on-amazons-premium-content-platform/"><u>How To Stop Showing Subtitles on Amazon's Premium Content Platform</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone SE with a Mask On</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-13-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 13 5GFRP Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-insomnia-for-your-windows-pc/"><u>No More Insomnia for Your Windows PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/proven-strategies-for-picking-the-most-accurate-free-srt-tools-for-2024/"><u>Proven Strategies for Picking the Most Accurate Free SRT Tools for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sony-virtual-reality-headset-update-anticipated-cost-and-launch-timeline-unveiled/"><u>Sony Virtual Reality Headset Update: Anticipated Cost & Launch Timeline Unveiled</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-must-use-instagram-hashtags-for-successful-posts/"><u>The Ultimate List of Must-Use Instagram Hashtags for Successful Posts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-google-pixel-smartwatch-unveiled-anticipated-costs-launch-timeline-and-potential-features/"><u>Upcoming Google Pixel Smartwatch Unveiled: Anticipated Costs, Launch Timeline & Potential Features</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-essential-guide-to-androids-best-video-editors/"><u>[New] In 2024, The Essential Guide to Android's Best Video Editors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-5-hdmi-21-gaming-monitors-you-can-find/"><u>[New] In 2024, Top 5 HDMI 2.1 Gaming Monitors You Can Find</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-tv-reach-with-fb-live-streaming/"><u>[New] Maximizing TV Reach with FB Live Streaming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-choreographed-insta-videos-with-a-musical-backdrop/"><u>[Updated] Choreographed Insta-Videos with a Musical Backdrop</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-soar-in-popularity-with-key-seo-strategies-for-your-youtube-content/"><u>[Updated] In 2024, Soar in Popularity with Key SEO Strategies for Your YouTube Content</u></a></li>
+<li><a href="https://ai-video.techidaily.com/in-2024-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>In 2024, A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-pc-inputs-to-steam-deck-safely-using-a-barrier-approach/"><u>Integrating PC Inputs to Steam Deck Safely Using a Barrier Approach</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/internet-troubles-expert-ways-to-increase-your-connections-velocity/"><u>Internet Troubles? Expert Ways to Increase Your Connection's Velocity</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y200e-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y200e 5GFRP Lock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/netflix-error-heres-how-to-fix-streaming-difficulties-instantly/"><u>Netflix Error? Here's How to Fix Streaming Difficulties Instantly!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sonys-latest-updates-and-reveals-2024-state-of-the-game-insights-and-headlines/"><u>Sony's Latest Updates & Reveals: 2024 State of the Game - Insights & Headlines</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-for-enabling-pip-functionality-on-android-phones/"><u>Step-by-Step Tutorial for Enabling PiP Functionality on Android Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-group-policies-focusing-on-one-user-at-a-time/"><u>Tailoring Group Policies: Focusing on One User at a Time</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-troubleshoot-and-correct-504-gateway-timeout-errors-efficiently/"><u>The Ultimate Guide to Troubleshoot and Correct 504 Gateway Timeout Errors Efficiently</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-trick-play-any-video-on-apple-tv-using-vlc-player/"><u>The Ultimate Trick: Play Any Video on Apple TV Using VLC Player</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-usb-20-speeds-wires-plugs-and-extra-insights/"><u>Understanding USB 2.0: Speeds, Wires, Plugs, and Extra Insights</u></a></li>
 </ul></div>
 
