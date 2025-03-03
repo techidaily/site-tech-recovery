@@ -1,7 +1,7 @@
 ---
 title: "What to Look Forward to at the Next Google Update: Rumors, News, and Highlights"
-date: 2024-08-12T04:04:01.222Z
-updated: 2024-08-13T04:04:01.222Z
+date: 2025-02-23T17:58:11.898Z
+updated: 2025-03-02T19:51:31.103Z
 categories:
   - BestProducts
 description: "This Article Describes What to Look Forward to at the Next Google Update: Rumors, News, and Highlights"
@@ -12,23 +12,14 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
 ## What to Look Forward to at the Next Google Update: Rumors, News, and Highlights
  Google holds events both annually and less regularly to announce new products and functionality. Google I/O is the company's conference for developers, while Made by Google is more consumer-facing.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the Date for the Next Google Event?
 
  The next Made by Google event is scheduled for August 13 at 10 AM PT. The last one,[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , was on May 14.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Will Google Announce?
 
  According to the company, the next Google event will be about Pixel devices, Android, and[Gemini](https://www.lifewire.com/what-is-google-bard-7151624) . We're due for updates on the[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ,[Pixel 9 phone](https://www.lifewire.com/google-pixel-9-8630767) ,[Pixel Tablet 2](https://www.lifewire.com/google-pixel-tablet-2-8600572) , and[Pixel Watch 3.](https://www.lifewire.com/google-pixel-watch-3-8431024)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Previous Google Events
 
  At Google's last event, the keynote for[Google I/O 2024](https://www.lifewire.com/google-io-5097160) , the company talked almost exclusively about its Gemini AI platform. They showed off features that give you summaries of email threads and spreadsheets and an "AI Teammate" that you can add to Workspace to keep track of projects.
@@ -37,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/0770f30dd9bee193a5501427eba7dec20121fd86c
 
  You can watch the entire event below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Latest News About Google
 
  You can [get more tech news from Lifewire](https://www.lifewire.com/news-4795879) , but here are our top Google-related stories.
@@ -74,8 +62,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,4 +69,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-recovery.techidaily.com/2021s-most-anticipated-wearable-dissecting-potential-costs-launch-dates-and-specs-for-the-new-apple-watch-series-x/"><u>2021'S Most-Anticipated Wearable: Dissecting Potential Costs, Launch Dates, and Specs for the New Apple Watch Series X</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/adobes-toolset-perfecting-your-youtube-uploads-for-2024/"><u>Adobe's Toolset Perfecting Your YouTube Uploads for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/efficient-ways-how-to-retrieve-an-iphone-backup-from-your-mac-computer-in-just-4-steps/"><u>Efficient Ways: How to Retrieve an iPhone Backup From Your Mac Computer in Just 4 Steps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/latest-exclusive-discounts-on-verizon-phone-plans/"><u>Latest Exclusive Discounts on Verizon Phone Plans</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-soundbar-woes-heres-how-to-bring-it-back-from-the-dead/"><u>Samsung Soundbar Woes? Here's How to Bring It Back From the Dead</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-childn-online-experience-with-easy-discord-controls-setup/"><u>Secure Your Child'n Online Experience with Easy Discord Controls Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-strategies-for-achieving-virality-on-youtube/"><u>Top 8 Strategies for Achieving Virality on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-obs-software-insights-screen-recorder-capabilities-uncovered/"><u>Top OBS Software Insights Screen Recorder Capabilities Uncovered</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/transformez-rapidement-les-videos-et-audio-avec-winxvideo-ai-acceleration-gpu-pour-toute-conversion-de-fichiers/"><u>Transformez Rapidement Les Vidéos Et Audio Avec WinxVideo AI : Accélération GPU Pour Toute Conversion De Fichiers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-duckduckgo-how-secure-and-private-is-this-alternative-search-platform/"><u>Understanding DuckDuckGo: How Secure and Private Is This Alternative Search Platform?</u></a></li>
+</ul></div>
 

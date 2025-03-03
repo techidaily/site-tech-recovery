@@ -1,7 +1,7 @@
 ---
 title: "Steps to Discontinue Your Subscription: Deactivating Apple Music Without Using iTunes - Insights From ZDNet"
-date: 2025-02-06T22:12:16.097Z
-updated: 2025-02-12T09:31:59.112Z
+date: 2025-02-27T00:15:22.617Z
+updated: 2025-03-02T17:44:24.167Z
 tags:
   - apple
 categories:
@@ -22,10 +22,6 @@ iTunes is dead. iTunes has been dead since 2019\. Alas, poor iTunes, we knew you
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [How to customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-customize-your-iphones-new-control-center-with-ios-18/)
@@ -38,10 +34,6 @@ Even thinking about iTunes gives me a creepy-crawly feeling at the back of my ne
 But iTunes is dead. Actually, that's not entirely true. Its ghost lingers on. Apple actually [released a security update](https://support.apple.com/en-us/HT213259) (12.12.4) just this past May for iTunes for Windows. iTunes is no longer shipped with MacOS, but Apple still technically supports it. According to [Apple's iTunes page](https://www.apple.com/itunes/), you can still run iTunes on any Mac that has an Intel processor. 
 
 Apple Music hasn't been tied to iTunes for account management since 2019\. Now, for those of us who have moved on from our iTunes days, we can cancel an Apple Music subscription either from the web or from iOS device Settings. Let's look at both. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your Web browser
 
@@ -58,10 +50,6 @@ Scroll down to Subscriptions and click Manage. Mine says "Subscribe" because I a
 David Gewirtz/Screenshot
 
 Once you're on the Manage screen, choose Cancel Subscription. That should do it for you. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to cancel Apple Music from your iPhone or iPad
 
@@ -121,18 +109,21 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-facebook-video-downloader-application-for-mobilewinmac/"><u>[New] 2024 Approved Facebook Video Downloader Application for Mobile/Win/Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-influencing-your-drones-performance-choosing-right-propellers/"><u>[New] Influencing Your Drone's Performance Choosing Right Propellers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-deep-dive-into-whatsapps-vocal-communication-tools/"><u>[Updated] A Deep Dive Into WhatsApp's Vocal Communication Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-10-games-like-ghost-of-tsushima-you-must-try/"><u>[Updated] In 2024, Top 10 Games Like Ghost of Tsushima You Must Try</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-brand-growth-with-youtubes-essential-top-5-video-marketing-techniques/"><u>2024 Approved Navigating Brand Growth with YouTube's Essential #Top 5 Video Marketing Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/customizing-video-dimensions-the-aspect-ratio-guide/"><u>Customizing Video Dimensions The Aspect Ratio Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-virtual-memory-settings-to-power-windows-11-systems/"><u>Mastering Virtual Memory Settings to Power Windows 11 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/optimize-your-facebook-routine-using-our-five-key-productivity-hacks/"><u>Optimize Your Facebook Routine Using Our Five Key Productivity Hacks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-pdhdll-file-not-present-issue-a-step-by-step-guide/"><u>Solving the 'pdh.dll File Not Present' Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-18-essential-workarounds-for-ios-shortcuts-pro/"><u>Ultimate Guide: 18 Essential Workarounds for iOS Shortcuts Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-solving-the-binkw32dll-file-not-found-dilemma/"><u>Ultimate Guide: Solving the 'Binkw32.dll File Not Found' Dilemma</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-how-to-activating-and-using-microsoft-office-suite-on-your-device/"><u>Ultimate How-To: Activating and Using Microsoft Office Suite on Your Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-503-service-temporarily-unavailable-error-and-solutions/"><u>Understanding the 503 Service Temporarily Unavailable Error & Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-photography-leading-tripods-for-smartphones/"><u>[New] Precision Photography Leading Tripods for Smartphones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-x-stream-recorder-pc-edition/"><u>[Updated] X-Stream Recorder PC Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/5-effective-strategies-for-solving-audio-glitches-on-your-windows-10-machine/"><u>5 Effective Strategies for Solving Audio Glitches on Your Windows 10 Machine</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-c32-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia C32?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722900615040-currently-trending-tv-shows-on-the-max-channel-your-guide/"><u>Currently Trending TV Shows on the MAX Channel - Your Guide!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cyberlink-screen-recorder-review-for-2024/"><u>Cyberlink Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-wacom-pen-display-connectivity-problems/"><u>Diagnosing and Repairing Wacom Pen Display Connectivity Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-review-on-western-digitals-data-lifeguard-enhancing-drive-health-and-performance/"><u>Expert Review on Western Digital's Data LifeGuard: Enhancing Drive Health & Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-lowdown-on-googles-upcoming-streamer-expected-price-points-release-schedule-and-specs-unveiled/"><u>Get the Lowdown on Google's Upcoming Streamer: Expected Price Points, Release Schedule & Specs Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-nba-streaming-discover-the-best-15-techniques/"><u>In 2024, The Art of NBA Streaming - Discover the Best 15 Techniques</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/master-photographers-secrets-using-advanced-restoration-software-to-revive-pictures/"><u>Master Photographers' Secrets: Using Advanced Restoration Software to Revive Pictures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-dilemma-what-to-do-when-you-encounter-a-missing-wmvcoredll-error/"><u>Solving the Dilemma: What to Do when You Encounter a Missing Wmvcore.dll Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-choosing-all-correspondences-within-gmail/"><u>The Ultimate Tutorial on Choosing All Correspondences Within Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-for-disconnecting-appliances-from-google-home/"><u>The Ultimate Walkthrough for Disconnecting Appliances From Google Home</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-and-repair-when-you-encounter-the-msstdfmtdll-error-message/"><u>Troubleshoot and Repair When You Encounter the Msstdfmt.dll Error Message</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unveiling-the-purpose-behind-facebooks-blue-emoji-for-2024/"><u>Unveiling the Purpose Behind Facebook's Blue Emoji for 2024</u></a></li>
 </ul></div>
 

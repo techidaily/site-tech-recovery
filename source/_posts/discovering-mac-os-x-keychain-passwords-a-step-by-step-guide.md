@@ -1,7 +1,7 @@
 ---
 title: "Discovering Mac OS X Keychain Passwords: A Step-by-Step Guide"
-date: 2025-02-10T01:44:19.417Z
-updated: 2025-02-11T16:13:44.177Z
+date: 2025-02-27T01:14:03.010Z
+updated: 2025-03-03T02:27:29.313Z
 tags:
   - apple
 categories:
@@ -18,10 +18,6 @@ I will start this out by reminding everyone that you should be using a password 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [![Cyber Security and Digital Data Protection Concept](https://www.zdnet.com/a/img/resize/b984513c67ba4f8c0e132348960af5f4f0063327/2020/05/08/caa1687e-f4c5-463f-b479-789ccf6d5245/istock-1156386758.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best password manager: Business and personal use Everyone needs a password manager. If you're willing to pay a monthly or annual fee, these options are worth it.  Read now](https://www.zdnet.com/article/best-password-manager/)
@@ -34,10 +30,6 @@ The only thing you'll need to follow along is an Apple laptop or desktop. I'll d
 
 With that said, let's get to work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Opening the Keychain Access tool
 
 To open the Keychain Access tool, click on the Launchpad located in the Dock. From there, type keychain and then click on the icon for Keychain Access. In the resulting window, click on the Passwords tab to reveal every entry (**Figure 1**) that's been saved to macOS.
@@ -47,10 +39,6 @@ To open the Keychain Access tool, click on the Launchpad located in the Dock. Fr
 The macOS Keychain Access saves passwords, secure notes, certificates, and keys.
 
 Make sure to click Local items in the left navigation and you'll see every password entry that's been saved locally.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Viewing a password within the Keychain Access tool
 
@@ -66,10 +54,6 @@ As you can see, the password is hidden from sight. To view the password for the 
 
 To change the password, simply erase what's there and type the new entry. After changing the password, make sure to click Save Changes and the password will be updated.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Creating a password entry
 
 Creating a new password entry in Keychain Access is just as simple. From the Passwords tab, make sure to click Local Items and then click the New icon at the top (small square with a diagonal line). When the new window appears (**Figure 3**), type a name (or URL) for the Keychain item, add an account name (a username), and then type the password associated with the item.
@@ -77,10 +61,6 @@ Creating a new password entry in Keychain Access is just as simple. From the Pas
 **Figure 3**
 
 Creating a new password entry to be stored in the Keychain Access tool. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -113,21 +93,18 @@ And that's all there is to locating/editing a password entry in macOS and even c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-make-a-great-educational-video-for-youtube/"><u>[New] 2024 Approved How to Make a Great Educational Video for YouTube?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-stand-out-your-top-10-guide-to-youtubes-best-music-videos/"><u>[New] In 2024, How to Stand Out Your Top 10 Guide to YouTube's Best Music Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-epicurean-escapades-crafting-kitchen-films/"><u>[Updated] 2024 Approved Epicurean Escapades Crafting Kitchen Films</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-the-perfect-youtube-conclusion-for-engagement/"><u>[Updated] Tailoring the Perfect YouTube Conclusion for Engagement</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-your-iphone-15-pro-a-step-by-step-guide/"><u>Disabling Your iPhone 15 Pro: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-top-workout-logging-apps-for-fitness-enthusiasts/"><u>Discover the Ultimate List of Top Workout Logging Apps for Fitness Enthusiasts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-perfect-printing-with-up-to-date-hp-driver-downloads-for-modern-windows-operating-systems/"><u>Ensure Perfect Printing with Up-to-Date HP Driver Downloads for Modern Windows Operating Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/express-yourself-with-emoji-how-to-enhance-text-messages-on-iphone/"><u>Express Yourself with Emoji: How to Enhance Text Messages on iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-on-fixing-msstdfmtdll-not-found-or-absent-error-messages-easily/"><u>Guide on Fixing Msstdfmt.dll Not Found or Absent Error Messages Easily</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-12-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme 12 5G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigate-your-schedule-with-these-4-amazing-gratis-online-calendars/"><u>Navigate Your Schedule with These 4 Amazing Gratis Online Calendars</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/professional-cad-software-without-the-price-tag-our-favorite-4-free-options/"><u>Professional CAD Software Without the Price Tag: Our Favorite 4 Free Options</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-the-normalizdll-file-is-missing-a-comprehensive-guide/"><u>Resolving the 'Normaliz.dll' File Is Missing: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-comctl32dll-file-absence-issue-a-step-by-step-guide/"><u>Resolving the Comctl32.dll File Absence Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/silencing-secretive-calls-on-your-ios-device-a-comprehensive-guide-to-controlling-caller-identity/"><u>Silencing Secretive Calls on Your iOS Device: A Comprehensive Guide to Controlling Caller Identity</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-guide-to-converting-psd-images-into-animated-gifs-without-using-adobe-photoshop/"><u>Simple Guide to Converting PSD Images Into Animated GIFs Without Using Adobe Photoshop</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-a-step-by-step-guide-to-your-first-twitter-profile/"><u>[New] 2024 Approved A Step-by-Step Guide to Your First Twitter Profile</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-harmonious-hues-photographic-pieces-of-lifes-palette/"><u>[New] Harmonious Hues Photographic Pieces of Life's Palette</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unlock-your-youtube-potential-by-dodging-these-8-typical-mistakes/"><u>[Updated] In 2024, Unlock Your YouTube Potential by Dodging These 8 Typical Mistakes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725289047573-gpuwinxvideo-ai/"><u>利用GPU加速技術，瞬間改變影片及音樂文件：WinxVideo AI解決方案</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/compatibility-check-connecting-apples-airpods-to-a-nintendo-switch-gaming-system/"><u>Compatibility Check: Connecting Apple's AirPods to a Nintendo Switch Gaming System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-july-2024-roster-of-d-link-standard-login-credentials/"><u>Comprehensive July 2024 Roster of D-Link Standard Login Credentials</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/enhancing-viewing-experience-with-added-captions-in-wmp-for-2024/"><u>Enhancing Viewing Experience with Added Captions in WMP for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/guide-to-extracting-srt-from-a-zip-archive/"><u>Guide to Extracting SRT From a ZIP Archive</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-not-using-microphones-boosts-ps5-security/"><u>How Not Using Microphones Boosts PS5 Security</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-restore-wi-fi-access-on-a-malfunctioning-surface-pro-device/"><u>How to Restore Wi-Fi Access on a Malfunctioning Surface Pro Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-seamlessly-halt-your-paramountplus-subscriptions/"><u>How to Seamlessly Halt Your Paramount+ Subscriptions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-tips-solving-your-sluggish-online-speed-issues/"><u>Quick Tips: Solving Your Sluggish Online Speed Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-cleaning-a-clicker-keep-it-germ-free/"><u>Step-by-Step Tutorial on Cleaning a Clicker - Keep It Germ-Free</u></a></li>
 </ul></div>
 

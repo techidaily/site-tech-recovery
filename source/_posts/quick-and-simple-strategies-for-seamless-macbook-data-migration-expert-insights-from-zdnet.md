@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Strategies for Seamless MacBook Data Migration - Expert Insights From ZDNet
-date: 2025-02-11T08:30:08.281Z
-updated: 2025-02-11T18:51:48.352Z
+date: 2025-02-26T21:17:48.930Z
+updated: 2025-03-03T00:01:02.833Z
 tags:
   - apple
 categories:
@@ -28,15 +28,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -52,10 +44,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -67,10 +55,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -85,10 +69,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,24 +106,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-crucial-6-platforms-enhancing-commercial-relations-for-2024/"><u>[Updated] Crucial 6 Platforms Enhancing Commercial Relations for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-your-video-subtitles-on-youtube/"><u>[Updated] Perfect Your Video Subtitles on YouTube</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-star-moment-analysis/"><u>2024 Approved Vimeo Star Moment Analysis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/can-iphone-users-disable-or-erase-default-system-apps/"><u>Can iPhone Users Disable or Erase Default System Apps?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comparison-ps5-slim-vs-standard-ps5-key-differences-revealed/"><u>Comparison: PS5 Slim Vs. Standard PS5 - Key Differences Revealed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-google-pixel-fold-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Google Pixel Fold Phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-fixes-for-your-msxml4dll-file-not-being-located-or-accessible/"><u>Easy Fixes for Your MsXML4.dll File Not Being Located or Accessible</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elite-selection-of-keyboard-palm-supports-whats-new/"><u>Elite Selection of Keyboard Palm Supports - What's New</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-wireless-earbud-connectivity-abbyys-guide-on-pairing-and-securing-passwords/"><u>Enhancing Wireless Earbud Connectivity: ABBYY's Guide on Pairing & Securing Passwords</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-engage-in-tiktok-duets-a-comprehensive-guide/"><u>How to Engage in TikTok Duets - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-restore-libcurldll-a-comprehensive-error-fix-guide/"><u>How To Restore Libcurl.dll: A Comprehensive Error Fix Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-uncover-hidden-5ghz-networks-in-windows-11-using-7-tips/"><u>How to Uncover Hidden 5GHz Networks in Windows 11 Using 7 Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/luxury-meets-value-exceptional-high-end-tech-on-a-shoestring/"><u>Luxury Meets Value: Exceptional High-End Tech on a Shoestring</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/resolving-hardware-issues-effectively-with-tips-from-yl-tech-experts/"><u>Resolving Hardware Issues Effectively with Tips From YL Tech Experts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tailoring-your-route-adding-multiple-destinations-on-google-maps-easily/"><u>Tailoring Your Route: Adding Multiple Destinations on Google Maps Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-on-incorporating-text-captions-into-your-ig-stories/"><u>The Ultimate Tutorial on Incorporating Text Captions Into Your IG Stories</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-recommended-smartwatch-applications-for-your-android-device/"><u>Top Recommended Smartwatch Applications for Your Android Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upgrade-your-viewing-experience-with-tcls-enhanced-q-and-s-series-lineup-now-including-1-19-cutting-edge-models/"><u>Upgrade Your Viewing Experience With TCL's Enhanced Q and S Series Lineup, Now Including 1 19 Cutting-Edge Models</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-essentials-in-obtaining-stock-images-for-multimedia-projects/"><u>[New] Essentials in Obtaining Stock Images for Multimedia Projects</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlocking-instagrams-monetization-secrets/"><u>2024 Approved Unlocking Instagram’s Monetization Secrets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-premier-selection-of-free-hard-drive-defrag-software-find-the-best-today/"><u>2024’S Premier Selection of Free Hard Drive Defrag Software - Find the Best Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-perfect-game-console-5-important-points-you-should-know/"><u>Choosing the Perfect Game Console: 5 Important Points You Should Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpts-ability-to-process-and-solve-numerical-puzzles-accurately/"><u>Exploring ChatGPT's Ability to Process and Solve Numerical Puzzles Accurately</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-yahoo-mail-problems-what-to-do-when-your-inbox-is-empty/"><u>Fixing Yahoo Mail Problems: What to Do When Your Inbox Is Empty</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/lens-based-enlightenment-guide-to-editing-brilliance-for-2024/"><u>Lens-Based Enlightenment Guide to Editing Brilliance for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-srt-subtitle-translation-tools-and-techniques/"><u>New 2024 Approved SRT Subtitle Translation Tools and Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-shelldll-not-found-errors-expert-advice-and-fixes-at-hand/"><u>Overcoming 'Shell.dll Not Found' Errors: Expert Advice & Fixes at Hand</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/power-meets-portability-in-the-lg-gram-1eby-in-depth-look-at-an-exceptional-lightweight-laptop-with-impressive-battery-life/"><u>Power Meets Portability in the LG Gram 1Eby: In-Depth Look at an Exceptional Lightweight Laptop with Impressive Battery Life</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-no-signal-dilemma-on-your-xbox-one-console/"><u>Solving the 'No Signal' Dilemma on Your Xbox One Console</u></a></li>
+<li><a href="https://facebook.techidaily.com/unintended-exposure-have-my-personal-and-phone-numbers-been-shared-on-facebook/"><u>Unintended Exposure: Have My Personal and Phone Numbers Been Shared on Facebook?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-black-screen-woes-top-fixes-to-restore-your-desktop-view/"><u>Windows 11 Black Screen Woes? Top Fixes to Restore Your Desktop View</u></a></li>
 </ul></div>
 

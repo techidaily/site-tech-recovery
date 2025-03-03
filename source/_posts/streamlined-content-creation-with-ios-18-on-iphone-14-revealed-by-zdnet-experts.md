@@ -1,7 +1,7 @@
 ---
 title: Streamlined Content Creation with iOS 18 on iPhone 14, Revealed by ZDNet Experts
-date: 2025-02-07T23:42:08.105Z
-updated: 2025-02-11T23:51:22.519Z
+date: 2025-03-01T23:10:03.008Z
+updated: 2025-03-02T20:50:56.537Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ As someone who is not nearly an influencer but loves to use their imagination, I
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Video scroll bar and playback options
 
 Allison Jewell/ZDNET
@@ -61,10 +57,6 @@ Thankfully, the new Photos app on iOS 18 features a more accurate scroll bar to 
 When you do find the perfect take, the editing menu now allows an option to slow down high frame rate videos to get on-the-dot cutting. 
 
 When viewing videos, the scroll bar automatically pops up. To access the playback options, select edit and then the clock icon at the top right corner. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Customizable layout with 'Recent Days'
 
@@ -82,10 +74,6 @@ For example, during the Apple launch, my phone was essentially exploding with co
 
 With customization, you can keep this collection at the top of your feed, or any other categories that would help you stay the most organized. Now I can pull content from a certain day without having to scroll all the way back, and hopefully it does the same for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Filter button
 
 iDownloadBlog/ZDNET
@@ -100,20 +88,12 @@ To narrow content more, you can also filter to favorites, previously edited cont
 
 And just with one slide up, it resets the filters. If you add the ability to organize your photos app to your liking, your photos app becomes so much more efficient.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Honorable mentions
 
 * A 'utilities' option categorizes documents, receipts, QR codes, and more in one place to maximize your workflow.
 * People and pets can now be recognized into frequent groups and organized in a collection.
 * Trips can now organize content from locations and put them into one collection.
 * A 'recovered' album in Utilities recovers corrupted images that were previously not visible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which iPhones are compatible with iOS 18?
 
@@ -175,20 +155,24 @@ And just with one slide up, it resets the filters. If you add the ability to org
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-quick-guide-to-gopro-4k-video-enhancement/"><u>[New] In 2024, Quick Guide to GoPro 4K Video Enhancement</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-legal-zen-melodies-your-guide-to-soothing-soundtracks/"><u>[New] Legal Zen Melodies – Your Guide to Soothing Soundtracks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-mastering-the-art-of-zooming-on-social-media-platform-snapchat/"><u>[Updated] Mastering the Art of Zooming on Social Media Platform, Snapchat</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-engagement-with-funny-and-friendly-gif-comments-on-instagram-a-guide/"><u>Enhance Engagement with Funny & Friendly GIF Comments on Instagram - A Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-kid-friendly-movie-collection-spotlighted-for-disneyplus-viewers-in-july/"><u>Essential Kid-Friendly Movie Collection Spotlighted for Disney+ Viewers in July</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-turn-off-copilot-feature-in-your-pc-running-windows-11/"><u>Expert Advice: How to Turn Off Copilot Feature in Your PC Running Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-the-ultimate-selection-of-lgbtqplus-movie-gems-on-netflix-july-edition/"><u>Explore the Ultimate Selection of LGBTQ+ Movie Gems on Netflix - July Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-microsoft-print-to-pdf-problem-on-windows-11-devices/"><u>How To Troubleshoot 'Microsoft Print to PDF' Problem on Windows 11 Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-15-pro-max-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 15 Pro Max Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sequencing-the-autobots-and-decepticons-how-to-watch-every-transformers-movie-in-order/"><u>Sequencing the Autobots and Decepticons: How to Watch Every Transformers Movie in Order</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-solution-to-stop-mass-effect-legendary-edition-from-freezingcrashing-on-console-and-computer/"><u>Step-by-Step Solution to Stop Mass Effect Legendary Edition From Freezing/Crashing on Console and Computer</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-poco-x5-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Poco X5 Pro Phones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-free-microsoft-word-access-a-users-guide-for-no-cost-document-editing/"><u>Unlocking Free Microsoft Word Access: A User's Guide for No-Cost Document Editing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-frozen-olympics-spectacular-2022-highlights/"><u>[New] In 2024, Frozen Olympics Spectacular 2022 Highlights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-swiftly-flip-and-swivel-movies-for-a-better-viewing-experience-using-vlc/"><u>[New] Swiftly Flip and Swivel Movies for a Better Viewing Experience Using VLC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-best-practices-in-upgrading-to-a-high-end-4k-camera-lens-for-2024/"><u>[Updated] Best Practices in Upgrading to a High-End 4K Camera Lens for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/api-dependency-not-met-cruntimel1-1-0-unavailable/"><u>API Dependency Not Met, cRuntimeL1-1-0 Unavailable</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tips-for-transferring-printed-files-to-your-computer-via-scanner/"><u>Easy Tips for Transferring Printed Files to Your Computer via Scanner</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-on-how-to-link-your-samsung-remote-control-to-the-tv/"><u>Easy Tutorial on How to Link Your Samsung Remote Control to the TV</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-restore-your-windows-7-system-after-a-lost-recovery-partition-easy-fixes-and-solutions/"><u>How to Restore Your Windows 7 System After a Lost Recovery Partition - Easy Fixes and Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-successfully-recover-or-replace-missing-d3dx9tiff-file-step-by-step-instructions/"><u>How to Successfully Recover or Replace Missing D3dx9_tiff File: Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/improving-your-homes-hdtv-signal-a-guide-to-enhancing-indoor-digital-television-reception/"><u>Improving Your Home's HDTV Signal: A Guide to Enhancing Indoor Digital Television Reception</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-androids-elite-podcast-app-selection-top-6-list/"><u>In 2024, Android's Elite Podcast App Selection Top 6 List</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/join-the-fun-with-tiktok-duel-videos-an-easy-how-to-guide/"><u>Join the Fun with TikTok Duel Videos: An Easy How-To Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/make-every-snap-spectacular-20-top-filter-recommendations-for-2024/"><u>Make Every Snap Spectacular 20 Top Filter Recommendations for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-file-shift-quick-and-easy-transfer-tactics-for-the-computer-for-2024/"><u>Mastering File Shift Quick and Easy Transfer Tactics for the Computer for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simplified-method-getting-rid-of-your-pin-lock-in-windows-11/"><u>Simplified Method: Getting Rid of Your PIN Lock in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/syncing-apple-tvplus-content-the-ultimate-guide-to-streaming-on-your-chromecast/"><u>Syncing Apple TV+ Content: The Ultimate Guide to Streaming on Your Chromecast</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-portable-jump-starters-of-2024/"><u>The Best Portable Jump Starters of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-5-premium-no-cost-malware-scrubbers-for-2n4/"><u>The Ultimate List: 5 Premium, No-Cost Malware Scrubbers for 2N4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-windows-blue-screen-of-death-swiftly/"><u>Ultimate Guide: Resolving the Windows Blue Screen of Death Swiftly</u></a></li>
 </ul></div>
 

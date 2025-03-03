@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Breakdown of Windows 10'S Battery Diagnostic Feature and Its Benefits
-date: 2024-08-12T04:03:01.589Z
-updated: 2024-08-13T04:03:01.589Z
+date: 2025-02-27T20:39:03.541Z
+updated: 2025-03-02T17:34:14.959Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Breakdown of Windows 10'S Battery Diagnostic Feature and Its Benefits
@@ -23,17 +23,11 @@ thumbnail: https://www.lifewire.com/thmb/-ErWVirK-Kvqz_jdp6xfavPKXKY=/400x300/fi
  The battery on your laptop or tablet is one of its most critical pieces of[hardware](https://www.lifewire.com/computer-hardware-2625895) . Over time, a battery's life span shortens, and its ability to hold a charge decreases. If you suspect your battery's performance is fading, follow these steps to create a battery report:  
 
 1. Press**Win** +**X** , then select**Windows PowerShell (Admin)** . Select**Yes** when the User Account Control box appears.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![powershell](https://www.lifewire.com/thmb/jZNRO0ZChIXAj44Hj-Qk_Gv3c2E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-windows-10-battery-report-what-it-is-and-how-to-use-it-eb97a723495643429ee5af383ef33e35.jpg)
 2. Enter this command into PowerShell, then press**Enter** :  
  `powercfg /batteryreport /output "C:\battery-report.html"`  
  Feel free to change the path (in quotes) to wherever you want to save the report. In our example, it will be exported to the[C drive](https://www.lifewire.com/what-is-a-c-drive-5222296) .
 3. After you run the battery report command, you'll see a message indicating where the file was saved. Take note of the location.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![battery life location](https://www.lifewire.com/thmb/eA3ZUvDsKSVHVe95zCIVzRKJvu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-windows-10-battery-report-what-it-is-and-how-to-use-it-fe885b3ec48e4d81bb081e819a2a972b.jpg)
 4. Use Windows Explorer to find the file, then double-click or double-tap it to open the report in your web browser. In our example, since the battery report was saved in the[root](https://www.lifewire.com/what-is-a-root-folder-or-root-directory-2625989) of the C drive, we can type this into the browser's URL bar to open the report:  
  `file:///C:/battery-report.html`
@@ -48,32 +42,20 @@ thumbnail: https://www.lifewire.com/thmb/-ErWVirK-Kvqz_jdp6xfavPKXKY=/400x300/fi
 
  The second section, below**Installed batteries** , lists key information about your laptop or tablet batteries, such as name, manufacturer, serial number, chemistry, and design capacity.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of the first two sections of a Windows 10 battery report.](https://www.lifewire.com/thmb/cdMl7F4TRFo-BwaNKuCqdGgWKko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-6-5c74f03546e0fb0001a9825a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Recent Usage
 
  This section overviews when your device was running on battery or connected to AC power. Recent usage covers power states for three days and includes start time, state (active/suspended), source (battery/AC), and remaining capacity.
 
 ![A screenshot displaying recent usage on a Windows 10 battery report.](https://www.lifewire.com/thmb/gPFUNNrcOy5j_YDxwEdimde27d8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-7-5c74fa37c9e77c0001e98d2b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Battery Usage
 
  This area lists any battery drains over the last three days. If your system ran for extended periods on battery alone, this section would break it down by start time or duration, as well as by energy drained.
 
 [How to Make a Laptop Battery Last Longer](https://www.lifewire.com/make-laptop-battery-last-longer-5189983)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot showing battery usage in a Windows 10 battery report.](https://www.lifewire.com/thmb/CcY183o8jUDRbhUehMCZBEedeo8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-8-5c750187c9e77c000136a5f0.jpg)
 
 ### Usage History
@@ -86,14 +68,8 @@ thumbnail: https://www.lifewire.com/thmb/-ErWVirK-Kvqz_jdp6xfavPKXKY=/400x300/fi
 
  In this section of the report, you see the full charge capacity compared to your battery's design capacity for each period. Watching your full charge capacity is another helpful way to monitor the overall health and performance of your battery over time.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A screenshot of the battery capacity history section of a Windows 10 battery report.](https://www.lifewire.com/thmb/6KUTn767xRch_BQSEj3JHzuI2fg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-generate-a-battery-report-on-a-windows-10-laptop-4587396-10-5c75a643c9e77c00012f80ea.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Battery Life Estimates
 
  The final section of the report displays battery life estimates at full charge, compared to the designed capacity. This gives you a clear outlook of how well your battery's life is holding up over time. At the very bottom of the report is an estimated battery lifetime value based on observed drains since the last OS installation.
@@ -131,8 +107,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +114,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-a-new-era-for-virtual-reality-best-pc-headsets-of-2023/"><u>[New] 2024 Approved A New Era for Virtual Reality Best PC Headsets of 2023</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-name-alteration-for-meet-sessions-laptopmobile/"><u>[New] Efficient Name Alteration for Meet Sessions (Laptop/Mobile)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-elevate-your-experience-top-5-facebook-revelations/"><u>[New] Elevate Your Experience Top 5 Facebook Revelations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-renowned-experts-exquisite-insta-highlight-creators/"><u>[New] In 2024, Renowned Experts Exquisite Insta Highlight Creators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-exploring-the-extensive-features-of-logitechs-4k-cam/"><u>[Updated] 2024 Approved Exploring the Extensive Features of Logitech's 4K Cam</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-discover-the-best-free-subtitle-makers-srt-online/"><u>[Updated] In 2024, Discover the Best Free Subtitle Makers (Srt) Online</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unveiling-the-secrets-of-lut-customization-in-premiere/"><u>[Updated] In 2024, Unveiling the Secrets of LUT Customization in Premiere</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-uniting-zooms-power-with-facebook-live-streaming/"><u>2024 Approved Uniting Zoom's Power with Facebook LIVE Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-importance-of-dac-technology-for-enhanced-sound-quality/"><u>Decoding the Importance of DAC Technology for Enhanced Sound Quality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-starting-up-a-stalled-mozilla-thunderbird-email-client/"><u>Effective Solutions for Starting Up a Stalled Mozilla Thunderbird Email Client</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-fixes-for-audio-errors-overcome-playback-failure-with-ease/"><u>Effortless Fixes for Audio Errors - Overcome ‘Playback Failure’ with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-in-home-digital-tv-reception-a-guide-to-selecting-the-right-antenna/"><u>Enhancing In-Home Digital TV Reception: A Guide to Selecting the Right Antenna</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-fixes-for-when-your-mozilla-thunderbird-email-client-wont-open-correctly/"><u>Essential Fixes for When Your Mozilla Thunderbird Email Client Won't Open Correctly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-remote-movie-nights-how-to-share-your-screen-via-netflix/"><u>Master the Art of Remote Movie Nights: How to Share Your Screen via Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-twitch-streaming-indispensable-top-5-platforms-every-host-needs-to-know/"><u>Master Twitch Streaming: Indispensable Top 5 Platforms Every Host Needs to Know</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pixel-series-timepiece-nextgen-foretelling-the-costs-release-moment-and-gossipy-details-inside/"><u>Pixel Series Timepiece Nextgen – Foretelling the Costs, Release Moment & Gossipy Details Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-mastering-your-meta-quest-microphone/"><u>Ultimate Guide: Mastering Your Meta Quest Microphone</u></a></li>
+</ul></div>
 

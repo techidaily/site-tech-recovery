@@ -1,7 +1,7 @@
 ---
 title: How to Easily Use Your Roku Device When You're Away From Home - Tips for Hotel & College Life
-date: 2024-08-12T03:53:29.736Z
-updated: 2024-08-13T03:53:29.736Z
+date: 2025-02-26T20:31:09.963Z
+updated: 2025-03-02T22:35:48.956Z
 categories:
   - BestProducts
 description: This Article Describes How to Easily Use Your Roku Device When You're Away From Home - Tips for Hotel & College Life
@@ -14,53 +14,26 @@ thumbnail: https://www.lifewire.com/thmb/NTcI_lUm8bN6pHlU7Z5gnA4PhGk=/540x405/fi
 
  Some content and channels may be restricted or limited, depending on where you're traveling.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Set Up Your Roku in a Hotel or Dorm
 
  The Roku Hotel & Dorm Connect feature makes it possible to set up your Roku and[connect it to Wi-Fi](https://www.lifewire.com/connect-roku-to-wifi-4174681) without signing in from a web browser. Here's how it works:
 
 1. Plug the Roku stick or box into a power source.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Roku Ultra and Streaming Stick - AC and USB Power Options](https://www.lifewire.com/thmb/bEjEfGYddue0kz_8v3_-uOb6lFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/roku-ultra-and-stick-ac-usb-power-options-a-5b10137804d1cf0037e7300b.jpg)
 2. Plug the Roku streaming device into the[HDMI input](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) on the TV you want to use.  
 ![Roku Streaming Stick Connected To TV via HDMI](https://www.lifewire.com/thmb/GHwOu3eJdSHlfml1Ao2zDGjnoPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/roku-3600r-tv-connection-alt-5bba628e46e0fb00517059fb.jpg)  
 Make sure to set the TV's input to HDMI.
 3. When you power on the TV, you'll see the Roku Logo or home screen.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Roku 3600R Streaming Stick - Splash Logo](https://www.lifewire.com/thmb/KC-j3D_lEiJlSPemVyyvegx2VkU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/roku-splash-screen-a-574218fb3df78c6bb0f17b30.jpg)
 4. Press the**Home** button on the Roku remote.  
 ![Roku Home Page Example - Stick and Box](https://www.lifewire.com/thmb/BtQ-gPsAeG_-Rn4w6AQGS4eFjTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ROKU-HOME-PAGEA-A-5b7dc7e946e0fb0050553975.jpg)
 5. Go to**Settings** \>**Network** \>**Set up connection** .  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Roku Settings — Network — Set Up Connection](https://www.lifewire.com/thmb/aNF6wr1ZrmKg17y7vFxNjMTKx_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/roku-setu-up-connection-alt-xxx-5bbb77d746e0fb00519c847d.jpg)
 6. Select**Wireless** .  
 ![Roku Network — Set Up Connection — Wired or Wireless](https://www.lifewire.com/thmb/YXiRtJsO6BwZdKh7xBSSGVeYN8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/roku-wired-or-wireless-alt-c-5bbb6eabc9e77c00584cb373.jpg)
 7. Choose the hotel or dorm's wireless network.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Roku — Choose Your Network](https://www.lifewire.com/thmb/IsaWRN5TqKIBr3D99svq_absL50=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/roku-hotel-dorm-connect-finding-network-tcl-roku-c-5bba92eac9e77c0051a82176.jpg)
 8. In the**Network connection help** box, select**I am at a hotel or college dorm** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Roku Hotel and Dorm Connect](https://www.lifewire.com/thmb/Hw_m_rRiXhoXKm9hO--4Fg6Xh6o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dorm-connect-alt-960-640-5bba8d834cedfd0026414255.jpg)
 9. Go to the Wi-Fi Settings on your smartphone, tablet, or laptop and make sure it's connected to the same dorm or hotel wireless network you selected for the Roku.
 10. Follow the on-screen instructions to authenticate your connection. On your device, select**Connect to DIRECT-roku-\[xxx-xxxxxx\]** and enter the designated password.  
@@ -114,8 +87,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +94,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-10-game-bar-alternative-recorders/"><u>[New] 2024 Approved Top 10 Game Bar Alternative Recorders</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-resolving-windows-11s-persistent-bluetooth-drivers-issues/"><u>Comprehensive Guide: Resolving Windows 11'S Persistent Bluetooth Drivers Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-update-or-change-the-built-in-browser-on-your-samsung-smart-tv/"><u>Easy Steps to Update or Change the Built-In Browser on Your Samsung Smart TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-correcting-a-lost-or-absent-helperdll-error/"><u>Effective Solutions for Correcting a Lost or Absent Helper.dll Error</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-refinements-of-sonys-s6500-bdp-model-for-2024/"><u>Exploring the Refinements of Sony's S6500 BDP Model for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y78t-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y78t by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-8-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 8</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mobile-phone-networks-demystified-an-insight-into-service-providers/"><u>Mobile Phone Networks Demystified: An Insight Into Service Providers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-on-how-to-erase-your-yahoo-mail-address-forever/"><u>Step-by-Step Process on How to Erase Your Yahoo! Mail Address Forever</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-easy-way-to-pick-out-several-emails-at-once-in-gmail-a-tutorial/"><u>The Easy Way to Pick Out Several Emails at Once in Gmail: A Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-to-deal-with-missing-or-unreachable-wininetdll-errors-on-your-pc/"><u>The Ultimate Solution to Deal with Missing or Unreachable Wininet.dll Errors on Your PC</u></a></li>
+</ul></div>
 

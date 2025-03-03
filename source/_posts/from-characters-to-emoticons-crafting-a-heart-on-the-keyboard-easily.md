@@ -1,7 +1,7 @@
 ---
 title: "From Characters to Emoticons: Crafting a Heart on the Keyboard Easily"
-date: 2024-08-12T04:06:31.628Z
-updated: 2024-08-13T04:06:31.628Z
+date: 2025-02-24T16:32:41.521Z
+updated: 2025-03-03T01:01:57.428Z
 categories:
   - BestProducts
 description: "This Article Describes From Characters to Emoticons: Crafting a Heart on the Keyboard Easily"
@@ -20,9 +20,6 @@ In This Article
 
  _Heading back to school each year involves more than grabbing a backpack and pencils, whether you're studying online, in a building, or via homeschooling. My kids are in middle and high school, with a college student in the mix as well. Our family has found different tech tools helpful at various points in their educational journeys._
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Must-Haves: Computers, Laptops and Peripherals
 
  Does your child need a laptop or a desktop computer? It could be that they need both, plus accessories (known as peripherals) like mice, webcams, and headphones.
@@ -39,9 +36,6 @@ In This Article
 
 [Editor's Choice: The Best Tech Gifts for Back To School](https://www.lifewire.com/editor-s-choice-the-best-tech-gifts-for-back-to-school-7692969)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Students using laptops at tables and in bean bag chairs.](https://www.lifewire.com/thmb/5xqW8ViVbQNgb2VUsUblogbwFco=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentswithlaptopsondesksandbeanbags_skynesher_GettyImages-1456220436CROPPED-19c3059f597a4aa1b038835c96bacc75.jpg)
 
 Skynesher/Getty
@@ -50,9 +44,6 @@ Skynesher/Getty
 
  As you make your purchases, consider how long the item will last with your child. Some kids are rough on technology, while others are more thoughtful and responsible; age often dictates how nice I'm willing to purchase for a specific child.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Look for Student Discounts
 
  Check for discounts before you buy! Several major tech manufacturers offer student discounts, including HP and[Dell](https://www.lifewire.com/dell-student-discount-4686335) . Some retailers, like[Best Buy](https://www.lifewire.com/best-buy-student-discount-4684485) , offer back-to-school deals as well.
@@ -67,14 +58,8 @@ Skynesher/Getty
 
 [Computer & Laptop Reviews & Top Picks](https://www.lifewire.com/best-laptops-to-buy-4043650)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Connections: The Power of Phones and Smartwatches
 
  Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
@@ -101,9 +86,6 @@ Skynesher/Getty
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Using Apps and Sites Can Support Good Study Habits
 
  Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
@@ -149,14 +131,11 @@ Skynesher/Getty
 * What percentage of schools use technology?  
  About 45 percent of all schools have a computer for every student; another 37 percent provide computers for students in at least some grades or classrooms. More than 70 percent of schools say their teachers use technology for activities usually done in the classroom. Source: The Institute of Education Sciences.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -165,4 +144,20 @@ Skynesher/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-compact-cost-free-livestreaming-solutions-listed-in-a-nutshell/"><u>[New] In 2024, Compact, Cost-Free LiveStreaming Solutions Listed in a Nutshell</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-boosting-photo-editing-skills-essential-pixlr-techniques/"><u>[Updated] In 2024, Boosting Photo Editing Skills Essential Pixlr Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-leading-youtube-snack-seekers-free-top-downloads/"><u>[Updated] Leading YouTube Snack Seekers Free, Top Downloads</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-ultimate-selection-of-ipad-air-cases-vetted-by-pro-reviews/"><u>2024'S Ultimate Selection of iPad Air Cases Vetted by Pro Reviews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-to-enable-and-use-built-in-screen-recording-feature-on-iphones-detailed-instructions/"><u>Easy Steps to Enable & Use Built-In Screen Recording Feature on iPhones - Detailed Instructions</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-windows-11-users-on-restarting-mobile-hotspots/"><u>Guiding Windows 11 Users on Restarting Mobile Hotspots</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ios-18-unleashed-a-step-by-step-guide-to-personalizing-your-iphone-control-center-insights-from-zdnet/"><u>IOS 18 Unleashed: A Step-by-Step Guide to Personalizing Your iPhone Control Center - Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/is-it-time-to-upgrade-from-your-current-ipad-version/"><u>Is It Time to Upgrade From Your Current iPad Version?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-video-konvertoru-halkali-ozelik-yayinama-kapsamli-film-dolastirma-araci/"><u>Movavi Video Konvertörü - Halkalı Özelik Yayınama Kapsamlı | Film Dolaştırma Aracı</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-setting-up-an-ipad-expert-advice-professionals/"><u>Step-by-Step Instructions for Setting Up an iPad: Expert Advice Professionals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamlining-your-social-circle-remove-groups-of-contacts-quickly-from-snapchat/"><u>Streamlining Your Social Circle: Remove Groups of Contacts Quickly From Snapchat</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-purpose-of-pagefilesys-and-should-it-be-deleted/"><u>What Is the Purpose of Pagefile.sys and Should It Be Deleted?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/zdnet-exclusive-review-why-the-new-ipad-air-and-its-powerful-m2-processor-is-the-ideal-choice-for-modern-users/"><u>ZDNet Exclusive Review: Why the New iPad Air and Its Powerful M2 Processor Is the Ideal Choice for Modern Users</u></a></li>
+</ul></div>
 

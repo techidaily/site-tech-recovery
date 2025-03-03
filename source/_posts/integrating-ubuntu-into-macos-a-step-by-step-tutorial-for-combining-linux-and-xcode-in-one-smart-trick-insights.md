@@ -1,7 +1,7 @@
 ---
 title: "Integrating Ubuntu Into macOS: A Step-by-Step Tutorial for Combining Linux and Xcode in One Smart Trick Insights"
-date: 2025-02-06T18:57:54.531Z
-updated: 2025-02-12T03:14:37.545Z
+date: 2025-02-27T03:29:28.924Z
+updated: 2025-03-02T17:21:50.472Z
 tags:
   - apple
 categories:
@@ -28,15 +28,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -52,29 +44,17 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -126,14 +106,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-android-freedom-the-most-popular-top-10-fb-video-extraction-tools/"><u>[New] 2024 Approved Android Freedom The Most Popular Top 10 FB Video Extraction Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unveiling-the-art-of-documenting-real-time-facetime-discussions/"><u>[New] In 2024, Unveiling the Art of Documenting Real-Time FaceTime Discussions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-optimizing-profits-on-youtube-studio-for-all-device-users/"><u>[Updated] 2024 Approved Optimizing Profits on YouTube Studio for All-Device Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-of-free-system-boosters-for-2prise-registry-cleaner-edition/"><u>Discover the Ultimate List of Free System Boosters for 2Prise: Registry Cleaner Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-your-display-with-amd-radeon-video-card-drivers-update-2410/"><u>Enhancing Your Display with AMD Radeon Video Card Drivers Update 24.10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-efficiency-a-users-manual-to-anthropics-cutting-edge-claudes-3-prompt-library/"><u>Maximizing Efficiency: A User’s Manual to Anthropic's Cutting-Edge Claudes 3 Prompt Library</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-missing-winhttpdll-errors-essential-troubleshooting-techniques/"><u>Overcoming Missing Winhttp.dll Errors: Essential Troubleshooting Techniques</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steering-towards-innovation-the-top-2024-pioneers-in-self-driving-cars/"><u>Steering Towards Innovation: The Top 2024 Pioneers in Self-Driving Cars</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-or-fresh-install-of-nvidia-graphics-card-drivers-made-easy/"><u>Update or Fresh Install of NVIDIA Graphics Card Drivers Made Easy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-travel-guide-youtubes-best-vlogs/"><u>[New] In 2024, The Ultimate Travel Guide YouTube's Best Vlogs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-transitioning-from-imovie-editing-suite-to-youtube-showcase/"><u>[Updated] 2024 Approved Transitioning From iMovie Editing Suite to YouTube Showcase</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-essential-guidelines-for-creating-emotional-connection-in-client-spots-for-2024/"><u>[Updated] Essential Guidelines for Creating Emotional Connection in Client Spots for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/axel-springer-se/"><u>Axel Springer SE</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-leading-5-android-auto-clickers-without-rooting-your-phone/"><u>Discover the Leading 5 Android Auto Clickers Without Rooting Your Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/evaluating-essential-speeds-to-optimize-your-computers-performance/"><u>Evaluating Essential Speeds to Optimize Your Computer's Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-easily-start-your-journey-with-x-the-modern-twitter-replacements-setup-process/"><u>How to Easily Start Your Journey with X: The Modern Twitter Replacement's Setup Process</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-seamlessly-bond-your-samsung-clicker-with-a-tv-unit/"><u>How to Seamlessly Bond Your Samsung Clicker With a TV Unit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/immerse-yourself-in-high-quality-imagery-with-4k-uhd-hitachi-televisions-and-direct-roku-integration/"><u>Immerse Yourself in High-Quality Imagery with 4K UHD Hitachi Televisions and Direct Roku Integration</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-11-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 11 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-nubia-z50-ultra-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Nubia Z50 Ultra Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-mac-finder-tailoring-view-options-for-folders-and-subfolders/"><u>Mastering Mac Finder - Tailoring View Options for Folders & Subfolders</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximizing-your-post-a-step-by-step-guide-to-fitting-the-full-image-in-an-instagram-story/"><u>Maximizing Your Post: A Step-by-Step Guide to Fitting the Full Image in an Instagram Story</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pro-level-8-screen-snip-contenders-for-2024/"><u>Pro-Level 8 Screen Snip Contenders for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-for-updating-your-signaturex-password/"><u>The Ultimate Tutorial for Updating Your SignatureX Password</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/5-youtube-portals-on-stocks-and-trades-for-2024/"><u>Top 15 YouTube Portals on Stocks & Trades for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722879884065-women-with-a-history-of-uterine-rupture-may-have-an-increased-risk-in-future-pregnancies-and-require-specialized-care-during-childbirth/"><u>Women with a History of Uterine Rupture May Have an Increased Risk in Future Pregnancies and Require Specialized Care During Childbirth.</u></a></li>
 </ul></div>
 

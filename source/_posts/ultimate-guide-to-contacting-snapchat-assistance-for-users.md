@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Contacting Snapchat Assistance for Users
-date: 2024-08-12T04:02:36.260Z
-updated: 2024-08-13T04:02:36.260Z
+date: 2025-02-25T17:35:32.545Z
+updated: 2025-03-02T18:46:25.917Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate Guide to Contacting Snapchat Assistance for Users
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/stmM9TOh36-Bc0uOlFng5j-V3cE=/400x300/fi
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  What to Know
 
 * Select your**profile pic** in the app, open the**gear/settings** , then choose**I Need Help** \>**Contact Us** .
@@ -24,9 +21,6 @@ Close
 
  This article explains how to talk to Snapchat Support. While the company doesn't provide a customer service email address or phone number, there are a few ways to let them know you need help.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Email Snapchat Support 
 
  During the process of contacting Snapchat, you'll see self-help information. If that's not enough to help, they let you leave your phone number and email address for a support member to contact you.
@@ -45,14 +39,8 @@ Close
  This might not be shown for every issue, so you might not see it, depending on what you selected in the last step. This means it's not an appropriate issue for customer service to help you with.
 7. Fill out the form with your information. In most cases, you're asked for your username (if you know it), email address, phone number, and a description for customer support to read.
 8. Tap**Submit** to contact Snapchat.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Snapchat Support form in the Android app](https://www.lifewire.com/thmb/nCdort-yEJcF_WqskhDNgyBB-as=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snapchat-support-form-96d3a41840014086845e1f07c40cabed.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  Message Snapchat Support on X 
 
  Some companies, Snapchat included, let you message them on X (formerly Twitter). If you have an X account,[ visit @SnapchatSupport](https://twitter.com/snapchatsupport) and select the**message icon** to describe the problem.
@@ -61,16 +49,10 @@ Close
 
  The customer service rep might ask you for additional information, offer a suggested solution, or confirm that your message has been passed on to the Snapchat team.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  You Can Leave Feedback for Snapchat Too 
 
  If this is less of an issue and more of an idea or a suggestion you want to share, you can provide feedback to the company. From the list of settings in Step 3, select**I Have a Suggestion** , and then fill out the form with relevant information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ##  When Will Snapchat Support Reply? 
 
  Snapchat doesn't specify a timeframe for when you can expect to hear back from customer service. There's also no guarantee that you_will_ hear back. Unfortunately, all you can really do is sit tight and wait it out.
@@ -108,8 +90,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +97,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-add-captions-to-instagram-videos/"><u>[Updated] 2024 Approved How to Add Captions to Instagram Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-an-easy-way-to-amplify-your-instagram-presence-by-sharing-youtube-links-in-stories/"><u>[Updated] An Easy Way to Amplify Your Instagram Presence by Sharing YouTube Links in Stories</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-beyond-vimeo-a-compilation-of-premier-video-editors/"><u>2024 Approved Beyond Vimeo A Compilation of Premier Video Editors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-free-web-based-fax-solutions-available-today/"><u>Best Free Web-Based Fax Solutions Available Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-for-resolving-printing-issues-on-your-ipad/"><u>Easy Steps for Resolving Printing Issues on Your iPad</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-windows-pathways-to-filefolder-secrets/"><u>Expert Windows Pathways to File/Folder Secrets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/icloud-photo-management-how-to-selectively-erase-and-preserve-memories-locally/"><u>ICloud Photo Management: How to Selectively Erase and Preserve Memories Locally</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-lava-blaze-curve-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Lava Blaze Curve 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-issues-with-current-netflix-playback-errors/"><u>Solutions for Resolving Issues with Current Netflix Playback Errors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-color-grading-utilizing-luts-in-ae-for-2024/"><u>The Art of Color Grading Utilizing LUTs in AE for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ins-and-outs-of-tracking-text-message-read-receipts/"><u>The Ins and Outs of Tracking Text Message Read Receipts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-animated-top-10-software-for-2d-animation-enthusiasts/"><u>Updated Get Animated Top 10 Software for 2D Animation Enthusiasts</u></a></li>
+</ul></div>
 

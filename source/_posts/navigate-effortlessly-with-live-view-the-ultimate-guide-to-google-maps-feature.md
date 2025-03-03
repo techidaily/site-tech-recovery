@@ -1,7 +1,7 @@
 ---
 title: Navigate Effortlessly With Live View - The Ultimate Guide to Google Maps Feature
-date: 2024-08-12T04:05:56.275Z
-updated: 2024-08-13T04:05:56.275Z
+date: 2025-02-26T20:50:35.919Z
+updated: 2025-03-02T21:35:05.665Z
 categories:
   - BestProducts
 description: This Article Describes Navigate Effortlessly With Live View - The Ultimate Guide to Google Maps Feature
@@ -10,9 +10,6 @@ thumbnail: https://www.lifewire.com/thmb/ESpSACPfCBA4Zo7eo-0xJ_bvDyw=/400x300/fi
 ---
 
 ## Efficiently Navigate Google's Features with Gemini - Learn How
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### What to Know
 
 * Register or log in to Gemini with your Google account.
@@ -27,9 +24,6 @@ thumbnail: https://www.lifewire.com/thmb/ESpSACPfCBA4Zo7eo-0xJ_bvDyw=/400x300/fi
 
 [ChatGPT vs. Gemini: What's the Difference?](https://www.lifewire.com/chatgpt-vs-bard-7504876)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Sign Up for Google Gemini
 
  You can sign up on the web with your Google account or use the Android mobile app. Both methods are straightforward and offer a clean interface for interacting with Gemini.
@@ -40,18 +34,12 @@ thumbnail: https://www.lifewire.com/thmb/ESpSACPfCBA4Zo7eo-0xJ_bvDyw=/400x300/fi
 
  The web app is supported in most browsers, such as Chrome, Safari, Firefox, Opera, or Edge. Gemini supports 40 languages and is available in over 230 countries.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Using the Mobile Apps on Android and iOS
 
  Install the[Gemini mobile app](https://play.google.com/store/apps/details?id=com.google.android.apps.bard) from the Google Play store on Android. The Gemini app is available only in English in the U.S. You must have an Android phone with 2 GB of RAM or more, running Android 10 or newer. If you opt-in to use Gemini, it will replace your Google Assistant as the primary assistant on the phone.
 
  On an iOS device, Gemini is available via a tab within the[Google app.](https://apps.apple.com/us/app/google/id284815942)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Google Gemini in iOS](https://www.lifewire.com/thmb/9i8u4Mbuaiwb1oioPFtMAGMytEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Gemini-iOS-bf356a55a5cd4d01afecd0dc2f5b6da2.jpg)
 
 ## How Do I Use Gemini AI?
@@ -68,9 +56,6 @@ thumbnail: https://www.lifewire.com/thmb/ESpSACPfCBA4Zo7eo-0xJ_bvDyw=/400x300/fi
 6. You can ask Gemini to generate images with words like "draw," "generate," and "create."
 7. Select**New chat** on the sidebar to start a conversation on another topic with the chatbot.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip
 
  Google suggests several[tips for getting the best results with your prompts](https://support.google.com/a/users/answer/14200040?hl=en) . Download the free[Gemini for Workspace prompt guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html) if you use Google Workspace with other tools in the suite.
@@ -80,10 +65,6 @@ thumbnail: https://www.lifewire.com/thmb/ESpSACPfCBA4Zo7eo-0xJ_bvDyw=/400x300/fi
  You don't have to accept Gemini's original answer. The generative AI chatbot offers a few extra methods to change the style of the answer.  
 
 1. Select**Show drafts** and view two more versions of the result. You can choose**Regenerate drafts** to force Gemini to make another attempt at better answers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![The "Hide/Show drafts" and "Regenerate drafts" options in Google Gemini](https://www.lifewire.com/thmb/qA7gawJp3_oXG1w3DcDUr9ydFBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hide-drafts-and-regenerate-google-gemini-9cbbe551f2904f008b8c05bcf385caa5.jpg)
 2. Give Gemini's large language model some feedback by choosing the**Good response** or**Bad response** icons (the thumb icons).
 3. The**Modify response** filter pop-up helps you adjust the length, simplify the language, and change the tone of a response. Use this to tailor the answers for your intended audience or finetune them.  
@@ -99,23 +80,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  With Gemini's extensions, you can tap into Google's ecosystem of apps to cover a wider variety of everyday uses. Most extensions are on by default, but you may need to give Gemini permission to use them in your prompt.
 
 1. Go to**Settings** \>**Extensions** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Settings > Extensions options in Google Gemini](https://www.lifewire.com/thmb/pccAkIep3BpKkhVuV-2YYAWwlYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extensions-in-Google-Gemini-08e89dd23f4940048feb9db7f2cf1f17.jpg)
 2. Enable or disable your choice of extensions with the toggle switch.
 3. To automatically use any Google services as an extension, mention it in the prompt. Alternatively, enter @ and select the extension to allow Gemini to use a specific extension.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Tip
 
  Gemini is a handy way to summarize YouTube videos you don't want to watch till the end. Ask Gemini multiple questions to dig deeper into the video's content in half the time.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## More Tips for Using Gemini Effectively
 
  Here are a few more tips to make better use of Gemini.
@@ -146,8 +118,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +125,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-prime-meme-framework-essentials/"><u>[New] 2024 Approved Prime Meme Framework Essentials</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-optimizing-your-workflow-with-bandicams-screen-recorder-features/"><u>[New] In 2024, Optimizing Your Workflow with Bandicam’s Screen Recorder Features</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-smile-saver-essential-free-meme-templates/"><u>[New] Smile Saver Essential Free Meme Templates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-enthusiasts-beware-why-stick-with-your-current-device-instead-of-switching-to-the-new-iphone-ilfnz-tech-analysis/"><u>Apple Enthusiasts Beware! Why Stick with Your Current Device Instead of Switching to the New iPhone ˈiːlfɜnz - Tech Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/astm-standards-provide-guidelines-for-appropriate-hydrostatic-test-pressures-based-on-material-type-design-temperature-and-use-case/"><u>ASTM Standards Provide Guidelines for Appropriate Hydrostatic Test Pressures Based on Material Type, Design Temperature, and Use Case.</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-infinix-gt-10-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix GT 10 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expanding-horizinas-with-vlcs-versatile-conversion-capabilities/"><u>Expanding Horizinas with VLC's Versatile Conversion Capabilities</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-gt-5-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme GT 5 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-revisit-and-refine-your-past-editing-fbs-look-back-videos/"><u>In 2024, Revisit and Refine Your Past Editing FB's Look Back Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/kid-friendly-tablets-reviewed-and-endorsed-by-parents-featured-on-zdnet/"><u>Kid-Friendly Tablets Reviewed & Endorsed by Parents, Featured on ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-20-anker-power-bank-review-the-ultimate-solution-for-your-mobile-charging-woes-insights-from-zdnet/"><u>Top $20 Anker Power Bank Review: The Ultimate Solution for Your Mobile Charging Woes - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-waterproof-wearables-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Rated Waterproof Wearables - Comprehensive Analysis by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-cycling-experience-how-photochromatic-lenses-revolutionized-my-ride-techspot/"><u>Transforming Cycling Experience: How PhotoChromatic Lenses Revolutionized My Ride | TechSpot</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updating-your-amd-drivers-on-windows-10-11-and-7-a-comprehensive-guide/"><u>Updating Your AMD Drivers on Windows 10, 11 & 7: A Comprehensive Guide</u></a></li>
+</ul></div>
 

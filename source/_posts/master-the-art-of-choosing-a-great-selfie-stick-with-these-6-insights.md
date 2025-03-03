@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Choosing a Great Selfie Stick with These 6 Insights
-date: 2024-08-12T04:04:52.340Z
-updated: 2024-08-13T04:04:52.340Z
+date: 2025-02-27T21:57:44.596Z
+updated: 2025-03-02T23:42:44.737Z
 categories:
   - BestProducts
 description: This Article Describes Master the Art of Choosing a Great Selfie Stick with These 6 Insights
@@ -19,24 +19,10 @@ thumbnail: https://www.lifewire.com/thmb/10ycC9FDka1_yUpt4jgy86BR6mE=/300x200/fi
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
 
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 ## How to Create, Send, and Forward Email
@@ -57,9 +43,6 @@ thumbnail: https://www.lifewire.com/thmb/10ycC9FDka1_yUpt4jgy86BR6mE=/300x200/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -95,9 +78,6 @@ thumbnail: https://www.lifewire.com/thmb/10ycC9FDka1_yUpt4jgy86BR6mE=/300x200/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -120,18 +100,12 @@ thumbnail: https://www.lifewire.com/thmb/10ycC9FDka1_yUpt4jgy86BR6mE=/300x200/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
 
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 Was this page helpful?
@@ -154,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +135,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-exceptional-hd-video-documentation-gear/"><u>[New] Exceptional HD Video Documentation Gear</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-cheerful-footage-extractor-analysis/"><u>[Updated] 2024 Approved Cheerful Footage Extractor Analysis</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-building-brands-through-memes-for-2024/"><u>[Updated] Building Brands Through Memes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-approach-for-verifying-your-age-on-tiktok/"><u>[Updated] Step-by-Step Approach for Verifying Your Age on TikTok</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/affordable-iphone-14-max-unmatched-battery-endurance-and-more-features-that-make-it-a-favorite-insights/"><u>Affordable iPhone 14 Max: Unmatched Battery Endurance & More Features That Make It a Favorite - Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/documenting-the-fun-video-your-nintendo-switch-games/"><u>Documenting the Fun Video Your Nintendo Switch Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80004005-explained-a-deep-dive-into-correcting-unspecified-problems-successfully/"><u>Error 0X80004005 Explained: A Deep Dive Into Correcting Unspecified Problems Successfully</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-16-pro-vs-iphone-14-pro-deciding-if-its-time-for-an-upgrade-a-comprehensive-review/"><u>IPhone 16 Pro Vs. IPhone 14 Pro: Deciding If It's Time for an Upgrade – A Comprehensive Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/last-chance-score-amazing-savings-with-these-top-36-apple-deals-for-prime-day-shop-now-before-theyre-gone/"><u>Last Chance: Score Amazing Savings with These Top 36 Apple Deals for Prime Day – Shop Now Before They're Gone!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simplify-your-inbox-how-one-simple-tactic-can-clear-out-clutter-without-creating-new-accounts-or-strict-filters-learn-the-secrets/"><u>Simplify Your Inbox: How One Simple Tactic Can Clear Out Clutter Without Creating New Accounts or Strict Filters – Learn the Secrets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-to-icloud-transfer-apply-these-9-methods-now/"><u>Struggling with iPhone-to-iCloud Transfer? Apply These 9 Methods Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-essential-macos-applications-featuring-latest-picks-from-zdnet/"><u>Top 5 Essential macOS Applications - Featuring Latest Picks From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-affordable-headphones-for-march-2024-shop-smart-with-zdnet/"><u>Ultimate Guide to Affordable Headphones for March 2024 | Shop Smart with ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unbeatable-deal-discover-the-top-non-apple-non-anker-magsafe-wallet-now-on-sale-expert-review/"><u>Unbeatable Deal: Discover the Top Non-Apple, Non-Anker MagSafe Wallet Now On Sale – Expert Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncover-the-hidden-fees-of-free-phones-from-mobile-providers-insights-and-analysis/"><u>Uncover the Hidden Fees of 'Free' Phones From Mobile Providers - Insights and Analysis</u></a></li>
+</ul></div>
 

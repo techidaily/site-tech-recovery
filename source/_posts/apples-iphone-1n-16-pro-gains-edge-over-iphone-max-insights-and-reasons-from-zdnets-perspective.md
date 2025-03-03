@@ -1,7 +1,7 @@
 ---
 title: "Apple’s iPhone 1N 16 Pro Gains Edge over iPhone Max : Insights and Reasons From ZDNet's Perspective"
-date: 2025-02-10T05:15:20.159Z
-updated: 2025-02-12T00:13:43.003Z
+date: 2025-03-01T23:55:23.398Z
+updated: 2025-03-03T04:41:08.524Z
 tags:
   - apple
 categories:
@@ -28,19 +28,11 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -94,10 +82,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Apple Intelligence will likely evolve
 
 Apple's AI capabilities are expected to improve significantly in the coming years. By 2025, we may see more advanced and dependable integration of Apple Intelligence not only in mobile devices and Macs, but also in products like the Apple Watch, HomePod, Apple TV, and a [consumer-oriented version of the Vision headset](https://www.zdnet.com/article/to-rescue-the-vision-pro-apple-must-do-these-3-things/).
@@ -113,10 +97,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -158,22 +138,24 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-enhancing-visual-storytelling-with-impeccable-voice-over/"><u>[New] In 2024, Enhancing Visual Storytelling with Impeccable Voice Over</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/awesome-free-apps-to-transform-your-mobile-images-for-2024/"><u>Awesome FREE Apps to Transform Your Mobile Images for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/clearing-the-cmos-a-comprehensive-tutorial-for-reinitializing-system-bios/"><u>Clearing the CMOS: A Comprehensive Tutorial for Reinitializing System BIOS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/cross-play-compatibility-can-your-favorite-ps4-games-work-on-ps5/"><u>Cross-Play Compatibility: Can Your Favorite PS4 Games Work On PS5?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-our-picks-the-5-most-popular-free-worldwide-calls-services/"><u>Explore Our Picks: The 5 Most Popular Free Worldwide Calls Services</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-serial-killers-to-unsolved-mysteries-a-selection-of-the-13-best-podcasts/"><u>From Serial Killers to Unsolved Mysteries: A Selection of the 13 Best Podcasts</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-clarify-your-fb-images-a-step-by-step-approach/"><u>How to Clarify Your Fb Images: A Step-by-Step Approach</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 8 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722846783500-mastering-frugality-with-our-top-pick-of-6-coupon-websites-for-maximum-savings/"><u>Mastering Frugality with Our Top Pick of 6 Coupon Websites for Maximum Savings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-data-loss-a-complete-review-of-recuvas-superior-file-recovery-features-explored/"><u>Navigating Data Loss? A Complete Review of Recuva's Superior File Recovery Features Explored</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-do-you-have-a-gopro-and-would-like-to-manage-or-edit-your-videos-then-get-to-know-about-the-gopro-quik-macbook-application-and-its-best-al/"><u>New 2024 Approved Do You Have a GoPro and Would Like to Manage or Edit Your Videos? Then Get to Know About the GoPro Quik MacBook Application and Its Best Alternative Here</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-zlibdll-file-absence-effective-solutions-and-tips/"><u>Resolving zlib.dll File Absence: Effective Solutions and Tips</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/step-by-step-guide-transferring-mailboxes-from-an-edb-file-to-a-live-exchange-server/"><u>Step-by-Step Guide: Transferring Mailboxes From an EDB File to a Live Exchange Server</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-windows-updates-for-july-2024-navigating-the-latest-service-packs/"><u>Top Windows Updates for July 202#4: Navigating the Latest Service Packs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-windows-10-battery-status-tool-a-comprehensive-guide/"><u>Understanding the Windows 10 Battery Status Tool - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972016460-update-your-windows-pcs-logitech-hardware-in-a-flash-get-the-latest-drivers-today/"><u>Update Your Windows PC's Logitech Hardware in a Flash - Get the Latest Drivers Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximize-efficiency-on-mac-a-guide-to-leading-tts-applications/"><u>[New] Maximize Efficiency on Mac A Guide to Leading TTS Applications</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-20-free-public-domain-pubg-screenshot-slideshows/"><u>[New] Top 20 Free Public Domain PUBG Screenshot Slideshows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-operational-handling-of-srt-in-oses/"><u>2024 Approved Operational Handling of SRT in OSes</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-the-ultimate-guide-for-pc-based-tiktok-livestreams/"><u>2024 Approved The Ultimate Guide for PC-Based TikTok Livestreams</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/crafting-your-ideal-summer-edc-a-guide-to-the-top-7-items/"><u>Crafting Your Ideal Summer EDC: A Guide to the Top 7 Items</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-resolve-the-stop-0x0000007b-blue-screen-of-death-issues/"><u>Effective Solutions to Resolve the STOP 0X0000007B Blue Screen of Death Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminate-the-d3dx930dll-not-found-issue-with-easy-steps/"><u>Eliminate the 'd3dx9_30.dll Not Found' Issue with Easy Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-repairing-your-broken-samsung-soundbar-for-optimal-performance/"><u>Expert Advice on Repairing Your Broken Samsung Soundbar for Optimal Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-techniques-for-linking-up-a-subwoofer-with-your-samsung-soundbar-audio-unit/"><u>Expert Techniques for Linking Up a Subwoofer with Your Samsung Soundbar Audio Unit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722898816642-faster-net-at-home-troubleshooting-techniques-for-quick-fixes/"><u>Faster Net at Home? Troubleshooting Techniques for Quick Fixes!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-google-pixel-8-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Google Pixel 8 Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-windows-11-black-screen-issues/"><u>How to Fix Windows 11 Black Screen Issues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-8-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-amd-radeon-r9-graphics-driver-in-windows-10/"><u>How to Update AMD Radeon R9 Graphics Driver in Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-s23plus-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Samsung Galaxy S23+ via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/innovative-techniques-for-building-and-customizing-your-own-universal-remote-device/"><u>Innovative Techniques for Building & Customizing Your Own Universal Remote Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/lifewire-fuhrt-sie-durch-15-kostenlose-online-ki-kurse-zum-selbststudium/"><u>Lifewire Führt Sie Durch 15 Kostenlose Online-KI-Kurse Zum Selbststudium</u></a></li>
 </ul></div>
 

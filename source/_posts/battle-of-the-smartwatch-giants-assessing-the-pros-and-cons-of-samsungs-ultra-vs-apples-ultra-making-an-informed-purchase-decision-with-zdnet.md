@@ -1,7 +1,7 @@
 ---
 title: "Battle of the Smartwatch Giants: Assessing the Pros and Cons of Samsung's Ultra Vs. Apple's Ultra – Making an Informed Purchase Decision with ZDNET"
-date: 2025-02-09T05:26:12.008Z
-updated: 2025-02-11T17:31:47.468Z
+date: 2025-02-27T20:56:32.699Z
+updated: 2025-03-02T16:17:37.921Z
 tags:
   - apple
 categories:
@@ -20,10 +20,6 @@ Matthew Miller/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's the deal?
 
 * The [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CSVJ7BRX%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C84f8b474-99e4-4ffb-b335-9a0059da90cd%7Cdtp&dtb=1) is on sale ahead of Labor Day for $699 on Amazon for the Blue Alpine Loop, Gray Trail Loop, and Orange Ocean Band configurations.
@@ -31,10 +27,6 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -96,10 +88,6 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C84f8b474-99e4-4ffb-b335-9a0059da90cd%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -109,10 +97,6 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C84f8b474-99e4-4ffb-b335-9a0059da90cd%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -148,18 +132,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-xbox-game-memories-save-them-with-screenshots/"><u>[Updated] Xbox Game Memories, Save Them with Screenshots</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-boost-engagement-through-best-thumbnail-practices/"><u>2024 Approved Boost Engagement Through Best Thumbnail Practices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-gt-10-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix GT 10 Pro Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/come-facilmente-fare-il-backup-dei-tuoi-messaggi-di-posta-hotmail-strategie-prove-e-sicure/"><u>Come Facilmente Fare Il Backup Dei Tuoi Messaggi Di Posta Hotmail: Strategie Prove E Sicure</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-dealing-with-msidll-not-found-and-missing-msidll-issues/"><u>Comprehensive Fixes: Dealing with 'msi.dll Not Found' And 'Missing msi.dll' Issues</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-iphone-13-mini-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On iPhone 13 mini? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-maximum-memory-accessory-for-sony-a7s-ii/"><u>In 2024, Maximum Memory Accessory for Sony A7S II</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pc-strategies-for-successfully-playing-pokemon-unite/"><u>PC Strategies for Successfully Playing Pokémon Unite</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-making-your-hidden-wi-fi-visible-again/"><u>Step-by-Step Guide: Making Your Hidden Wi-Fi Visible Again</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/strategies-for-effective-chatgpt-extensions-use/"><u>Strategies for Effective ChatGPT Extensions Use</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722903552020-x3daudiodll-disappeared-find-and-implement-reliable-solutions-now/"><u>x3daudio.dll Disappeared? Find and Implement Reliable Solutions Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-one-stop-destination-downloading-comprehensive-guides-for-every-iphones-version-and-model/"><u>Your One-Stop Destination: Downloading Comprehensive Guides for Every iPhones Version & Model</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-breakdown-easy-to-follow-steps-to-using-a-whiteboard-on-zoom-devices/"><u>[Updated] Breakdown Easy-to-Follow Steps to Using a Whiteboard on Zoom Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-delving-into-the-world-of-samsung-image-processor-2023-for-2024/"><u>[Updated] Delving Into the World of Samsung Image Processor, 2023 for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716070183922-updated-in-2024-capture-every-moment-on-mac-free/"><u>[Updated] In 2024, Capture Every Moment on Mac, FREE!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unleashing-creativity-crafting-compelling-fb-video-campaigns/"><u>2024 Approved Unleashing Creativity Crafting Compelling FB Video Campaigns</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-your-wma-files-to-ogg-format-for-free-on-movavi-web-site/"><u>Convert Your WMA Files to Ogg Format for Free on Movavi Web Site</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-home-theater-explore-hitachis-new-range-of-ultra-hd-tvs-with-direct-roku-connectivity/"><u>Elevate Your Home Theater: Explore Hitachi's New Range of Ultra HD TVs with Direct Roku Connectivity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-taking-down-text-overlays-on-amazon-prime-movies-and-shows/"><u>Guide: Taking Down Text Overlays on Amazon Prime Movies and Shows</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/pemilihanku-best-softwares-untuk-mengalihubungkan-file-di-komputer-anda-download-gratis/"><u>Pemilihanku Best Softwares Untuk Mengalihubungkan File Di Komputer Anda - Download GRATIS!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hing-resilience-for-online-criticism-for-2024/"><u>Polishing Resilience for Online Criticism for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-playstation-5-slim-all-you-need-to-know-about-price-release-and-features/"><u>The PlayStation 5 Slim: All You Need to Know About Price, Release, and Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-locating-and-using-car-radio-passwords-for-enhanced-security/"><u>The Ultimate Guide to Locating and Using Car Radio Passwords for Enhanced Security</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-solving-your-surface-pros-wi-fi-connection-issues/"><u>Troubleshooting Steps: Solving Your Surface Pro's Wi-Fi Connection Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-resolving-there-was-a-problem-resetting-on-windows/"><u>Troubleshooting: Resolving 'There Was a Problem Resetting' On Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-mysteries-a-deep-dive-into-whos-listening-when-you-speak-online/"><u>Unveiling the Mysteries: A Deep Dive Into Who's Listening When You Speak Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Artifical Intelligence in Apple Devices: Comprehensive Insight on Upcoming AI Features for iPhones, Macs & iPads | ZDNET Exclusive"
-date: 2025-02-08T07:03:02.855Z
-updated: 2025-02-12T08:05:00.449Z
+date: 2025-02-23T16:55:29.732Z
+updated: 2025-03-03T01:14:05.975Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
 
@@ -58,10 +54,6 @@ Some of the biggest AI features from Apple Intelligence include:
 Aside from these AI features, iOS 18 will include new customizable icons and interface updates for Control Center, Settings, and Messages. Apple is also launching a new [Passwords app](https://www.zdnet.com/article/apple-to-unveil-password-manager-app-at-wwdc-2024-what-it-is-and-how-it-works/) to replace the iCloud Keychain and give users a more user-friendly option, similar to 1Password and LastPass.
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
 
@@ -115,10 +107,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -147,10 +135,6 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is Apple Intelligence actually private and secure?
 
 Apple
@@ -165,10 +149,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,16 +190,19 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-and-interpreting-twitter-archives-for-2024/"><u>[New] Navigating and Interpreting Twitter Archives for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-effective-techniques-for-pc-audio-and-mic-capture/"><u>2024 Approved Effective Techniques for PC Audio & Mic Capture</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-peeking-at-public-posts-on-instagram-without-registering/"><u>A Beginner's Guide to Peeking at Public Posts on Instagram without Registering</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/connect-pinterest-and-boost-your-facebook-pages-visibility-a-how-to-guide/"><u>Connect Pinterest and Boost Your Facebook Page's Visibility - A How-To Guide</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/convert-mov-to-flv-for-free-using-our-online-service-movieflux/"><u>Convert MOV to FLV for Free Using Our Online Service - MovieFlux</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/defend-your-computer-15-recommended-free-bootable-malware-defense-programs/"><u>Defend Your Computer: 15 Recommended Free Bootable Malware Defense Programs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 6 Plus</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-tecno-pova-6-pro-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Tecno Pova 6 Pro 5G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/julys-hot-list-trending-programs-to-binge-on-discoveryplus-now/"><u>July's Hot List: Trending Programs to Binge on Discovery+ Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-hunt-the-best-10-websites-to-assist-in-your-apartment-quest/"><u>Mastering the Hunt: The Best 10 Websites to Assist in Your Apartment Quest</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/reviving-your-home-theater-experience-a-complete-guide-to-resetting-samsung-soundbars/"><u>Reviving Your Home Theater Experience: A Complete Guide to Resetting Samsung Soundbars</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-comparative-content-crusade-analyzing-your-videos-against-others-for-2024/"><u>[Updated] Comparative Content Crusade Analyzing Your Videos Against Others' For 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-complete-action-camera-buying-guide-for-beginners-2023-update/"><u>2024 Approved Complete Action Camera Buying Guide For Beginners -2023 Update</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-quick-start-to-clear-background-filming/"><u>2024 Approved Quick Start to Clear Background Filming</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728478833576-windows-10c/"><u>如何在Windows 10上轻松迁移c:驱动器下的程序到新位置，提示你四个简便方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-anywhere-watch-anyplace-setting-up-remote-playback-on-your-samsung-smart-television/"><u>Connect Anywhere, Watch Anyplace: Setting Up Remote Playback on Your Samsung Smart Television</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1648027-9781476735498-harness-astrologys-bad-boy/"><u>Harness Astrology's Bad Boy | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-watch-the-harry-potter-movies-in-order/"><u>How to Watch the Harry Potter Movies in Order</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sound-syncing-simplified-for-inshot-edits/"><u>In 2024, Sound Syncing Simplified for InShot Edits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-evaluation-of-the-latest-apple-4k-streaming-box/"><u>In-Depth Evaluation of the Latest Apple 4K Streaming Box</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/one-step-fix-for-your-magic-mouse-tracking-glitches/"><u>One-Step Fix For Your Magic Mouse Tracking Glitches</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-power-problems-a-users-manual-for-playstation-5-controller-recharging/"><u>Overcoming Power Problems: A User's Manual for PlayStation 5 Controller Recharging</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-dell-printer-offline-error-on-windows-7/"><u>Resolved Dell Printer Offline Error on Windows 7</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/scaling-up-your-income-with-instagram-mastery/"><u>Scaling Up Your Income with Instagram Mastery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-retrieving-sent-messages-from-your-inbox-in-microsoft-outlook/"><u>Step-by-Step Guide: Retrieving Sent Messages From Your Inbox in Microsoft Outlook</u></a></li>
 </ul></div>
 

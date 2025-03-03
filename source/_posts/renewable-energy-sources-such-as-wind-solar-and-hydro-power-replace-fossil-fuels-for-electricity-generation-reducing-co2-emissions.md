@@ -1,7 +1,7 @@
 ---
 title: Renewable Energy Sources Such as Wind, Solar, and Hydro Power Replace Fossil Fuels for Electricity Generation, Reducing CO2 Emissions.
-date: 2025-02-09T03:54:44.845Z
-updated: 2025-02-11T18:35:09.585Z
+date: 2025-02-28T04:19:23.868Z
+updated: 2025-03-02T17:58:20.816Z
 tags:
   - apple
 categories:
@@ -24,19 +24,11 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### SPECIAL FEATURE
 
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -63,10 +55,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
 
@@ -108,10 +96,6 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2017: The start of the AI/ML smartphone era
 
 It's difficult to nail down exactly when machine learning found its way into smartphones, but a good case can be made for 2017\. That year, [Google released the Pixel 2](https://blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/), which got a portrait mode that blurred backgrounds, and improved processing for HDR images.
@@ -137,10 +121,6 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 "But the conversation has moved to the different ways cameras like the iPhone can be used," he continued. "I think AI and machine learning features -- like the iPhone 15's scene, skin and sky segmentation and detection, periscope zoom lens, and Portrait Mode -- have opened up the possibilities of how smartphones can be used by everyone."
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Image quality
 
@@ -254,24 +234,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-discover-the-serenade-iphone-and-its-symphony-of-podcasts/"><u>[New] 2024 Approved Discover the Serenade IPhone and Its Symphony of Podcasts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-e-identity-enhancement-drawing-your-playful-iconography/"><u>[New] 2024 Approved E-Identity Enhancement Drawing Your Playful Iconography</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-inshot-showdown-expert-review-of-best-editing-software/"><u>[Updated] In 2024, InShot Showdown Expert Review of Best Editing Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-video-file-processing-movs-in-windows-11-edition/"><u>[Updated] Mastering Video File Processing MOVs in Windows 11 Edition</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-srt-decoding-for-windows-and-mac-users/"><u>[Updated] SRT Decoding for Windows & Mac Users</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-avi-video-conversion-software-ranked-effortlessly-change-your-videos/"><u>Best AVI Video Conversion Software Ranked - Effortlessly Change Your Videos!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-innovation-of-dts-play-fi-in-modern-home-entertainment-systems/"><u>Decoding the Innovation of DTS Play-Fi in Modern Home Entertainment Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-downloading-and-managing-apps-on-your-samsung-smart-television/"><u>Guide: Downloading and Managing Apps on Your Samsung Smart Television</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-narzo-60x-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme Narzo 60x 5G Phone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-pick-the-best-gaming-pc-important-criteria-every-player-should-check/"><u>How to Pick the Best Gaming PC: Important Criteria Every Player Should Check</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-simplify-tech-transitions-smartphone-vr-integration-guide/"><u>In 2024, Simplify Tech Transitions Smartphone-VR Integration Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/insight-into-facebook-understanding-its-beginnings-appeal-factors-and-core-components/"><u>Insight Into Facebook: Understanding Its Beginnings, Appeal Factors, and Core Components</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/mastering-image-management-utilizing-aomei-image-deploy-for-secure-boot-procedures/"><u>Mastering Image Management: Utilizing AOMEI Image Deploy for Secure Boot Procedures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-picture-in-picture-mode-on-android-devices/"><u>Mastering the Art of Picture-in-Picture Mode on Android Devices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-factory-resetting-your-dell-computer/"><u>Step-by-Step Guide: Factory Resetting Your Dell Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-best-gaming-consoles-of-2024/"><u>The Best Gaming Consoles of 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-steps-to-achieve-official-verification-badge-on-instagram/"><u>Ultimate Guide: Steps to Achieve Official Verification Badge on Instagram</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-secured-login-information-tips-for-finding-mac-passwords/"><u>Unlocking Secured Login Information: Tips for Finding Mac Passwords</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-blueprinting-breathtaking-cinematic-sketches/"><u>[New] In 2024, Blueprinting Breathtaking Cinematic Sketches</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-complete-guide-to-record-google-meet-for-free-as-hostpaticipants/"><u>[Updated] 2024 Approved Complete Guide to Record Google Meet for Free [As Host/Paticipants]</u></a></li>
+<li><a href="https://win-net.techidaily.com/dokter-wegomschrijvingen-voor-het-maken-van-bureaubladepictogrammen-op-windows-10-en-11/"><u>Dokter: Wegomschrijvingen Voor Het Maken Van Bureaubladepictogrammen Op Windows 10 en 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-facil-de-reducir-el-tiempo-conversion-de-videos-en-tu-iphone-en-solo-cinco-pasos/"><u>Guía Fácil De Reducir El Tiempo: Conversión De Vídeos en Tu iPhone en Solo Cinco Pasos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enable-tv-watching-on-your-laptop-or-tablet-through-mobile-internet-with-amazon-firestick/"><u>How to Enable TV Watching on Your Laptop or Tablet Through Mobile Internet with Amazon Firestick</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-views-to-interactions-a-telegram-strategy-guide/"><u>In 2024, Transforming Views to Interactions A Telegram Strategy Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-now-windows-compatible-drivers-for-your-realtek-8188ee-wireless-network-adapter/"><u>Install Now: Windows-Compatible Drivers for Your Realtek 8188EE Wireless Network Adapter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-issue-what-to-do-when-you-encounter-binkw32dll-not-found-mistake/"><u>Resolving the Issue: What To Do When You Encounter binkw32.dll Not Found Mistake</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smilesphere-explore-limitless-meme-landscapes/"><u>SmileSphere Explore Limitless Meme Landscapes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-walkthrough-to-leveraging-google-gemini-tools/"><u>The Ultimate Walkthrough to Leveraging Google Gemini Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-zero-cost-antivirus-scanners-to-protect-your-computer/"><u>Top 5 Zero-Cost Antivirus Scanners to Protect Your Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-apple-watch-display/"><u>Troubleshooting Guide: How to Fix a Non-Responsive Apple Watch Display</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turning-off-auditory-assistance-on-your-samsung-flat-screen-tv/"><u>Turning Off Auditory Assistance on Your Samsung Flat Screen TV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wi-fi-password-retrieval-in-windows-11-easy-tricks-to-reveal-hidden-codes/"><u>Wi-Fi Password Retrieval in Windows 11: Easy Tricks to Reveal Hidden Codes</u></a></li>
 </ul></div>
 

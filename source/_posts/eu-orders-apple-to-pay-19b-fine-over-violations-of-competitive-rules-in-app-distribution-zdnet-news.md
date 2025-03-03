@@ -1,7 +1,7 @@
 ---
 title: EU Orders Apple to Pay €1.9B Fine Over Violations of Competitive Rules in App Distribution | ZDNET News
-date: 2025-02-08T23:02:03.712Z
-updated: 2025-02-12T07:49:30.693Z
+date: 2025-02-28T21:02:31.463Z
+updated: 2025-03-02T16:46:08.810Z
 tags:
   - apple
 categories:
@@ -85,20 +85,21 @@ This fine is another notch in the EU's belt to level European competition among 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-exclusive-discounts-on-economical-gopro-cameras-for-2024/"><u>[New] Exclusive Discounts on Economical GoPro Cameras for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-master-meetings-the-ultimate-list-of-10-free-recorders/"><u>[New] In 2024, Master Meetings The Ultimate List of 10 Free Recorders</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-master-the-art-of-audible-social-media-posts-without/"><u>[Updated] Master the Art of Audible Social Media Posts (Without)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-freeframe-studio-gameplay-capture-made-simple-in-24/"><u>2024 Approved FreeFrame Studio Gameplay Capture Made Simple in '24</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-spark-10c-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Spark 10C</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simplifying-multitasking-with-androids-picture-in-picture-functionality/"><u>Simplifying Multitasking with Android's Picture-in-Picture Functionality</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-effective-solutions-for-non-functioning-samsung-soundbars/"><u>Solving Common Issues: Effective Solutions for Non-Functioning Samsung Soundbars</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-turning-off-closed-captions-on-amazon-prime-for-better-viewing/"><u>Step by Step: Turning Off Closed Captions on Amazon Prime for Better Viewing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/top-rated-apps-for-instagrams-vertical-igtv-content-enhancement/"><u>Top-Rated Apps for Instagram's Vertical IGTV Content Enhancement</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-missing-d3dx925dll-error-effective-strategies-and-tips/"><u>Troubleshooting Missing d3dx9_25.dll Error: Effective Strategies and Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-capturing-images-with-your-computer-screen/"><u>Ultimate Guide: Capturing Images with Your Computer Screen</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-exploring-the-power-of-visual-effects-in-editing-for-2024/"><u>[New] Exploring the Power of Visual Effects in Editing for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-over-20-unique-collages-for-brightening-spaces-for-2024/"><u>[New] Over 20 Unique Collages for Brightening Spaces for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-scheduling-zoom-on-android-a-step-by-step-approach/"><u>[Updated] Scheduling Zoom on Android A Step-by-Step Approach</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/capturing-perfect-moments-with-automatic-timer-features-on-an-iphone-camera/"><u>Capturing Perfect Moments with Automatic Timer Features on an iPhone Camera</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-troubleshooting-for-error-0x8024002e-during-windows-updates/"><u>Comprehensive Troubleshooting for Error 0X8024002e During Windows Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-ways-to-create-and-share-audio-memos-on-ios-devices/"><u>Easy Ways to Create and Share Audio Memos on iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-correct-gsdll32dll-not-found-or-missing-windows-errors/"><u>Effective Solutions to Correct 'gSdll32.dll Not Found or Missing' Windows Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-philosophers-stone-to-deathly-hallows-part-2-arranging-the-hogwarts-saga-on-screen/"><u>From Philosopher's Stone to Deathly Hallows Part 2: Arranging the Hogwarts Saga on Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-ace-2-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Ace 2 To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-the-ps5-worth-it-4-reasons-why-you-should-buy-one/"><u>Is the PS5 Worth It? 4 Reasons Why You Should Buy One</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smart-learning-solutions-unveiling-the-best-six-homework-supporting-applications/"><u>Smart Learning Solutions: Unveiling the Best Six Homework Supporting Applications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-android-phone-texting-problems-steps-to-restore-your-messages/"><u>Solving Android Phone Texting Problems: Steps to Restore Your Messages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-realms-rhythms-top-sites-ranked-for-game-of-thrones-audio-calls/"><u>The Realm's Rhythms Top Sites Ranked for Game of Thrones Audio Calls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-taking-screenshots-on-your-hp-laptop-with-ease/"><u>Ultimate Guide: Taking Screenshots on Your HP Laptop with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-audio-test-failure-immediate-action-plan/"><u>Windows Audio Test Failure: Immediate Action Plan</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 

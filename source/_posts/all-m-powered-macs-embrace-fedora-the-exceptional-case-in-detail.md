@@ -1,7 +1,7 @@
 ---
 title: "All M-Powered Macs Embrace Fedora: The Exceptional Case in Detail"
-date: 2025-02-04T21:51:29.959Z
-updated: 2025-02-11T16:36:47.249Z
+date: 2025-03-01T16:48:40.391Z
+updated: 2025-03-02T20:42:21.475Z
 tags:
   - apple
 categories:
@@ -19,10 +19,6 @@ Matthew Miller/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
 
@@ -83,10 +79,6 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  ZDNET's buying advice
 
 The original iPhone launched when there were still phones with physical QWERTY keyboards, and now thanks to Clicks we are coming full circle with some well-designed analog functionality. Lots of lessons have been learned in the process, and the folks at Clicks truly brought their expertise and attention to detail with the design and build of the [Clicks Keyboard](https://www.clicks.tech/products/clicks-for-iphone-15?variant=48427566793019). It is now an essential accessory for me, and I continue to figure out ways to make it better on a regular basis.
@@ -123,17 +115,22 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-highlighting-top-facebook-video-tools/"><u>[New] Highlighting Top Facebook Video Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-essential-techniques-for-funimate-video-extraction/"><u>[Updated] 2024 Approved Essential Techniques for Funimate Video Extraction</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-start-live-webcam-recording-with-vlc-media/"><u>[Updated] In 2024, Start Live Webcam Recording with VLC Media</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-quest-for-freedom-guide-to-affordable-mmo-games/"><u>[Updated] Quest for Freedom Guide to Affordable MMO Games</u></a></li>
-<li><a href="https://win-blog.techidaily.com/destiny-2s-beyond-light-pc-gameplay-issues-resolved-updated-fixes/"><u>Destiny 2'S Beyond Light PC Gameplay Issues Resolved - Updated Fixes!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722885517463-expected-features-price-range-and-arrival-date-for-the-next-gen-samsung-galaxy-s25-ultra-the-buzz-continues/"><u>Expected Features, Price Range, and Arrival Date for the Next-Gen Samsung Galaxy S25 Ultra – The Buzz Continues!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-reviews-the-leading-wi-fi-extenders-on-the-market-this-year/"><u>Expert Reviews: The Leading Wi-Fi Extenders on the Market This Year</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-hp-officejet-pro-8740-software-for-pcs-running-on-win11win10win8/"><u>Get Your HP Officejet Pro 8740 Software for PCs Running on Win11/Win10/Win8</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gmail-setup-made-simple-a-users-manual-to-connect-with-your-apple-watch/"><u>Gmail Setup Made Simple: A User's Manual to Connect with Your Apple Watch</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-magic-5-lite-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor Magic 5 Lite FRP</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-integrating-programming-scripts-into-microsoft-word-files/"><u>Mastering the Art of Integrating Programming Scripts Into Microsoft Word Files</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-messaging-how-to-connect-without-facebook/"><u>Navigating the World of Messaging: How to Connect without Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-precision-in-capturing-an-expert-obs-skype-guide/"><u>[New] 2024 Approved Precision in Capturing An Expert OBS Skype Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-hdr-advantages-in-video-workflow-over-traditional-sdr/"><u>[New] HDR Advantages in Video Workflow Over Traditional SDR</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-free-youtube-outro-kings-6-top-suggestions/"><u>[Updated] 2024 Approved Free YouTube Outro Kings 6 TOP Suggestions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-craft-engaging-streams-for-success-the-ultimate-youtube-broadcast-blueprint-using-wirecast-for-2024/"><u>[Updated] Craft Engaging Streams for Success The Ultimate Youtube Broadcast Blueprint Using WireCast for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-access-pass-to-mens-ncaa-showdowns-march-madness-and-final-four-broadcast-extravaganza/"><u>All-Access Pass to Men’s NCAA Showdowns: March Madness and Final Four Broadcast Extravaganza!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-barriers-editing-your-win11-fax-pages-with-ease/"><u>Breaking Down Barriers: Editing Your Win11 Fax Pages with Ease</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-amd-radeon-r9-graphics-cards-drivers-on-windows/"><u>Download & Install AMD Radeon R9 Graphics Cards Drivers on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-advanced-wifi-standards-from-80211a-to-the-latest-80211ax/"><u>Exploring Advanced WiFi Standards: From 802.11A to the Latest 802.11Ax</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-every-aspect-of-netflixs-online-viewing-experience/"><u>Exploring Every Aspect of Netflix's Online Viewing Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/handy-fixes-getting-your-speaker-system-working-again/"><u>Handy Fixes: Getting Your Speaker System Working Again</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-13-5-ways-to-get-into-a-locked-iphone-13-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 13? 5 Ways to get into a Locked iPhone 13</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-honor-magic-6-lite-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Honor Magic 6 Lite Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-facebooks-photo-database-with-ease-and-effectiveness/"><u>Navigating Facebook's Photo Database with Ease and Effectiveness</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-security-alert-deceptive-chatgpt-extension-compromises-facebook-sign-ins/"><u>Online Security Alert: Deceptive ChatGPT Extension Compromises Facebook Sign-Ins!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-mac-issues-navigating-macos-startup-recovery-options/"><u>Quick Fixes for Mac Issues: Navigating macOS Startup Recovery Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unleashing-fun-discover-the-top-6-must-play-super-mario-rpgs-for-desktop-gaming/"><u>Unleashing Fun: Discover the Top 6 Must-Play Super Mario RPGs for Desktop Gaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-legacy-of-aim-what-was-aols-trailblazing-chat-application-all-about/"><u>Unveiling the Legacy of AIM: What Was AOL's Trailblazing Chat Application All About?</u></a></li>
 </ul></div>
 

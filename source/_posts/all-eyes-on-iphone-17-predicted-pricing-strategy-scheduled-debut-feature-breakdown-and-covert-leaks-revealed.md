@@ -1,7 +1,7 @@
 ---
 title: "All Eyes on iPhone 17: Predicted Pricing Strategy, Scheduled Debut, Feature Breakdown, and Covert Leaks Revealed"
-date: 2024-08-12T03:53:23.821Z
-updated: 2024-08-13T03:53:23.821Z
+date: 2025-02-24T21:04:56.732Z
+updated: 2025-03-02T20:48:54.080Z
 categories:
   - BestProducts
 description: "This Article Describes All Eyes on iPhone 17: Predicted Pricing Strategy, Scheduled Debut, Feature Breakdown, and Covert Leaks Revealed"
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/f26f632ded9a775a2cb222368880c548c2427581f
 
  The iPhone 17 is the 2025 model of the iPhone, the successor to the not-yet-released[iPhone 16](https://www.lifewire.com/iphone-16-news-and-rumors-7111749) . It's expected to deliver a major screen upgrade, higher-resolution cameras, faster processors, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## When Will iPhone 17 Be Released?
 
  The iPhone 17 release date has not been announced, but it's likely to be in Fall 2025\. Apple is very consistent with its[iPhone release dates](https://www.lifewire.com/when-does-new-iphone-come-out-1999740) :
@@ -54,9 +51,6 @@ A September 2025 release date seems like a lock.
 
  The iPhone 17 will go up for pre-order once Apple makes it official. Check back here for info once it's available.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## iPhone 17 Specs & Features
 
  The iPhone 17 is rumored to introduce some major upgrades to its screen, big improvements to the cameras, faster processors, and more. Here's a summary of what's rumored:
@@ -80,18 +74,6 @@ A September 2025 release date seems like a lock.
 
  Lastly,[MacRumors shares a Chinese report](https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/) that the iPhone 17 screen will use a new, "super-hard anti-reflective layer" to prevent scratches and screen damage, replacing the current ceramic shield technology.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Face ID
 
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
@@ -102,10 +84,6 @@ A September 2025 release date seems like a lock.
 
  Beyond that,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 will include an Apple-designed Wi-Fi chip that supports[Wi-Fi 7](https://www.lifewire.com/what-is-wi-fi-7-6950913) , allowing the phone to use the 2.4Ghz, 5Ghz, and 6Ghz Wi-Fi bands at the same time.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Camera
 
  Rumors suggest at least three key improvements to the iPhone 17 series cameras.
@@ -122,16 +100,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  While not a widely reported rumor,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 may change its physical dimensions, becoming taller and skinnier, with a 19.6:9 aspect ratio (the aspect ratio of current iPhone is 16:9).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### AI
 
  While there are no specific rumors about the use of[AI](https://www.lifewire.com/artificial-intelligence-and-science-6386405) in the iPhone 17 yet, it's an absolute certainty that that model, and its version of the iOS, will feature lots of new AI tools. What they are depends on[what features debut with the iPhone 16/iOS 18 in 2024](https://www.lifewire.com/apple-is-using-ai-everywhere-7509132) , and how the rapidly changing AI field evolves, but count on some new artificial intelligence enhancements.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## The Latest News About iPhone 17
 
  We'll update this page regularly, as more news about the iPhone 17 becomes available. In the meantime, Lifewire has you covered for[smartphone news](https://www.lifewire.com/mobile-phones-4781509) and advice such as helping you decide[Which iPhone Should You Buy?](https://www.lifewire.com/pick-best-iphone-for-you-1999293)
@@ -146,14 +118,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 [Why a Dedicated iPhone Video Button Is a Great Idea](https://www.lifewire.com/dedicated-iphone-video-button-8546938)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +131,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-volume-control-soft-fades-within-logic-pro-environment/"><u>[New] Volume Control Soft Fades Within Logic Pro Environment</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-inviolate-disengagement-protocol-for-compact-youtube-clips/"><u>[Updated] 2024 Approved Inviolate Disengagement Protocol for Compact YouTube Clips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-duckduckgo-an-in-depth-look-at-its-safety-measures/"><u>Demystifying DuckDuckGo: An In-Depth Look at Its Safety Measures</u></a></li>
+<li><a href="https://win-webster.techidaily.com/dual-av-protection-can-you-operate-windows-defender-with-an-additional-antivirus-on-your-pc/"><u>Dual AV Protection: Can You Operate Windows Defender with an Additional Antivirus on Your PC?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-productivity-the-5-superior-android-auto-clickers-perfect-for-regular-phones/"><u>Enhance Productivity: The 5 Superior Android Auto-Clickers Perfect for Regular Phones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-handpicked-selection-of-top-maximilian-docu-films-for-a-thoughtful-july-2024-viewing-experience/"><u>Explore Our Handpicked Selection of Top Maximilian Docu-Films for a Thoughtful July 2024 Viewing Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-adjust-regional-preferences-on-your-apple-device/"><u>How To Adjust Regional Preferences On Your Apple Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-essence-of-pixiz-crafting-compelling-stills-to-video-transformations/"><u>In 2024, The Essence of Pixiz Crafting Compelling Stills-to-Video Transformations</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/love-in-full-view-discovering-youtube-and-vimeos-top-7-wedding-movies-for-2024/"><u>Love in Full View Discovering Youtube & Vimeo's Top 7 Wedding Movies for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-nonfunctional-windows-10-search-effective-strategies-and-tips/"><u>Resolving Nonfunctional Windows 10 Search: Effective Strategies and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-issues-encountered-in-bios-power-on-self-test-post-sequence/"><u>Solving Issues Encountered in BIOS Power-On Self Test (POST) Sequence</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-art-of-captioning-on-tiktok-5-essential-insights-for-enhanced-engagement/"><u>The Art of Captioning on TikTok 5 Essential Insights for Enhanced Engagement</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-ultimate-iphone-photography-playbook/"><u>The Ultimate iPhone Photography Playbook</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722879742784-top-9-free-online-preschool-games-engaging-educational-fun-for-kids/"><u>Top 9 Free Online Preschool Games: Engaging Educational Fun for Kids!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unsteady-visuals-a-manual-for-mending-disrupted-videos-on-budget/"><u>Unsteady Visuals: A Manual for Mending Disrupted Videos on Budget</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-xbox-virtual-reality-gear-launch-details-pricing-insights-and-tech-specifications-unveiled/"><u>Upcoming Xbox Virtual Reality Gear - Launch Details, Pricing Insights & Tech Specifications Unveiled</u></a></li>
+</ul></div>
 

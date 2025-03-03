@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots and Recording Video on iPhone - Tips From ZDNet"
-date: 2025-02-10T04:08:03.168Z
-updated: 2025-02-11T18:56:17.059Z
+date: 2025-02-25T16:05:58.513Z
+updated: 2025-03-02T18:29:22.439Z
 tags:
   - apple
 categories:
@@ -20,10 +20,6 @@ Whether you're trying to demonstrate a bug to a tech support rep or you're demon
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to screen record on any iPhone
 
 * **Materials needed:** Any iPhone running iOS 14.0 or later
@@ -40,10 +36,6 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -75,10 +67,6 @@ Your clock will look like this as long as Screen Recording is active.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 5: Record
 
 This is when you'll want to complete whatever task it is you wanted to screen record. Once you've finished recording your task, move on to the final step below.
@@ -86,10 +74,6 @@ This is when you'll want to complete whatever task it is you wanted to screen re
 This is the confirmation box that will appear when you stop your recording. 
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. End your recording
 
@@ -100,10 +84,6 @@ In both cases, the recording you just produced will immediately be saved to your
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
 
@@ -153,24 +133,20 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-eclectic-videoland-rating/"><u>[New] Eclectic Videoland Rating</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-ultimate-guide-to-the-best-and-secret-tiktok-emojis-for-2024/"><u>[New] The Ultimate Guide to the Best & Secret TikTok Emojis for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/humbnail-artistry-for-engaging-youtube-channels/"><u>[New] Thumbnail Artistry for Engaging YouTube Channels</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-crafting-instagram-reels-like-professionals-top-10-tools-for-2024/"><u>[Updated] Crafting Instagram Reels Like Professionals - Top 10 Tools for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-construct-your-own-home-made-google-cardboard-vr-device/"><u>2024 Approved How to Construct Your Own Home-Made Google Cardboard VR Device</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/beyond-imagination-exploring-ar-worlds-for-2024/"><u>Beyond Imagination Exploring AR Worlds for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-overview-of-apples-newest-gadget-the-series-8-watch-includes-launch-date-specifications-pricing-info-and-more/"><u>Comprehensive Overview of Apple's Newest Gadget - The Series 8 Watch Includes Launch Date, Specifications, Pricing Info and More!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnose-and-cure-computer-crashes-with-these-proven-tips-for-stop-code-0x000003d/"><u>Diagnose and Cure Computer Crashes with These Proven Tips for Stop Code 0X00000^3D</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-your-discord-experience-with-custom-bot-additions/"><u>Enhancing Your Discord Experience with Custom Bot Additions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-picks-the-ultimate-selection-of-gratis-malware-defense-tools-2024-edition/"><u>Expert Picks: The Ultimate Selection of Gratis Malware Defense Tools - 2024 Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-can-i-share-my-spotify-playlist-with-another-person-at-once/"><u>How Can I Share My Spotify Playlist With Another Person At Once?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-quickly-solve-missing-mscorwksdll-errors-on-your-computer-best-practices/"><u>How to Quickly Solve Missing mscorwks.dll Errors on Your Computer – Best Practices</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-windows-media-player-guide-to-cd-ripping-and-burning/"><u>In 2024, Windows Media Player Guide to CD Ripping and Burning</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solve-androids-parse-problems-a-guide-to-eight-crucial-corrections/"><u>Solve Android's Parse Problems: A Guide to Eight Crucial Corrections</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-accessing-facetime-on-your-windows-pc/"><u>Step-by-Step Guide to Accessing FaceTime on Your Windows PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-capturing-screenshots-on-your-hp-notebook-effortlessly/"><u>Ultimate Guide: Capturing Screenshots on Your HP Notebook Effortlessly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-selection-6-amazing-coupon-destinations-for-money-smart-shoppers/"><u>Ultimate Selection: 6 Amazing Coupon Destinations for Money-Smart Shoppers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-connect-through-the-cosmos-posting-panoramic-pictures-via-mobile-apps/"><u>[New] 2024 Approved Connect Through the Cosmos Posting Panoramic Pictures via Mobile Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-ingenious-strategies-for-selecting-trailer-soundtracks/"><u>[New] In 2024, Ingenious Strategies for Selecting Trailer Soundtracks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-your-footage-with-optimal-aspect-ratios/"><u>[Updated] Harmonizing Your Footage With Optimal Aspect Ratios</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-on-web-ping-techniques/"><u>A Step-by-Step Guide on Web Ping Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-one-fortnite-profile-the-ultimate-guide-to-account-consolidation/"><u>All About One Fortnite Profile: The Ultimate Guide to Account Consolidation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-googles-next-pixel-watch-edition-pricing-forecasts-and-rumored-tech-insights/"><u>All You Need to Know About Google's Next Pixel Watch Edition - Pricing Forecasts and Rumored Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-the-art-of-machine-made-dialogues-le-chat-vs-gpt-3/"><u>Analyzing the Art of Machine-Made Dialogues: Le Chat vs GPT-3</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-normalizdll-not-found-mishaps-on-your-computer/"><u>How to Recover From 'Normaliz.dll Not Found' Mishaps on Your Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-poco-c55-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Poco C55 to Another | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-the-ultimate-guide-to-pairing-airpods-with-your-desktop-os/"><u>New 2024 Approved The Ultimate Guide to Pairing AirPods with Your Desktop OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photo-mastery-top-8-web-based-creation-suite-for-2024/"><u>Photo Mastery Top 8 Web-Based Creation Suite for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-online-presence-a-detailed-guide-for-purging-cache-in-all-key-internet-browsers/"><u>Secure Your Online Presence: A Detailed Guide for Purging Cache in All Key Internet Browsers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-meta-quest-meta-quest-3-unveiling-the-release-schedule-pricing-insights-and-device-specifications/"><u>The Complete Guide to Meta Quest ([Meta Quest 3]): Unveiling the Release Schedule, Pricing Insights & Device Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-value-of-implementing-a-wi-fi-mesh-network-worth-the-cost/"><u>The Value of Implementing a Wi-Fi Mesh Network - Worth the Cost?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/webinar-recording-a-step-by-step-masterclass-guide/"><u>Webinar Recording A Step-by-Step Masterclass Guide</u></a></li>
 </ul></div>
 

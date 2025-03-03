@@ -1,7 +1,7 @@
 ---
 title: Protect Your Privacy Online with a New Password for Your Facebook Account
-date: 2024-08-12T04:01:10.547Z
-updated: 2024-08-13T04:01:10.547Z
+date: 2025-03-01T01:42:02.247Z
+updated: 2025-03-02T22:13:23.406Z
 categories:
   - BestProducts
 description: This Article Describes Protect Your Privacy Online with a New Password for Your Facebook Account
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/fC3FFuXgcwMfCYoozV0-LLkatYE=/400x300/fi
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  What to Know
 
 * Select**Settings & privacy** \>**Settings** \>**Accounts Center** \>**Password and security** \>**Change password** .
@@ -28,24 +25,12 @@ Close
  Follow these steps to change the password for Facebook from a desktop web browser. These directions also work for the mobile app, but the screenshots are of the Facebook website.
 
 1. Select your**profile picture** in the upper-right corner and then select**Settings & privacy** \>**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Facebook Settings & Privacy menu on the desktop website](https://www.lifewire.com/thmb/SMMvCbd25dbJLRM4YANnY9bLSc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-menu-27c5716e092f448dbc0c94f55639d65f.png)
 2. Select**Accounts Center** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Settings & Privacy options on the Facebook website](https://www.lifewire.com/thmb/Tq42kc5o7IIlwPV-GSqIGAojePE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-settings-and-privacy-80108829b2ef49bca3b00fb43b454834.png)
 3. Go to**Password and security** \>**Change password** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Facebook's Password and Security settings on the desktop website](https://www.lifewire.com/thmb/WWgqsfDlUYMSVGuQcZg2-zeM-ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/password-and-security-settings-facebook-5ad406bf54d145788b0c899ab2cbc0a4.png)
 4. If you see a prompt for selecting your account, choose the one that says**Facebook** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![The Change Password account selection prompt on the Facebook website](https://www.lifewire.com/thmb/Ts6nikTDl0R7JdQMJLNiftGh4jc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/change-password-facebook-e0eb58b15dcc49a883560e4e7c0f0dc2.png)
 5. Enter your current password in the first box, followed by the new password in the next two boxes.  
 ![Facebook's Change Password window with a password written in each text box](https://www.lifewire.com/thmb/CMkp4DHvJpria5CJ9e79zCMiH3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/change-facebook-password-1a80a23ace68437fb60467582b796428.png)  
@@ -59,16 +44,10 @@ Close
 1. [ Open the Facebook website](https://www.facebook.com/) or app and try to sign in. Enter your real phone number or email address, but then type any password you want.  
  You can still[ recover your Facebook password if you don't know your email or phone number](https://www.lifewire.com/recover-facebook-password-without-email-and-phone-number-4582257) .
 2. Select**Log In** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Facebook login page](https://www.lifewire.com/thmb/k3iTAKzTt7NG7jsJRN5K7Fq0A3c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-login-page-4be9a5fd053244959a1e87d0525e743b.png)
 3. Select**Forgot password?** at the bottom of the login screen (not the one in the red text).  
 ![The wrong password entered into the Facebook website](https://www.lifewire.com/thmb/lz-GSJl4UjMdDHlKn-7EWxl8i4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-wrong-password-7f9fd1a50af5490eb71128dd1b4a9dd8.png)
 4. Choose**Try another way** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![The password field on the Facebook website](https://www.lifewire.com/thmb/QmP3mcvtkyq88ygpIW_skXucLa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-login-prompt-d3707554b85a48eda076c3bf8256fad8.png)
 5. Pick one of the rest options. If you entered your email address in Step 2, you should see the**Send code via email** option. Choose that, then select**Continue** .  
 ![Facebook's Reset Your Password page](https://www.lifewire.com/thmb/7vzp0D7nPp5ryvJ3CwzLNw2HJQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-reset-password-058553fbc0474f32911d21ec4df04142.png)
@@ -76,18 +55,6 @@ Close
 ![A Facebook password recovery code from an email](https://www.lifewire.com/thmb/1b7MfOrMb9WA5vOmVl_ALCjmRLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-password-recovery-code-83cfcfa6208f48799e44b2c22e3fbdd8.png)  
 [  What to Do When Facebook Isn't Sending Security Codes ](https://www.lifewire.com/fix-facebook-security-codes-5649770)
 7. Enter the password reset code into the box and press**Continue** .  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A password reset code entered into Facebook ](https://www.lifewire.com/thmb/Lo_QxAB1YYOUQ5o2k-sU1Ra5P_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-enter-code-b67dab93ad6146e2a00547b3d5ca6afc.png)
 8. Enter a new Facebook password and then select**Continue** .  
 ![A new password chosen for Facebook](https://www.lifewire.com/thmb/25ewyh5FarwpWvKuHxT8ZeVfvaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/new-password-facebook-363d093c12864b648c77b4eb1e51a160.png)
@@ -116,8 +83,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +90,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-elevate-your-facebook-chronicles-with-gratuitous-upgrades/"><u>[New] 2024 Approved Elevate Your Facebook Chronicles with Gratuitous Upgrades</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/east-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>[New] Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-crafty-laughter-your-adobe-guide/"><u>[Updated] Crafty Laughter Your Adobe Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mobile-screening-guide-gogooglemeetrecorder-tips/"><u>[Updated] Mobile Screening Guide GoGoogleMeetRecorder Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-complete-tutorial-to-navigate-and-use-facebooks-image-search-feature/"><u>A Complete Tutorial to Navigate and Use Facebook's Image Search Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-guide-accessing-your-iphones-sim-tray-using-household-items/"><u>DIY Guide: Accessing Your iPhone's SIM Tray Using Household Items</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-narzo-60-pro-5g-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unveil-clarity-the-finest-10-online-editing-utilities-ranked/"><u>In 2024, Unveil Clarity The Finest 10 Online Editing Utilities Ranked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-tricks-to-snip-your-screen-a-comprehensive-guide-for-desktop-users/"><u>Quick Tricks to Snip Your Screen: A Comprehensive Guide for Desktop Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/redefining-public-sector-it-partnerships-what-microsofts-downtime-tells-us-about-big-tech-dependency-risks/"><u>Redefining Public Sector IT Partnerships: What Microsoft’s Downtime Tells Us About Big Tech Dependency Risks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-for-correcting-a-lost-jscriptdll-component-on-your-pc/"><u>Steps for Correcting a Lost JScript.dll Component on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-missing-link-understanding-why-you-cant-find-facebook-marketplace-on-your-device/"><u>The Missing Link: Understanding Why You Can't Find Facebook Marketplace on Your Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-srt-systems-for-2024/"><u>Unlocking the Secrets of SRT Systems for 2024</u></a></li>
+</ul></div>
 

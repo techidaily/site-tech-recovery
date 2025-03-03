@@ -1,7 +1,7 @@
 ---
 title: "The Trailblazing Google Pixel 9: Now Equipped with Satellite-Based Distress Messaging, Setting a Milestone in Android Phone Safety and Connectivity | ZDNET Insights"
-date: 2025-02-07T03:09:55.952Z
-updated: 2025-02-12T01:51:50.727Z
+date: 2025-02-24T00:46:20.219Z
+updated: 2025-03-02T20:45:28.907Z
 tags:
   - apple
 categories:
@@ -44,17 +44,9 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -64,29 +56,17 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -122,15 +102,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-ultimate-selection-of-8-stealth-downloads/"><u>[New] 2024 Approved Ultimate Selection of 8 Stealth Downloads</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-popular-imagery-origins-decoded/"><u>[New] Popular Imagery Origins Decoded</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-behind-the-scenes-mastering-4-techniques-of-xbox-capture/"><u>[Updated] In 2024, Behind the Scenes Mastering 4 Techniques of Xbox Capture</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/automating-your-viewing-on-facebook-a-step-by-step-guide/"><u>Automating Your Viewing on Facebook A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expert-tips-for-obs-and-facebook-integration/"><u>Expert Tips for OBS and Facebook Integration</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-gmail-synchronization-problems-efficiently/"><u>How to Resolve Gmail Synchronization Problems Efficiently</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-insights-on-fugeteks-high-end-stick-for-selfies-the-reliable-and-solid-ft-568-reviewed/"><u>In-Depth Insights on Fugetek's High-End Stick for Selfies - The Reliable and Solid FT-568 Reviewed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-ar-vr-mr-and-xr-unraveling-the-distinctions/"><u>Understanding AR, VR, MR & XR: Unraveling the Distinctions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-of-social-media-browse-instagram-anonymously/"><u>Unlock the Secrets of Social Media: Browse Instagram Anonymously</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-repair-inaccessible-facebook-playback-icon-for-2024/"><u>[New] Repair Inaccessible Facebook Playback Icon for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-role-of-competitive-intelligence-in-effective-market-research/"><u>[Updated] The Role of Competitive Intelligence in Effective Market Research</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/google-chrome/"><u>動画再生をスムーズに行う - Google Chromeで困っている方へ</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-y78plus-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y78+? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-xiaomi-14-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Xiaomi 14.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-comprehensive-iphone-manuals-a-detailed-guide-for-each-version-and-type/"><u>Download Comprehensive iPhone Manuals: A Detailed Guide for Each Version and Type</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-innovative-discussion-themes-for-vloggers/"><u>In 2024, Innovative Discussion Themes for Vloggers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-itel-s23plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Itel S23+ Location | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-resetting-a-dell-computer-from-laptops-to-workstations/"><u>Master the Art of Resetting a Dell Computer: From Laptops to Workstations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/recover-deleted-chat-history-on-any-mobile-phone-with-ease/"><u>Recover Deleted Chat History on Any Mobile Phone with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-android-devices-with-a-permanent-dark-screen/"><u>Solving the Mystery of Android Devices with a Permanent Dark Screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-profile/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest Ⅱ Profile</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-12-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/virtual-meetings-made-easy-using-zoom-on-windows-for-hd-video-calls/"><u>Virtual Meetings Made Easy: Using Zoom on Windows for HD Video Calls</u></a></li>
 </ul></div>
 

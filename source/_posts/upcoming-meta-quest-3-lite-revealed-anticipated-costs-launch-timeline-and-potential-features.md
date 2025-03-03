@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Meta Quest 3 Lite Revealed: Anticipated Costs, Launch Timeline & Potential Features"
-date: 2024-08-12T04:05:23.091Z
-updated: 2024-08-13T04:05:23.091Z
+date: 2025-03-01T18:17:26.025Z
+updated: 2025-03-03T00:09:14.177Z
 categories:
   - BestProducts
 description: "This Article Describes Upcoming Meta Quest 3 Lite Revealed: Anticipated Costs, Launch Timeline & Potential Features"
@@ -26,25 +26,14 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  If the rumors are accurate, the Quest 3 Lite will arrive this year. We're just not sure_when_ . The Quest 3 was unveiled in June 2023 and released in October. If this year follows a similar pattern, Meta could announce the next headset any day now. Otherwise, they might wait until[ Meta Connect](https://www.meta.com/connect/) in September.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  We think the Meta Quest 3s will be available for purchase by the end of September 2024.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Meta Quest 3 Lite Price Rumors 
 
  The Quest 3 Lite[ might cost around $200](https://mp.weixin.qq.com/s/jTB63jxbik84eoRWBTLJ0Q) . If this is true, VR will be a lot more affordable for more people. For some perspective, the Quest 2 launched at $300, and the Quest 3 costs $500\. There's also the $3,000+[ Vision Pro](https://www.lifewire.com/is-the-apple-vision-pro-worth-it-8636202) , but we can hardly compare this model with Apple's beast of a headset.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  There's no word yet on pre-orders for the Quest 3 Lite. Meta will probably allow pre-ordering following the headset's unveiling.
@@ -55,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  We don't know everything for sure, but expect the Quest 3 Lite to be a more basic VR headset to keep the price down. It might not be as powerful or have as sharp a picture as the Quest 3, but you'll still be able to play VR games and apps.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Meta Quest 3 Lite Specs and Hardware 
 
  Some supposed leaked material from a Meta presentation gives us a glimpse at what the headset might look like. The Meta Quest 3s (on the left, pictured below) includes six cameras positioned in two triangular sets. These are likely full-color, passthrough cameras. Meta's Director of Engineering for XR Tech[ Paul Furgale is "convinced that Passthrough and MR will be a standard feature on all future headsets" following the Quest 3](https://www.meta.com/blog/quest/ai-powered-technologies-quest-3-pro-ray-ban-meta-smart-glasses/) .  
@@ -68,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  We've also heard that the Quest 3 Lite might come in two models, including a more affordable option that omits the controllers. With hand-tracking technology already present in current headsets, it's not far-fetched to think this could be how it works for the entry-level Quest 3s. Otherwise, the Quest 3s will ship with Touch controllers like other Meta headsets.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Meta Quest 3](https://www.lifewire.com/thmb/iXYvSQIxLwkRmBJtBs3XZLVjB3Y=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Meta-Quest-3-v2-305b96ae177f411aa3bb2f852f75254a.jpg) 
 
 The Meta Quest 3. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  The Latest News About Meta Quest 3 Lite 
 
  You can [ get more smart and connected life news from Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Here are the latest stories on Meta's VR headsets:
@@ -94,8 +74,6 @@ The Meta Quest 3.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +81,23 @@ The Meta Quest 3.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-does-youtube-manage-post-upload-operations/"><u>[New] 2024 Approved How Does YouTube Manage Post-Upload Operations?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-the-zoom-interface-a-focus-on-windows-10/"><u>[New] 2024 Approved Navigating the Zoom Interface A Focus on Windows 10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-boost-youtube-video-performance-with-rapid-rendering-methods-for-2024/"><u>[Updated] Boost YouTube Video Performance with Rapid Rendering Methods for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-from-first-steps-to-proficiency-in-iphone-voice-memos/"><u>2024 Approved From First Steps to Proficiency in iPhone Voice Memos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-how-ios-18s-ai-revolutionized-mobile-tech-exploring-the-highlights-from-apples-wwdc-2024-keynote/"><u>Discover How iOS 18'S AI Revolutionized Mobile Tech: Exploring the Highlights From Apple's WWDC 2024 Keynote</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-zte-axon-40-lite-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring ZTE Axon 40 Lite PC | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-lava-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Lava online without jailbreak</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-top-picks-for-virtual-globe-tourists/"><u>In 2024, Top Picks for Virtual Globe Tourists</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ios-18-a-step-by-step-guide-to-tailoring-the-control-center-on-your-iphone-zdnet/"><u>IOS 18: A Step-by-Step Guide to Tailoring the Control Center on Your iPhone - ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-air-evaluation-surprisingly-superior-nearly-makes-me-rethink-my-ipad-pro-purchase-insights/"><u>IPad Air Evaluation: Surprisingly Superior, Nearly Makes Me Rethink My iPad Pro Purchase Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/massive-700-discount-on-the-amazing-new-ipad-pro-for-labor-day-exclusive-offerzdnet/"><u>Massive $700 Discount on the Amazing New iPad Pro for Labor Day - Exclusive Offer![ZDNet]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-workflow-tackling-backdrops-in-affinity-photo-to-perfection-for-2024/"><u>Precision Workflow Tackling Backdrops in Affinity Photo to Perfection for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-wearables-showdown-why-i-choose-apple-watch-ultra-2-as-my-go-to-gadget-labor-day-sale-alert-save-an-extra-100/"><u>Top Wearables Showdown: Why I Choose Apple Watch Ultra 2 as My Go-To Gadget (Labor Day Sale Alert: Save an Extra $100!)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upgrading-to-iphone-16-pros-and-cons-according-to-expert-reviewers-at-zdnet/"><u>Upgrading to iPhone 16: Pros & Cons According to Expert Reviewers at ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-im-loyal-to-my-apple-watch-series/"><u>Why I'm Loyal to My Apple Watch Series</u></a></li>
+</ul></div>
 

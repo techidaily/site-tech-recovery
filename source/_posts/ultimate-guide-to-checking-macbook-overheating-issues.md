@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Checking MacBook Overheating Issues
-date: 2024-08-12T03:53:31.654Z
-updated: 2024-08-13T03:53:31.654Z
+date: 2025-02-23T22:12:05.309Z
+updated: 2025-03-03T04:02:13.723Z
 categories:
   - BestProducts
 description: This Article Describes Ultimate Guide to Checking MacBook Overheating Issues
@@ -19,21 +19,12 @@ thumbnail: https://www.lifewire.com/thmb/ymM1wcX9ajBi3tYIzdS2HGWBgBM=/400x300/fi
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
 
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -60,18 +51,12 @@ thumbnail: https://www.lifewire.com/thmb/ymM1wcX9ajBi3tYIzdS2HGWBgBM=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -93,9 +78,6 @@ thumbnail: https://www.lifewire.com/thmb/ymM1wcX9ajBi3tYIzdS2HGWBgBM=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -124,10 +106,6 @@ thumbnail: https://www.lifewire.com/thmb/ymM1wcX9ajBi3tYIzdS2HGWBgBM=/400x300/fi
 
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 Was this page helpful?
@@ -150,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +135,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-three-ways-to-convert-youtube-music-tracks-safely-to-mp3-format/"><u>[New] 2024 Approved Three Ways to Convert YouTube Music Tracks Safely to MP3 Format</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-unleashing-your-youtube-potential-a-comprehensively-tailored-upload-process/"><u>[New] 2024 Approved Unleashing Your YouTube Potential A Comprehensively Tailored Upload Process</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-blur-out-not-your-photos-top-10-edits-to-fix-fuzziness/"><u>[New] Blur Out, Not Your Photos! Top 10 Edits to Fix Fuzziness</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unveiling-the-full-potential-sony-action-camera-review/"><u>[New] In 2024, Unveiling the Full Potential - Sony Action Camera Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-becoming-a-video-wizard-with-screencast-insider-tips/"><u>[Updated] In 2024, Becoming a Video Wizard with Screencast Insider Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-setting-up-an-email-address-alias-on-gmail/"><u>A Step-by-Step Guide: Setting Up an Email Address Alias on Gmail</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/amazon-kindle-2019-review/"><u>Amazon Kindle (2019) Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoiding-spam-a-comprehensive-guide-to-creating-a-safe-list-on-gmail/"><u>Avoiding Spam: A Comprehensive Guide to Creating a Safe List on Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722886091598-buzz-on-android-16-potential-specs-leak-predicted-pricing-and-tentative-release-timeline-teased/"><u>Buzz on Android 16: Potential Specs Leak, Predicted Pricing & Tentative Release Timeline Teased!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/compatibility-guide-can-airpods-be-connected-to-the-nintendo-switch/"><u>Compatibility Guide: Can AirPods Be Connected to the Nintendo Switch?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-no-cost-language-learning-platforms/"><u>Discover the Best No-Cost Language Learning Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-papal-correspondence-has-pope-francis-adopted-email-for-communication/"><u>Exploring Papal Correspondence: Has Pope Francis Adopted Email for Communication?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-making-dollars-from-skincare-videos/"><u>In 2024, Making Dollars From Skincare Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-networked-video-streaming-with-vlc-for-2024/"><u>Navigating Networked Video Streaming with VLC for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/nft-mastermakers-essential-tools-for-digital-artists/"><u>NFT Mastermakers Essential Tools for Digital Artists</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pc-velocity-essentials-finding-the-perfect-processing-speed/"><u>PC Velocity Essentials: Finding the Perfect Processing Speed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/social-media-success-how-to-swiftly-score-more-likes-and-followers-on-instagram/"><u>Social Media Success: How to Swiftly Score More Likes and Followers on Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-13-complimentary-hd-checkers-a-july-2024-guide/"><u>Top 13 Complimentary HD Checkers: A July 2024 Guide</u></a></li>
+</ul></div>
 

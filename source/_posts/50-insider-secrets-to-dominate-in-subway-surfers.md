@@ -1,7 +1,7 @@
 ---
 title: 50 Insider Secrets to Dominate in 'Subway Surfers'
-date: 2024-08-12T04:05:50.696Z
-updated: 2024-08-13T04:05:50.696Z
+date: 2025-03-02T00:02:12.510Z
+updated: 2025-03-03T01:08:06.788Z
 categories:
   - BestProducts
 description: This Article Describes 50 Insider Secrets to Dominate in 'Subway Surfers'
@@ -10,9 +10,6 @@ thumbnail: https://www.lifewire.com/thmb/uEyEQWu1swUUaoTgab9_BLGHzp4=/400x300/fi
 ---
 
 ## How to Quickly Capture Your Screen on Windows 11 - Four Steps Inside
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to Know
 
 * The**PrtScn** /**PrtSc** button captures the entire screen and saves it to the clipboard.
@@ -43,9 +40,6 @@ thumbnail: https://www.lifewire.com/thmb/uEyEQWu1swUUaoTgab9_BLGHzp4=/400x300/fi
 
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -59,9 +53,6 @@ thumbnail: https://www.lifewire.com/thmb/uEyEQWu1swUUaoTgab9_BLGHzp4=/400x300/fi
 * **Full screen** : Press to capture the whole screen. It's identical to using**PrtScr** .
 * **Freeform** : You draw a shape that contains what you'd like to capture. This is useful if the rectangular snip is too restrictive to capture what you need.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
@@ -70,14 +61,8 @@ thumbnail: https://www.lifewire.com/thmb/uEyEQWu1swUUaoTgab9_BLGHzp4=/400x300/fi
 
  Or, if you select the prompt that pops up at the bottom of the screen after taking the screenshot, it'll open in Snipping Tool. There are markup tools like a pencil and highlighter. You can also easily crop the screenshot further, print it out, copy text from it, import it into Paint, run it through Bing's reverse image search tool, and save it as a PNG, JPG, or GIF file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -86,9 +71,6 @@ thumbnail: https://www.lifewire.com/thmb/uEyEQWu1swUUaoTgab9_BLGHzp4=/400x300/fi
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -126,8 +108,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +115,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-explore-new-realms-best-iphoneandroid-vr-games/"><u>[New] Explore New Realms Best iPhone/Android VR Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-microsoft-screen-recorder-download-and-use-guide-for-2024/"><u>[New] Microsoft Screen Recorder Download and Use Guide for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-image-borders-in-instagram-photography/"><u>[Updated] 2024 Approved Mastering Image Borders in Instagram Photography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-enhance-collaboration-with-these-zoom-tools/"><u>2024 Approved Enhance Collaboration with These Zoom Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-watch-ultra/"><u>Apple Watch Ultra</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beat-the-sickening-of-virtual-reality-for-2024/"><u>Beat the Sickening of Virtual Reality for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boosting-productivity-transforming-your-home-office-with-the-ipad-pro-insights-from-zdnet/"><u>Boosting Productivity: Transforming Your Home Office with the iPad Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-unmatched-protection-seamless-smart-lock-integration-with-your-iphone-featured-by-zdnet/"><u>Discover Unmatched Protection: Seamless Smart Lock Integration with Your iPhone, Featured by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-x-flip-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo X Flip Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unraveling-the-film-reel-how-to-rewind-on-instagram/"><u>In 2024, Unraveling the Film Reel How to Rewind on Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/march-2024s-ultimate-mobile-bargains-revealed-by-experts-at-zdnet/"><u>March 2024'S Ultimate Mobile Bargains Revealed by Experts at ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-dual-environments-run-ubuntu-on-macos-xcode-using-a-clever-tech-shortcut/"><u>Master Dual Environments: Run Ubuntu on MacOS Xcode Using a Clever Tech Shortcut!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-multiple-network-profiles-on-macos-a-step-by-step-guide/"><u>Mastering Multiple Network Profiles on macOS: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-macbook-peripherals-comprehensive-reviews-and-ratings-by-tech-experts-zdnet/"><u>Top-Ranking MacBook Peripherals : Comprehensive Reviews & Ratings by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-enhanced-apple-airpods-discover-the-top-4-newest-improvements-across-all-models-zdnet/"><u>Unveiling Enhanced Apple AirPods: Discover the Top 4 Newest Improvements Across All Models | ZDNet</u></a></li>
+</ul></div>
 

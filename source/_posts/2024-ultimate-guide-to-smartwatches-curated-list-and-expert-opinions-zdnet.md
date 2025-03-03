@@ -1,7 +1,7 @@
 ---
 title: "2024 Ultimate Guide to Smartwatches: Curated List and Expert Opinions | ZDNET"
-date: 2025-02-07T23:22:38.826Z
-updated: 2025-02-11T18:23:26.951Z
+date: 2025-03-02T01:34:33.678Z
+updated: 2025-03-02T18:54:07.542Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ A MagSafe wallet is a streamlined way to keep your cards (and cash) secure and a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's the best MagSafe wallet right now?
 
@@ -51,10 +47,6 @@ Cons
 * May be too bulky for some
 
 ## Journey Ezmo Wallet and Phone Stand
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best MagSafe wallet overall
 
@@ -90,10 +82,6 @@ Cons
 * Can only hold 2 cards comfortably
 
 ## Clckr MagSafe phone holder and wallet
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best MagSafe wallet for durability
 
@@ -160,15 +148,7 @@ Cons
 * A little snug with 3 cards
 * Can be a little tricky to get cards in and out in certain situations
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Moft Snap on Phone Stand and Wallet
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best minimalist MagSafe wallet
 
@@ -202,10 +182,6 @@ Cons
 * Pricier for what you get
 * No front notch
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Casetify Snappy Leather MagSafe Wallet
 
 ### Best MagSafe wallet for fun color or customization
@@ -238,10 +214,6 @@ Cons
 * Bulkier
 
 ## ESR HaloLock wallet
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best MagSafe wallet for a traditional wallet feel
 
@@ -306,10 +278,6 @@ If you're looking for a MagSafe wallet that does it all, the Journey Ezmo wallet
 
  \*MSRP at the time of writing. Please note that prices may vary based on retailer and available promotions, sales, or discounts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which is the right MagSafe wallet for you?
 
 MagSafe wallets are a practical option for those who use their phone as their primary always-on-them accessory. While some MagSafe wallets only offer basic storage for a few cards, others also double or triple as a kickstand, phone grip, or cash storage device, possibly converting your phone into the ultimate multitasking tool. 
@@ -343,10 +311,6 @@ ZDNET went hands-on with all the MagSafe wallets on this list. We spend time usi
 If we think another product is worth your money, we'll update this list or write up a spotlight review highlighting its best qualities and specifying who it's for. 
 
 Plus, we are routinely scouring the web for new products that are worthy of testing, following news on product rollouts and upgrades, and sourcing the best deals. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which phones are MagSafe compatible?
 
@@ -422,20 +386,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-enthralling-3d-experience-selecting-top-blu-ray-decks/"><u>[New] Enthralling 3D Experience Selecting Top Blu-Ray Decks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-splendor-animating-effects-unbound/"><u>[New] In 2024, From Script to Splendor Animating Effects Unbound</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-stream-like-a-champion-top-3-techniques-for-successful-lol-gameplay-capture/"><u>[New] In 2024, Stream Like a Champion Top 3 Techniques for Successful LOL Gameplay Capture</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-leading-edge-webcams-and-camcorders-for-windows-11-pcs/"><u>[Updated] In 2024, Leading Edge Webcams & Camcorders for Windows 11 PCs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tackling-the-mystery-of-missing-shorts-video-images/"><u>2024 Approved Tackling the Mystery of Missing Shorts Video Images</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-netgear-login-credentials-compilation-july-update-2024/"><u>Comprehensive NETGEAR Login Credentials Compilation - July Update, 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/foldable-iphones-preview-of-potential-prices-release-dates-and-specs-while-we-sort-fact-from-fiction-in-latest-gossip/"><u>Foldable iPhones: Preview of Potential Prices, Release Dates and Specs While We Sort Fact From Fiction in Latest Gossip</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-does-android-embrace-artificial-intelligence-for-smarter-performance/"><u>How Does Android Embrace Artificial Intelligence for Smarter Performance?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-note-30-vip-racing-edition-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Note 30 VIP Racing Edition Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-users-handbook-joining-family-photo-collections-seamlessly/"><u>IPhone User's Handbook: Joining Family Photo Collections Seamlessly</u></a></li>
-<li><a href="https://win-special.techidaily.com/photoshop-offnen-nicht-moglich-losung-fur-foto-wiederherstellung/"><u>Photoshop Öffnen Nicht Möglich: Lösung Für Foto-Wiederherstellung!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-and-simple-methods-for-snapping-photos-in-game-on-your-xbox-one/"><u>Quick & Simple Methods for Snapping Photos In-Game on Your Xbox One</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-strategies-for-silencing-your-subwoofers-annoying-hum/"><u>Step-by-Step Strategies for Silencing Your Subwoofer's Annoying Hum</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-risks-that-lurk-when-we-trust-too-much-in-artificinas-intelligence/"><u>The Risks That Lurk When We Trust Too Much in Artificinas Intelligence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-method-for-knowing-your-google-doc-observers/"><u>The Ultimate Method for Knowing Your Google Doc Observers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-windows-11-premium-video-grabber-selections/"><u>[New] 2024 Approved Windows 11 Premium Video Grabber Selections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-complete-guide-restoring-apple-watch-settings-tips-and-tricks-from-zdnet/"><u>1. Complete Guide: Restoring Apple Watch Settings - Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-potential-of-luminance-for-hdr/"><u>2024 Approved Unveiling the Potential of Luminance for HDR</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-6-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 6 Plus Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enjoy-a-month-of-movie-magic-julys-handpicked-collection-of-free-films-on-youtube/"><u>Enjoy a Month of Movie Magic: July's Handpicked Collection of Free Films on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-setback-of-paytm-a-closer-look-at-warren-buffetts-sole-indian-investment-as-covered-by-zdnet/"><u>Exploring the Setback of Paytm: A Closer Look at Warren Buffett’s Sole Indian Investment as Covered by ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-charting-the-course-from-scale-to-submillions-in-youtube/"><u>In 2024, Charting the Course From Scale to Submillions in Youtube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/portable-power-solutions-how-to-recharge-your-phone-without-standard-equipment/"><u>Portable Power Solutions: How to Recharge Your Phone without Standard Equipment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-watch-7-in-focus-insights-into-price-range-availability-and-technical-specs/"><u>Samsung Galaxy Watch 7 in Focus: Insights Into Price Range, Availability, and Technical Specs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-using-airpods-with-a-nintendo-switch-is-it-feasible/"><u>Step-by-Step Guide: Using AirPods with a Nintendo Switch - Is It Feasible?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-setup-for-new-release-of-amd-radeon-v2410-video-card-software/"><u>Step-by-Step Setup for New Release of AMD Radeon V24.10 Video Card Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-tecno-pop-8-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Tecno Pop 8 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-key-trackers-a-comprehensive-guide/"><u>Top-Rated Key Trackers : A Comprehensive Guide</u></a></li>
 </ul></div>
 

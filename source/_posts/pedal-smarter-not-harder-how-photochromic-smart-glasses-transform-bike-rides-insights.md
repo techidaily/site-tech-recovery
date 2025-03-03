@@ -1,7 +1,7 @@
 ---
 title: "Pedal Smarter, Not Harder: How Photochromic Smart Glasses Transform Bike Rides | Insights"
-date: 2025-02-05T23:50:17.421Z
-updated: 2025-02-12T00:14:05.298Z
+date: 2025-03-01T23:49:27.714Z
+updated: 2025-03-02T21:32:29.334Z
 tags:
   - apple
 categories:
@@ -19,10 +19,6 @@ Matthew Miller/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -78,10 +74,6 @@ Matthew Miller/ZDNET
 
 The battery provides up to 12 hours of data and the glasses are dust- and water-resistant, which means I can wear them all year long here in Puget Sound. I always wear glasses while biking, but rarely use them while running, and yet I have worn these for every run since they arrived. I am definitely buying my own pair to help me achieve my goals.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 I test a lot of wearables in my attempt to find the perfect one that will motivate me to maintain a healthy level of fitness. I always thought some kind of amazing new watch would be key to this motivation, but it turns out that the [Engo 2 Photochromic glasses](https://engoeyewear.com/products/engo-2-photochromic) for $350 are what I needed.
@@ -118,18 +110,21 @@ The Engo 2 also ensure that I will continue to be a Strava Premium subscriber. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beyond-tube-the-premier-spots-for-online-video-sharing/"><u>[New] 2024 Approved Beyond Tube The Premier Spots for Online Video Sharing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-imovies-power-to-transform-ordinary-openers-into-epic/"><u>[New] In 2024, IMovie's Power to Transform Ordinary Openers Into Epic</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-stepwise-strategies-to-perfect-youtube-trailers-by-filmora/"><u>[New] In 2024, Stepwise Strategies to Perfect YouTube Trailers by Filmora</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-a-close-look-at-t-series-revenue-from-online-channels/"><u>[Updated] In 2024, A Close Look at T-Series Revenue From Online Channels</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-three-foundational-elements-for-powerful-facebook-ad-headlines-for-2024/"><u>[Updated] Three Foundational Elements for Powerful Facebook Ad Headlines for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-srt-conversion-made-simple-xml-ssa-ttml-and-more/"><u>2024 Approved SRT Conversion Made Simple XML, SSA, TTML, and More</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/vering-the-top-5-smarter-url-lengtheners-for-youtube/"><u>Discovering the Top 5 Smarter URL Lengtheners for YouTube</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fire-stick-users-manual-setting-up-and-watching-apple-tv-content/"><u>Fire Stick User's Manual: Setting Up and Watching Apple TV Content</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-critical-is-processing-velocity-in-selecting-a-suitable-pc/"><u>How Critical Is Processing Velocity in Selecting a Suitable PC?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ps4-controller-light-indicators-explained-blue-white-red-and-orange-blinks/"><u>PS4 Controller Light Indicators Explained - Blue, White, Red, and Orange Blinks!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-not-found-or-misplaced-msstfmtdll-errors/"><u>The Ultimate Fix for Not Found or Misplaced msstfmt.dll Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-our-pick-of-the-finest-4-no-cost-online-calendars-for-seamless-scheduling/"><u>Unveiling Our Pick of the Finest 4 No-Cost Online Calendars for Seamless Scheduling</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-view-count-faster-discover-the-most-effective-shortcuts/"><u>[New] Maximizing View Count Faster Discover the Most Effective Shortcuts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-tips-for-including-vimeo-content-on-instagram/"><u>[New] Tips for Including Vimeo Content on Instagram</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-best-tvs-to-accompany-your-highest-rated-consoles/"><u>[Updated] 2024 Approved Best TVs to Accompany Your Highest Rated Consoles</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-collection-5-outstanding-book-tts/"><u>[Updated] The Ultimate Collection 5 Outstanding Book TTs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-the-compact-ps5-whats-new-in-pricing-release-plans-and-tech-specifications/"><u>Comprehensive Guide to the Compact PS5: What's New in Pricing, Release Plans & Tech Specifications</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tutorial-on-adjusting-user-passwords-remotely-on-windows-machines/"><u>Comprehensive Tutorial on Adjusting User Passwords Remotely on Windows Machines</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/se-content-the-best-url-cutter-tools-for-youtubers/"><u>Concise Content The Best URL Cutter Tools for Youtubers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-methods-to-get-the-web-in-your-living-room-theater-system/"><u>DIY Methods to Get the Web in Your Living Room Theater System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-sound-capture-on-your-meta-quest-gaming-headset-essential-tips/"><u>Enhancing Sound Capture on Your Meta Quest Gaming Headset: Essential Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-comfort-in-simplicity-can-apples-vision-pro-enhance-your-economy-travel-experience/"><u>Exploring Comfort in Simplicity: Can Apple's Vision Pro Enhance Your Economy Travel Experience?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-gaming-space-on-xbox-one-by-adding-a-portable-storage-solution/"><u>Maximize Gaming Space on Xbox One by Adding a Portable Storage Solution</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavim4r-mp4/"><u>Movaviで簡単なオンラインM4Rフォーマットに自由に変換! MP4より.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rejuvenation-routes-discovering-the-top-8-windows-reboot-methods/"><u>Rejuvenation Routes: Discovering the Top 8 Windows Reboot Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-a-drowned-device-masterful-methods-for-restoring-moisture-affected-iphones-and-ipods/"><u>Reviving a Drowned Device: Masterful Methods for Restoring Moisture-Affected iPhones and iPods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reviving-your-iphone-15-tips-for-a-successful-reboot/"><u>Reviving Your iPhone 15: Tips for a Successful Reboot</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-simple-way-to-get-updated-graphics-drivers-for-your-nvidia-gtx-660/"><u>The Simple Way to Get Updated Graphics Drivers for Your Nvidia GTX 660</u></a></li>
 </ul></div>
 

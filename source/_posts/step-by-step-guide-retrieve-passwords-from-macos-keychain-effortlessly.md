@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Retrieve Passwords From macOS Keychain Effortlessly"
-date: 2025-02-05T23:46:35.371Z
-updated: 2025-02-12T08:34:17.276Z
+date: 2025-02-25T03:42:59.309Z
+updated: 2025-03-02T23:25:45.325Z
 tags:
   - apple
 categories:
@@ -54,19 +54,11 @@ Initiate a call. You'll see a new icon in the upper-left corner of the call scre
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Make sure recording has started
 
 Once you've begun the recording, you'll see a notification alerting all parties, and an audio message that recording has been initiated. 
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. End recording and view transcript
 
@@ -105,10 +97,6 @@ Voice recordings autosave under different names based on whether Location Servic
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Play back the audio file and make adjustments
 
 Now, play the file back and see if the audio is discernible. Make the adjustments you need _before_ you record a phone call. 
@@ -124,10 +112,6 @@ Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-s
 **Also:** [**Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)**](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-new-ios-18-public-beta-and-which-ones-cant/)
 
 One-party states require only one person on the call -- which would be you -- to consent. An all-party state requires both the person recording and the person(s) being recorded to consent. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Start recording
 
@@ -161,10 +145,6 @@ Open up sharing options. You can also trim or rename the recording to something 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Other ways to record
 
 Following the steps above is the easiest, most efficient, and most discreet way to record a phone call on your iPhone. If you or a trusted second party don't have another device spare, here are a few alternatives. 
@@ -172,10 +152,6 @@ Following the steps above is the easiest, most efficient, and most discreet way 
 **Also: [I thought this new VisionOS 2 feature was just a gimmick - until it made me cry into my Vision Pro](https://www.zdnet.com/article/i-thought-this-new-visionos-2-feature-was-just-a-gimmick-until-it-made-me-cry-into-my-vision-pro/)**
 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Rev Voice Recorder
 
@@ -204,10 +180,6 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it illegal to record phone calls?
 
@@ -265,24 +237,16 @@ The Voice Memos app can record for an unlimited amount of time, as long as you h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-weaving-pictures-into-a-musical-tapestry/"><u>[New] 2024 Approved Weaving Pictures Into a Musical Tapestry</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-be-the-life-of-the-party-uploading-and-sharing-gifs-on-instagram-instant-guide/"><u>[Updated] Be the Life of the Party Uploading & Sharing GIFs on Instagram [Instant Guide]</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-demystifying-the-process-of-checking-subs/"><u>[Updated] In 2024, Demystifying The Process of Checking Subs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-tutorial-enabling-imessage-features-on-your-android-phone/"><u>A Comprehensive Tutorial: Enabling iMessage Features on Your Android Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-amd-graphics-the-power-of-rx-7800xt-and-7700xt-series/"><u>Decoding AMD Graphics: The Power of RX 7800XT & 7700XT Series</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/download-and-install-asus-screen-drivers-in-a-flash/"><u>Download & Install ASUS Screen Drivers in a Flash</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-legacy-of-yahoo-messenger-and-insights-into-its-end-date/"><u>Exploring the Legacy of Yahoo! Messenger and Insights Into Its End Date</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-top-6-giant-scale-language-processing-systems/"><u>Exploring the Top 6 Giant-Scale Language Processing Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722969217498-get-the-newest-mpow-bluetooth-driver-for-windows-11-8-and-7-download-here/"><u>Get the Newest MPOW Bluetooth Driver for Windows 11, 8 & 7 - Download Here!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-does-ussd-work-a-comprehensive-look-at-unstructured-supplementary-service-data/"><u>How Does USSD Work? A Comprehensive Look at Unstructured Supplementary Service Data</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-reconnect-and-repair-an-offline-echo-a-comprehensive-fix-for-alexa-users/"><u>How To Reconnect and Repair an Offline Echo – A Comprehensive Fix for Alexa Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mozilla-thunderbird-update-version-52-features-and-improvements/"><u>Mozilla Thunderbird Update: Version 52 Features and Improvements</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-computing-guided-by-tom-hardware-experts/"><u>Navigate the World of Computing - Guided by Tom Hardware Experts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolve-your-wpcapdll-file-not-found-issues-step-by-step-guide/"><u>Resolve Your WPCapDLL File Not Found Issues - Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899793705-the-etiquette-of-twitter-shares-retweet-vs-re-tweet-explained/"><u>The Etiquette of Twitter Shares: Retweet Vs. Re-Tweet Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-visual-content-creating-images-using-dall-e-and-gpt-4-integration/"><u>Transform Your Visual Content: Creating Images Using DALL-E and GPT-4 Integration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-vizio-smart-tv-wi-fi-connectivity-problems-easily-at-home/"><u>Troubleshooting Vizio Smart TV Wi-Fi Connectivity Problems Easily at Home</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-8-free-and-premium-tools-to-enhance-your-logic-pro-x-experience/"><u>Updated Top 8 Free and Premium Tools to Enhance Your Logic Pro X Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-post-tomorrow-assessment-original-ideas/"><u>[Updated] Post-Tomorrow Assessment Original Ideas</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swiftly-seek-and-find-discarded-reddit-posts/"><u>[Updated] Swiftly Seek and Find Discarded Reddit Posts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-prime-line-up-the-best-9-free-youtube-logo-makers-reviewed/"><u>2024 Approved Prime Line-Up The Best 9 Free YouTube Logo Makers Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boosting-brand-exposure-through-box/"><u>Boosting Brand Exposure Through Box</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-f5-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco F5 5G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-troubleshooting-techniques-for-bootmgr-is-absent-mishaps/"><u>Master the Troubleshooting Techniques for 'BOOTMGR Is Absent' Mishaps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-micromobility-universe-significant-occasions-fresh-information-buzz-and-extra-details/"><u>Navigating the Micromobility Universe: Significant Occasions, Fresh Information, Buzz & Extra Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-overcoming-code-39-printing-challenges-in/"><u>Quick Fixes for Overcoming Code 39 Printing Challenges In</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-11-free-movie-downloading-websites-you-should-know-about/"><u>Top 11 Free Movie Downloading Websites You Should Know About</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-504-gateway-timeout-issues-quickly/"><u>Ultimate Guide: Resolving 504 Gateway Timeout Issues Quickly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-ps5-is-a-game-changer-4-convincing-arguments-for-acquisition/"><u>Why the PS5 Is a Game-Changer: 4 Convincing Arguments for Acquisition</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Evolution of Siri at Apple - Embracing the Future with AI Strategies Similar to Bing
-date: 2025-02-09T06:48:10.453Z
-updated: 2025-02-11T16:14:28.087Z
+date: 2025-02-23T16:38:59.464Z
+updated: 2025-03-02T21:28:19.366Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Hey Siri, let's talk about Microsoft
 
 Yet now, and urgently, Apple is thrusting itself further into AI. Cupertino [already claims](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) its on-device AI is better than GPT-4\. The name of its on-device system? ReALM (Reference Resolution As Language Modeling), apparently.
@@ -75,10 +71,6 @@ But Bing, too, had become a thing of humor -- whether that humor was justified o
 Microsoft, on the other hand, is a strong brand -- one that's become both more important and more likable in recent years. Add the notion of a Copilot to it and it suddenly feels like something with which you want to be involved, something that has a chance to be your true companion, something that might _actually_ be good.
 
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
 
@@ -126,21 +118,16 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-creative-freedom-redefined-a-review-of-screenflow-on-macbook-pro/"><u>[New] In 2024, Creative Freedom Redefined A Review of ScreenFlow on MacBook Pro</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-ultimate-microphone-list-for-best-asmr-sound/"><u>[New] In 2024, The Ultimate Microphone List for Best ASMR Sound</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-detective-blind-spots-an-urgent-warning/"><u>AI's Detective Blind Spots: An Urgent Warning</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/before-purchasing-your-next-smartwatch-5-critical-aspects-to-review/"><u>Before Purchasing Your Next Smartwatch: 5 Critical Aspects to Review</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-down-unnecessary-workload-in-windows-system/"><u>Cutting Down Unnecessary Workload in Windows System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-possibilities-is-there-a-free-version-of-microsoft-word-available/"><u>Exploring the Possibilities: Is There a Free Version of Microsoft Word Available?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-15-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 15 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-cross-platform-communication-facilitating-facetime-on-windows-systems/"><u>Mastering Cross-Platform Communication: Facilitating FaceTime on Windows Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-rainbow-six-sieges-error-code-3-0x0001000b-a-comprehensive-guide/"><u>Resolving Rainbow Six Siege's Error Code 3-0X0001000B - A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-subscription-service-assessing-its-monthly-cost/"><u>Sony's Subscription Service: Assessing Its Monthly Cost</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/spotify-discount-101-a-students-blueprint-to-enjoy-music-at-half-price/"><u>Spotify Discount 101: A Student’s Blueprint to Enjoy Music at Half Price</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/talk-turned-type-essential-apps-for-offline-speech-recognition-for-2024/"><u>Talk Turned Type Essential Apps for Offline Speech Recognition for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-great-debate-crafting-your-own-pc-or-opting-for-a-store-bought-setup/"><u>The Great Debate: Crafting Your Own PC or Opting for a Store Bought Setup.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-essential-study-apps-every-student-and-parent-should-know/"><u>Top 6 Essential Study Apps Every Student and Parent Should Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unleash-hilarious-mischief-creative-iphone-and-ipad-trickery-for-friends-amusement/"><u>Unleash Hilarious Mischief: Creative iPhone & iPad Trickery for Friends' Amusement</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-gfx-support-the-ultimate-ddu-guide/"><u>Updating GFX Support: The Ultimate DDU Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>[New] In 2024, From Audio to Action MP3-to-YouTube Conversion Journey</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-brief-journey-into-the-past-the-origins-and-growth-of-electric-vehicle-technology/"><u>A Brief Journey Into the Past: The Origins and Growth of Electric Vehicle Technology</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/capture-your-screen-on-chromebook-methods-4-you-for-2024/"><u>Capture Your Screen on Chromebook Methods 4 You for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-solutions-to-fix-line-distortions-in-samsung-tvs/"><u>DIY Solutions to Fix Line Distortions in Samsung TVs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-user-generated-feedback-influences-video-ranks/"><u>How User-Generated Feedback Influences Video Ranks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-through-apples-latest-ipad-software-enhancements-the-ultimate-guide/"><u>Navigate Through Apple's Latest iPad Software Enhancements – The Ultimate Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smart-savings-for-screen-enthusiasts-top-picks-in-affordable-home-theaters/"><u>Smart Savings for Screen Enthusiasts: Top Picks in Affordable Home Theaters</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-list-best-livestream-shopping-apps-of/"><u>Updated In 2024, Top List Best Livestream Shopping Apps Of</u></a></li>
 </ul></div>
 

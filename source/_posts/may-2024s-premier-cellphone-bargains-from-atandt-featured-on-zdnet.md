@@ -1,7 +1,7 @@
 ---
 title: May 2024'S Premier Cellphone Bargains From AT&T, Featured on ZDNet
-date: 2025-02-06T08:43:59.632Z
-updated: 2025-02-12T03:41:33.216Z
+date: 2025-02-26T00:23:09.739Z
+updated: 2025-03-02T18:40:40.315Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best AT&T deals
 
@@ -120,10 +116,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -158,25 +150,13 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -236,16 +216,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-echo-chambers-tech-updates/"><u>[Updated] In 2024, Echo Chambers Tech Updates</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-streamline-task-management-with-safaris-picture-in-picture/"><u>[Updated] Streamline Task Management with Safari's Picture In Picture</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-closer-inspect-of-the-stunning-dell-p2715q-monitors-capabilities/"><u>2024 Approved A Closer Inspect of the Stunning Dell P2715Q Monitor's Capabilities</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/accurate-boundary-conditions-are-crucial-for-modeling-real-world-transient-heat-scenarios-effectively/"><u>Accurate Boundary Conditions Are Crucial for Modeling Real-World Transient Heat Scenarios Effectively.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ethical-techniques-to-find-phone-numbers-through-online-research/"><u>Ethical Techniques to Find Phone Numbers Through Online Research</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-the-scoop-on-apple-watch-x-projected-price-points-expected-debut-date-and-specs-plus-rumored-details-inside/"><u>Get the Scoop on Apple Watch X: Projected Price Points, Expected Debut Date & Specs; Plus Rumored Details Inside!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2016-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2016 Error Code 0x800A03EC?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-navigate-the-world-of-tags-for-superior-content-performance/"><u>In 2024, Navigate the World of Tags for Superior Content Performance</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/pixel-power-unveiling-youtubes-twitter-crew-for-2024/"><u>Pixel Power Unveiling YouTube's Twitter Crew for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/retrieving-removed-contacts-a-guide-to-recovering-deleted-mobile-numbers-on-android/"><u>Retrieving Removed Contacts: A Guide to Recovering Deleted Mobile Numbers on Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-tips-rebooting-your-samsung-bar-for-optimal-audio-performance/"><u>Ultimate Troubleshooting Tips: Rebooting Your Samsung Bar for Optimal Audio Performance</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-add-custom-thumbnails-to-your-youtube-videos-for-2024/"><u>[New] How To Add Custom Thumbnails to Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-make-a-game-streaming-video-with-ai-portrait-for-2024/"><u>[New] How to Make a Game Streaming Video With AI Portrait for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-instant-appeal-in-photos-embrace-these-top-10-composition-strategies/"><u>2024 Approved Instant Appeal in Photos Embrace These Top 10 Composition Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/does-iphone-15-pro-max-feature-water-resistance/"><u>Does iPhone 15 Pro Max Feature Water Resistance?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/email-account-search-strategies-steps-to-locate-your-unknown-login-details/"><u>Email Account Search Strategies: Steps to Locate Your Unknown Login Details</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/frame-your-fantasy-the-most-uplifting-instagram-captures-for-2024/"><u>Frame Your Fantasy The Most Uplifting Instagram Captures for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/framefixer-analysis-all-inclusive-report-for-2024/"><u>FrameFixer Analysis – All-Inclusive Report for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-infinix-hot-40-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Infinix Hot 40 and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-users-beware-how-to-prevent-unwanted-caller-id-hides-contacts/"><u>IPhone Users Beware! How to Prevent Unwanted Caller ID Hides Contacts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pairing-made-easy-how-to-hook-a-ps4-pad-to-your-system/"><u>Pairing Made Easy: How to Hook a PS4 Pad to Your System</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secrets-of-6-video-categories-for-viewer-retention/"><u>Secrets of 6 Video Categories for Viewer Retention</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/snapchat-revival-tactics-how-to-bring-back-your-inactive-profile-easily/"><u>Snapchat Revival Tactics: How To Bring Back Your Inactive Profile Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stanford-reveals-soaring-costs-of-generative-ai-training-underestimated-risks-highlighted-zdnet-exclusive-analysis/"><u>Stanford Reveals Soaring Costs of Generative AI Training, Underestimated Risks Highlighted | ZDNET Exclusive Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-setting-up-safe-mail-filters-on-gmail/"><u>The Complete Guide to Setting Up Safe Mail Filters on Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722878173815-the-future-is-here-with-the-rumored-nothing-phone-amidst-speculation-on-release-dates-pricing-and-features/"><u>The Future Is Here with the Rumored Nothing Phone Amidst Speculation on Release Dates, Pricing & Features.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wi-fi-calling-defined-uncovering-what-it-entails/"><u>Wi-Fi Calling Defined: Uncovering What It Entails</u></a></li>
 </ul></div>
 

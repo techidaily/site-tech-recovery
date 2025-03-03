@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Tech Spectacle: The iPhone 16 'Glowtime', AI Advancements, and the New Apple Watch Series 10"
-date: 2025-02-06T09:18:51.272Z
-updated: 2025-02-11T19:34:32.748Z
+date: 2025-02-27T00:27:35.607Z
+updated: 2025-03-03T00:17:34.311Z
 tags:
   - apple
 categories:
@@ -27,10 +27,6 @@ If you didn't get to tune in or want a detailed summary of the announcements, ke
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. iPhone 16 series
 
@@ -64,10 +60,6 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Apple Watch Series 10
 
 Kerry Wan/ZDNET
@@ -87,10 +79,6 @@ The Apple Watch Series 10 starts at $399, is available for pre-order starting to
 Alongside the Watch Series 10, Apple announced a new satin black finish for its Watch Ultra 2, which is tailored to avid athletes and outdoor enthusiasts. It starts at $799; pre-orders start today and ship out on September 20\. 
 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. AirPods 4
 
@@ -116,10 +104,6 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Apple Intelligence updates
 
 Screenshot by Kayla Solino/ZDNET
@@ -133,10 +117,6 @@ During today's event, Apple mostly reviewed the features it had previously unvei
 The biggest highlight was the launch of Visual Intelligence, Apple's answer to Google Lens. Like Google Lens, you can take photos of your surroundings, such as a dog or restaurant, and get personalized insights and relevant information on what you captured.
 
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
 
@@ -184,20 +164,24 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-reinventing-speech-the-ultimate-guide-to-free-vocal-adjustments/"><u>[New] 2024 Approved Reinventing Speech The Ultimate Guide to Free Vocal Adjustments</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-graphicgenius-create-funny-memes/"><u>[New] GraphicGenius Create Funny Memes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streamline-stress-effective-edits-for-lifeless-bigger-tiktok-drafters/"><u>[New] Streamline Stress Effective Edits for Lifeless, Bigger TikTok Drafters</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-selecting-the-ultimate-steadicams-for-flawless-dslr-shoots/"><u>[Updated] Selecting the Ultimate Steadicams for Flawless DSLR Shoots</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-steady-yourself-against-oculus-nausea-for-2024/"><u>[Updated] Steady Yourself Against Oculus Nausea for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-all-inclusive-list-of-prime-no-money-streaming-applications-and-software/"><u>2024 Approved All-Inclusive List of Prime No-Money Streaming Applications & Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/detailed-process-for-getting-rid-of-microsofts-copilot-from-your-pc-with-windows-11/"><u>Detailed Process for Getting Rid of Microsoft's Copilot From Your PC with Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/detailed-process-of-downloading-and-setting-up-windows-11-arm-iso/"><u>Detailed Process of Downloading and Setting up Windows 11 ARM ISO</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-address-microsoft-directinput-dll-errors/"><u>Effective Solutions to Address Microsoft DirectInput Dll Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/facebook-image-management-effective-ways-to-delete-pics-and-maintain-privacy/"><u>Facebook Image Management: Effective Ways to Delete Pics and Maintain Privacy</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/fire-hd-10-by-amazon-reviewed-the-perfect-media-companion-for-every-age-group/"><u>Fire HD 10 by Amazon Reviewed: The Perfect Media Companion for Every Age Group</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-finding-people-on-facebook-effortless-techniques-inside/"><u>Mastering the Art of Finding People on Facebook - Effortless Techniques Inside</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/microsoft-word-wont-open-your-document-top-troubleshooting-techniques-revealed/"><u>Microsoft Word Won't Open Your Document: Top Troubleshooting Techniques Revealed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-d3dx926dll-file-not-detected-a-step-by-step-guide/"><u>Solving d3dx9_26.dll File Not Detected: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-steps-to-crafting-a-wire-free-film-experience-in-college-living-spaces/"><u>Ultimate Steps to Crafting a Wire-Free Film Experience in College Living Spaces</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-all-you-need-to-know-about-valheim-seeds-and-the-best-valheim-seeds/"><u>[New] In 2024, All You Need to Know About Valheim Seeds & The Best Valheim Seeds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-methodical-decrescendo-techniques-for-logic-pro-mixers/"><u>[New] Methodical Decrescendo Techniques for Logic Pro Mixers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-fundamentals-of-sports-video-editing/"><u>[New] The Fundamentals of Sports Video Editing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-strategies-for-indefinitely-removing-a-tiktok-profile/"><u>[Updated] Strategies for Indefinitely Removing a TikTok Profile</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-from-novice-to-expert-a-comprehensive-guide-to-macscreencasting/"><u>2024 Approved From Novice to Expert A Comprehensive Guide to MacScreencasting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/charting-the-course-to-celebrity-the-9-instagram-techniques-you-must-learn/"><u>Charting the Course to Celebrity The #9 Instagram Techniques You Must Learn</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-or-disabling-network-discovery-on-your-windows-11-pc-a-step-by-step-guide/"><u>Enabling or Disabling Network Discovery on Your Windows 11 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-breathtaking-picture-quality-a-detailed-review-of-the-best-features-on-the-samsung-qn55q60rafxza-tv-with-hdr10plus-support/"><u>Experience Breathtaking Picture Quality: A Detailed Review of the Best Features on the Samsung QN55Q60RAFXZA TV with HDR10+ Support</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-issues-with-the-dnssd-component-not-being-found/"><u>How to Resolve Issues with the DNSSD Component Not Being Found</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ios-vs-android-a-deep-dive-analysis-of-their-official-stores/"><u>IOS Vs. Android: A Deep-Dive Analysis of Their Official Stores</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macos-sharing-essentials-how-to-set-up-a-network-drive-connection/"><u>MacOS Sharing Essentials: How To Set Up a Network Drive Connection</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-through-connection-issues-is-the-nintendo-switch-online-service-suffering-a-downtime/"><u>Navigating Through Connection Issues - Is the Nintendo Switch Online Service Suffering a Downtime?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-into-the-future-samsungs-anticipated-announcements-and-leaks-for-unpacked-2025-event/"><u>Sneak Peek Into the Future: Samsung's Anticipated Announcements & Leaks for Unpacked 2025 Event</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-monitoring-your-internet-consumption/"><u>Step-by-Step Guide: Monitoring Your Internet Consumption</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-official-viewing-order-for-all-star-trek-movies-an-essential-watchlist/"><u>The Official Viewing Order for All Star Trek Movies: An Essential Watchlist</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oneplus-open-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from OnePlus Open to Gmail | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-on-how-to-mail-a-valve-store-gift-voucher/"><u>Ultimate Tutorial on How to Mail a Valve Store Gift Voucher</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo Reno 8T 5G | Dr.fone</u></a></li>
 </ul></div>
 

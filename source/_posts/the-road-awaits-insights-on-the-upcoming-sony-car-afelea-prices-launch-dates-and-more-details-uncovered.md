@@ -1,7 +1,7 @@
 ---
 title: "The Road Awaits: Insights on the Upcoming Sony Car (Afelea) – Prices, Launch Dates & More Details Uncovered"
-date: 2024-08-12T04:04:38.872Z
-updated: 2024-08-13T04:04:38.872Z
+date: 2025-03-01T20:31:36.003Z
+updated: 2025-03-03T00:19:41.335Z
 categories:
   - BestProducts
 description: "This Article Describes The Road Awaits: Insights on the Upcoming Sony Car (Afelea) – Prices, Launch Dates & More Details Uncovered"
@@ -28,16 +28,10 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 
  Orders will be taken in the first half of next year, potentially allowing US drivers to be behind the wheel by spring 2026.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Lifewire's Release Date Estimate
 
  The Afeela looks poised to be available in North America by spring 2026.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Sony Car (Afeela) Price Rumors 
 
 [ According to The Verge's early reporting](https://www.theverge.com/2023/1/4/23539863/sony-honda-electric-vehicle-afeela-ces-reveal-photos) , the Afeela’s pricing will match competitors in the luxury vehicle space, like Mercedes-Benz, Volvo, and Porsche, including possible subscription models to some of its services. But competition with and resemblance to the Tesla, specifically the Tesla Model S, feels pretty undeniable. Some even see similarities to models such as the Porsche 911.
@@ -46,18 +40,12 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 
  As concept-to-production details take shape, we expect to hear more rumors about pricing, so stay tuned.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information 
 
  Sony Car pre-ordering looks like it will start in the first few months of 2025\. All signs point to US orders first, followed by pre-orders and debuts in the Japanese and European markets. 
 
  We’ll make updates here as we learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sony Car (Afeela) Features 
 
  The Sony car has been a concept for a while, but with the updated prototype unveiled at CES 2024 and recent announcements about collaborations with the likes of Microsoft and Epic Games, the expected feature set is starting to take shape in the production-ready model.
@@ -86,9 +74,6 @@ Sony Interactive Entertainment
 
 [  Electric Vehicles: A Short History Lesson ](https://www.lifewire.com/electric-vehicles-a-short-history-lesson-5202203) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ##  Sony Car (Afeela) Specs and Hardware 
 
  The 2024 Sony car prototype offers some clues about the production model's specs. 
@@ -107,9 +92,6 @@ Sony Interactive Entertainment
 
  Check back for updates about the Sony car release date and more features and specs chatter. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Latest News About the Sony Car (Afeela) 
 
  There’s a lot more[ tech news from Lifewire](https://www.lifewire.com/news-4795879) . Here are a few stories of interest about Sony and EVs specifically.
@@ -128,8 +110,6 @@ Sony Interactive Entertainment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +117,24 @@ Sony Interactive Entertainment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-strategies-for-perfecting-igtv-video-titles-for-2024/"><u>[New] Strategies for Perfecting IGTV Video Titles for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ultimate-list-10-relaxing-game-hits-for-2024/"><u>[Updated] Ultimate List 10 Relaxing Game Hits for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-perfect-the-cinematic-ig-look-invest-in-slowing-down/"><u>2024 Approved Perfect the Cinematic IG Look Invest in Slowing Down</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-professional-video-tweaks-via-youtube-studio-editor/"><u>2024 Approved Professional Video Tweaks via YouTube Studio Editor</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1728478676125-aomei-backupper/"><u>簡化系統恢复：AOMEI Backupper日志更新指南</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-transformative-experience-with-apple-vision-pro-enthralling-yet-exhausting-a-review-of-a-classic-tv-series/"><u>A Transformative Experience with Apple Vision Pro: Enthralling Yet Exhausting - A Review of a Classic TV Series</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-multifunctional-qi2-charger-a-game-changer-for-apple-enthusiasts-explore-on-zdnet/"><u>Discover the Ultimate Multifunctional Qi2 Charger: A Game-Changer for Apple Enthusiasts - Explore on ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-mac-os-x-keychain-passwords-a-step-by-step-guide/"><u>Discovering Mac OS X Keychain Passwords: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-enhancing-imagery-a-step-by-step-guide-to-crop-videos-on-instagram/"><u>In 2024, Enhancing Imagery A Step-by-Step Guide to Crop Videos on Instagram</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-premier-9-social-media-screen-grabs/"><u>In 2024, Premier 9 Social-Media Screen Grabs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-it-time-for-a-new-apple-watch-battery-discover-surprising-facts-about-its-life-span-zdnet/"><u>Is It Time for a New Apple Watch Battery? Discover Surprising Facts About Its Life Span | ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-apple-music-offers-for-students-secure-the-perks-with-easy-steps/"><u>Navigate Apple Music Offers for Students - Secure the Perks with Easy Steps!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/save-big-on-mobile-plans-this-4th-of-july-exclusive-deals-unveiled-by-zdnet/"><u>Save Big on Mobile Plans This 4Th of July: Exclusive Deals Unveiled by ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tech-giants-clash-how-apple-and-samsung-push-microsoft-into-ai-limelight-the-twist-you-didnt-see-coming/"><u>Tech Giants Clash: How Apple & Samsung Push Microsoft Into AI Limelight (The Twist You Didn’t See Coming)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-skyward-voyage-of-gopro-karma-analysis/"><u>The Skyward Voyage of GoPro Karma Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-user-discontent-a-deep-dive-into-the-widespread-issues-after-upgrading-to-iphone-ios-18-the-shared-experience/"><u>Unveiling User Discontent: A Deep Dive Into the Widespread Issues After Upgrading to iPhone iOS 18 - The Shared Experience</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-of-the-best-top-10-video-editing-software-for-creators/"><u>Updated The Best of the Best Top 10 Video Editing Software for Creators</u></a></li>
+</ul></div>
 

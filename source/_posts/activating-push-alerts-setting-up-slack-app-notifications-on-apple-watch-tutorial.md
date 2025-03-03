@@ -1,7 +1,7 @@
 ---
 title: "Activating Push Alerts: Setting Up Slack App Notifications on Apple Watch - Tutorial"
-date: 2025-02-08T03:13:50.070Z
-updated: 2025-02-12T02:32:53.208Z
+date: 2025-02-28T17:47:16.449Z
+updated: 2025-03-02T17:53:46.769Z
 tags:
   - apple
 categories:
@@ -48,19 +48,11 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -98,10 +90,6 @@ Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Set your notification schedule
 
 Let's go back to the Slack app's Notifications screen for a moment. Scroll down to General Settings and notice the Notification Schedule option. See how it says "Every day."
@@ -122,17 +110,9 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -179,24 +159,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-discovering-bargains-inexpensive-gopro-purchasing-guide/"><u>[Updated] Discovering Bargains Inexpensive GoPro Purchasing Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-vector-editors-as-acid-pro-successors/"><u>2024 Approved Innovative Vector Editors as ACID Pro Successors</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-timeline-enhancement-incor-written-by-assistant/"><u>2024 Approved Timeline Enhancement Incor Written by Assistant</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209509763-corsair-hs50-headset-mic-errors-learn-how-to-fix-it-and-restore-sound/"><u>Corsair HS50 Headset Mic Errors? Learn How to Fix It and Restore Sound!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-selecting-the-best-television-model-for-your-household-needs/"><u>Expert Advice: Selecting the Best Television Model for Your Household Needs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-attract-more-instagram-followers/"><u>How to Attract More Instagram Followers</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-your-pc-when-it-refuses-to-power-off-on-windows-11-step-by-step-guide/"><u>How to Fix Your PC When It Refuses to Power Off on Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-citations-the-ultimate-guide-to-referencing-chatgpt-in-your-work/"><u>Mastering Citations: The Ultimate Guide to Referencing ChatGPT in Your Work</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-lg-tv-channels-critical-details-every-user-should-know/"><u>Mastering LG TV Channels: Critical Details Every User Should Know</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/psvr-on-pc-learn-the-essentials-of-connecting-sonys-virtual-reality-headset-with-a-computer/"><u>PSVR on PC? Learn the Essentials of Connecting Sony's Virtual Reality Headset with a Computer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-network-not-registered-issue-on-your-samsung-device/"><u>Solving the 'Network Not Registered' Issue on Your Samsung Device</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sony-virtual-reality-gear-unveiled-discover-rumored-price-points-launch-dates-and-hardware-info/"><u>Sony Virtual Reality Gear Unveiled? Discover Rumored Price Points, Launch Dates & Hardware Info</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-to-buy-games-directly-on-oculus-meta-quest-2/"><u>Step-by-Step Process to Buy Games Directly on Oculus (Meta) Quest 2</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-essential-apps-every-student-and-parent-needs-for-academic-success/"><u>Top 6 Essential Apps Every Student & Parent Needs for Academic Success!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-list-best-no-cost-lut-downloads-for-2024/"><u>Ultimate List Best No-Cost LUT Downloads for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-itel-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Itel Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-lawsuit-how-sarah-silverman-and-peers-challenge-ai-leaders-openai-and-meta/"><u>Unveiling the Lawsuit: How Sarah Silverman and Peers Challenge AI Leaders OpenAI & Meta</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-guide-streaming-games-with-ease-on-rust-legacy/"><u>[New] In 2024, Ultimate Guide Streaming Games with Ease on Rust Legacy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pro-rated-list-the-best-5-hd-webcams-with-capture-microphones/"><u>[Updated] In 2024, Pro-Rated List The Best 5 HD Webcams with Capture Microphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/an-in-depth-look-at-the-operating-principles-of-electric-cycles/"><u>An In-Depth Look at the Operating Principles of Electric Cycles</u></a></li>
+<li><a href="https://win-updates.techidaily.com/complete-guide-how-to-retrieve-lost-files-after-performing-a-clean-install-of-windows-11/"><u>Complete Guide: How to Retrieve Lost Files After Performing a Clean Install of Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-icloud-email-security-with-dual-stage-verification/"><u>Enhancing iCloud Email Security with Dual-Stage Verification</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gamers-favorite-iphones-of-2023-top-picks-for-enthusiastic-players/"><u>Gamers' Favorite iPhones of 2023 – Top Picks for Enthusiastic Players</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y28-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y28 5G PC | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-recording-tools-top-5-webcam-capturers/"><u>In 2024, Essential Recording Tools - Top 5 Webcam Capturers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-online-stream-setup-the-vlc-methodology/"><u>In 2024, Optimal Online Stream Setup The VLC Methodology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-info-on-the-upcoming-google-pixel-fold-2-anticipated-cost-and-launch-timeline/"><u>Insider Info on the Upcoming Google Pixel Fold 2 - Anticipated Cost & Launch Timeline</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-growth-recipe-for-youtube-from-thousands-to-millions-for-2024/"><u>Rapid Growth Recipe for YouTube From Thousands to Millions for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essential-guide-to-choosing-among-our-favorite-gratis-uninstallers-top-15/"><u>The Essential Guide to Choosing Among Our Favorite Gratis Uninstallers (Top 15)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/tips-for-higher-youtube-traction-with-persistent-creative-commons-usage/"><u>Tips for Higher YouTube Traction with Persistent Creative Commons Usage</u></a></li>
 </ul></div>
 

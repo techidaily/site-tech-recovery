@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations From Apple’s iPhone 16 Launch: Introducing ‘Glowtime,’ AI Features, and New Apple Watch Series 10 - All Covered by ZDNet"
-date: 2025-02-09T20:58:14.479Z
-updated: 2025-02-12T02:47:12.300Z
+date: 2025-02-25T20:36:31.952Z
+updated: 2025-03-03T01:26:29.202Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -63,10 +59,6 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -108,10 +100,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,10 +109,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -161,10 +145,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,19 +190,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-video-editing-for-virality-a-comprehensive-guide-to-instagram-success/"><u>[New] In 2024, Video Editing for Virality A Comprehensive Guide to Instagram Success</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-mac-ready-detailed-screenflow-review-with-v4/"><u>[New] Mac Ready Detailed ScreenFlow Review with V4</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-seconds-in-a-snapshot-20mb-videography/"><u>[New] Seconds in a Snapshot 20MB Videography</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-gain-cost-free-visuals-from-selective-4-youtube-feeds/"><u>2024 Approved Gain Cost-Free Visuals From Selective 4 YouTube Feeds</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-unlocking-the-art-of-captions-a-short-guide-to-facebook-videos/"><u>2024 Approved Unlocking the Art of Captions A Short Guide to Facebook Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-iphone-gps-tracking-apps-our-expert-picks/"><u>Discover the Best iPhone GPS Tracking Apps: Our Expert Picks!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-connection-issues-6-effective-methods-for-an-unresponsive-apple-watch/"><u>Fixing Connection Issues: 6 Effective Methods for an Unresponsive Apple Watch</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-right-lenovo-t430-drivers-for-your-windows-1087-system-fast-and-effortless/"><u>Get the Right Lenovo T430 Drivers for Your Windows 10/8/7 System – Fast & Effortless!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-history-on-your-flip-watching-old-fb-stories/"><u>In 2024, History on Your Flip Watching Old FB Stories</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-look-at-how-t-mobile-operates-seamless-domestic-roaming-for-customers/"><u>Inside Look at How T-Mobile Operates Seamless Domestic Roaming for Customers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/location-illusions-a-step-by-step-guide-to-changing-your-phones-coordinates/"><u>Location Illusions: A Step-by-Step Guide to Changing Your Phone's Coordinates</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-child-online-security-the-best-8-tools-for-parents/"><u>Navigating Child Online Security: The Best 8 Tools for Parents</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshooting-your-unresponsive-hard-disk-expert-advice-by-yl-software-solutions/"><u>Troubleshooting Your Unresponsive Hard Disk: Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-t-mobiles-home-network-roaming-features/"><u>Understanding T-Mobile's Home Network Roaming Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snapcutsolution-examination-extensive-review/"><u>[New] SnapCutSolution Examination – Extensive Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-top-8-trending-facebook-video-hits/"><u>2024 Approved Top 8 Trending Facebook Video Hits</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-practices-in-setting-up-your-playstation-4s-webcam-location/"><u>Best Practices in Setting Up Your PlayStation 4'S Webcam Location</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-phones-fun-with-these-eight-supreme-mobile-game-experiences/"><u>Elevate Your Phone's Fun with These Eight Supreme Mobile Game Experiences</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-hulu-viewing-on-an-lg-smart-tv-a-comprehensive-tutorial/"><u>Enabling Hulu Viewing on an LG Smart TV - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-on-how-to-permit-website-data-storage-via-cookies/"><u>Essential Tips on How to Permit Website Data Storage via Cookies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-x50-gt-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor X50 GT Face Lock?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-holistic-locomotion-examination-2023/"><u>In 2024, Holistic Locomotion Examination 2023</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-iphone-photography-overcoming-common-auto-focus-failures/"><u>Mastering iPhone Photography: Overcoming Common Auto-Focus Failures</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/most-innovative-arvr-iphoneandroid-apps/"><u>Most Innovative AR/VR iPhone/Android Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/remove-all-preferred-songs-on-spotify-a-simple-detailed-tutorial/"><u>Remove All Preferred Songs On Spotify: A Simple, Detailed Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/techniques-to-restore-precision-display-quality-addressing-discoloration-and-warping-in-computers/"><u>Techniques to Restore Precision Display Quality: Addressing Discoloration and Warping in Computers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-peak-of-primes-amazons-hot-tweets-and-shows-23/"><u>The Peak of Primes Amazon’s Hot Tweets & Shows, '23</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-7-best-alarm-clock-applications-your-guide-to-waking-up-easily/"><u>Top 7 Best Alarm Clock Applications: Your Guide to Waking Up Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-street-fighter-6-lag-and-improving-pc-ping/"><u>Troubleshooting Steps: Resolving Street Fighter 6 Lag & Improving PC Ping</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-windows-pc-code-19-error/"><u>Ultimate Guide: Resolving Windows PC -Code 19 Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-hooking-up-your-nintendo-switch-for-enhanced-gaming-experience/"><u>Ultimate Tutorial: Hooking Up Your Nintendo Switch for Enhanced Gaming Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unifying-mp4-with-m4a-content-effective-techniques-for-seamless-integration/"><u>Unifying MP4 with M4A Content: Effective Techniques for Seamless Integration</u></a></li>
 </ul></div>
 

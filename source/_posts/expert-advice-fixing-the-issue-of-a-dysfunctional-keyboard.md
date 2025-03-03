@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Fixing the Issue of a Dysfunctional Keyboard"
-date: 2024-08-12T04:05:49.586Z
-updated: 2024-08-13T04:05:49.586Z
+date: 2025-02-27T19:17:02.543Z
+updated: 2025-03-02T19:19:19.567Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice: Fixing the Issue of a Dysfunctional Keyboard"
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/5e09a4926c03b7375439c87dd90fb6aec12585203
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9 Ways to Fix the Problem
 
  A number of issues could be causing the keyboard to stop typing. Here are some solutions we've seen work:  
@@ -41,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/5e09a4926c03b7375439c87dd90fb6aec12585203
  If your keyboard stopped working after an update, you may need to[roll back your driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) instead.
 9. [Disable sticky and filter keys](https://www.lifewire.com/how-to-turn-off-sticky-keys-windows-4692841) . If your keyboard seems to work but is behaving unexpectedly and doesn't type the keys you're pressing, you may be able to fix it by disabling sticky, filter, and toggle keys.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Why the Keyboard Quit Working
 
  Some of the reasons a keyboard might be unresponsive include:
@@ -55,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/5e09a4926c03b7375439c87dd90fb6aec12585203
 
 [The Best Bluetooth Keyboards for Smartphones in 2024](https://www.lifewire.com/best-bluetooth-keyboards-for-smartphones-4177695)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![A computer keyboard on white paper](https://www.lifewire.com/thmb/CeM-fcdHU1euNfVLy8semOjckm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bryan-natanael-hR8l1s4u8QE-unsplash-bf561a995f8840d29937369560cabfab.jpg)
 
 Bryan Natanael / Unsplash
@@ -90,8 +80,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +87,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ideal-emulation-tools-to-relive-sonys-playstation-experience/"><u>[New] In 2024, Ideal Emulation Tools to Relive Sony's PlayStation Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-top-5-online-converters-for-gifs-to-videos/"><u>[New] Ultimate Guide Top 5 Online Converters for GIFs to Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-resolving-the-frustrating-quirks-of-apples-latest-iphone-a-must-read-guide-tech-insider/"><u>1. Resolving the Frustrating Quirks of Apple's Latest iPhone: A Must-Read Guide | Tech Insider</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/affordable-and-effective-how-the-anker-power-bank-at-just-20-transforms-portable-charging-expert-tips/"><u>Affordable & Effective: How the Anker Power Bank at Just $20 Transforms Portable Charging - Expert Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoid-these-devastating-errors-on-your-apple-vision-pro-or-face-serious-consequences-expert-tips-inside/"><u>Avoid These Devastating Errors on Your Apple Vision Pro or Face Serious Consequences! Expert Tips Inside.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/budget-friendly-iphone-14-plus-with-extended-battery-life-and-top-reasons-to-choose-it-expert-review/"><u>Budget-Friendly iPhone 14 Plus with Extended Battery Life and Top Reasons to Choose It | Expert Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/capacitance-c-is-measured-in-farads-f/"><u>Capacitance (C) Is Measured in Farads (F).</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/connect-movie-files-in-youtv-catalog/"><u>Connect Movie Files in YouTV Catalog</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-for-handling-windows-11s-0xc1900208-installation-hurdle/"><u>Effective Strategies for Handling Windows 11'S 0xC1900208 Installation Hurdle</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-the-benefits-of-cryptocurrency-adoption-insights-from-yl-computing/"><u>Exploring the Benefits of Cryptocurrency Adoption: Insights From YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-redmi-k70-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Redmi K70 Phone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/making-the-right-pick-in-apples-notebook-lineup-in-depth-review-of-m2-vs-m3-macbook-air-options-zdnet-insights/"><u>Making the Right Pick in Apple's Notebook Lineup: In-Depth Review of M2 Vs. M3 MacBook Air Options | ZDNET Insights</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-essential-guide-to-implementing-lame-for-high-quality-auditory-outputs-in-audacity/"><u>New 2024 Approved The Essential Guide to Implementing Lame for High-Quality Auditory Outputs in Audacity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/peloton-vs-myx-comparing-bike-sturdiness-for-heavier-cyclists-find-out-which-supports-more/"><u>Peloton vs Myx: Comparing Bike Sturdiness for Heavier Cyclists – Find Out Which Supports More!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/samsung-galaxy-a05s-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy A05s ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-airtag-wallets-in-2er-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated AirTag Wallets in 2Er 2024 - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-leading-note-taking-tablets-of-2023-expertly-reviewed-for-maximum-efficiency-pcmag/"><u>Ultimate Guide to the Leading Note-Taking Tablets of 2023: Expertly Reviewed for Maximum Efficiency | PCMag</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-and-get-amd-radeon-rx-580-graphics-card-drivers-fast-and-simple/"><u>Update and Get AMD Radeon RX 580 Graphics Card Drivers - Fast & Simple</u></a></li>
+</ul></div>
 

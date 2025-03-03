@@ -1,7 +1,7 @@
 ---
 title: "Demystifying USSD: Everything You Need to Know About Unstructured Supplementary Service Data"
-date: 2024-08-12T04:02:12.133Z
-updated: 2024-08-13T04:02:12.133Z
+date: 2025-02-24T18:42:54.554Z
+updated: 2025-03-03T03:03:22.905Z
 categories:
   - BestProducts
 description: "This Article Describes Demystifying USSD: Everything You Need to Know About Unstructured Supplementary Service Data"
@@ -16,37 +16,24 @@ thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464e
 
  The USSD messaging protocol is part of the[Global System for Mobile Communications (GSM)](https://www.lifewire.com/definition-of-gsm-578670) digital cellular standard. Like[SMS](https://www.lifewire.com/what-is-sms-mms-iphone-2000247) and[MMS](https://www.lifewire.com/what-is-mms-picture-messaging-578671) , USSD facilitates communication without the need for a dedicated app. Unlike SMS, which is used for back-and-forth text messaging between two phones, USSD establishes a real-time connection between your phone and a[mobile network](https://www.lifewire.com/how-does-a-mobile-network-work-2373338) or a[server](https://www.lifewire.com/servers-in-computer-networking-817380) . That way, you can do things like add time to your phone plan, check your bank account, and more without having to download or install any apps on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is a USSD Code?
 
  USSD relies on codes made up of characters found on every mobile phone. When you dial a USSD code, your phone sends a request to a USSD[network gateway](https://www.lifewire.com/definition-of-gateway-817891) , which routes the request to a web-based application. The network gateway then returns a text-based menu that you can use to interact with the app.
 
  On[prepaid phones](https://www.lifewire.com/best-cheap-cell-phone-plans-4156583) , for example, you can use USSD codes to check your remaining balance, enable roaming, or use location-based services. It's also possible to get social media updates from[Facebook](https://www.lifewire.com/what-is-facebook-3486391) and[X (formerly Twitter)](https://www.lifewire.com/what-exactly-is-twitter-2483331) via USSD. USSD codes can be used to transfer money,[set up call forwarding](https://www.lifewire.com/call-forwarding-explained-3426769) , and even browse the web via[Wireless Application Protocol (WAP)](https://www.lifewire.com/definitions-of-wap-816548) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Running USSD Codes
 
  Most USSD codes begin with an asterisk (**\*** ) or a hashtag (**#** ). To initiate a USSD request, enter the USSD code on your keypad. Some codes will run immediately while some require you to tap**Send** .
 
  Since USSD applications run on your mobile network rather than the device itself, they don't take up storage space or consume system resources, making them especially useful for older phones. No internet connection is required to use USSD apps; as long as you can connect to your[mobile carrier's](https://www.lifewire.com/what-is-a-mobile-carrier-2373339) network, you can take advantage of USSD codes.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Feature Codes
 
  You don't need a[smartphone](https://www.lifewire.com/what-makes-a-smartphone-smart-579597) to use USSD codes; however, some codes are exclusive to specific types of phones. Also called quick codes or feature codes, these USSD codes are programmed into the device's[SIM card](https://www.lifewire.com/what-are-sim-cards-577532) .
 
  Some feature codes only serve one purpose. For example, dialing**\*#06#** on most[Android](https://www.lifewire.com/what-is-google-android-1616887) phones will display your[IMEI](https://www.lifewire.com/how-to-find-your-phones-imei-or-meid-number-2377713) number. On[iPhones](https://www.lifewire.com/apple-iphone-basics-features-1999727) , dialing**\*3001#12345#\*** with display information about your device and SIM card. Other codes are specific to your mobile carrier. For example, on T-Mobile phones, you can turn on call forwarding with the code**\*43#** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Other Uses for USSD
 
  USSD codes allow companies to provide web-based services to users. Businesses can develop USSD-based apps to do things like:
@@ -56,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464e
 * Confirm delivery orders
 * Send virtual coupons
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Making Payments With USSD
 
  Some banks and online payment services support balance inquiries and money transfers via USSD, which is more convenient than using a mobile app. You must first register your phone number with a payment method, then dial**\*99#** to set up mobile payments.
@@ -67,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464e
 
  USSD payments are more common outside of the U.S., particularly in parts of the world where internet connections are unreliable. The only major downside is that USSD codes do not work on all phones, but they are still more accessible than mobile apps designed for smartphones.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## USSD, MSS, and SMS
 
  USSD is often used in conjunction with SMS and MSS. For instance, when you purchase digital goods via USSD payment, they can be delivered via MSS, and you might receive a receipt via SMS.
@@ -94,8 +75,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +82,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-a-step-by-step-framework-for-engaging-fb-giving-campaigns/"><u>[New] 2024 Approved A Step-by-Step Framework for Engaging FB Giving Campaigns</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-cutting-edge-microphones-synergy-with-4k-cameras/"><u>[Updated] Cutting-Edge Microphones Synergy with 4K Cameras</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-audio-free-recording-a-comprehensive-guide/"><u>[Updated] In 2024, Audio-Free Recording A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-tiny-screenplay-scheme-for-2024/"><u>[Updated] Tiny Screenplay Scheme for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/defeating-the-formidable-fox-like-enemies-a-guide-for-botw-players/"><u>Defeating the Formidable Fox-Like Enemies: A Guide for BOTW Players</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-worthiness-is-chatgpt-plus-an-essential-ai-tool-for-you/"><u>Exploring the Worthiness: Is ChatGPT Plus an Essential AI Tool for You?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-dnssddll-not-found-or-missing-errors/"><u>How to Fix Dnssd.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-foremost-funny-image-maker/"><u>In 2024, Foremost Funny Image Maker</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/our-8-favorite-book-reading-apps-of-2024/"><u>Our 8 Favorite Book Reading Apps of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-nspr4dll-missing-file-a-step-by-step-guide/"><u>Resolving nspr4.dll Missing File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-smart-approach-for-posting-igtv-on-your-story/"><u>The Smart Approach for Posting IGTV on Your Story</u></a></li>
+</ul></div>
 

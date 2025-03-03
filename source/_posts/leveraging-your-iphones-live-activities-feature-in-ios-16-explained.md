@@ -1,7 +1,7 @@
 ---
 title: Leveraging Your iPhone's Live Activities Feature in iOS 16 Explained
-date: 2024-08-12T04:01:41.225Z
-updated: 2024-08-13T04:01:41.225Z
+date: 2025-02-23T22:43:37.090Z
+updated: 2025-03-02T23:27:42.114Z
 categories:
   - BestProducts
 description: This Article Describes Leveraging Your iPhone's Live Activities Feature in iOS 16 Explained
@@ -10,9 +10,6 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 ---
 
 ## Deactivate Critical Messaging Warnings on iPhones with This Simple Tutorial
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### What to Know
 
 * Amber alerts on iPhone can be turned off in**Settings** \>**Notifications** .
@@ -21,9 +18,6 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 
  This article explains how to disable Amber alerts on an iPhone. It also covers how to turn off similar government alerts, including emergency, public safety, and test alerts.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Disable Amber Alerts and Other iPhone Emergency Alerts
 
  You're just a few taps away from shutting down these notifications, but be sure to keep reading to learn why we recommend keeping Amber alerts turned on.
@@ -31,25 +25,16 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 1. Tap the[Settings](https://www.lifewire.com/understanding-device-settings-4138532) app to open it, then tap**Notifications** .
 2. Scroll to the bottom of the screen to find the section labeled**Government Alerts** . Amber alerts and Public Safety Alerts are set to on/green by default; tap a toggle to switch that alert off.
 3. Tap**Emergency Alerts** for a few other options. From there, you can control emergency alerts without affecting the option you chose for Amber alerts in the last step. This is also how you stop emergency alerts from bypassing silent mode.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Settings, Notifications, and Emergency Alerts screens on an iPhone](https://www.lifewire.com/thmb/k4Pdtou2x8ooq0Bqd1UnlBWO_KA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-amber-alerts-bc193ddbd3c24bd895b61242e22ca176.png)
 
  Got an Apple Watch?[Check out how to avoid notification overload](https://www.lifewire.com/avoid-notification-overload-apple-watch-1999672) , including notifications from emergency alerts.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can Do Not Disturb Silence Emergency and Amber Alerts on iPhone?
 
  The[iPhone's Do Not Disturb feature](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) lets you silence notifications, but it does not work with Amber alerts and other emergency alerts. Because they signal an emergency that could affect your life and safety or someone else's, Do Not Disturb can't block these alerts.
 
  There is no way to block or silence Amber alerts except by turning them off. As for emergency alerts, there is a toggle called**Always Play Sound** that you can turn off (see Step 3 above). Doing this prevents the sound from coming through your phone when you're in silent mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Can You Change Emergency and Amber Alert Tones on iPhone?
 
  While you can[change the sound used for other alerts](https://www.lifewire.com/how-to-change-the-default-ringtone-on-your-iphone-2000554) , you can't customize emergency alert sounds. Yes, the noise for these alerts is unpleasant and may even be startling, but it's worth remembering that they're unpleasant because they're supposed to get your attention.
@@ -58,9 +43,6 @@ thumbnail: https://www.lifewire.com/thmb/2quEB8nuOrsyyAweqvcHn4YXHhw=/540x405/fi
 
 [How to Turn Off SOS on an iPhone 14](https://www.lifewire.com/iphone-14-turn-off-sos-8630001)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Why You Shouldn't Disable Amber and Emergency Alerts on iPhone
 
  Even though these alerts can sometimes be surprising or unwelcome, you should leave them on—especially the emergency alerts. These messages arrive when there is dangerous weather or another severe health or safety event imminent in your area. If a tornado, flash flood, or other potential natural disaster is heading your way, you'll want to know so that you can take action.
@@ -98,8 +80,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +87,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-from-static-to-vivid-moments-with-the-new-polaroid-xs-100i/"><u>[New] 2024 Approved From Static to Vivid Moments with the New Polaroid XS 100I</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-screen-recordings-with-gotomeeting/"><u>[Updated] Navigating Screen Recordings with GoToMeeting</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722882495989-foldable-iphones-preview-of-potential-prices-release-dates-and-specs-while-we-sort-fact-from-fiction-in-latest-gossip/"><u>Foldable iPhones: Preview of Potential Prices, Release Dates and Specs While We Sort Fact From Fiction in Latest Gossip.</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-easy-youtube-introduction-design-tips-and-tricks/"><u>In 2024, Easy YouTube Introduction Design Tips and Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-chromebook-prime-zoom-features/"><u>In 2024, Optimizing Chromebook Prime Zoom Features</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/is-it-possible-to-see-all-chatted-content-of-others/"><u>Is It Possible to See All Chatted Content of Others?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-the-iphone-15-pro-max-waterproof/"><u>Is the iPhone 15 Pro Max Waterproof?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/new-gigabyte-motherboard-design-supports-weight-up-to-128-pounds-on-graphics-cards-but-cracking-concerns-remain-with-reinforced-slots/"><u>New Gigabyte Motherboard Design: Supports Weight Up to 128 Pounds on Graphics Cards - But Cracking Concerns Remain with Reinforced Slots</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-making-your-computers-bluetooth-show-up-in-device-manager-again/"><u>Solution Guide: Making Your Computer's Bluetooth Show Up in Device Manager Again</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-rumors-swirl-as-apple-watch-series-x-price-and-release-predictions-surface-explore-the-tech-insiders-take/"><u>The Next Big Thing? Rumors Swirl as Apple Watch Series X Price and Release Predictions Surface - Explore the Tech Insider's Take!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-windows-experience-efficient-redoing-ahead/"><u>Transform Your Windows Experience: Efficient Redoing Ahead</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-the-bsod-error-on-your-pc/"><u>Ultimate Guide: Resolving the BSOD Error on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/water-resistance-in-apples-latest-gem-how-well-does-the-iphone-15-handle-moisture/"><u>Water Resistance in Apple's Latest Gem: How Well Does the iPhone 15 Handle Moisture?</u></a></li>
+</ul></div>
 

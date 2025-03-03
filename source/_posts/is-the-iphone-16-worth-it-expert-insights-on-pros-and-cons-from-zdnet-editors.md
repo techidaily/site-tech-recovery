@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone 16 Worth It? Expert Insights on Pros and Cons From ZDNet Editors
-date: 2025-02-06T08:47:18.259Z
-updated: 2025-02-11T18:42:45.033Z
+date: 2025-02-27T18:29:33.000Z
+updated: 2025-03-02T23:35:27.296Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. We need a clearer Apple Intelligence timeline
 
 Jason Hiner/ZDNET
@@ -42,10 +38,6 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Uncertainty around on-device performance
 
 Adrian Kingsley-Hughes/ZDNET
@@ -55,10 +47,6 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 **Also: [4 best iPhone 16 features that make Apple's standard model worth upgrading to](https://www.zdnet.com/article/4-best-iphone-16-features-that-make-apples-standard-model-worth-upgrading-to/)**
 
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
 
@@ -77,10 +65,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
 
@@ -124,18 +108,20 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-dividing-drama-how-to-split-vimeo-videos/"><u>[New] In 2024, Dividing Drama How to Split Vimeo Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-30-pro-windows-10-secrets-revealed/"><u>[New] Top 30 Pro Windows 10 Secrets Revealed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-best-flying-toys-for-kids-and-family-fun-for-2024/"><u>[Updated] Best Flying Toys for Kids & Family Fun for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-complete-guide-to-iphone-voice-memos-setup-for-2024/"><u>[Updated] The Complete Guide to iPhone Voice Memos Setup for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comparing-competitors-how-recuva-leads-the-charge-in-data-rescue-tools/"><u>Comparing Competitors: How Recuva Leads the Charge in Data Rescue Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ructing-youtube-video-content-that-resonates-with-viewers/"><u>Constructing YouTube Video Content That Resonates with Viewers</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1726028695991-dvd-ripper-pro/"><u>DVD Ripper Proインストール・アンインストールの完全ガイド:迷いなく実行するためのヒント</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722971057638-effortless-installation-get-your-wacom-drivers-now/"><u>Effortless Installation: Get Your Wacom Drivers Now</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elite-gamers-guide-to-optimal-compact-computing-machines/"><u>Elite Gamer's Guide to Optimal Compact Computing Machines</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-restore-and-replace-a-lost-d3d9dll-file-effectively/"><u>How to Restore and Replace a Lost d3d9.dll File Effectively</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-science-of-writing-gripping-documentaries/"><u>In 2024, The Science of Writing Gripping Documentaries</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-pros-playbook-mastering-the-art-of-capturing-ps4-gaming-for-2024/"><u>The Pro's Playbook Mastering the Art of Capturing PS4 Gaming for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/xbox-one-wont-connect-a-comprehensive-guide-to-correcting-the-no-signal-error/"><u>Xbox One Won't Connect: A Comprehensive Guide to Correcting the 'No Signal' Error</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-8-pioneering-open-source-platforms-revolutionizing-business-calls/"><u>[New] In 2024, 8 Pioneering Open-Source Platforms Revolutionizing Business Calls</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-guide-crafting-your-own-home-theater-projector-screen/"><u>DIY Guide: Crafting Your Own Home Theater Projector Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-setup-tips-for-combining-samsung-soundbar-and-external-subwoofer/"><u>Easy Setup Tips for Combining Samsung Soundbar and External Subwoofer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-laptop-audio-issues-a-step-by-step-guide-to-restoring-internal-speaker-functionality/"><u>Fixing Laptop Audio Issues: A Step-by-Step Guide to Restoring Internal Speaker Functionality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-installation-of-epson-perfection-v600-scanner-drivers-available/"><u>Free Installation of Epson Perfection V600 Scanner Drivers Available</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-fix-fps-drops-in-games-on-pc/"><u>How to Fix FPS Drops in Games on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-or-android-the-ultimate-guide-to-making-the-right-choice-for-your-needs/"><u>IPhone or Android? The Ultimate Guide to Making the Right Choice for Your Needs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-tricks-revealed-how-to-put-an-end-to-irritating-message-bombardments/"><u>IPhone Tricks Revealed: How to Put an End to Irritating Message Bombardments</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/online-aggregators-for-securing-affiliates-on-googles-platform-for-2024/"><u>Online Aggregators for Securing Affiliates on Google's Platform for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/roku-tv-troubleshooting-how-to-use-smartphone-apps-instead-of-a-remote/"><u>Roku TV Troubleshooting: How to Use Smartphone Apps Instead of a Remote</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-art-of-modern-reading-how-the-2019-kindle-oasis-transforms-e-books-to-feel-just-like-real-pages/"><u>The Art of Modern Reading: How the 2019 Kindle Oasis Transforms E-Books to Feel Just Like Real Pages</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-list-for-top-10-affordable-recording-software-for-2024/"><u>The Ultimate List for Top 10 Affordable Recording Software for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-new-convenience-adjusting-settings-on-roku-tv-via-touchscreen-options/"><u>Unlocking New Convenience: Adjusting Settings on Roku TV via Touchscreen Options</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-5-best-cellphone-tunes-of-the-year/"><u>Updated 2024 Approved 5 Best Cellphone Tunes of the Year</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-screen-shot-techniques-learn-the-four-key-strategies/"><u>Windows 11 Screen Shot Techniques - Learn the Four Key Strategies</u></a></li>
 </ul></div>
 

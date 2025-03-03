@@ -1,7 +1,7 @@
 ---
 title: "To Upgrade or Not: Pros & Cons of Switching to iPhone 16, According to Expert Reviewers at ZDNet"
-date: 2025-02-07T07:36:37.801Z
-updated: 2025-02-12T01:06:34.902Z
+date: 2025-03-01T16:10:22.597Z
+updated: 2025-03-02T20:30:19.399Z
 tags:
   - apple
 categories:
@@ -46,10 +46,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -61,10 +57,6 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -92,10 +84,6 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. The Apple Intelligence features aren't perfect
 
 Apple's biggest flexes over the last few months have been their Apple Intelligence and AI features, [which the iPhone 16 is the guinea pig for](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). While some of these new AI features are undeniably cool, like the new Camera Control, enhanced Siri features, and more, the features are still limited to the iPhone 15 Pro and above and rolling out only in beta over the next few weeks. 
@@ -106,10 +94,6 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Not compelled enough to upgrade
 
 As reviews editor Kyle Kucharski says, it's never a good idea to blindly update your mobile tech every year without thinking. You've got to have at least one good reason to payout for a new model when the one you have is working perfectly fine. 
@@ -117,10 +101,6 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
 
@@ -168,21 +148,19 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhancing-content-with-youtube-tags-and-notes/"><u>[Updated] 2024 Approved Enhancing Content with YouTube Tags & Notes</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-optimize-clarity-mastering-close-up-techniques-in-videoleap/"><u>[Updated] Optimize Clarity Mastering Close-Up Techniques in Videoleap</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-strategic-forecasts-for-social-media-success-fbs-vision-in-2ranking/"><u>[Updated] Strategic Forecasts for Social Media Success FB's Vision in 2Ranking</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/affordable-beginners-toolkit-transforming-living-spaces-into-immersive-cinema-worlds/"><u>Affordable Beginner's Toolkit: Transforming Living Spaces Into Immersive Cinema Worlds</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-cellular-connectivity-on-the-apple-watch/"><u>Diagnosing and Repairing Cellular Connectivity on the Apple Watch</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-itel-p40-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Itel P40 Without PUK Codes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726029191792-mp4/"><u>MP4ビデオを高品質オーディオファイルに簡単変換する方法</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reviving-old-school-tech-enable-hidden-finder-sidebar-for-swift-file-browsing/"><u>Reviving Old School Tech: Enable Hidden Finder Sidebar for Swift File Browsing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-issues-how-to-resolve-problems-with-netflix-content-not-playing-correctly/"><u>Solving Issues: How to Resolve Problems with Netflix Content Not Playing Correctly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-haldll-file-not-found-issue-on-windows-xp-a-step-by-step-guide/"><u>Solving the Hal.dll File Not Found Issue on Windows XP: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/speed-up-your-iphone-internet-discover-these-8-wi-fi-enhancing-hacks/"><u>Speed Up Your iPhone Internet: Discover These 8 Wi-Fi Enhancing Hacks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-top-5-freebie-car-race-games-to-play-standalone-edition/"><u>The Top 5 Freebie Car Race Games to Play - Standalone Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-overcoming-a-missing-msxml4dll-file-issue/"><u>Troubleshooting Steps for Overcoming a Missing msxml4.dll File Issue</u></a></li>
-<li><a href="https://article-files.techidaily.com/virtual-realms-evolutions-tale/"><u>Virtual Realms Evolution's Tale</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-apple-iphone-8-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>Wondering the Best Alternative to Hola On Apple iPhone 8? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/zdnet-unveils-the-nearly-flawless-shure-mv7-mic-a-game-changer-hybrid-device-tailored-for-content-creators/"><u>ZDNet Unveils the Nearly Flawless Shure MV7 Mic: A Game-Changer Hybrid Device Tailored for Content Creators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-measures-to-record-mobile-devices/"><u>[Updated] In 2024, Advanced Measures to Record Mobile Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-eyes-on-the-future-of-urban-mobility-sonys-afeela-car-revealed-prices-release-dates-and-features-uncovered/"><u>All Eyes on the Future of Urban Mobility: Sony's Afeela Car Revealed – Prices, Release Dates & Features Uncovered</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/clonage-de-disques-durs-toshiba-vers-un-ssd-guide-complet/"><u>Clonage De Disques Durs Toshiba Vers Un SSD - Guide Complet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-microsoft-outlook-not-opening-issue/"><u>Easy Fixes for Microsoft Outlook Not Opening Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-contrast-to-clarity-discerning-the-distinct-roles-of-siri-and-chatgpt-in-modern-tech/"><u>From Contrast to Clarity: Discerning the Distinct Roles of Siri and ChatGPT in Modern Tech</u></a></li>
+<li><a href="https://facebook.techidaily.com/greatest-gathering-places-seniors-social-media-picks/"><u>Greatest Gathering Places: Seniors' Social Media Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-effortlessly-move-your-digital-album-collection-from-google-photos-to-apples-icloud/"><u>How to Effortlessly Move Your Digital Album Collection From Google Photos to Apple's iCloud</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-properly-utilize-system-restore-on-microsoft-windows/"><u>How to Properly Utilize System Restore on Microsoft Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-tackle-and-resolve-directx-error-challenges-on-cod-mw2/"><u>How to Tackle and Resolve DirectX Error Challenges on Cod: MW2</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-hot-40-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-digital-storefronts-buying-gaming-experiences-with-your-oculus-quest-2/"><u>Mastering Digital Storefronts: Buying Gaming Experiences with Your Oculus Quest 2</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/no-cost-creative-corner-finding-the-finest-tiktok-backgrounds-for-2024/"><u>No-Cost Creative Corner Finding the Finest TikTok Backgrounds for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-integration-managing-your-google-smart-speaker-through-a-windows-or-mac-computer-interface/"><u>Seamless Integration: Managing Your Google Smart Speaker Through a Windows or Mac Computer Interface</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-what-to-do-when-you-encounter-a-dnssddll-error-message/"><u>Troubleshooting: What to Do When You Encounter a 'dnssd.dll' Error Message</u></a></li>
 </ul></div>
 

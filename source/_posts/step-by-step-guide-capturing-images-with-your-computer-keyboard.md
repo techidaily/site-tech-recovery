@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing Images with Your Computer Keyboard"
-date: 2024-08-12T04:03:53.453Z
-updated: 2024-08-13T04:03:53.453Z
+date: 2025-02-24T23:34:40.715Z
+updated: 2025-03-02T20:46:37.954Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Capturing Images with Your Computer Keyboard"
@@ -14,16 +14,10 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 
  A lot of other "computer fan troubleshooting" articles out there recommend software tools that force your computer's fans to slow down, but we never recommend those. There's usually a very good reason for a fan to be running fast or making noise, the root cause of which you're working to solve with the steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Start by Cleaning Your Computer's Fans
 
 **Time Required:** It'll probably take around 30 minutes to clean all the fans in your computer, maybe less if you have a laptop or tablet, and more if you're using a desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![An illustration of a woman cleaning a computer fan with canned air.](https://www.lifewire.com/thmb/TOB6GAr87pf_esAo_hck2soK27Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fix-a-computer-fan-thats-loud-or-making-noise-65d3f7532fe94b3380c92f90c40ecded.jpg)
 
 ​Lifewire / Theresa Chiechi
@@ -39,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 3. If after cleaning a fan, it doesn't move_at all_ , it's time to replace it. Check first that the fan is plugged into the motherboard or whatever is providing the power, but beyond that, it's time for a new one.  
  If the fan is still working but not much better, or if it still isn't behaving like you think it should be, keep reading for some more ideas.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Keep Your Computer From Getting So Hot in the First Place
 
  It's very possible that your fans are all in perfect working order and, now that they're clean, running better than ever. However, if they're_still_ making a lot of noise, it may be because they're being asked to do more than they're designed to do.
@@ -52,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 
  If those ideas don't work, or you're not able to try them, it's time to look at_why_ your hardware might be being pushed to its limit.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Check Task Manager for Hungry Programs
 
  Unless your fan-cooled hardware has a physical issue and is heating up and making your fan noisy for that reason, your operating system and software are the primary reason your hardware works more (i.e., gets hotter).
@@ -64,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 1. [Open Task Manager](https://www.lifewire.com/task-manager-2626025) . The**Ctrl+Shift+Esc** keyboard shortcut combo is the quickest way there but the link has some other methods, too.
 2. Select the**Processes** tab. If you don't see it, try the**More details** link at the bottom of Task Manager.
 3. Select the**CPU** column so that the programs using most of the CPU's capacity are listed first.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Processes and CPU tab in Disk Manager for Windows 10](https://www.lifewire.com/thmb/TjPNAdTta7y3epE90kzfzwoDXW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_fix-a-computer-fan-thats-loud-or-making-noise-2289b79afa5743589591247feaff0d9c.jpg)
 
  Typically, if an individual program is "out of control" the CPU percentage will be very high — at or close to 100%. Programs listed in the single digits, even up to 25% or more, typically are not a concern.
@@ -81,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 
 [How to Fix It When There Is No Sound From Your Computer Speakers](https://www.lifewire.com/fix-no-sound-from-computer-speakers-5219903)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reasons Why Your Computer Fan Is Loud or Making Noise
 
  There are a couple of possible reasons why your computer fan is loud or making noise. The first and most common cause is a dirty fan. This can be either dirty fan blades themselves or dirty ball bearings that turn the fan.
@@ -112,8 +94,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +101,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigating-facebooks-automatic-video-features/"><u>[New] In 2024, Navigating Facebook's Automatic Video Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-dos-and-donts-in-night-portraits/"><u>[Updated] In 2024, Dos and Don'ts in Night Portraits</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-infographic-mind-numbing-youtube-factsfigures-and-statistics-2017/"><u>[Updated] Infographic - Mind Numbing YouTube Facts,Figures and Statistics 2017</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-securely-sharing-video-on-youtube-with-settings/"><u>2024 Approved Securely Sharing Video on YouTube with Settings</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chronological-order-to-binge-taylor-swift-movies/"><u>Chronological Order to Binge Taylor Swift Movies</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/dateierneuerungen-im-sketchup-programm-detailliert-entschlusseln-und-wiederherstellen/"><u>Dateierneuerungen Im SketchUp-Programm Detailliert Entschlüsseln Und Wiederherstellen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-resolving-the-haldll-file-absence-on-windows-xp-computers/"><u>Diagnosing and Resolving the Hal.dll File Absence on Windows XP Computers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-curve-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Lava Blaze Curve 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/imessage-for-android-heres-how-you-can-achieve-it/"><u>IMessage for Android? Here's How You Can Achieve It!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-steam-server-down-or-are-there-other-factors-affecting-your-online-gaming-experience/"><u>Is Steam Server Down, Or Are There Other Factors Affecting Your Online Gaming Experience?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-gionee-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Gionee</u></a></li>
+<li><a href="https://win11.techidaily.com/stealthy-settings-showcase-hiding-power-command-on-win11/"><u>Stealthy Settings Showcase: Hiding Power Command on Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-tasks-on-ios-the-best-18-shortcut-applications/"><u>Streamline Tasks on iOS: The Best 18 Shortcut Applications</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/streamlining-cancer-tracking-at-usc-automated-record-systems-meet-precision-with-abbyy-compliance-tools/"><u>Streamlining Cancer Tracking at USC: Automated Record Systems Meet Precision with ABBYY Compliance Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-budget-home-theater-starter-kits/"><u>The Best Budget Home Theater Starter Kits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-disposing-of-unwanted-mac-apps-safely/"><u>The Ultimate Tutorial: Disposing of Unwanted Mac Apps Safely</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET
-date: 2025-02-06T06:12:20.721Z
-updated: 2025-02-12T07:24:06.951Z
+date: 2025-02-27T18:31:53.420Z
+updated: 2025-03-02T22:15:08.004Z
 tags:
   - apple
 categories:
@@ -26,19 +26,11 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -48,10 +40,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -59,10 +47,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -93,10 +77,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,19 +120,21 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-examining-realities-intertwined-what-is-mixed-reality/"><u>[Updated] Examining Realities Intertwined What Is Mixed Reality?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-from-vlogs-to-virality-jake-paul-the-online-phenomenon-for-2024/"><u>[Updated] From Vlogs to Virality Jake Paul, the Online Phenomenon for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-optimize-video-quality-with-expertise-in-studio-editor-use-for-2024/"><u>[Updated] Optimize Video Quality with Expertise in Studio Editor Use for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/assessing-the-moisture-resistance-capabilities-of-the-upcoming-iphone-generation/"><u>Assessing the Moisture Resistance Capabilities of the Upcoming iPhone Generation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-user-corrections-improve-ai-learning-in-chatgpt-platforms/"><u>Can User Corrections Improve AI Learning in ChatGPT Platforms?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-amber-and-emergency-alerts-on-your-iphone-an-easy-guide/"><u>Disabling AMBER and Emergency Alerts on Your iPhone: An Easy Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-hottest-free-movie-selections-on-youtube-for-july-2n24/"><u>Discover the Hottest Free Movie Selections on YouTube for July 2N'24!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722895907636-evaluating-the-advantages-of-wi-fi-mesh-network-technology/"><u>Evaluating the Advantages of Wi-Fi Mesh Network Technology</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-10-gimbal-models-enhancing-smartphone-and-dslr-shots/"><u>In 2024, Pinnacle 10 Gimbal Models Enhancing Smartphone and DSLR Shots</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-simultaneous-scheduling-on-iphoneandroid-with-zoom-desktop-timeline/"><u>In 2024, Simultaneous Scheduling on iPhone/Android with Zoom Desktop Timeline</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes-for-2024/"><u>Intergalactic Visions The Best Sci-Fi Movies in Virtual Universes for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/retrieve-past-alerts-a-guide-to-viewing-previous-notifications-on-your-iphone/"><u>Retrieve Past Alerts: A Guide to Viewing Previous Notifications on Your iPhone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-linking-your-amazon-firestick-with-an-hd-or-full-hd-projector/"><u>Step-by-Step Guide: Linking Your Amazon Firestick with an HD or Full HD Projector</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unlock-the-power-of-pinterest-top-5-free-extractors-at-hand-for-2024/"><u>Unlock the Power of Pinterest Top 5 Free Extractors at Hand for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-leading-mp4-to-facebook-video-processor/"><u>[Updated] Leading MP4-to-Facebook Video Processor</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photoshop-and-lightroom-synergy-the-top-10-lut-selections-for-professionals/"><u>[Updated] Photoshop & Lightroom Synergy The Top 10 LUT Selections for Professionals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2023-top-10-trending-videos-on-twitter-for-2024/"><u>2023 | Top 10 Trending Videos on Twitter for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-for-pairing-your-samsung-soundbar-with-any-tv-model/"><u>Easy Steps for Pairing Your Samsung Soundbar With Any TV Model</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-xs-max-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone XS Max</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-guide-to-d-link-default-passwords-new-update-jul-2024/"><u>Essential Guide to D-Link Default Passwords – New Update (Jul 2024)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-and-tricks-to-eliminate-the-blue-screen-error-in-windows/"><u>Expert Tips and Tricks to Eliminate the Blue Screen Error in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-lowdown-on-the-new-samsung-galaxy-z-fold-6-what-you-need-to-know-about-price-and-specs/"><u>Get the Lowdown on the New Samsung Galaxy Z Fold 6 – What You Need to Know About Price & Specs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-7-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 7</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-retrieve-your-stored-instagram-reels-expert-techniques-and-tips/"><u>How To Retrieve Your Stored Instagram Reels: Expert Techniques and Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-the-world-of-smartwatches-top-5-aspects-to-assess-for-an-informed-purchase/"><u>Navigate the World of Smartwatches: Top 5 Aspects to Assess for an Informed Purchase</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/oled-vs-neo-qled-tvs-understanding-the-key-distinctions/"><u>OLED vs Neo QLED TVs: Understanding the Key Distinctions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-route-to-collecting-pictorial-frame-downloads/"><u>The Route to Collecting Pictorial Frame Downloads</u></a></li>
+<li><a href="https://win-net.techidaily.com/troubleshoot-windows-to-go-drive-issues-with-these-5-steps/"><u>Troubleshoot Windows To Go Drive Issues with These 5 Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-to-top-sierra-dvd-makers/"><u>Ultimate Guide to Top Sierra DVD Makers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Explore the Top 5 Exciting Features of Apple's iOS 18 Preview: A Sneak Peek"
-date: 2025-02-04T19:18:24.702Z
-updated: 2025-02-11T22:12:17.283Z
+date: 2025-02-23T23:02:29.868Z
+updated: 2025-03-02T19:03:08.040Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ I've been testing the public beta on a spare iPhone. Though I've run into severa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Place your Home screen icons anywhere
 
 With iOS 18, you can customize the Home screen by moving icons to any spot and applying different themes. To dive in, press down on any empty area of the Home screen. Drag an icon to any location on the screen, and it will stay in place. This means you can place icons in columns, as a border around the screen, or just free-floating in space.
@@ -46,19 +42,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Try a different Home screen theme
 
 Next, you can apply different themes to the Home screen. Press down on any empty area of the Home screen. Tap the Edit button in the upper left and select Customize. At the window at the bottom, you can change the icons between small and large and lighten or darken the wallpaper. You can also choose among four themes for the icons -- Automatic, Dark, Light, and Tinted. If you opt for Tinted, you're able to vary the color and intensity of the tint.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
 
@@ -68,10 +56,6 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Schedule a text
 
 Instead of sending a text right away, you can schedule it for a future date or time. For instance, maybe you're writing a text late at night but want it sent in the morning after the recipient is awake. After composing your message, tap the plus sign on the left, tap the More icon, and then select "Send Later." Swipe through the dates and times until you find the right combination for when you want the text to be sent. When ready, tap the blue arrow to schedule your text.
@@ -79,10 +63,6 @@ Instead of sending a text right away, you can schedule it for a future date or t
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Lock down an app
 
@@ -120,24 +100,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-android-deluxe-playtime-top-gb-games-on-your-phone/"><u>[New] 2024 Approved Android Deluxe Playtime Top GB Games on Your Phone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-puzzling-perfection-hunt-for-the-ultimate-rooms/"><u>[New] 2024 Approved Puzzling Perfection Hunt for the Ultimate Rooms</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-groundbreaking-webinar-name-builder-for-2024/"><u>[New] Groundbreaking Webinar Name Builder for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-obs-studio-vs-fraps-best-screen-recording-tools-battle/"><u>[Updated] 2024 Approved OBS Studio vs Fraps Best Screen Recording Tools Battle</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-client-reviews-the-heart-of-modern-marketing-strategies-for-2024/"><u>[Updated] Client Reviews The Heart of Modern Marketing Strategies for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-perfect-film-order-for-fans-of-taylor-swift/"><u>Discover the Perfect Film Order for Fans of Taylor Swift</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/enhancing-presentations-the-captivate-way-for-2024/"><u>Enhancing Presentations The Captivate Way for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-expert-windows-and-macos-screen-capture-tools/"><u>In 2024, Expert Windows & macOS Screen Capture Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-unlocking-youtubes-potential-for-visual-storytelling/"><u>In 2024, Unlocking YouTube's Potential for Visual Storytelling</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-the-2025-apple-developer-event-major-releases-and-updates-explored/"><u>Inside the 2025 Apple Developer Event: Major Releases & Updates Explored</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-email-recall-with-microsoft-outlooks-features/"><u>Mastering the Art of Email Recall with Microsoft Outlook's Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps5-versus-ps5-slim-the-ultimate-showdown-of-sony-consoles/"><u>PS5 Versus PS5 Slim - The Ultimate Showdown of Sony Consoles!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-remove-cannot-be-opened-unverified-developer-glitches-in-macos-systems/"><u>Steps to Remove 'Cannot Be Opened, Unverified Developer' Glitches in macOS Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-rectifying-steamdll-disappearance-issues/"><u>The Ultimate Guide to Rectifying Steam.dll Disappearance Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-essential-factors-for-choosing-the-right-smartwatch/"><u>Top 5 Essential Factors for Choosing the Right Smartwatch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-wi-fi-signal-boosters-the-ultimate-guide/"><u>Top Wi-Fi Signal Boosters : The Ultimate Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-and-fixing-the-jscriptdll-not-found-issue/"><u>Troubleshooting and Fixing the jScript.dll Not Found Issue</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-fixing-compatibility-issues-between-lg-devices-and-windows-1087-drivers/"><u>Ultimate Guide: Fixing Compatibility Issues Between LG Devices and Windows 10/8/7 Drivers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-pro-tips-and-hidden-tricks-revolutionize-your-whatsapp-experience/"><u>[New] Pro Tips and Hidden Tricks Revolutionize Your WhatsApp Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/iral-vibes-the-best-bgm-to-complement-your-yt-short-creations/"><u>[New] Viral Vibes The Best BGM to Complement Your YT Short Creations</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unleash-the-full-potential-in-the-metaverse-with-this-list/"><u>[Updated] In 2024, Unleash the Full Potential in the Metaverse with This List</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-motorola-moto-g84-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Motorola Moto G84 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-realme-c67-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Realme C67 4G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/approach-consider-properties-that-ensure-integrity-and-safety-when-handling-extremely-low-temperatures/"><u>Approach: Consider Properties that Ensure Integrity and Safety when Handling Extremely Low Temperatures.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/breakdown-of-apples-enhanced-3rd-generation-4k-streaming-device-the-new-tvplus-ready-television/"><u>Breakdown of Apple's Enhanced 3Rd Generation 4K Streaming Device: The New TV+ Ready Television</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-water-resistant-capabilities-of-the-new-iphone-15/"><u>Exploring the Water-Resistant Capabilities of the New iPhone 15</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mise-a-jour-detaillee-linstallation-de-dell-using-a-usb-key-in-biosuefi-mode-une-methode-eprouvee-expliquee/"><u>Mise À Jour Détaillée: L'Installation De Dell Using a USB Key in BIOS/UEFI Mode - Une Méthode Éprouvée Expliquée!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-walkthrough-reactivating-your-stalled-alienware-command-center/"><u>Step-by-Step Walkthrough: Reactivating Your Stalled Alienware Command Center</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-handbook-on-resolving-404-page-not-detected-issues-online/"><u>The Complete Handbook on Resolving 404 Page Not Detected Issues Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-ac1st16dll-a-comprehensive-solution-for-dll-error-fixes/"><u>Troubleshooting ac1st16.dll: A Comprehensive Solution for DLL Error Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-atandt-mobile-network-a-guide-to-their-roaming-rules/"><u>Understanding AT&T Mobile Network: A Guide to Their Roaming Rules</u></a></li>
 </ul></div>
 

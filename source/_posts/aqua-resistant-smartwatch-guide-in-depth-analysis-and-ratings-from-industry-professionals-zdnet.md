@@ -1,7 +1,7 @@
 ---
 title: "Aqua-Resistant Smartwatch Guide : In-Depth Analysis and Ratings From Industry Professionals | ZDNet"
-date: 2025-02-11T07:04:28.048Z
-updated: 2025-02-11T16:27:24.413Z
+date: 2025-02-24T02:19:05.692Z
+updated: 2025-03-02T18:50:11.357Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ Cons
 * May be too large for small wrists
 
 ## Apple Watch Ultra 2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best smartwatch overall
 
@@ -107,10 +103,6 @@ Pros
 
 Cons 
 * Not built for rugged adventures
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Google Pixel Watch 3
 
@@ -179,10 +171,6 @@ Cons
 
 ## Samsung Galaxy Watch 7
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best Samsung smartwatch for smaller wrists
 
 Samsung's latest smartwatch for the masses, the Galaxy Watch 7, was unveiled along with the Galaxy Watch Ultra at its 2024 Unpacked event in Paris in July. The Watch 7 is available in two smaller sizes compared to the [Watch 6 series](https://www.zdnet.com/article/3-surprising-features-that-sold-me-on-the-samsung-galaxy-watch-6-classic/), 44 and 40 mm, so it is likely to appeal to most Galaxy phone owners with smaller wrists. The Watch Ultra is a large 47mm watch designed for those with larger wrists. 
@@ -245,15 +233,7 @@ Pros
 Cons 
 * Expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Garmin Venu 3S
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best Garmin smartwatch alternative
 
@@ -286,10 +266,6 @@ Cons
 
 ## Amazfit Balance
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best basic, budget smartwatch
 
 One company that continues to push the limits of what you can buy for just over $200 is Amazfit. The Amazfit Balance offers an elegantly designed smartwatch with Amazon Alexa support and the ability to answer calls via a Bluetooth connection to your watch, just like all other non-cellular smartwatches. It runs the latest Zepp OS 3.0 operating system, built for a lean and mean experience.
@@ -320,10 +296,6 @@ Cons
 * Limited third-party support
 
 ## Withings ScanWatch 2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best hybrid smartwatch
 
@@ -399,10 +371,6 @@ All of the smartwatches included in this list were chosen based on how they perf
 
 For a deeper look into our testing process, check out our comprehensive [smartwatch testing methodology](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ## Are there any smartwatches I should avoid?
@@ -412,10 +380,6 @@ There are many reasons why a person might want a smartwatch, so depending on you
 Fossil has been offering smartwatches for a long time, and I still have a working Fossil Wrist PDA that is powered by Palm OS and has a tiny stylus. For the past few years, Fossil has been making Google Wear OS-powered smartwatches and offering a fairly compelling option with some unique styles. However, in January 2024 Fossil Group announced that it would no longer be releasing smartwatches, with the last Gen 6 model released in 2021\. You can still find some Fossil watches available, and Fossil Group stated that they will continue to update the watches for the next few years, but be careful when you are considering one of these watches.
 
 There was a great promise with a luxury Wear OS watch in 2022 when Montblanc released the [Summit 3 smartwatch](https://www.zdnet.com/article/montblanc-summit-3-review/). While we provided a preliminary review as we looked for a future update that was supposed to add some core functionality, that update never came, and the watch sits idly by running the same older version of Wear OS on a processor that is now a couple of generations old. It's a lovely luxury watch so if you want a basic smartwatch with those good looks, maybe you can find one on sale. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I set up my smartwatch?
 
@@ -456,10 +420,6 @@ We will likely continue to see expansion of the health and wellness features in 
 People also regularly have video calls with family and friends, not just coworkers, so future smartwatches may integrate tiny cameras so that users can communicate in this same manner while out and about.
 
 In addition, as AI continues to integrate into our lives, having this technology available in our watches should help provide data faster and more accurately than simple web search queries that we may carry out with Siri or Google Assistant.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's the best smartwatch for health monitoring?
 
@@ -543,24 +503,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutthroat-countdown-best-zombies-in-gaming-unveiled-for-2024/"><u>[New] Cutthroat Countdown Best Zombies In Gaming Unveiled for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-effortless-youtube-content-crafting-10-basic-video-ideas-for-all-for-2024/"><u>[Updated] Effortless YouTube Content Crafting 10 Basic Video Ideas for All for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-transform-your-content-expert-tips-for-bokeh-on-social-media/"><u>[Updated] In 2024, Transform Your Content Expert Tips for Bokeh on Social Media</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-unlock-your-films-potential-top-11-color-grading-and-correction-methods/"><u>[Updated] In 2024, Unlock Your Film's Potential Top 11 Color Grading and Correction Methods</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/code-41-hurdles-mastering-fixes-and-workarounds-for-common-device-manager-errors/"><u>Code 41 Hurdles? Mastering Fixes and Workarounds for Common Device Manager Errors</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-iphone-data-restoration-tools-get-yours-today/"><u>Complete iPhone Data Restoration Tools – Get Yours Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-digital-experience-with-our-selection-of-the-best-free-email-services/"><u>Elevate Your Digital Experience with Our Selection of the Best FREE Email Services</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-guide-to-snagging-amazing-tech-deals-on-amazon-prime-day/"><u>Essential Guide to Snagging Amazing Tech Deals on Amazon Prime Day</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/find-your-way-top-5-apple-device-gps-app-choices-for-optimal-guidance/"><u>Find Your Way: Top 5 Apple Device GPS App Choices for Optimal Guidance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gmail-automation-mastery-crafting-emails-rules-for-nearly-any-purpose/"><u>Gmail Automation Mastery: Crafting Emails Rules for Nearly Any Purpose</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-how-to-launch-command-prompt-for-direct-folder-management/"><u>Quick How-To: Launch Command Prompt for Direct Folder Management</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/restoring-erased-mobile-numbers-on-your-android-device-proven-methods/"><u>Restoring Erased Mobile Numbers on Your Android Device: Proven Methods!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-pdhdll-cannot-be-found-effective-solutions-and-tips/"><u>Solving 'pdh.dll Cannot Be Found: Effective Solutions and Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/v-joshis-roadmap-to-financial-freedom-via-youtube/"><u>Sourav Joshi's Roadmap to Financial Freedom via YouTube</u></a></li>
-<li><a href="https://facebook.techidaily.com/style-in-simplicity-crafting-textual-attention/"><u>Style in Simplicity: Crafting Textual Attention</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-trick-to-turn-off-surtitles-for-a-better-amazon-prime-experience/"><u>Ultimate Trick to Turn Off Surtitles for a Better Amazon Prime Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upcoming-google-pixel-fold-2-predicted-price-tag-expected-debut-date-and-speculative-tech-details-unveiled/"><u>Upcoming Google Pixel Fold 2: Predicted Price Tag, Expected Debut Date and Speculative Tech Details Unveiled</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/upgrade-your-pc-look-for-free-with-these-top-15-windows-11-styles/"><u>Upgrade Your PC Look for Free with These Top 15 Windows 11 Styles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-how-to-lock-your-screens-look/"><u>Windows 11: How to Lock Your Screen's Look</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mellowing-the-feed-the-art-of-adding-soundtracks-to-stories/"><u>[New] 2024 Approved Mellowing the Feed The Art of Adding Soundtracks to Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-the-essence-of-asmr-videos-for-2024/"><u>[New] Decoding the Essence of ASMR Videos for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/inding-your-custom-scored-youtube-tunes-for-2024/"><u>[New] Finding Your Custom-Scored YouTube Tunes for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-full-review-of-lg-bp350-from-screen-brightness-to-audio-output/"><u>2024 Approved Full Review of LG BP350 - From Screen Brightness to Audio Output</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-james-bond-movie-series-guide-the-ultimate-watching-order/"><u>Complete James Bond Movie Series Guide: The Ultimate Watching Order</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/easy-steps-to-manage-your-print-devices-adding-removing-and-setting-defaults-with-yl-computing/"><u>Easy Steps to Manage Your Print Devices: Adding, Removing & Setting Defaults with YL Computing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-download-and-setup-of-updated-intel-optane-drivers-your-ultimate-roadmap-for-windows-systems/"><u>Effortless Download and Setup of Updated Intel Optane Drivers – Your Ultimate Roadmap for Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tips-for-implementing-safelists-in-your-mac-os-x-mail-client-a-comprehensive-guide/"><u>Essential Tips for Implementing Safelists in Your Mac OS X Mail Client - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-enhancements-discover-apples-new-13-inch-and-15-inch-macbook-air-with-powerful-m3-chip-detailed-review/"><u>Exploring Enhancements: Discover Apple's New 13-Inch and 15-Inch MacBook Air with Powerful M3 Chip | Detailed Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-converters-top-8-list-seamless-sub-and-srt-format-switching/"><u>In 2024, Converters' Top 8 List Seamless Sub and SRT Format Switching</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-deconstructing-the-revenue-stream-of-tseries-in-youtube-economy/"><u>In 2024, Deconstructing the Revenue Stream of TSeries in YouTube Economy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simplified-processes-to-take-out-apps-from-your-mac-environment/"><u>Simplified Processes to Take Out Apps From Your Mac Environment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-process-of-refreshing-your-chromecast-device/"><u>The Complete Process of Refreshing Your Chromecast Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unauthorized-access-denied-heres-how-to-correct-a-401-error/"><u>Unauthorized Access Denied? Here's How to Correct a 401 Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-is-instagram-and-how-does-it-work-insights-into-the-social-media-platform/"><u>What Is Instagram and How Does It Work? Insights Into the Social Media Platform</u></a></li>
 </ul></div>
 

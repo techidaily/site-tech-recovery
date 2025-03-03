@@ -1,7 +1,7 @@
 ---
 title: Easy Ways for Mac Enthusiasts to Get Started with WhatsApp Messaging
-date: 2024-08-12T04:04:10.223Z
-updated: 2024-08-13T04:04:10.223Z
+date: 2025-02-25T19:40:30.301Z
+updated: 2025-03-02T21:03:28.454Z
 categories:
   - BestProducts
 description: This Article Describes Easy Ways for Mac Enthusiasts to Get Started with WhatsApp Messaging
@@ -10,9 +10,6 @@ thumbnail: https://www.lifewire.com/thmb/W6tdJZ0jSn_N9xlCTdhfKgnYXdU=/400x300/fi
 ---
 
 ## Easy Ways for Mac Enthusiasts to Get Started with WhatsApp Messaging
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### What to Know
 
 * You must have WhatsApp installed and set up on your mobile phone before you can use it on your Mac.
@@ -33,9 +30,6 @@ thumbnail: https://www.lifewire.com/thmb/W6tdJZ0jSn_N9xlCTdhfKgnYXdU=/400x300/fi
 2. When you see**WhatsApp Messenger** in the list of results, select it.  
 ![The WhatsApp app highlighted in the search results on the Mac App Store.](https://www.lifewire.com/thmb/ScXMkVwt002lNp_Yr4PVyCSDc94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-UseWhatsApponaMac-annotated-d6cdbcdfcfeb41cfb2faca99efefbcf9.jpg)
 3. Optionally review the description and choose**Get** to download the app to your Mac.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![The Get button for WhatsApp Messenger highlighted in the Mac App Store.](https://www.lifewire.com/thmb/WVrWpTG5voNDj-v1zufGTUS33go=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-UseWhatsApponaMac-annotated-8e34f1af547643799187d4d030286cf9.jpg)
 4. Enter your password, or use Touch/Face ID, to authorize the download if prompted.
 
@@ -47,24 +41,11 @@ thumbnail: https://www.lifewire.com/thmb/W6tdJZ0jSn_N9xlCTdhfKgnYXdU=/400x300/fi
 ![Download options on the WhatsApp website](https://www.lifewire.com/thmb/DhyyYsVyQ_tjQR1XXr--DeeHpPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Website-Download-8424741-138a362766a4473bb5c738dd28040c80.jpg)
 2. Follow any prompts per your web browser to grant permission for the download.
 3. Open the**Downloads** folder for the web browser you’re using and select the WhatsApp installer file.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The downloaded file for WhatsApp highlighted in the Safari Downloads section of Safari.](https://www.lifewire.com/thmb/KGV29Z4y7mXFgXvoecpTGSlFUNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B3-UseWhatsApponaMac-ANNOTATED-3c52c7f820934c1faf0d7d9c0b900856.jpg)
 4. When the installer opens, drag the**WhatsApp** icon to the**Applications** folder icon.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Window to drag WhatsApp to the Applications folder](https://www.lifewire.com/thmb/4OA6eBJFWdwnRFDtmhBs0jMuQ8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Move-WhatsApp-Applications-Folder-Mac-8424741-09a2410211e74966a44313b49e72582a.jpg)
 5. Close the installer window if necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## How to Set Up WhatsApp on Mac
 
  To use WhatsApp on your Mac, you must have the app installed and set up on your mobile phone first. Then, follow the steps below.  
@@ -74,29 +55,15 @@ No advertising on the website.
 3. Tap**Link a Device** and grant camera access if prompted.  
 ![Initial steps highlighted when linking devices to one WhatsApp account.](https://www.lifewire.com/thmb/6Urvb4zpOiY_cYMwVjyp0r8mzbY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C3-UseWhatsApponaMac-annotated-f0db92b826e5489a86d328d092096e54.jpeg)
 4. Open the**Applications** folder on your Mac and select**WhatsApp** to launch the app.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![WhatsApp app highlighted in the Mac's Applications folder.](https://www.lifewire.com/thmb/VhpS9c3Qw6durOje6aLOIqj8LBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C4-UseWhatsApponaMac-annotated-120d4b37bd114436b08d864c2cbaf99a.jpg)
 5. Click**Get Started** on the WhatsApp welcome screen.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![Get Started button in WhatsApp on Mac](https://www.lifewire.com/thmb/AMTQ4PTTb4xVp4vGxV0wT_ESEL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Get-Started-Mac-8424741-7d6071ea62a141789730bb4687e2a878.jpg)
 6. You’ll see a QR code along with instructions to capture the code.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![QR code in WhatsApp on Mac.](https://www.lifewire.com/thmb/jesVFrWj80lQIN9cVQLqLFhquUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C6-UseWhatsApponaMac-4e2a152ae0f64281bff535b781e9c752.jpeg)
 7. Use your mobile device to capture the QR code in the WhatsApp window on your Mac.
 8. You should see a brief “logging in” message and your Mac display as a linked device on your mobile phone. You can then close WhatsApp on your mobile device.  
 ![The steps of logging into a WhatsApp account on an iPhone.](https://www.lifewire.com/thmb/dZY_CI649d0REHdA9WXRIY4_17w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C8-UseWhatsApponaMac-annotated-a7b98253e694476392cc859e192eb876.jpeg)
 9. Choose how you would like to see notifications for WhatsApp on your Mac by enabling the toggles and selecting**Done** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Toggles to enable WhatsApp notifications on Mac](https://www.lifewire.com/thmb/uGdXRRVovDGesk26M4MQADNoRME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-Enable-Notifications-Mac-8424741-8a05e64f8da244a6ae9959dad9251b05.jpg)  
  You’ll then see the main WhatsApp screen where you can start communicating with your contacts.
 
@@ -133,9 +100,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Standard macOS menus, including Edit, Window, and Help, are also available to undo or redo actions, minimize or maximize the windows, search the menus, and access the WhatsApp Help Center.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![WhatsApp and the View menu open in the Mac menu bar](https://www.lifewire.com/thmb/32L8TknP583OZZx3SxlO1-bNfuw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/WhatsApp-View-Menu-Bar-Mac-8424741-c82eb47bbe7b47178898f985b4711a68.jpg)
 
  With WhatsApp desktop for Mac, you can keep up with chats and calls without searching for your mobile phone.  
@@ -160,8 +124,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +131,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-from-free-to-funded-monetization-mastery-for-fb-pages/"><u>[New] 2024 Approved From Free to Funded Monetization Mastery for FB Pages</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-spotifys-1-hitlist-rankings/"><u>[New] 2024 Approved Spotify's #1 Hitlist Rankings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ideal-techniques-for-noiseless-recording/"><u>[New] In 2024, Ideal Techniques for Noiseless Recording</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-decoding-youtubes-user-comment-selection-criteria/"><u>[Updated] 2024 Approved Decoding YouTube's User-Comment Selection Criteria</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/address-graphics-issue-in-windowsminecraft/"><u>Address Graphics Issue in Windows/Minecraft</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-iconic-puzzle-experiences-on-mobile-find-gems-like-the-room-and-myst/"><u>Discover Iconic Puzzle Experiences on Mobile: Find Gems Like 'The Room' And 'Myst'</u></a></li>
+<li><a href="https://win-online.techidaily.com/expert-tips-on-configuring-wbadmin-target-destinations-for-efficient-system-backups/"><u>Expert Tips on Configuring WBAdmin Target Destinations for Efficient System Backups</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-disable-the-personalized-content-in-your-instagram-experience/"><u>How to Disable the Personalized Content in Your Instagram Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/interactive-insights-microsofts-innovative-ai-hub/"><u>Interactive Insights: Microsoft's Innovative AI Hub</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oneplus-nord-ce-3-lite-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best OnePlus Nord CE 3 Lite 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722878590940-setting-up-two-factor-authentication-on-twitch-a-comprehensive-guide/"><u>Setting Up Two-Factor Authentication on Twitch: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamlining-communication-setting-up-smart-filters-and-adding-contacts-on-gmail/"><u>Streamlining Communication: Setting Up Smart Filters & Adding Contacts on Gmail</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722893460494-the-next-generation-of-phablets-arrives-with-samsung-galaxy-z-fold-6-key-info-on-pricing-and-launch-date-revealed/"><u>The Next Generation of Phablets Arrives with Samsung Galaxy Z Fold 6 - Key Info on Pricing & Launch Date Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-finding-out-who-distributed-your-facebook-post-to-others/"><u>The Ultimate Guide: Finding Out Who Distributed Your Facebook Post to Others</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-near-perfect-gaming-laptop-at-just-3600-your-ultimate-tech-review-zdnet/"><u>Unveiling the Near-Perfect Gaming Laptop at Just $3,600 - Your Ultimate Tech Review | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-government-reliance-on-major-technology-firms-like-microsoft-can-lead-to-risky-service-interruptions/"><u>Why Government Reliance on Major Technology Firms Like Microsoft Can Lead to Risky Service Interruptions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-personal-roadmap-to-mastering-artificial-intelligence-15-costless-e-learning-options-from-lifewire/"><u>Your Personal Roadmap to Mastering Artificial Intelligence - 15 Costless E-Learning Options From Lifewire</u></a></li>
+</ul></div>
 

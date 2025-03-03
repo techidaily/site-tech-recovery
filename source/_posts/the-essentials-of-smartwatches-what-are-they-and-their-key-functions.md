@@ -1,7 +1,7 @@
 ---
 title: The Essentials of Smartwatches – What Are They & Their Key Functions?
-date: 2024-08-12T04:04:30.802Z
-updated: 2024-08-13T04:04:30.802Z
+date: 2025-02-26T17:31:22.706Z
+updated: 2025-03-02T22:04:00.327Z
 categories:
   - BestProducts
 description: This Article Describes The Essentials of Smartwatches – What Are They & Their Key Functions?
@@ -19,15 +19,8 @@ Close
 
 1:40
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ###  What Is a Smartwatch and What Do They Do?
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  A Short History of the Smartwatch 
 
  While digital watches have been around for decades—some with abilities like calculators and unit converters—only in the 2010s did tech companies begin releasing watches with smartphone-like abilities.
@@ -42,9 +35,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Likewise, companies like Suunto released smartwatches optimized for scuba diving that withstand extended time at significant depths.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Do Smartwatches Do? 
 
  Most smartwatches—whether they're intended for daily use (as with the Apple Watch) or for specific purposes (as with the Garmin Fenix)—offer a suite of standard features:
@@ -63,9 +53,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  They're designed to replace mechanical wristwatches and are heavily smartphone-dependent. Think of them as a support device for your phone that you happen to keep on your wrist.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Man hand with Apple Watch and app Icon on screen](https://www.lifewire.com/thmb/na1qd-hiXDx4g3EILPtWmXhPeuw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-492655340-5bd79e4046e0fb00515754d0.jpg) 
 
  You also see vendor-specific classes of general-purpose smartwatches in the consumer market:
@@ -77,9 +64,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The other niche includes specialty devices intended for specific-use cases. These devices often offer a more robust version of a fitness tracker, insofar as they bleed between a phone-dependent smartwatch and a stand-alone fitness tracker like a Fitbit.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Garmin vivofit, sport fitness tracker and clock](https://www.lifewire.com/thmb/1Xr6meqfDSdaYTNjAB-Dw1WZShY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-520265419-5bd79e88c9e77c00513fcd8d.jpg) 
 
  franckreporter/Getty Images 
@@ -90,9 +74,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * **Diving watches** : Connect your first-stage regulator to a Bluetooth transmitter to use a diving watch. Garmin's Descent Mk2i and Suunto's DX offer depth, time-remaining, temperature, and other important indicators. And the Apple Watch Ultra can make use of the[ Oceanic+ Dive Computer App](https://apps.apple.com/app/id1610517133) to calculate dive times, display a number of different stats, and can handle depths of up to 130 feet (40 meters).
 * **Flying watches** : A niche market, but Garmin's MARQ Aviator Gen. 2 offers a jet-lag advisor, GPS-powered moving map, NEXRAD weather reports (using METARs, TAFs and MOS2), flight logging, a barometric altimeter, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Smartwatch Market Growth 
 
  Smartwatches settled into a steep growth curve in the late 2010s in terms of global market adoption. Data from[ Statista](https://www.statista.com/topics/4762/smartwatches/#topicOverview) shows that sales rose from five million units worldwide in 2014 to an estimated 173 million in 2022.
@@ -132,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +120,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-effortless-screen-changes-made-simple/"><u>[New] 2024 Approved Effortless Screen Changes Made Simple</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-from-novice-to-expert-advanced-screencasting-steps/"><u>[New] In 2024, From Novice to Expert Advanced Screencasting Steps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-step-by-step-to-subscription-the-youtube-partner-program-route/"><u>[Updated] Step-by-Step to Subscription The YouTube Partner Program Route</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamline-your-presence-optimal-obs-use-on-facebook-feed-for-2024/"><u>[Updated] Streamline Your Presence Optimal OBS Use on Facebook Feed for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-showdown-how-does-the-apple-watch-ultra-stack-up-against-the-series-8-find-out-with-expert-analysis/"><u>Apple Showdown: How Does the Apple Watch Ultra Stack Up Against the Series 8? Find Out with Expert Analysis</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/exploring-abyss-underwater-video-tips-using-a-gopro-camera-for-2024/"><u>Exploring Abyss Underwater Video Tips Using a GoPro Camera for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-new-ipados-18-updates-showcased-at-wwdc-2024-compatibility-and-features-breakdown-by-zdnet/"><u>Exploring the New iPadOS 18 Updates Showcased at WWDC 2024 – Compatibility & Features Breakdown by ZDNet</u></a></li>
+<li><a href="https://discover-data.techidaily.com/gratis-terugnaar-inkompatibele-zip-bestanden-in-windows-10-and-11-steps-voor-herstel/"><u>Gratis Terugnaar Inkompatibele ZIP-Bestanden In Windows 10 & 11: Steps Voor Herstel</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-nokia-150-2023-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Nokia 150 (2023) to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-se-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone SE without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-look-at-the-apple-vision-pro-cost-analysis-features-breakdown-and-personal-trials-insights-from-zdnet/"><u>Inside Look at the Apple Vision Pro: Cost Analysis, Features Breakdown & Personal Trials | Insights From ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/multi-vm-mastery-setting-up-linux-vm-in-hyper-v-on-windows/"><u>Multi-VM Mastery: Setting Up Linux VM in Hyper-V on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamlined-content-creation-with-ios-18-on-iphone-14-revealed-by-zdnet-experts/"><u>Streamlined Content Creation with iOS 18 on iPhone 14, Revealed by ZDNet Experts</u></a></li>
+</ul></div>
 

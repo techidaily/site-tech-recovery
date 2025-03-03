@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices with Questionable Value: What to Avoid Today - Insights by ZDNet"
-date: 2025-02-10T02:10:24.226Z
-updated: 2025-02-12T04:05:46.607Z
+date: 2025-03-02T03:16:38.434Z
+updated: 2025-03-02T20:30:30.232Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ Beyond that, Apple's lineup seems pretty strong, from the [M3 MacBook Air system
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **The 'Naughty' list**
 
 Don't buy these devices:
@@ -62,10 +58,6 @@ Don't buy these devices:
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
 ## **The 'Nice' list**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple iPhone 16**
 
@@ -82,10 +74,6 @@ Apple Watch Series 10
 Kerry Wan/ZDNET
 
 The [Apple Watch Series 10](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $399 for GPS and $499 for cellular. It comes in three colors: jet black, rose gold, and silver aluminum. The new black [Apple Watch Ultra 2](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) starts at $799\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple M3 MacBook Air**
 
@@ -145,10 +133,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
 Christina Darby/ZDNET
@@ -169,10 +153,6 @@ And soon, your AirPods Pro earbuds will be able to function as [clinical-grade h
 **Also: [Apple AirPods Pro (2nd Gen) review: Two major upgrades, tamed by one familiar flaw](https://www.zdnet.com/article/apple-airpods-pro-2-review/)**
 
 [2nd Gen AirPods Pro $189.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6447382%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6447382.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Apple AirTag**
 
@@ -214,17 +194,20 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-next-gen-stabilizing-tools-for-youtube-videographers/"><u>[Updated] Next-Gen Stabilizing Tools for YouTube Videographers</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-s18-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo S18 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-step-by-step-guide-troubleshooting-your-broken-xbox-one-pen/"><u>Complete Step-by-Step Guide: Troubleshooting Your Broken Xbox One Pen</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-find-my-iphone-issues-overcoming-connectivity-problems-and-retracing-your-device/"><u>Fixing Find My iPhone Issues: Overcoming Connectivity Problems and Retracing Your Device</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-capture-your-gaming-success-on-win10/"><u>In 2024, How to Capture Your Gaming Success on Win10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-xiaomi-civi-3-disney-100th-anniversary-edition-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi Civi 3 Disney 100th Anniversary Edition Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/innovative-ways-to-power-up-your-smartphone-when-you-lose-the-charger/"><u>Innovative Ways to Power Up Your Smartphone When You Lose the Charger</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-16-a-breakthrough-in-user-friendly-maintenance-compared-to-older-models-insights-from-apple-zdnet/"><u>IPhone 16: A Breakthrough in User-Friendly Maintenance Compared to Older Models - Insights From Apple | ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mobile-privacy-tips-concealing-phone-numbers-from-calls-and-texts-on-android/"><u>Mobile Privacy Tips: Concealing Phone Numbers From Calls and Texts on Android</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-new-technology-informed-opinions-from-toms-world-of-gear/"><u>Navigating New Technology: Informed Opinions From Tom's World of Gear</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-minecrafts-darkness-ultimate-guide-to-overcoming-the-black-screen-challenge/"><u>Say Goodbye to Minecraft's Darkness: Ultimate Guide to Overcoming the Black Screen Challenge !</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-buyers-guide-educational-computers-that-will-boost-your-grades/"><u>The Definitive Buyer's Guide: Educational Computers That Will Boost Your Grades</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-precision-meets-creativity-top-accessories-for-yi-4k/"><u>[New] In 2024, Precision Meets Creativity Top Accessories for YI 4K</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-chrome-stuck-solutions-for-playback-errors/"><u>[Updated] In 2024, Chrome Stuck Solutions for Playback Errors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tiktok-rave-review-2024/"><u>[Updated] TikTok Rave Review 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-about-the-new-samsung-galaxy-watch-7-insights-on-specs-expected-arrival-and-budgeting-estimates/"><u>All About the New Samsung Galaxy Watch 7: Insights on Specs, Expected Arrival, and Budgeting Estimates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/amplify-your-media-integrating-text-into-windows-video-files-via-photos-for-2024/"><u>Amplify Your Media Integrating Text Into Windows Video Files via Photos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/building-an-affluent-future-with-instagram-know-how-for-2024/"><u>Building an Affluent Future with Instagram Know-How for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-of-publicly-available-information-sources-traditional-and-contemporary-models/"><u>Comparative Analysis of Publicly Available Information Sources: Traditional and Contemporary Models</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-facebook-tracing-the-roots-exploring-why-its-favored-worldwide-and-its-key-attributes/"><u>Demystifying Facebook: Tracing the Roots, Exploring Why It's Favored Worldwide, and Its Key Attributes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-11-pro-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 11 Pro with iTunes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-105-classic-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia 105 Classic Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-sensations-in-handheld-entertainment-our-choice-of-8-best-games/"><u>Leading Sensations in Handheld Entertainment: Our Choice of 8 Best Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stand-out-with-these-507-amazing-instagram-caption-picks/"><u>Stand Out with These 507 Amazing Instagram Caption Picks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-where-to-find-and-watch-free-music-videos-online/"><u>The Ultimate Guide: Where to Find and Watch Free Music Videos Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-twitch-streamer-secrets-unraveling-the-mysteries-of-live-chat/"><u>Top Twitch Streamer Secrets: Unraveling the Mysteries of Live Chat!</u></a></li>
 </ul></div>
 

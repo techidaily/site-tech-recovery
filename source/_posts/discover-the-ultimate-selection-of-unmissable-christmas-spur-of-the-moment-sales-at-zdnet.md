@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Selection of Unmissable Christmas Spur-of-the-Moment Sales at ZDNet
-date: 2025-02-08T06:14:31.251Z
-updated: 2025-02-12T07:16:18.239Z
+date: 2025-03-01T19:58:43.042Z
+updated: 2025-03-03T00:44:09.144Z
 tags:
   - apple
 categories:
@@ -19,10 +19,6 @@ Matthew Miller/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
 
@@ -83,10 +79,6 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  ZDNET's buying advice
 
 The original iPhone launched when there were still phones with physical QWERTY keyboards, and now thanks to Clicks we are coming full circle with some well-designed analog functionality. Lots of lessons have been learned in the process, and the folks at Clicks truly brought their expertise and attention to detail with the design and build of the [Clicks Keyboard](https://www.clicks.tech/products/clicks-for-iphone-15?variant=48427566793019). It is now an essential accessory for me, and I continue to figure out ways to make it better on a regular basis.
@@ -123,18 +115,20 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-demystifying-recmeisters-advanced-screen-capture-technology/"><u>[New] Demystifying Recmeister's Advanced Screen Capture Technology</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-quicktweetgrabber-swiftly-secure-tweets-videos-on-iphone-for-2024/"><u>[New] QuickTweetGrabber Swiftly Secure Tweets' Videos on iPhone for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-what-is-slug-line-and-how-to-use-for-2024/"><u>[New] What Is Slug Line and How to Use for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-action-filming-elevated-in-depth-review-of-sj-cam-s6/"><u>2024 Approved Action Filming Elevated In-Depth Review of SJ-CAM S6</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-13-mini-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 13 mini Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-repairing-the-mysterious-black-window-in-windows-11-systems/"><u>Diagnosing and Repairing the Mysterious Black Window in Windows 11 Systems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-guide-intel-optane-drivers-for-windows-troubleshooting-solved/"><u>Download & Update Guide: Intel Optane Drivers for Windows - Troubleshooting Solved!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhancing-presentations-with-voice-to-text-in-ppt/"><u>Enhancing Presentations with Voice-to-Text in PPT</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/how-can-i-share-videos-to-instagram-for-2024/"><u>How Can I Share Videos to Instagram for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-redmi-k70-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Redmi K70 Lock Screen Password</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-best-tv-streaming-options-viewers/"><u>The Ultimate List: Best TV Streaming Options Viewers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-samsungs-z-fold-004-official-release-info-plus-specifications-reviewed/"><u>Unveiling Samsung's Z Fold 004: Official Release Info + Specifications Reviewed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-significance-deciphering-the-act-of-tagging-others/"><u>Unveiling the Significance: Deciphering the Act of Tagging Others</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-leading-free-art-pages-for-easy-no-cost-illustrations-for-2024/"><u>[Updated] Leading Free Art Pages for Easy, No-Cost Illustrations for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-revolutionize-your-sales-approach-with-the-best-15-social-media-analyzers-for-2024/"><u>[Updated] Revolutionize Your Sales Approach with the Best 15 Social Media Analyzers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-your-blueprint-for-downloading-youtube-srt-in-3-steps-for-2024/"><u>[Updated] Your Blueprint for Downloading YouTube SRT in 3 Steps for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-list-of-top-15-free-ai-course-resources-the-complete-self-guided-learning-journey/"><u>Comprehensive List of Top 15 Free AI Course Resources - The Complete Self-Guided Learning Journey</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/diy-mastering-die-offline-wiederherstellung-von-windows-10-bilddaten-mithilfe-von-dism-zwei-methoden-erklart/"><u>DIY: Mastering Die Offline-Wiederherstellung Von Windows 10 Bilddaten Mithilfe Von DISM – Zwei Methoden Erklärt</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169877451-embrace-free-football-fun-old-championship-manager-windows-edition/"><u>Embrace Free Football Fun: Old Championship Manager, Windows Edition!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-dll-not-loaded-errors-strategies-for-a-smooth-computer-operation/"><u>Fixing 'DLL Not Loaded' Errors - Strategies for a Smooth Computer Operation</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-14-pro-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 14 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/partnerships-and-collaborations/"><u>Partnerships & Collaborations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-sync-issues-with-chromecast-audio-devices/"><u>Quick Fixes for Sync Issues with Chromecast Audio Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-clearing-your-macos-dns-cache/"><u>Step-by-Step Guide: Clearing Your macOS DNS Cache</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-hidden-price-9-perils-of-social-engagement/"><u>The Hidden Price: 9 Perils of Social Engagement</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-31-free-sites-for-streaming-spanish-cinema-and-tv-series-without-spending-a-penny/"><u>Top 31 Free Sites for Streaming Spanish Cinema and TV Series Without Spending a Penny</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-setting-up-and-mastering-slack-reminder-notifications/"><u>Ultimate Guide: Setting Up & Mastering Slack Reminder Notifications</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/windows-systems-wiederherstellen-anleitung-zum-sicherungskopieren-auf-eine-externe-festplatte/"><u>Windows-Systems Wiederherstellen: Anleitung Zum Sicherungskopieren Auf Eine Externe Festplatte</u></a></li>
 </ul></div>
 

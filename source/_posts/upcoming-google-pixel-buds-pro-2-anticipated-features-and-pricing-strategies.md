@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Google Pixel Buds Pro 2: Anticipated Features & Pricing Strategies"
-date: 2024-08-12T04:06:37.556Z
-updated: 2024-08-13T04:06:37.556Z
+date: 2025-02-25T03:47:21.786Z
+updated: 2025-03-02T22:52:15.945Z
 categories:
   - BestProducts
 description: "This Article Describes Upcoming Google Pixel Buds Pro 2: Anticipated Features & Pricing Strategies"
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
 
  Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
@@ -50,9 +47,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Google Pixel 9 Features
 
  The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
@@ -66,9 +60,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Display
 
  Interestingly, the Pixel 9's screen might be a little smaller than the one on the Pixel 8\. It's not a huge change—6.03 inches versus 6.1 inches—but it does seem a bit weird when you think about it. One might assume an upgraded phone means it'll be bigger (or at least stay the same size), but not get_smaller_ .
@@ -83,16 +74,10 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Cameras
 
  This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
 MySmartPrice
@@ -101,9 +86,6 @@ MySmartPrice
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
@@ -126,14 +108,11 @@ MySmartPrice
 
 [Surprise: Google's Find My May Be More Private Than Apple's](https://www.lifewire.com/google-find-my-device-better-than-apple-8629920)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +121,26 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-mac-screen-capturing-tips-unveiling-5-efficient-techniques/"><u>[New] 2024 Approved Ultimate Mac Screen Capturing Tips Unveiling 5 Efficient Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-efficient-way-to-insert-a-hyperlink-in-your-tiktok-bio/"><u>[Updated] 2024 Approved Efficient Way to Insert a Hyperlink in Your TikTok Bio</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-rise-of-the-alternative-top-3-video-sharing-websites/"><u>[Updated] In 2024, Rise of the Alternative Top 3 Video Sharing Websites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-event-highlights-introducing-the-next-gen-ipad-air-and-the-powerful-apple-pencil-pro-zdnet/"><u>Apple Event Highlights - Introducing the Next-Gen iPad Air & The Powerful Apple Pencil Pro | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-latest-showdown-comparing-m3-vs-m2-macbook-air-for-your-perfect-purchase-insights/"><u>Apple's Latest Showdown: Comparing M3 Vs. M2 MacBook Air for Your Perfect Purchase - Insights</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/beyond-vidtomp3-how-to-extract-audio-from-videos-for-mp3-downloads-on-both-pcs-and-macs/"><u>Beyond VidToMP3: How to Extract Audio From Videos for MP3 Downloads on Both PCs and Macs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-apple-watchs-endurance-discover-the-top-8-battery-saving-tweaks-techwise/"><u>Boost Your Apple Watch's Endurance: Discover the Top 8 Battery-Saving Tweaks | TechWise</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-apple-wwdc-the-intriguing-aspects-of-the-freshly-launched-new-visionos-n-features-tech-analysis-by-zdnet/"><u>Deciphering Apple WWDC: The Intriguing Aspects of the Freshly Launched New VisionOS N Features | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-sony-xperia-10-v-frp-by-drfone-android/"><u>Full Guide to Bypass Sony Xperia 10 V FRP</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-can-a-64gb-drive-manage-large-video-files/"><u>In 2024, Can a 64GB Drive Manage Large Video Files?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-13-mini-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 13 mini with a Broken Screen?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-motorola-razr-40-ultramirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Motorola Razr 40 UltraMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insights-into-apples-future-ai-enhancements-teased-with-recent-strategic-purchase-zdnet/"><u>Insights Into Apple's Future: AI Enhancements Teased with Recent Strategic Purchase | ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ios-175-beta-2-apple-enables-direct-downloads-on-the-web-for-eu-customers-a-step-by-step-guide/"><u>IOS 17.5 Beta 2: Apple Enables Direct Downloads on the Web for EU Customers - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-air-powered-by-apples-new-m2-chip-is-it-your-ideal-purchase-expert-insights-from-zdnet/"><u>IPad Air Powered by Apple's New M2 Chip: Is It Your Ideal Purchase? Expert Insights From ZDNet.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/mastering-error-correction-video-failures-explored/"><u>Mastering Error Correction: Video Failures Explored</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximize-your-iphone-storage-discover-the-simple-tricks-i-used-to-clear-out-hundreds-of-mb/"><u>Maximize Your iPhone Storage: Discover the Simple Tricks I Used to Clear Out Hundreds of MB!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/say-goodbye-to-cluttered-emails-using-a-single-trick-no-elaborate-rules-or-multiple-accounts-zdnet/"><u>Say Goodbye to Cluttered Emails Using a Single Trick - No Elaborate Rules or Multiple Accounts | ZDNET</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-reno-10-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo Reno 10 5G FRP</u></a></li>
+</ul></div>
 

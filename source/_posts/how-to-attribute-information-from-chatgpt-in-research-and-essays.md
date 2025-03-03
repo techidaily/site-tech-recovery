@@ -1,7 +1,7 @@
 ---
 title: How to Attribute Information From ChatGPT in Research and Essays
-date: 2024-08-12T04:02:05.537Z
-updated: 2024-08-13T04:02:05.537Z
+date: 2025-02-26T00:14:42.256Z
+updated: 2025-03-02T22:19:14.086Z
 categories:
   - BestProducts
 description: This Article Describes How to Attribute Information From ChatGPT in Research and Essays
@@ -13,9 +13,6 @@ thumbnail: https://www.lifewire.com/thmb/ejrq3uwF_m2orjfX4biKEvl5CJI=/400x300/fi
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  What to Know
 
 * For APA style, you need to cite the AI tool, its version, date, and provide a URL.
@@ -24,9 +21,6 @@ Close
 
  This guide will explain how to cite[ ChatGPT](https://www.lifewire.com/what-is-chatgpt-7105508) in APA (American Psychological Association), MLA (Modern Language Association), and Chicago publishing styles.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ##  How to Cite ChatGPT in APA Style 
 
  When writing in-text citations in[ APA style](https://www.lifewire.com/how-to-apa-format-in-google-docs-4844955) , writers are expected to give reference to the original author's last name and the year of publication. For example, if you were citing me in the writing of this article, you might quote me and then put "(Martindale, 2024)".
@@ -43,16 +37,10 @@ Close
 
 **(OpenAI, 2024; see Appendix A for the full transcript)** .  
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![ChatGPT displayed on the screen of a laptop computer on a table with a coffee cup nearby.](https://www.lifewire.com/thmb/xz7Kz-RwDroVaT8wns5_1ebM-Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/emiliano-vittoriosi-kdNhf7vJSik-unsplash-beba734fd77446faaf1422be840fe2e3.jpg) 
 
 Emiliano Vittoriosi / Unsplash
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Cite ChatGPT in MLA Style 
 
  When writing in-text citations in MLA style, writers must reference the original author's last name and provide a page reference number if the source has numbered pages. So that would typically be something like "(Martindale, 10)" if it were quoting me from a source with 10 or more pages.
@@ -73,11 +61,6 @@ Emiliano Vittoriosi / Unsplash
 
  However, MLA does suggest that if you feel any AI you use is quoting from a primary or more senior source, you should find the root of that quote and use the original source if possible, rather than citing ChatGPT.  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ##  How to Cite ChatGPT in Chicago Style 
 
  Chicago style citations are handled a little differently, and they don't lend ChatGPT as much credence as MLA and APA style in considering it as an author in most cases. However, writers are still encouraged to cite ChatGPT clearly and effectively in the following ways.
@@ -94,9 +77,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Since ChatGPT doesn't let you link to specific conversations, Chicago style argues any further linking would be ineffective for citation purposes.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Why It's Important to Cite ChatGPT 
 
  Citing ChatGPT is just as important as citing textbooks, websites, authors, journalists, and other sources of information when you are collating your data to put together an article or thesis. It provides accountability for you as the author and allows anyone reviewing your work to trace your sources properly.  
@@ -125,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +112,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-saving-the-essence-a-guide-for-virtual-meeting-records/"><u>[New] 2024 Approved Saving the Essence A Guide for Virtual Meeting Records</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-streaming-stature-symbolized-by-play-and-follower-awards/"><u>[Updated] 2024 Approved Streaming Stature Symbolized by Play & Follower Awards</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-make-a-splash-on-social-media-adding-animated-text-to-instagram-stories/"><u>[Updated] Make a Splash on Social Media Adding Animated Text to Instagram Stories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquer-the-mighty-lynel-in-the-legend-of-zelda-breath-of-the-wild/"><u>Conquer the Mighty Lynel in The Legend of Zelda: Breath of the Wild</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-facebooks-success-story-origins-appeal-secrets-and-prime-functionality/"><u>Decoding Facebook's Success Story: Origins, Appeal Secrets, and Prime Functionality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-archive-your-favorite-movies-mac-screenshots-for-netflix/"><u>In 2024, How to Archive Your Favorite Movies Mac Screenshots for Netflix</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-making-popular-tiktok-sounds-your-ringtone/"><u>In 2024, Mastering the Art of Making Popular TikTok Sounds Your Ringtone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-apple-tv-4k-third-gen-reviews-and-insights/"><u>In-Depth Analysis: Apple TV 4K Third Gen - Reviews and Insights</u></a></li>
+<li><a href="https://win-unique.techidaily.com/klonieren-von-hddssd-auf-ein-samsung-ssd-laufwerk/"><u>Klonieren Von HDD/SSD Auf Ein Samsung SSD Laufwerk</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-auto-text-sending-features-on-an-iphone-device/"><u>Mastering Auto Text Sending Features on an iPhone Device</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-11-zerox-error-code-0x80049dd3/"><u>Navigating Through Windows 11 Zerox Error (Code: 0X80049DD3)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-best-of-the-best-nine-premium-portable-microphones-for-high-quality-podcasts-level-9/"><u>New In 2024, The Best of the Best Nine Premium Portable Microphones for High-Quality Podcasts (Level 9)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-problem-of-a-sluggish-internet-connection-a-comprehensive-guide/"><u>Solving the Problem of a Sluggish Internet Connection: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-reactivating-speakers-for-a-silent-chromecast/"><u>Step-by-Step Solutions: Reactivating Speakers for a Silent Chromecast</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/study-hard-save-more-the-ultimate-strategy-for-accessing-discounted-dell-prices-as-a-student/"><u>Study Hard, Save More: The Ultimate Strategy for Accessing Discounted Dell Prices as a Student</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-guide-8-real-world-promotion-tools-for-videos/"><u>The Ultimate Guide 8 Real-World Promotion Tools for Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-connectivity-issues-a-detailed-tutorial-on-clearing-network-preferences-in-macos/"><u>Troubleshoot Connectivity Issues: A Detailed Tutorial on Clearing Network Preferences in macOS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-boosting-your-war-thunder-game-speed-top-fps-solutions/"><u>Ultimate Guide: Boosting Your War Thunder Game Speed - Top FPS Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-secrets-of-android-16-rumored-specs-cost-free-access-and-expected-release-dates/"><u>Unveiling the Secrets of Android 16: Rumored Specs, Cost-Free Access & Expected Release Dates</u></a></li>
+</ul></div>
 

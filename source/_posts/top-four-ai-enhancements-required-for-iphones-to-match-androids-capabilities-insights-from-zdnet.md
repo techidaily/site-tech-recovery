@@ -1,7 +1,7 @@
 ---
 title: Top Four AI Enhancements Required for iPhones to Match Android's Capabilities - Insights From ZDNet
-date: 2025-02-05T05:18:12.045Z
-updated: 2025-02-12T02:38:19.226Z
+date: 2025-02-25T18:32:58.538Z
+updated: 2025-03-02T18:43:23.695Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -53,10 +49,6 @@ Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI
 If Apple can give Siri generative AI, iPhone users could ask the voice assistant for more than "Open this app" or "Search Google for this." Generative AI would let users ask Siri to draft messages and emails, explain a concept, and give personalized reminders tailored to their calendars, notes, or contacts. 
 
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
 
@@ -68,10 +60,6 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Personalized text generation
 
 ChatGPT became popular for its ability to generate text and have conversations that feel natural. Integrating text generation into the iPhone would make it easier for users to draft emails, generate stories, or edit resumes in Apple's native apps, like Notes and Messages. 
@@ -79,10 +67,6 @@ ChatGPT became popular for its ability to generate text and have conversations t
 **Also: [5 rumored iOS 18 features I'm most excited about - and AI is just the start](https://www.zdnet.com/article/5-rumored-ios-18-features-im-most-excited-about-and-ai-is-just-the-start/)**
 
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
 
@@ -126,24 +110,22 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://novels-ebooks.techidaily.com/138583180-9781462016730-a-real-life-christian-spiritual-journey/"><u>A Real-Life Christian Spiritual Journey | Free Book</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-z-flip-5-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy Z Flip 5 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-rcs-messaging-an-insight-into-advanced-chat-functions/"><u>Decoding RCS Messaging: An Insight Into Advanced Chat Functions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-superior-case-options-for-your-raspberry-pi-top-picks/"><u>Discovering Superior Case Options for Your Raspberry Pi - Top Picks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-and-techniques-to-successfully-overcome-bios-whea-faults-on-your-computer/"><u>Expert Tips and Techniques to Successfully Overcome BIOS 'WHEA' Faults on Your Computer</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-samsung-galaxy-tab-a-202ebe594f38f7b9b-spotlight-on-one-missing-element/"><u>Exploring the Samsung Galaxy Tab A (202Ebe594f38f7b9b): Spotlight on One Missing Element</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899078319-fix-slow-internet-resetting-network-parameters-on-your-mac-might-be-the-solution/"><u>Fix Slow Internet? Resetting Network Parameters on Your Mac Might Be the Solution</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-dual-screen-on-apple-devices-via-safari-for-2024/"><u>Harness the Power of Dual Screen on Apple Devices via Safari for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/immersive-escape-games-for-iphoneipad-discover-alternatives-to-the-room-and-myst/"><u>Immersive Escape Games for iPhone/iPad: Discover Alternatives to 'The Room' And 'Myst'</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-youtube-title-creation-the-perfect-formula/"><u>In 2024, Mastering YouTube Title Creation The Perfect Formula</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-bandwidth-top-wired-solutions-for-gamers/"><u>Optimal Bandwidth: Top Wired Solutions For Gamers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sharing-your-favorite-tunes-a-guide-to-using-spotify-with-pals/"><u>Sharing Your Favorite Tunes: A Guide to Using Spotify with Pals</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/152279-9780743222969-tarot-made-easy/"><u>Tarot Made Easy | Free Book</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-10-most-surprising-and-less-known-emoji-truths/"><u>The 10 Most Surprising and Less Known Emoji Truths</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-wireless-standards-exploring-ieees-80211-be-ax-ac-bgn-and-a/"><u>The Ultimate Guide to Wireless Standards: Exploring IEEE's 802.11 Be, Ax, Ac, B/G/N & A</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-8-parent-control-applications-and-solutions-our-best-picks-for-2amo24/"><u>Top 8 Parent Control Applications & Solutions - Our Best Picks for 2Amo24</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforma-gratis-tus-archivos-tiff-a-linea-guia-completa-con-movavi/"><u>Transforma Gratis Tus Archivos TIFF a Línea: Guía Completa Con Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-corrupted-haldll-in-windows-xp-systems/"><u>Troubleshooting Steps for Corrupted Hal.dll in Windows XP Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-harmonizing-iphone-with-the-world-of-podcasts/"><u>[New] 2024 Approved Harmonizing iPhone with the World of Podcasts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-swift-streaming-on-instagram-mobile-and-online-secrets/"><u>[New] 2024 Approved Swift Streaming on Instagram Mobile & Online Secrets</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-melodic-matchmakers-aligning-music-to-visuals-for-2024/"><u>[New] Melodic Matchmakers Aligning Music to Visuals for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-multi-screen-browsing-in-chrome-using-pip/"><u>[New] Seamless Multi-Screen Browsing in Chrome Using PIP</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-symphony-of-screenshots-incorinas-music-into-social-media/"><u>[New] Symphony of Screenshots Incorinas Music Into Social Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-structuring-stimulating-podcast-sneak-peeks/"><u>[Updated] In 2024, Structuring Stimulating Podcast Sneak Peeks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-3-key-copywriting-frameworks-for-social-media-promotion/"><u>2024 Approved Mastering 3 Key Copywriting Frameworks for Social Media Promotion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-solving-error-code-43-in-programming/"><u>Expert Tips on Solving Error Code 43 in Programming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-turning-onoff-windows-11s-on-screen-keyboard/"><u>Guide: Turning On/Off Windows 11'S On-Screen Keyboard</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-common-game-and-graphics-library-dll-errors-microsoft-directx-and-directinput-explained/"><u>Overcoming Common Game and Graphics Library Dll Errors: Microsoft DirectX and DirectInput Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/remedying-not-verified-http-warnings-secure-your-browser-experience/"><u>Remedying 'Not Verified' HTTP Warnings – Secure Your Browser Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-missing-opengl32dll-error-messages/"><u>Step-by-Step Guide: Correcting Missing OpenGL32.dll Error Messages</u></a></li>
+<li><a href="https://win-online.techidaily.com/the-original-question-was-in-french-and-this-title-is-also-provided-in-french/"><u>The Original Question Was in French, and This Title Is Also Provided in French.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-implementing-windows-11-installation-on-a-clean-slate-hard-disk/"><u>The Ultimate Guide: Implementing Windows 11 Installation on a Clean Slate Hard Disk</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-zero-cost-html-editors-for-efficient-coding-in-windows/"><u>Ultimate List of Zero-Cost HTML Editors for Efficient Coding in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-solving-the-windows-code-19xb4d-malfunction/"><u>Understanding and Solving the Windows Code 19Xb4d Malfunction</u></a></li>
 </ul></div>
 

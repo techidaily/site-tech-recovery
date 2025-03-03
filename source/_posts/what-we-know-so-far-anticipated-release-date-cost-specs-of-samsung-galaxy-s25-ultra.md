@@ -1,7 +1,7 @@
 ---
 title: "What We Know So Far: Anticipated Release Date, Cost, Specs of Samsung Galaxy S25 Ultra"
-date: 2024-08-12T04:07:05.722Z
-updated: 2024-08-13T04:07:05.722Z
+date: 2025-02-23T19:21:33.442Z
+updated: 2025-03-03T02:22:49.814Z
 categories:
   - BestProducts
 description: "This Article Describes What We Know So Far: Anticipated Release Date, Cost, Specs of Samsung Galaxy S25 Ultra"
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/64b02260fc2e331299df22a1e999eab91ad890c07
 
  Samsung's next flagship phone is scheduled to arrive early next year. We've collected all the rumors about the Galaxy S25 Ultra so you can decide whether to wait for it or stick with the[latest phone in the Galaxy lineup](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## When Will the Samsung Galaxy S25 Ultra Be Released?
 
  The Galaxy S25 Ultra release date hasn't been revealed yet, but we're watching for it in early 2025\. This is when Samsung typically releases new Galaxy S series phones, so this is essentially already confirmed. It will arrive next to the[S25 and S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) .
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/64b02260fc2e331299df22a1e999eab91ad890c07
 
  The Galaxy S25 Ultra will likely be available in January or February 2025.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Ultra Price Rumors
 
  We hate to say it, but this phone will probably be a little more expensive than the[S24 Ultra](https://www.lifewire.com/samsung-galaxy-s24-ultra-review-8548896) . And that's a bummer because this is the highest-end phone from the set, so it's already priced above the other options.
@@ -52,16 +46,10 @@ thumbnail: https://thmb.techidaily.com/64b02260fc2e331299df22a1e999eab91ad890c07
 
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Samsung Galaxy 25 Ultra pre-orders will start following the phone's announcement at the[Samsung Unpacked](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) event in early 2025\. It should last around two weeks before the phone becomes available. We'll provide the link at that time.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Ultra Features
 
  When a new phone rolls out, one of the main things that gets a makeover is its operating system. The Galaxy S25 Ultra is expected to hit shelves with Android 15 and[One UI](https://www.lifewire.com/what-is-samsung-one-ui-4178405) 7.
@@ -72,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/64b02260fc2e331299df22a1e999eab91ad890c07
 
 [What Is a Large Language Model?](https://www.lifewire.com/large-language-model-7724669)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Samsung Galaxy S25 Ultra Specs and Hardware
 
  A Samsung fan shared some disappointing news about the S25 Ultra on X: it seems it will keep the same battery size and charging speeds as previous Ultra models. If this turns out to be true, it means the phone will still charge at 45W with a wire, 15W wirelessly, and 4.5W reverse wireless charging. And, naturally, it'll stick with the same 5000 mAh battery.
@@ -96,9 +80,6 @@ The ultimate burning program for all your needs!</a>
 
 [Ice Universe suggests the Galaxy S25 Ultra will maintain its 200MP main camera and 50MP 5x camera](https://www.notebookcheck.net/Samsung-Galaxy-S25-Ultra-Upgraded-ultrawide-and-3x-cameras-hinted-by-fresh-leak.841616.0.html) while upgrading the ultrawide and 3x cameras to 50MP each. Upgrading the 3x camera from the current 10MP sensor could enhance low-light performance and hybrid zoom quality.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Latest News About the Samsung Galaxy S25 Ultra
 
  You [get more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more on Android and Samsung.
@@ -115,8 +96,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +103,22 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-how-to-design-an-eye-catching-logo-for-podcasts/"><u>[New] In 2024, How to Design an Eye-Catching Logo for Podcasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ultimate-software-guide-for-video-game-shows-for-2024/"><u>[New] Ultimate Software Guide for Video Game Shows for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-launching-live-recordings-on-hp-computers/"><u>[Updated] In 2024, Launching Live Recordings on HP Computers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-player-guide-to-live-recording/"><u>2024 Approved The Ultimate Player Guide to Live Recording</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-xr-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone XR to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-correcting-error-code-0x80072efd-on-your-windows-11-pc/"><u>Comprehensive Guide to Correcting Error Code 0X80072EFD on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-iphone-models-supporting-ios-18-and-those-that-dont-insights/"><u>Comprehensive Guide: IPhone Models Supporting iOS 18 & Those That Don't - Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionary-new-app-runs-diagnostics-through-smartphone-camera-in-the-bathroom-discover-how/"><u>Revolutionary New App Runs Diagnostics Through Smartphone Camera in the Bathroom - Discover How</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-a-detailed-walkthrough-of-internet-radio-logging-for-2024/"><u>The Ultimate Guide A Detailed Walkthrough of Internet Radio Logging for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-review-station-the-ultimate-guide-to-computing-equipment/"><u>Tom's Review Station: The Ultimate Guide to Computing Equipment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unbelievable-deal-alert-apple-m2-macbook-air-just-dropped-below-900-on-amazon-before-october-prime-day-zdnet/"><u>Unbelievable Deal Alert: Apple M2 MacBook Air Just Dropped Below $900 on Amazon Before October Prime Day - [ZDNet]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncover-the-ultimate-tablet-steals-of-2024-prime-day-exclusive-live-deals/"><u>Uncover the Ultimate Tablet Steals of 2024 Prime Day - Exclusive Live Deals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiled-at-wwdc-2024-top-4-new-ipados-16-upgrades-and-the-ipads-set-to-enjoy-them-techinsider/"><u>Unveiled at WWDC 2024: Top 4 New iPadOS 16 Upgrades and the iPads Set to Enjoy Them | TechInsider</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-updates-explore-how-apples-latest-airpods-pro-and-max-compare-insights-for-tech-enthusiasts-zdnet/"><u>Unveiling the Updates: Explore How Apple's Latest AirPods Pro and Max Compare - Insights for Tech Enthusiasts | ZDNET</u></a></li>
+</ul></div>
 
